@@ -1,7 +1,7 @@
 import { render } from '../shared/dom';
 
 const template = `
-    <div>Hello world!</div>
+    <div>asdasdas world!</div>
 `;
 
 export const App = ({ renderOn, options }) => {
