@@ -7,11 +7,30 @@ class CacheManager {
         return ApiService.getURL(`/static/api/${api}/${params}.json`, '');
     }
 
+    downloadFile(filename: string, text: string) {
+        let element = document.createElement('a');
+        element.setAttribute('href', 'data:text/plain;charset=utf-8,' + encodeURIComponent(text));
+        element.setAttribute('download', filename);
+
+        element.style.display = 'none';
+        document.body.appendChild(element);
+
+        element.click();
+
+        document.body.removeChild(element);
+    }
+
     reportNewCacheEntry(json: object, api: ApiType, params: string) {
+        let filename = this.getCacheFilename(api, params);
+        let path_arr = filename.split('/');
+        let basename = path_arr[path_arr.length - 1];
+
         console.warn(`New cache entry!`, {
-            filename: this.getCacheFilename(api, params),
+            filename,
             content: JSON.stringify(json)
         });
+
+        this.downloadFile(basename, JSON.stringify(json));
     }
 
     async getCache(method: Http, api: ApiType, params: string) {
