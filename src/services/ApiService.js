@@ -6,6 +6,17 @@ class ApiService {
         return process.env.API_BASE_URL + endpoint;
     }
 
+    reportNewCacheEntry(json, endpoint, parameters) {
+        let cache_filename = `/static/api${endpoint}/${serializeQueryParams(
+            parameters
+        )}.json`;
+
+        console.warn(`New cache entry!`, {
+            filename: cache_filename,
+            content: JSON.stringify(json)
+        });
+    }
+
     /**
      * @param {'GET' | 'HEAD' | 'POST' | 'PUT' | 'DELETE' | 'OPTIONS' | 'PATCH'} method request method (GET, POST, OPTIONS, HEAD, ...)
      * @param {string} endpoint ex. `/title/find`
@@ -29,6 +40,9 @@ class ApiService {
                 }
             });
             let json = await resp.json();
+
+            this.reportNewCacheEntry(json, endpoint, parameters);
+
             return json;
         } catch (e) {
             console.error(e);
