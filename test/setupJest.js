@@ -1,1 +1,1 @@
-import 'regenerator-runtime/runtime' //async/await with Parcel
+import 'regenerator-runtime/runtime'; //async/await with Parcel
