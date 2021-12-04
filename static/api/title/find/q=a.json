@@ -1,0 +1,1499 @@
+{
+    "@meta": {
+        "operation": "Search",
+        "requestId": "938ade60-9e37-4fb9-a3fd-e2e0d6d2441b",
+        "serviceTimeMs": 58.858433
+    },
+    "@type": "imdb.api.find.response",
+    "query": "a",
+    "results": [
+        {
+            "id": "/name/nm0004978/",
+            "image": {
+                "height": 1181,
+                "id": "/name/nm0004978/images/rm3122055424",
+                "url": "https://m.media-amazon.com/images/M/MV5BMTQwOTQ5MTI4Nl5BMl5BanBnXkFtZTgwODkwODA3MTE@._V1_.jpg",
+                "width": 800
+            },
+            "legacyNameText": "Grenier, Adrian",
+            "name": "Adrian Grenier",
+            "knownFor": [
+                {
+                    "cast": [
+                        {
+                            "category": "actor",
+                            "characters": [
+                                "Vincent Chase"
+                            ],
+                            "endYear": 2011,
+                            "episodeCount": 96,
+                            "roles": [
+                                {
+                                    "character": "Vincent Chase",
+                                    "characterId": "/character/ch0014182/"
+                                }
+                            ],
+                            "startYear": 2004
+                        }
+                    ],
+                    "summary": {
+                        "category": "actor",
+                        "characters": [
+                            "Vincent Chase"
+                        ],
+                        "displayYear": "2004-2011"
+                    },
+                    "id": "/title/tt0387199/",
+                    "title": "Entourage",
+                    "titleType": "tvSeries",
+                    "year": 2004
+                },
+                {
+                    "cast": [
+                        {
+                            "billing": 6,
+                            "category": "actor",
+                            "characters": [
+                                "Nate"
+                            ],
+                            "roles": [
+                                {
+                                    "character": "Nate",
+                                    "characterId": "/character/ch0009661/"
+                                }
+                            ]
+                        }
+                    ],
+                    "summary": {
+                        "category": "actor",
+                        "characters": [
+                            "Nate"
+                        ],
+                        "displayYear": "2006"
+                    },
+                    "id": "/title/tt0458352/",
+                    "title": "The Devil Wears Prada",
+                    "titleType": "movie",
+                    "year": 2006
+                },
+                {
+                    "cast": [
+                        {
+                            "billing": 2,
+                            "category": "actor",
+                            "characters": [
+                                "Vince"
+                            ],
+                            "roles": [
+                                {
+                                    "character": "Vince",
+                                    "characterId": "/character/ch0014182/"
+                                }
+                            ]
+                        }
+                    ],
+                    "summary": {
+                        "category": "actor",
+                        "characters": [
+                            "Vince"
+                        ],
+                        "displayYear": "2015"
+                    },
+                    "id": "/title/tt1674771/",
+                    "title": "Entourage",
+                    "titleType": "movie",
+                    "year": 2015
+                },
+                {
+                    "cast": [
+                        {
+                            "billing": 2,
+                            "category": "actor",
+                            "characters": [
+                                "Chase Hammond"
+                            ],
+                            "roles": [
+                                {
+                                    "character": "Chase Hammond",
+                                    "characterId": "/character/ch0022078/"
+                                }
+                            ]
+                        }
+                    ],
+                    "summary": {
+                        "category": "actor",
+                        "characters": [
+                            "Chase Hammond"
+                        ],
+                        "displayYear": "1999"
+                    },
+                    "id": "/title/tt0164114/",
+                    "title": "Drive Me Crazy",
+                    "titleType": "movie",
+                    "year": 1999
+                }
+            ]
+        },
+        {
+            "akas": [
+                "3LW",
+                "Adrienne Eliza Bailon",
+                "Adrienne Bailon",
+                "The Cheetah Girls",
+                "Adrienne Eliza"
+            ],
+            "id": "/name/nm1169619/",
+            "image": {
+                "height": 840,
+                "id": "/name/nm1169619/images/rm2147525377",
+                "url": "https://m.media-amazon.com/images/M/MV5BOTJkYTM5MGMtMGUxMS00MWQzLWI1MTctNjQ4ZDVhODJlYTlhXkEyXkFqcGdeQXVyMTA2MDIzMDE5._V1_.jpg",
+                "width": 560
+            },
+            "legacyNameText": "Houghton, Adrienne",
+            "name": "Adrienne Houghton",
+            "knownFor": [
+                {
+                    "cast": [
+                        {
+                            "as": "Adrienne Eliza Bailon",
+                            "billing": 22,
+                            "category": "actress",
+                            "characters": [
+                                "Dominique"
+                            ],
+                            "roles": [
+                                {
+                                    "character": "Dominique",
+                                    "characterId": "/character/ch0393923/"
+                                }
+                            ]
+                        }
+                    ],
+                    "summary": {
+                        "category": "actress",
+                        "characters": [
+                            "Dominique"
+                        ],
+                        "displayYear": "2005"
+                    },
+                    "id": "/title/tt0393162/",
+                    "title": "Coach Carter",
+                    "titleType": "movie",
+                    "year": 2005
+                },
+                {
+                    "cast": [
+                        {
+                            "as": "Adrienne Bailon",
+                            "billing": 31,
+                            "category": "actress",
+                            "characters": [
+                                "Cute Video Couple Girl"
+                            ],
+                            "roles": [
+                                {
+                                    "character": "Cute Video Couple Girl",
+                                    "characterId": "/character/ch0393930/"
+                                }
+                            ]
+                        }
+                    ],
+                    "summary": {
+                        "category": "actress",
+                        "characters": [
+                            "Cute Video Couple Girl"
+                        ],
+                        "displayYear": "2008"
+                    },
+                    "id": "/title/tt1018785/",
+                    "title": "The Sisterhood of the Traveling Pants 2",
+                    "titleType": "movie",
+                    "year": 2008
+                },
+                {
+                    "cast": [
+                        {
+                            "as": "Adrienne Bailon",
+                            "billing": 2,
+                            "category": "actress",
+                            "characters": [
+                                "Chanel"
+                            ],
+                            "roles": [
+                                {
+                                    "character": "Chanel",
+                                    "characterId": "/character/ch0068371/"
+                                }
+                            ]
+                        }
+                    ],
+                    "summary": {
+                        "category": "actress",
+                        "characters": [
+                            "Chanel"
+                        ],
+                        "displayYear": "2003"
+                    },
+                    "id": "/title/tt0338852/",
+                    "title": "The Cheetah Girls",
+                    "titleType": "tvMovie",
+                    "year": 2003
+                },
+                {
+                    "cast": [
+                        {
+                            "as": "Adrienne Bailon",
+                            "billing": 2,
+                            "category": "actress",
+                            "characters": [
+                                "Chanel"
+                            ],
+                            "roles": [
+                                {
+                                    "character": "Chanel",
+                                    "characterId": "/character/ch0068371/"
+                                }
+                            ]
+                        }
+                    ],
+                    "summary": {
+                        "category": "actress",
+                        "characters": [
+                            "Chanel"
+                        ],
+                        "displayYear": "2006"
+                    },
+                    "id": "/title/tt0800318/",
+                    "title": "The Cheetah Girls 2",
+                    "titleType": "tvMovie",
+                    "year": 2006
+                }
+            ]
+        },
+        {
+            "disambiguation": "V",
+            "id": "/title/tt12573312/",
+            "image": {
+                "height": 845,
+                "id": "/title/tt12573312/images/rm2636819201",
+                "url": "https://m.media-amazon.com/images/M/MV5BNmZmYjdmZGEtZTMxMy00MTNiLWEzYjYtYjBjMDQ5ZDNkZDUyXkEyXkFqcGdeQXVyMzQ5Njc3NzU@._V1_.jpg",
+                "width": 640
+            },
+            "title": "A",
+            "titleType": "movie",
+            "principals": [
+                {
+                    "id": "/name/nm2465399/",
+                    "legacyNameText": "Abdusamad, Sabumon",
+                    "name": "Sabumon Abdusamad",
+                    "category": "actor"
+                },
+                {
+                    "id": "/name/nm4265894/",
+                    "legacyNameText": "Forrt, Vinay",
+                    "name": "Vinay Forrt",
+                    "category": "actor"
+                },
+                {
+                    "id": "/name/nm5584853/",
+                    "legacyNameText": "Jose, Chemban Vinod",
+                    "name": "Chemban Vinod Jose",
+                    "category": "actor"
+                }
+            ]
+        },
+        {
+            "akas": [
+                "Alexei Lantsoff"
+            ],
+            "disambiguation": "IV",
+            "id": "/name/nm1759197/",
+            "image": {
+                "height": 640,
+                "id": "/name/nm1759197/images/rm1144056577",
+                "url": "https://m.media-amazon.com/images/M/MV5BZTcyZDIzMmMtNzFmMC00ZmQyLTllMDEtNDgxY2JkN2I4ZGUxXkEyXkFqcGdeQXVyMjg4MzczNjg@._V1_.jpg",
+                "width": 513
+            },
+            "legacyNameText": "Lane, Alex (IV)",
+            "name": "Alex Lane",
+            "knownFor": [
+                {
+                    "crew": [
+                        {
+                            "attr": [
+                                "creator"
+                            ],
+                            "category": "writer",
+                            "freeTextAttributes": [
+                                "2022"
+                            ],
+                            "job": "created by"
+                        },
+                        {
+                            "category": "writer",
+                            "freeTextAttributes": [
+                                "2022"
+                            ],
+                            "job": "written by"
+                        },
+                        {
+                            "category": "producer",
+                            "freeTextAttributes": [
+                                "2022"
+                            ],
+                            "job": "producer"
+                        }
+                    ],
+                    "summary": {
+                        "category": "producer"
+                    },
+                    "id": "/title/tt10706870/",
+                    "title": "Thieves in Law",
+                    "titleType": "tvSeries"
+                },
+                {
+                    "crew": [
+                        {
+                            "category": "writer",
+                            "job": "additional dialogue and scenes"
+                        },
+                        {
+                            "category": "producer",
+                            "job": "producer"
+                        }
+                    ],
+                    "summary": {
+                        "category": "producer"
+                    },
+                    "disambiguation": "IV",
+                    "id": "/title/tt10738810/",
+                    "title": "The Maestro",
+                    "titleType": "movie"
+                },
+                {
+                    "cast": [
+                        {
+                            "category": "actor",
+                            "characters": [
+                                "Bill"
+                            ],
+                            "endYear": 2016,
+                            "episodeCount": 1,
+                            "roles": [
+                                {
+                                    "character": "Bill"
+                                }
+                            ],
+                            "startYear": 2016
+                        }
+                    ],
+                    "summary": {
+                        "category": "actor",
+                        "characters": [
+                            "Bill"
+                        ],
+                        "displayYear": "2016"
+                    },
+                    "id": "/title/tt4367560/",
+                    "title": "A Very Secret Service",
+                    "titleType": "tvSeries",
+                    "year": 2015
+                },
+                {
+                    "cast": [
+                        {
+                            "billing": 1,
+                            "category": "actor",
+                            "characters": [
+                                "Danny"
+                            ],
+                            "roles": [
+                                {
+                                    "character": "Danny"
+                                }
+                            ]
+                        }
+                    ],
+                    "crew": [
+                        {
+                            "category": "director"
+                        },
+                        {
+                            "category": "writer",
+                            "job": "story & screenplay"
+                        },
+                        {
+                            "category": "producer",
+                            "job": "producer"
+                        }
+                    ],
+                    "summary": {
+                        "category": "actor",
+                        "characters": [
+                            "Danny"
+                        ],
+                        "displayYear": "2014"
+                    },
+                    "id": "/title/tt3118694/",
+                    "title": "Dishonestly Yours",
+                    "titleType": "short",
+                    "year": 2014
+                }
+            ]
+        },
+        {
+            "id": "/name/nm4787743/",
+            "image": {
+                "height": 1669,
+                "id": "/name/nm4787743/images/rm2487325697",
+                "url": "https://m.media-amazon.com/images/M/MV5BZmQ1MTIwYzAtNjU4Yi00YjMxLTg2YTItZDU4MWE4YjEwZjQxXkEyXkFqcGdeQXVyMzQxNzMyNw@@._V1_.jpg",
+                "width": 979
+            },
+            "legacyNameText": "Leite, Aluísio",
+            "name": "Aluísio Leite",
+            "knownFor": [
+                {
+                    "crew": [
+                        {
+                            "category": "director"
+                        },
+                        {
+                            "category": "writer",
+                            "job": "screenplay"
+                        },
+                        {
+                            "category": "producer",
+                            "job": "producer"
+                        }
+                    ],
+                    "summary": {
+                        "category": "producer",
+                        "displayYear": "2021"
+                    },
+                    "id": "/title/tt11513472/",
+                    "title": "Family Portrait",
+                    "titleType": "short",
+                    "year": 2021
+                },
+                {
+                    "crew": [
+                        {
+                            "category": "director"
+                        },
+                        {
+                            "category": "writer"
+                        },
+                        {
+                            "category": "producer",
+                            "job": "producer"
+                        }
+                    ],
+                    "summary": {
+                        "category": "producer",
+                        "displayYear": "2017"
+                    },
+                    "id": "/title/tt6227050/",
+                    "title": "Bad Poetry, Cheap Beer",
+                    "titleType": "short",
+                    "year": 2017
+                },
+                {
+                    "crew": [
+                        {
+                            "category": "miscellaneous",
+                            "job": "production assistant"
+                        }
+                    ],
+                    "summary": {
+                        "category": "miscellaneous",
+                        "displayYear": "2008"
+                    },
+                    "id": "/title/tt1326262/",
+                    "title": "Shout It Out!",
+                    "titleType": "movie",
+                    "year": 2008
+                },
+                {
+                    "crew": [
+                        {
+                            "category": "director"
+                        },
+                        {
+                            "category": "writer"
+                        },
+                        {
+                            "category": "producer",
+                            "job": "producer"
+                        }
+                    ],
+                    "summary": {
+                        "category": "producer"
+                    },
+                    "id": "/title/tt11151868/",
+                    "title": "The Golden Gate",
+                    "titleType": "movie"
+                }
+            ]
+        },
+        {
+            "id": "/title/tt0241146/",
+            "image": {
+                "height": 500,
+                "id": "/title/tt0241146/images/rm2174980608",
+                "url": "https://m.media-amazon.com/images/M/MV5BMTU3MzE4MDAyMl5BMl5BanBnXkFtZTcwODYwODIzMQ@@._V1_.jpg",
+                "width": 344
+            },
+            "runningTimeInMinutes": 136,
+            "title": "A",
+            "titleType": "movie",
+            "year": 1998,
+            "principals": [
+                {
+                    "disambiguation": "I",
+                    "id": "/name/nm2315588/",
+                    "legacyNameText": "Araki, Hiroshi (I)",
+                    "name": "Hiroshi Araki",
+                    "category": "self",
+                    "characters": [
+                        "Self"
+                    ],
+                    "roles": [
+                        {
+                            "character": "Self"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "/name/nm1824897/",
+            "image": {
+                "height": 675,
+                "id": "/name/nm1824897/images/rm1692701184",
+                "url": "https://m.media-amazon.com/images/M/MV5BMTk4OTc4NDY2MF5BMl5BanBnXkFtZTcwNDQ1NzEzMQ@@._V1_.jpg",
+                "width": 450
+            },
+            "legacyNameText": "Gair, Angela",
+            "name": "Angela Gair",
+            "knownFor": [
+                {
+                    "cast": [
+                        {
+                            "billing": 3,
+                            "category": "actress",
+                            "characters": [
+                                "Lucy Carter"
+                            ],
+                            "roles": [
+                                {
+                                    "character": "Lucy Carter"
+                                }
+                            ]
+                        }
+                    ],
+                    "summary": {
+                        "category": "actress",
+                        "characters": [
+                            "Lucy Carter"
+                        ],
+                        "displayYear": "2010"
+                    },
+                    "disambiguation": "II",
+                    "id": "/title/tt1328874/",
+                    "title": "Pearl",
+                    "titleType": "movie",
+                    "year": 2010
+                },
+                {
+                    "cast": [
+                        {
+                            "category": "actress",
+                            "characters": [
+                                "Drug Counselor"
+                            ],
+                            "roles": [
+                                {
+                                    "character": "Drug Counselor"
+                                }
+                            ]
+                        }
+                    ],
+                    "summary": {
+                        "category": "actress",
+                        "characters": [
+                            "Drug Counselor"
+                        ],
+                        "displayYear": "2007"
+                    },
+                    "id": "/title/tt1093373/",
+                    "title": "The Last Tomorrow",
+                    "titleType": "movie",
+                    "year": 2007
+                },
+                {
+                    "cast": [
+                        {
+                            "billing": 18,
+                            "category": "actress",
+                            "characters": [
+                                "Senorita Dios De La Venta"
+                            ],
+                            "roles": [
+                                {
+                                    "character": "Senorita Dios De La Venta"
+                                }
+                            ]
+                        }
+                    ],
+                    "summary": {
+                        "category": "actress",
+                        "characters": [
+                            "Senorita Dios De La Venta"
+                        ],
+                        "displayYear": "2009"
+                    },
+                    "id": "/title/tt1277960/",
+                    "title": "The Other Side of Paradise",
+                    "titleType": "movie",
+                    "year": 2009
+                },
+                {
+                    "cast": [
+                        {
+                            "billing": 16,
+                            "category": "actress",
+                            "characters": [
+                                "Dr. Torres"
+                            ],
+                            "roles": [
+                                {
+                                    "character": "Dr. Torres"
+                                }
+                            ]
+                        }
+                    ],
+                    "summary": {
+                        "category": "actress",
+                        "characters": [
+                            "Dr. Torres"
+                        ],
+                        "displayYear": "2007"
+                    },
+                    "id": "/title/tt0892035/",
+                    "title": "Agenda",
+                    "titleType": "movie",
+                    "year": 2007
+                }
+            ]
+        },
+        {
+            "disambiguation": "II",
+            "id": "/title/tt3166734/",
+            "image": {
+                "height": 2100,
+                "id": "/title/tt3166734/images/rm2168403968",
+                "url": "https://m.media-amazon.com/images/M/MV5BM2NkNmRkOTAtNGFmMC00MWRjLWFkNGMtNmEzZjQyNGU4ZDI1L2ltYWdlXkEyXkFqcGdeQXVyMjA2ODE2ODE@._V1_.jpg",
+                "width": 1401
+            },
+            "runningTimeInMinutes": 80,
+            "title": "Alpha",
+            "titleType": "movie",
+            "year": 2014,
+            "principals": [
+                {
+                    "id": "/name/nm2892661/",
+                    "legacyNameText": "Grigoriadou, Serafita",
+                    "name": "Serafita Grigoriadou",
+                    "billing": 1,
+                    "category": "actress",
+                    "characters": [
+                        "Alpha"
+                    ],
+                    "roles": [
+                        {
+                            "character": "Alpha"
+                        }
+                    ]
+                },
+                {
+                    "id": "/name/nm2887046/",
+                    "legacyNameText": "Karakyklas, Tasos",
+                    "name": "Tasos Karakyklas",
+                    "billing": 2,
+                    "category": "actor",
+                    "characters": [
+                        "The Fugitive"
+                    ],
+                    "roles": [
+                        {
+                            "character": "The Fugitive",
+                            "characterId": "/character/ch0580626/"
+                        }
+                    ]
+                },
+                {
+                    "id": "/name/nm5926329/",
+                    "legacyNameText": "Chrysovergi, Evdokia",
+                    "name": "Evdokia Chrysovergi",
+                    "billing": 3,
+                    "category": "actress",
+                    "characters": [
+                        "The Bride"
+                    ],
+                    "roles": [
+                        {
+                            "character": "The Bride"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "/title/tt5797796/",
+            "image": {
+                "height": 398,
+                "id": "/title/tt5797796/images/rm220256257",
+                "url": "https://m.media-amazon.com/images/M/MV5BYzZiZGUxNDItNWZlMy00OTE1LThlZGEtMDU3N2RhNDM3ZGI5XkEyXkFqcGdeQXVyMTAyMzYwNzgw._V1_.jpg",
+                "width": 265
+            },
+            "runningTimeInMinutes": 83,
+            "title": "A",
+            "titleType": "movie",
+            "year": 2017,
+            "principals": [
+                {
+                    "id": "/name/nm3771194/",
+                    "legacyNameText": "Hungtai, Alex Zhang",
+                    "name": "Alex Zhang Hungtai",
+                    "billing": 1,
+                    "category": "actor",
+                    "characters": [
+                        "Konrad"
+                    ],
+                    "roles": [
+                        {
+                            "character": "Konrad"
+                        }
+                    ]
+                },
+                {
+                    "disambiguation": "I",
+                    "id": "/name/nm5707190/",
+                    "legacyNameText": "O'Hara, Alexis (I)",
+                    "name": "Alexis O'Hara",
+                    "billing": 2,
+                    "category": "actor",
+                    "characters": [
+                        "Mother"
+                    ],
+                    "roles": [
+                        {
+                            "character": "Mother"
+                        }
+                    ]
+                },
+                {
+                    "disambiguation": "I",
+                    "id": "/name/nm8208152/",
+                    "legacyNameText": "Lightman, Romy (I)",
+                    "name": "Romy Lightman",
+                    "billing": 3,
+                    "category": "actor",
+                    "characters": [
+                        "Maddy"
+                    ],
+                    "roles": [
+                        {
+                            "character": "Maddy"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "akas": [
+                "2 Unlimited",
+                "Two Unlimited"
+            ],
+            "id": "/name/nm0234526/",
+            "legacyNameText": "Doth, Anita",
+            "name": "Anita Doth",
+            "knownFor": [
+                {
+                    "cast": [
+                        {
+                            "billing": 2,
+                            "category": "actress",
+                            "characters": [
+                                "Anita Doth"
+                            ],
+                            "roles": [
+                                {
+                                    "character": "Anita Doth"
+                                }
+                            ]
+                        }
+                    ],
+                    "summary": {
+                        "category": "actress",
+                        "characters": [
+                            "Anita Doth"
+                        ],
+                        "displayYear": "2011"
+                    },
+                    "id": "/title/tt2125594/",
+                    "title": "Ray & Anita: Nothing 2 Lose",
+                    "titleType": "musicVideo",
+                    "year": 2011
+                },
+                {
+                    "cast": [
+                        {
+                            "category": "actress",
+                            "characters": [
+                                "Anita Doth"
+                            ],
+                            "roles": [
+                                {
+                                    "character": "Anita Doth"
+                                }
+                            ]
+                        }
+                    ],
+                    "crew": [
+                        {
+                            "category": "composer"
+                        }
+                    ],
+                    "summary": {
+                        "category": "actress",
+                        "characters": [
+                            "Anita Doth"
+                        ],
+                        "displayYear": "1993"
+                    },
+                    "id": "/title/tt7068528/",
+                    "title": "2 Unlimited: No Limit",
+                    "titleType": "musicVideo",
+                    "year": 1993
+                },
+                {
+                    "cast": [
+                        {
+                            "category": "actress",
+                            "characters": [
+                                "Anita Doth"
+                            ],
+                            "roles": [
+                                {
+                                    "character": "Anita Doth"
+                                }
+                            ]
+                        }
+                    ],
+                    "summary": {
+                        "category": "actress",
+                        "characters": [
+                            "Anita Doth"
+                        ],
+                        "displayYear": "1994"
+                    },
+                    "id": "/title/tt7068592/",
+                    "title": "2 Unlimited: The Real Thing",
+                    "titleType": "musicVideo",
+                    "year": 1994
+                },
+                {
+                    "cast": [
+                        {
+                            "category": "actress",
+                            "characters": [
+                                "Anita Doth"
+                            ],
+                            "roles": [
+                                {
+                                    "character": "Anita Doth"
+                                }
+                            ]
+                        }
+                    ],
+                    "crew": [
+                        {
+                            "category": "composer"
+                        }
+                    ],
+                    "summary": {
+                        "category": "actress",
+                        "characters": [
+                            "Anita Doth"
+                        ],
+                        "displayYear": "1993"
+                    },
+                    "id": "/title/tt7068540/",
+                    "title": "2 Unlimited: Faces",
+                    "titleType": "musicVideo",
+                    "year": 1993
+                }
+            ]
+        },
+        {
+            "id": "/title/tt1563996/",
+            "image": {
+                "height": 1347,
+                "id": "/title/tt1563996/images/rm2769981184",
+                "url": "https://m.media-amazon.com/images/M/MV5BMTk3MDAwMzcyOF5BMl5BanBnXkFtZTcwOTg5ODMyMw@@._V1_.jpg",
+                "width": 2048
+            },
+            "runningTimeInMinutes": 19,
+            "title": "A",
+            "titleType": "short",
+            "year": 2008,
+            "principals": [
+                {
+                    "id": "/name/nm3727863/",
+                    "legacyNameText": "Shivers, Little",
+                    "name": "Little Shivers",
+                    "attr": [
+                        "voice"
+                    ],
+                    "category": "actor"
+                },
+                {
+                    "id": "/name/nm3742304/",
+                    "legacyNameText": "Tourek, Adam",
+                    "name": "Adam Tourek",
+                    "category": "actor"
+                },
+                {
+                    "disambiguation": "I",
+                    "id": "/name/nm3727934/",
+                    "legacyNameText": "Weir, Joshua (I)",
+                    "name": "Joshua Weir",
+                    "category": "actor"
+                }
+            ]
+        },
+        {
+            "disambiguation": "I",
+            "id": "/title/tt4241140/",
+            "runningTimeInMinutes": 10,
+            "title": "A",
+            "titleType": "short",
+            "year": 2014
+        },
+        {
+            "id": "/title/tt0163508/",
+            "image": {
+                "height": 360,
+                "id": "/title/tt0163508/images/rm306655744",
+                "url": "https://m.media-amazon.com/images/M/MV5BODRmMDk0NzMtZTZjZC00NzJlLWEzYWItYWYzZTlhNWJjMmQwXkEyXkFqcGdeQXVyMDM0MzU2NA@@._V1_.jpg",
+                "width": 480
+            },
+            "runningTimeInMinutes": 10,
+            "title": "A",
+            "titleType": "short",
+            "year": 1965
+        },
+        {
+            "akas": [
+                "A"
+            ],
+            "id": "/name/nm6750666/",
+            "legacyNameText": "Medtlek, Celine",
+            "name": "Celine Medtlek",
+            "knownFor": [
+                {
+                    "cast": [
+                        {
+                            "category": "actress",
+                            "characters": [
+                                "Anna",
+                                "Fridolin",
+                                "Frina"
+                            ],
+                            "endYear": 2008,
+                            "episodeCount": 23,
+                            "roles": [
+                                {
+                                    "character": "Anna",
+                                    "characterId": "/character/ch0498042/"
+                                },
+                                {
+                                    "character": "Fridolin",
+                                    "characterId": "/character/ch0499166/"
+                                },
+                                {
+                                    "character": "Frina"
+                                }
+                            ],
+                            "startYear": 2008
+                        }
+                    ],
+                    "crew": [
+                        {
+                            "category": "director",
+                            "endYear": 2008,
+                            "episodeCount": 22,
+                            "startYear": 2008
+                        },
+                        {
+                            "category": "writer",
+                            "endYear": 2008,
+                            "episodeCount": 23,
+                            "job": "idea",
+                            "startYear": 2008
+                        },
+                        {
+                            "category": "producer",
+                            "endYear": 2008,
+                            "episodeCount": 23,
+                            "job": "producer",
+                            "startYear": 2008
+                        },
+                        {
+                            "category": "composer",
+                            "endYear": 2008,
+                            "episodeCount": 1,
+                            "startYear": 2008
+                        },
+                        {
+                            "category": "cinematographer",
+                            "endYear": 2008,
+                            "episodeCount": 2,
+                            "startYear": 2008
+                        },
+                        {
+                            "category": "set_decorator",
+                            "endYear": 2008,
+                            "episodeCount": 11,
+                            "startYear": 2008
+                        },
+                        {
+                            "category": "special_effects",
+                            "endYear": 2008,
+                            "episodeCount": 2,
+                            "job": "special effects",
+                            "startYear": 2008
+                        },
+                        {
+                            "category": "camera_department",
+                            "endYear": 2008,
+                            "episodeCount": 4,
+                            "job": "camera operator",
+                            "startYear": 2008
+                        },
+                        {
+                            "category": "camera_department",
+                            "endYear": 2008,
+                            "episodeCount": 4,
+                            "job": "assistant camera",
+                            "startYear": 2008
+                        }
+                    ],
+                    "summary": {
+                        "category": "actress",
+                        "characters": [
+                            "Anna",
+                            "Fridolin",
+                            "Frina"
+                        ],
+                        "displayYear": "2008"
+                    },
+                    "id": "/title/tt4307142/",
+                    "title": "Anna's Blödsinn",
+                    "titleType": "tvSeries",
+                    "year": 2008
+                },
+                {
+                    "cast": [
+                        {
+                            "category": "actress",
+                            "characters": [
+                                "Celine Medtlek"
+                            ],
+                            "endYear": 2017,
+                            "episodeCount": 18,
+                            "roles": [
+                                {
+                                    "character": "Celine Medtlek",
+                                    "characterId": "/character/ch0516816/"
+                                }
+                            ],
+                            "startYear": 2016
+                        }
+                    ],
+                    "summary": {
+                        "category": "actress",
+                        "characters": [
+                            "Celine Medtlek"
+                        ],
+                        "displayYear": "2016-2017"
+                    },
+                    "id": "/title/tt4944846/",
+                    "title": "The BrickMotion-Show",
+                    "titleType": "tvSeries",
+                    "year": 2016
+                },
+                {
+                    "cast": [
+                        {
+                            "category": "actress",
+                            "characters": [
+                                "Anna"
+                            ],
+                            "roles": [
+                                {
+                                    "character": "Anna",
+                                    "characterId": "/character/ch0498042/"
+                                }
+                            ]
+                        }
+                    ],
+                    "crew": [
+                        {
+                            "category": "writer",
+                            "job": "idea"
+                        },
+                        {
+                            "category": "producer",
+                            "job": "producer"
+                        }
+                    ],
+                    "summary": {
+                        "category": "actress",
+                        "characters": [
+                            "Anna"
+                        ],
+                        "displayYear": "2009"
+                    },
+                    "id": "/title/tt4316434/",
+                    "title": "Aufregung auf der Weide",
+                    "titleType": "tvShort",
+                    "year": 2009
+                },
+                {
+                    "cast": [
+                        {
+                            "category": "actress",
+                            "characters": [
+                                "Nya"
+                            ],
+                            "endYear": 2015,
+                            "episodeCount": 2,
+                            "roles": [
+                                {
+                                    "character": "Nya",
+                                    "characterId": "/character/ch0476995/"
+                                }
+                            ],
+                            "startYear": 2015
+                        }
+                    ],
+                    "crew": [
+                        {
+                            "category": "writer",
+                            "job": "writer"
+                        }
+                    ],
+                    "summary": {
+                        "category": "actress",
+                        "characters": [
+                            "Nya"
+                        ],
+                        "displayYear": "2015"
+                    },
+                    "id": "/title/tt4247266/",
+                    "title": "EN:The Series",
+                    "titleType": "tvSeries",
+                    "year": 2014
+                }
+            ]
+        },
+        {
+            "id": "/title/tt2111496/",
+            "runningTimeInMinutes": 3,
+            "title": "A",
+            "titleType": "short",
+            "year": 1969
+        },
+        {
+            "disambiguation": "I",
+            "id": "/name/nm10699642/",
+            "legacyNameText": "A (I)",
+            "name": "A",
+            "knownFor": [
+                {
+                    "crew": [
+                        {
+                            "category": "music_department",
+                            "job": "Writer"
+                        }
+                    ],
+                    "summary": {
+                        "category": "music_department",
+                        "displayYear": "2020"
+                    },
+                    "id": "/title/tt12357266/",
+                    "title": "Jo Koy: In His Elements",
+                    "titleType": "tvSpecial",
+                    "year": 2020
+                }
+            ]
+        },
+        {
+            "disambiguation": "I",
+            "id": "/title/tt6083154/",
+            "title": "A",
+            "titleType": "movie",
+            "principals": [
+                {
+                    "id": "/name/nm4528758/",
+                    "legacyNameText": "Larsdotter, Linnea",
+                    "name": "Linnea Larsdotter",
+                    "category": "actress",
+                    "characters": [
+                        "Alice"
+                    ],
+                    "roles": [
+                        {
+                            "character": "Alice"
+                        }
+                    ]
+                },
+                {
+                    "id": "/name/nm3943314/",
+                    "legacyNameText": "Matton, Johan",
+                    "name": "Johan Matton",
+                    "as": "John Matton",
+                    "category": "actor",
+                    "characters": [
+                        "Jessie"
+                    ],
+                    "roles": [
+                        {
+                            "character": "Jessie"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "/name/nm3158256/",
+            "legacyNameText": "Barbay, Adam",
+            "name": "Adam Barbay",
+            "knownFor": [
+                {
+                    "crew": [
+                        {
+                            "category": "camera_department",
+                            "job": "key grip: New York"
+                        }
+                    ],
+                    "summary": {
+                        "category": "camera_department",
+                        "displayYear": "2013"
+                    },
+                    "id": "/title/tt2387433/",
+                    "title": "Dark Skies",
+                    "titleType": "movie",
+                    "year": 2013
+                },
+                {
+                    "crew": [
+                        {
+                            "category": "camera_department",
+                            "job": "grip"
+                        }
+                    ],
+                    "summary": {
+                        "category": "camera_department",
+                        "displayYear": "2013"
+                    },
+                    "id": "/title/tt1311071/",
+                    "title": "Kill Your Darlings",
+                    "titleType": "movie",
+                    "year": 2013
+                },
+                {
+                    "crew": [
+                        {
+                            "category": "art_department",
+                            "job": "construction grip"
+                        }
+                    ],
+                    "summary": {
+                        "category": "art_department",
+                        "displayYear": "2015"
+                    },
+                    "id": "/title/tt3165612/",
+                    "title": "Sleeping with Other People",
+                    "titleType": "movie",
+                    "year": 2015
+                },
+                {
+                    "cast": [
+                        {
+                            "attr": [
+                                "uncredited"
+                            ],
+                            "category": "actor",
+                            "characters": [
+                                "Townsperson"
+                            ],
+                            "roles": [
+                                {
+                                    "character": "Townsperson"
+                                }
+                            ]
+                        }
+                    ],
+                    "crew": [
+                        {
+                            "category": "miscellaneous",
+                            "job": "assistant: producer"
+                        }
+                    ],
+                    "summary": {
+                        "category": "actor",
+                        "characters": [
+                            "Townsperson"
+                        ],
+                        "displayYear": "2009"
+                    },
+                    "id": "/title/tt1290472/",
+                    "title": "Dragon Hunter",
+                    "titleType": "movie",
+                    "year": 2009
+                }
+            ]
+        },
+        {
+            "disambiguation": "III",
+            "id": "/title/tt7300956/",
+            "title": "A",
+            "titleType": "movie"
+        },
+        {
+            "akas": [
+                "Erawat Reungwut",
+                "Pasin Ruengwut"
+            ],
+            "id": "/name/nm0747729/",
+            "legacyNameText": "Ruangvuth, Arawat",
+            "name": "Arawat Ruangvuth",
+            "knownFor": [
+                {
+                    "cast": [
+                        {
+                            "as": "Erawat Reungwut",
+                            "billing": 6,
+                            "category": "actor",
+                            "characters": [
+                                "Phasin"
+                            ],
+                            "roles": [
+                                {
+                                    "character": "Phasin"
+                                }
+                            ]
+                        }
+                    ],
+                    "summary": {
+                        "category": "actor",
+                        "characters": [
+                            "Phasin"
+                        ],
+                        "displayYear": "2004"
+                    },
+                    "id": "/title/tt0470575/",
+                    "title": "Meteor",
+                    "titleType": "movie",
+                    "year": 2004
+                },
+                {
+                    "cast": [
+                        {
+                            "billing": 4,
+                            "category": "actor",
+                            "characters": [
+                                "Police Captain Kumjorn"
+                            ],
+                            "roles": [
+                                {
+                                    "character": "Police Captain Kumjorn"
+                                }
+                            ]
+                        }
+                    ],
+                    "summary": {
+                        "category": "actor",
+                        "characters": [
+                            "Police Captain Kumjorn"
+                        ],
+                        "displayYear": "2000"
+                    },
+                    "id": "/title/tt0269217/",
+                    "title": "Tears of the Black Tiger",
+                    "titleType": "movie",
+                    "year": 2000
+                },
+                {
+                    "cast": [
+                        {
+                            "category": "actor",
+                            "characters": [
+                                "Manas"
+                            ],
+                            "roles": [
+                                {
+                                    "character": "Manas"
+                                }
+                            ]
+                        }
+                    ],
+                    "summary": {
+                        "category": "actor",
+                        "characters": [
+                            "Manas"
+                        ],
+                        "displayYear": "2008"
+                    },
+                    "id": "/title/tt2631810/",
+                    "title": "Deep in the Jungle",
+                    "titleType": "movie",
+                    "year": 2008
+                },
+                {
+                    "cast": [
+                        {
+                            "category": "actor",
+                            "characters": [
+                                "Inspector Prem"
+                            ],
+                            "roles": [
+                                {
+                                    "character": "Inspector Prem"
+                                }
+                            ]
+                        }
+                    ],
+                    "summary": {
+                        "category": "actor",
+                        "characters": [
+                            "Inspector Prem"
+                        ],
+                        "displayYear": "2008"
+                    },
+                    "id": "/title/tt1276963/",
+                    "title": "In the Shadow of Naga",
+                    "titleType": "movie",
+                    "year": 2008
+                }
+            ]
+        }
+    ],
+    "types": [
+        "title",
+        "name"
+    ]
+}
