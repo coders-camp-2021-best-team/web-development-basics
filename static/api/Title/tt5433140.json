@@ -85,9 +85,49 @@
     "metacriticRating": "",
     "ratings": null,
     "wikipedia": null,
-    "posters": null,
-    "images": null,
-    "trailer": null,
+    "posters": {
+        "imDbId": "tt5433140",
+        "title": "Fast & Furious 10",
+        "fullTitle": "Fast & Furious 10 (2023)",
+        "type": "Movie",
+        "year": "2023",
+        "posters": [
+            {
+                "id": "2DyEk84XnbJEdPlGF43crxfdtHH.jpg",
+                "link": "https://imdb-api.com/posters/original/2DyEk84XnbJEdPlGF43crxfdtHH.jpg",
+                "aspectRatio": 0.6756756756756757,
+                "language": "fr",
+                "width": 600,
+                "height": 888
+            }
+        ],
+        "backdrops": [],
+        "errorMessage": ""
+    },
+    "images": {
+        "imDbId": "tt5433140",
+        "title": "Fast & Furious 10",
+        "fullTitle": "Fast & Furious 10 (2023)",
+        "type": "Movie",
+        "year": "2023",
+        "items": [],
+        "errorMessage": ""
+    },
+    "trailer": {
+        "imDbId": "tt5433140",
+        "title": "Fast & Furious 10",
+        "fullTitle": "Fast & Furious 10 (2023)",
+        "type": "Movie",
+        "year": "2023",
+        "videoId": "vi2943402009",
+        "videoTitle": "Everything We Know About &apos;F9&apos;",
+        "videoDescription": "On this IMDbrief we put the pedal to the metal on the Fast Saga and everything you need to know about &apos;F9&apos; (2021).",
+        "thumbnailUrl": "https://m.media-amazon.com/images/M/MV5BMzk5ODI0YjUtN2VkYy00YTgyLTg5NGQtYmE1MzQ4MTVhOTA3XkEyXkFqcGdeQWFsZWxvZw@@._V1_.jpg",
+        "uploadDate": null,
+        "link": "https://www.imdb.com/video/vi2943402009",
+        "linkEmbed": "https://www.imdb.com/video/imdb/vi2943402009/imdb/embed",
+        "errorMessage": ""
+    },
     "boxOffice": {
         "budget": "",
         "openingWeekendUSA": "",
