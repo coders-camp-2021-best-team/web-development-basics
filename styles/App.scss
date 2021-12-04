@@ -1,3 +1,33 @@
-body {
-    font-family: 'Montserrat', sans-serif;
+ @import "./header";
+ @import "./footer";
+ @import "./movie-app";
+
+ html {
+    height: 100%;
+  }
+  html, body {
+    margin: 0;
+    padding: 0;
 }
+  body {
+    font-family: 'Montserrat', sans-serif;
+    background-color: rgb(218, 218, 233);
+    display: grid;
+    min-height: 100%;
+    position: relative;
+
+  }
+  
+  @media screen and (max-width: 500px) {
+    .header-center a {
+      float: none;
+      display: block;
+      text-align: left;
+    }
+    .header-center {
+      float: none;
+    }
+  }
+  
+  
+

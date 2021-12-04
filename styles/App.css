@@ -1,0 +1,111 @@
+#header {
+  background-color: black;
+  color: white;
+  display: inline-block;
+  position: relative;
+  width: 100%;
+  padding: 10px 0px 15px;
+  border: 10px;
+  margin: 0px;
+  -webkit-box-shadow: 5px 5px 10px #332c2c;
+          box-shadow: 5px 5px 10px #332c2c;
+  height: 80px;
+  margin-bottom: 15px;
+  overflow: hidden;
+}
+
+#header h3 {
+  font-size: 40px;
+  font-weight: bold;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+  margin: auto;
+}
+
+#header a {
+  float: left;
+  color: #f0e3e3;
+  text-align: center;
+  padding: 12px;
+  text-decoration: none;
+  font-size: 18px;
+  line-height: 20px;
+  border-radius: 4px;
+}
+
+#header a:hover {
+  background-color: #a08686;
+  color: #161414;
+  font-weight: bold;
+}
+
+#header div {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+}
+
+@media screen and (max-width: 500px) {
+  .header-center a {
+    float: none;
+    display: block;
+    text-align: left;
+  }
+  .header-center {
+    float: none;
+  }
+}
+
+#footer {
+  position: absolute;
+  height: 40px;
+  background: grey;
+  background-color: black;
+  width: 100%;
+  padding: 10px 0px 10px;
+  -webkit-box-shadow: 5px -5px 10px #332c2c;
+          box-shadow: 5px -5px 10px #332c2c;
+  margin-top: 40px;
+  bottom: 0;
+}
+
+#movie-app {
+  padding: 0px 10px 70px;
+}
+
+html {
+  height: 100%;
+}
+
+html, body {
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  font-family: 'Montserrat', sans-serif;
+  background-color: #dadae9;
+  display: -ms-grid;
+  display: grid;
+  min-height: 100%;
+  position: relative;
+}
+
+@media screen and (max-width: 500px) {
+  .header-center a {
+    float: none;
+    display: block;
+    text-align: left;
+  }
+  .header-center {
+    float: none;
+  }
+}
+/*# sourceMappingURL=App.css.map */
