@@ -1,12 +1,8 @@
-import { serializeQueryParams } from '../utils/Utils';
+import { serializeQueryParams } from '../utils';
+import { HttpRequestMethod, HttpRequestParams } from '../interfaces';
 
 class CacheManager {
-    /**
-     * @param {'GET' | 'HEAD' | 'POST' | 'PUT' | 'DELETE' | 'OPTIONS' | 'PATCH'} method request method (GET, POST, OPTIONS, HEAD, ...)
-     * @param {string} endpoint ex. `/title/find`
-     * @param {object} parameters key-value object of query parameters
-     */
-    async getCache(method = 'GET', endpoint, parameters) {
+    async getCache(method: HttpRequestMethod, endpoint: string, parameters: HttpRequestParams) {
         let url = `/static/api/${endpoint}/${serializeQueryParams(
             parameters
         )}.json`;
