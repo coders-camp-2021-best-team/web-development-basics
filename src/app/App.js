@@ -1,5 +1,5 @@
 import { render } from '../shared/dom';
-import apiService from '../services/ApiService';
+import ApiProvider from '../providers/ApiProvider';
 
 const template = `
     <div>Hello world!</div>
@@ -8,10 +8,7 @@ const template = `
 export const App = ({ renderOn }) => {
     render({ on: renderOn, html: template });
 
-    apiService
-        .request('GET', '/title/find', {
-            q: 'Avengers'
-        })
-        .then((v) => console.log(JSON.stringify(v)))
+    ApiProvider.search('Interstellar')
+        .then((v) => console.debug(JSON.stringify(v)))
         .catch(console.error);
 };
