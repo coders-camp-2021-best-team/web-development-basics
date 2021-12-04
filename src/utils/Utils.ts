@@ -1,9 +1,9 @@
+import { HttpRequestParams } from '../interfaces';
+
 /**
  * Source: https://stackoverflow.com/a/1714899/12126676
- * @param {object} params key-value object of query parameters
- * @returns {string}
  */
-const serializeQueryParams = (params) => {
+export const serializeQueryParams = (params: HttpRequestParams) => {
     let str = [];
     for (let p in params) {
         if (params.hasOwnProperty(p)) {
@@ -13,8 +13,4 @@ const serializeQueryParams = (params) => {
         }
     }
     return str.join('&');
-};
-
-module.exports = {
-    serializeQueryParams
 };
