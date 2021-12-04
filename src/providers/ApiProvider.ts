@@ -1,5 +1,5 @@
 import ApiService from '../services/ApiService';
-import { ApiType, Http, SearchData } from '../interfaces';
+import { ApiType, Http, SearchData, TitleData } from '../interfaces';
 
 class ApiProvider {
     search(q: string): Promise<SearchData> {
@@ -18,8 +18,8 @@ class ApiProvider {
         return ApiService.request(Http.GET, ApiType.SearchSeries, q);
     }
 
-    getTitleDetails(id: string) {
-        return ApiService.request(Http.GET, ApiType.Title, id);
+    getTitleDetails(id: string, options: string = 'Posters,Images,Trailer,'): Promise<TitleData> {
+        return ApiService.request(Http.GET, ApiType.Title, id, options);
     }
 }
 

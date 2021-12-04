@@ -1,4 +1,5 @@
 export * from './Search';
+export * from './Title';
 
 export enum ApiType {
     Search = 'Search',
