@@ -1,12 +1,13 @@
 import CacheManager from './CacheManager';
-import { serializeQueryParams } from '../utils/Utils';
+import { HttpRequestMethod, HttpRequestParams } from '../interfaces';
+import { serializeQueryParams } from '../utils';
 
 class ApiService {
-    getURL(endpoint = '/') {
+    getURL(endpoint: string) {
         return process.env.API_BASE_URL + endpoint;
     }
 
-    reportNewCacheEntry(json, endpoint, parameters) {
+    reportNewCacheEntry(json: object, endpoint: string, parameters: HttpRequestParams) {
         let cache_filename = `/static/api${endpoint}/${serializeQueryParams(
             parameters
         )}.json`;
@@ -17,12 +18,7 @@ class ApiService {
         });
     }
 
-    /**
-     * @param {'GET' | 'HEAD' | 'POST' | 'PUT' | 'DELETE' | 'OPTIONS' | 'PATCH'} method request method (GET, POST, OPTIONS, HEAD, ...)
-     * @param {string} endpoint ex. `/title/find`
-     * @param {object} parameters key-value object of query parameters
-     */
-    async callAPI(method = 'GET', endpoint = '/', parameters) {
+    async callAPI(method: HttpRequestMethod, endpoint: string, parameters: HttpRequestParams) {
         let url =
             this.getURL(endpoint) + '?' + serializeQueryParams(parameters);
 
@@ -50,12 +46,7 @@ class ApiService {
         }
     }
 
-    /**
-     * @param {'GET' | 'HEAD' | 'POST' | 'PUT' | 'DELETE' | 'OPTIONS' | 'PATCH'} method request method (GET, POST, OPTIONS, HEAD, ...)
-     * @param {string} endpoint ex. `/title/find`
-     * @param {object} parameters key-value object of query parameters
-     */
-    async request(method = 'GET', endpoint = '/', parameters) {
+    async request(method: HttpRequestMethod, endpoint: string, parameters: HttpRequestParams) {
         let cache_entry = await CacheManager.getCache(
             method,
             endpoint,
