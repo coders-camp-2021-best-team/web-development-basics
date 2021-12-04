@@ -1,7 +1,8 @@
 import ApiService from '../services/ApiService';
+import { Response } from '../interfaces/api/';
 
 class ApiProvider {
-    search(q) {
+    search(q): Promise<Response> {
         return ApiService.request('GET', '/title/find', { q });
     }
 }
