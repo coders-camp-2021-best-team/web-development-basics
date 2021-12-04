@@ -1,0 +1,1500 @@
+{
+    "@meta": {
+        "operation": "Search",
+        "requestId": "308a7a9f-49f8-425e-8f63-ca3ea289a4a1",
+        "serviceTimeMs": 46.430718
+    },
+    "@type": "imdb.api.find.response",
+    "query": "Maze",
+    "results": [
+        {
+            "id": "/title/tt0995031/",
+            "image": {
+                "height": 700,
+                "id": "/title/tt0995031/images/rm1554532864",
+                "url": "https://m.media-amazon.com/images/M/MV5BN2Q1ODU2NzQtMDE4Mi00M2ViLTg5NmItYWNlMzBmMDdjNGY0XkEyXkFqcGdeQXVyODE5NzE3OTE@._V1_.jpg",
+                "width": 473
+            },
+            "runningTimeInMinutes": 159,
+            "title": "Bhool Bhulaiyaa",
+            "titleType": "movie",
+            "year": 2007,
+            "principals": [
+                {
+                    "disambiguation": "I",
+                    "id": "/name/nm0474774/",
+                    "legacyNameText": "Kumar, Akshay (I)",
+                    "name": "Akshay Kumar",
+                    "billing": 1,
+                    "category": "actor",
+                    "characters": [
+                        "Dr. Aditya Shrivastav"
+                    ],
+                    "roles": [
+                        {
+                            "character": "Dr. Aditya Shrivastav",
+                            "characterId": "/character/ch0542713/"
+                        }
+                    ]
+                },
+                {
+                    "id": "/name/nm1799038/",
+                    "legacyNameText": "Balan, Vidya",
+                    "name": "Vidya Balan",
+                    "billing": 2,
+                    "category": "actress",
+                    "characters": [
+                        "Avni Chaturvedi"
+                    ],
+                    "roles": [
+                        {
+                            "character": "Avni Chaturvedi"
+                        }
+                    ]
+                },
+                {
+                    "id": "/name/nm1832004/",
+                    "legacyNameText": "Ahuja, Shiney",
+                    "name": "Shiney Ahuja",
+                    "billing": 3,
+                    "category": "actor",
+                    "characters": [
+                        "Siddharth Chaturvedi"
+                    ],
+                    "roles": [
+                        {
+                            "character": "Siddharth Chaturvedi"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "/title/tt5752606/",
+            "image": {
+                "height": 1600,
+                "id": "/title/tt5752606/images/rm2514706432",
+                "url": "https://m.media-amazon.com/images/M/MV5BN2UwNjUzYTctZmJhMi00Y2U5LWIwMGUtNmYxYzY0NDc5ZDZlXkEyXkFqcGdeQXVyNzg5MzIyOA@@._V1_.jpg",
+                "width": 1080
+            },
+            "runningTimeInMinutes": 92,
+            "title": "Maze",
+            "titleType": "movie",
+            "year": 2017,
+            "principals": [
+                {
+                    "id": "/name/nm2534167/",
+                    "legacyNameText": "Vaughan-Lawlor, Tom",
+                    "name": "Tom Vaughan-Lawlor",
+                    "billing": 1,
+                    "category": "actor",
+                    "characters": [
+                        "Larry Marley"
+                    ],
+                    "roles": [
+                        {
+                            "character": "Larry Marley"
+                        }
+                    ]
+                },
+                {
+                    "disambiguation": "I",
+                    "id": "/name/nm0911395/",
+                    "legacyNameText": "Ward, Barry (I)",
+                    "name": "Barry Ward",
+                    "billing": 2,
+                    "category": "actor",
+                    "characters": [
+                        "Gordon Close"
+                    ],
+                    "roles": [
+                        {
+                            "character": "Gordon Close"
+                        }
+                    ]
+                },
+                {
+                    "disambiguation": "I",
+                    "id": "/name/nm0564901/",
+                    "legacyNameText": "McCann, Martin (I)",
+                    "name": "Martin McCann",
+                    "billing": 3,
+                    "category": "actor",
+                    "characters": [
+                        "Oscar"
+                    ],
+                    "roles": [
+                        {
+                            "character": "Oscar"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "/title/tt0246072/",
+            "image": {
+                "height": 475,
+                "id": "/title/tt0246072/images/rm357146368",
+                "url": "https://m.media-amazon.com/images/M/MV5BMTkwNzE5MTA1NF5BMl5BanBnXkFtZTcwODQ3NzkxMQ@@._V1_.jpg",
+                "width": 246
+            },
+            "runningTimeInMinutes": 97,
+            "title": "Maze",
+            "titleType": "movie",
+            "year": 2000,
+            "principals": [
+                {
+                    "disambiguation": "I",
+                    "id": "/name/nm0001555/",
+                    "legacyNameText": "Morrow, Rob (I)",
+                    "name": "Rob Morrow",
+                    "billing": 1,
+                    "category": "actor",
+                    "characters": [
+                        "Lyle Maze"
+                    ],
+                    "roles": [
+                        {
+                            "character": "Lyle Maze"
+                        }
+                    ]
+                },
+                {
+                    "id": "/name/nm0001473/",
+                    "legacyNameText": "Linney, Laura",
+                    "name": "Laura Linney",
+                    "billing": 2,
+                    "category": "actress",
+                    "characters": [
+                        "Callie"
+                    ],
+                    "roles": [
+                        {
+                            "character": "Callie"
+                        }
+                    ]
+                },
+                {
+                    "id": "/name/nm0001729/",
+                    "legacyNameText": "Sheffer, Craig",
+                    "name": "Craig Sheffer",
+                    "billing": 3,
+                    "category": "actor",
+                    "characters": [
+                        "Mike"
+                    ],
+                    "roles": [
+                        {
+                            "character": "Mike"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "akas": [
+                "Maze"
+            ],
+            "id": "/name/nm0079734/",
+            "image": {
+                "height": 2048,
+                "id": "/name/nm0079734/images/rm3644500480",
+                "url": "https://m.media-amazon.com/images/M/MV5BMjI3MjU2NzQxMF5BMl5BanBnXkFtZTcwOTU3NzcwOA@@._V1_.jpg",
+                "width": 1459
+            },
+            "legacyNameText": "Beverly, Frankie",
+            "name": "Frankie Beverly",
+            "knownFor": [
+                {
+                    "summary": {
+                        "category": "soundtrack",
+                        "displayYear": "2005"
+                    },
+                    "id": "/title/tt0430308/",
+                    "title": "Get Rich or Die Tryin'",
+                    "titleType": "movie",
+                    "year": 2005
+                },
+                {
+                    "summary": {
+                        "category": "soundtrack",
+                        "displayYear": "1978"
+                    },
+                    "id": "/title/tt0179219/",
+                    "title": "The Hitter",
+                    "titleType": "movie",
+                    "year": 1978
+                },
+                {
+                    "summary": {
+                        "category": "soundtrack",
+                        "displayYear": "2008"
+                    },
+                    "id": "/title/tt1047494/",
+                    "title": "Meet the Browns",
+                    "titleType": "movie",
+                    "year": 2008
+                },
+                {
+                    "summary": {
+                        "category": "soundtrack",
+                        "displayYear": "1995"
+                    },
+                    "id": "/title/tt0113967/",
+                    "title": "New Jersey Drive",
+                    "titleType": "movie",
+                    "year": 1995
+                }
+            ]
+        },
+        {
+            "id": "/name/nm4473145/",
+            "image": {
+                "height": 960,
+                "id": "/name/nm4473145/images/rm185516545",
+                "url": "https://m.media-amazon.com/images/M/MV5BYzRkZTE2ZWItYzczZi00OWE0LThiN2ItYTE0ZDlmMGI4YjY1XkEyXkFqcGdeQXVyMTMxNDkxNzA5._V1_.jpg",
+                "width": 720
+            },
+            "legacyNameText": "Singh, Avon",
+            "name": "Avon Singh",
+            "knownFor": [
+                {
+                    "crew": [
+                        {
+                            "category": "producer",
+                            "job": "producer"
+                        }
+                    ],
+                    "summary": {
+                        "category": "producer",
+                        "displayYear": "2009"
+                    },
+                    "id": "/title/tt1942107/",
+                    "title": "The Chameleon",
+                    "titleType": "movie",
+                    "year": 2009
+                },
+                {
+                    "crew": [
+                        {
+                            "category": "producer",
+                            "job": "associate producer"
+                        }
+                    ],
+                    "summary": {
+                        "category": "producer",
+                        "displayYear": "2019"
+                    },
+                    "disambiguation": "I",
+                    "id": "/title/tt8792648/",
+                    "title": "Epiphany",
+                    "titleType": "movie",
+                    "year": 2019
+                },
+                {
+                    "crew": [
+                        {
+                            "category": "producer",
+                            "job": "executive producer"
+                        }
+                    ],
+                    "summary": {
+                        "category": "producer",
+                        "displayYear": "2011"
+                    },
+                    "id": "/title/tt2399624/",
+                    "title": "Tokolosh",
+                    "titleType": "movie",
+                    "year": 2011
+                },
+                {
+                    "cast": [
+                        {
+                            "category": "actor",
+                            "characters": [
+                                "Man with Goggles"
+                            ],
+                            "roles": [
+                                {
+                                    "character": "Man with Goggles"
+                                }
+                            ]
+                        }
+                    ],
+                    "crew": [
+                        {
+                            "category": "writer"
+                        },
+                        {
+                            "category": "producer",
+                            "job": "producer"
+                        }
+                    ],
+                    "summary": {
+                        "category": "producer",
+                        "displayYear": "2018"
+                    },
+                    "disambiguation": "II",
+                    "id": "/title/tt6683070/",
+                    "title": "Thirst",
+                    "titleType": "movie",
+                    "year": 2018
+                }
+            ]
+        },
+        {
+            "disambiguation": "II",
+            "id": "/name/nm6246112/",
+            "legacyNameText": "Maze (II)",
+            "name": "Maze",
+            "knownFor": [
+                {
+                    "crew": [
+                        {
+                            "category": "music_department",
+                            "job": "songs"
+                        }
+                    ],
+                    "summary": {
+                        "category": "music_department",
+                        "displayYear": "2006"
+                    },
+                    "id": "/title/tt2351038/",
+                    "title": "Zombie Warrior",
+                    "titleType": "short",
+                    "year": 2006
+                }
+            ]
+        },
+        {
+            "id": "/title/tt1790864/",
+            "image": {
+                "height": 741,
+                "id": "/title/tt1790864/images/rm3764699904",
+                "url": "https://m.media-amazon.com/images/M/MV5BMjUyNTA3MTAyM15BMl5BanBnXkFtZTgwOTEyMTkyMjE@._V1_.jpg",
+                "width": 500
+            },
+            "runningTimeInMinutes": 113,
+            "title": "The Maze Runner",
+            "titleType": "movie",
+            "year": 2014,
+            "principals": [
+                {
+                    "disambiguation": "II",
+                    "id": "/name/nm3729721/",
+                    "legacyNameText": "O'Brien, Dylan (II)",
+                    "name": "Dylan O'Brien",
+                    "billing": 1,
+                    "category": "actor",
+                    "characters": [
+                        "Thomas"
+                    ],
+                    "roles": [
+                        {
+                            "character": "Thomas",
+                            "characterId": "/character/ch0382350/"
+                        }
+                    ]
+                },
+                {
+                    "id": "/name/nm2546012/",
+                    "legacyNameText": "Scodelario, Kaya",
+                    "name": "Kaya Scodelario",
+                    "billing": 8,
+                    "category": "actress",
+                    "characters": [
+                        "Teresa"
+                    ],
+                    "roles": [
+                        {
+                            "character": "Teresa",
+                            "characterId": "/character/ch0381864/"
+                        }
+                    ]
+                },
+                {
+                    "disambiguation": "I",
+                    "id": "/name/nm2401020/",
+                    "legacyNameText": "Poulter, Will (I)",
+                    "name": "Will Poulter",
+                    "billing": 6,
+                    "category": "actor",
+                    "characters": [
+                        "Gally"
+                    ],
+                    "roles": [
+                        {
+                            "character": "Gally",
+                            "characterId": "/character/ch0375451/"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "/title/tt4500922/",
+            "image": {
+                "height": 1500,
+                "id": "/title/tt4500922/images/rm3841938176",
+                "url": "https://m.media-amazon.com/images/M/MV5BMTYyNzk3MDc2NF5BMl5BanBnXkFtZTgwMDk3OTM1NDM@._V1_.jpg",
+                "width": 1012
+            },
+            "runningTimeInMinutes": 143,
+            "title": "Maze Runner: The Death Cure",
+            "titleType": "movie",
+            "year": 2018,
+            "principals": [
+                {
+                    "disambiguation": "II",
+                    "id": "/name/nm3729721/",
+                    "legacyNameText": "O'Brien, Dylan (II)",
+                    "name": "Dylan O'Brien",
+                    "billing": 1,
+                    "category": "actor",
+                    "characters": [
+                        "Thomas"
+                    ],
+                    "roles": [
+                        {
+                            "character": "Thomas",
+                            "characterId": "/character/ch0382350/"
+                        }
+                    ]
+                },
+                {
+                    "id": "/name/nm3859624/",
+                    "legacyNameText": "Lee, Ki Hong",
+                    "name": "Ki Hong Lee",
+                    "billing": 2,
+                    "category": "actor",
+                    "characters": [
+                        "Minho"
+                    ],
+                    "roles": [
+                        {
+                            "character": "Minho",
+                            "characterId": "/character/ch0382351/"
+                        }
+                    ]
+                },
+                {
+                    "id": "/name/nm2546012/",
+                    "legacyNameText": "Scodelario, Kaya",
+                    "name": "Kaya Scodelario",
+                    "billing": 3,
+                    "category": "actress",
+                    "characters": [
+                        "Teresa"
+                    ],
+                    "roles": [
+                        {
+                            "character": "Teresa",
+                            "characterId": "/character/ch0381864/"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "/title/tt4046784/",
+            "image": {
+                "height": 3000,
+                "id": "/title/tt4046784/images/rm2226648064",
+                "url": "https://m.media-amazon.com/images/M/MV5BMjE3MDU2NzQyMl5BMl5BanBnXkFtZTgwMzQxMDQ3NTE@._V1_.jpg",
+                "width": 2025
+            },
+            "runningTimeInMinutes": 131,
+            "title": "Maze Runner: The Scorch Trials",
+            "titleType": "movie",
+            "year": 2015,
+            "principals": [
+                {
+                    "disambiguation": "II",
+                    "id": "/name/nm3729721/",
+                    "legacyNameText": "O'Brien, Dylan (II)",
+                    "name": "Dylan O'Brien",
+                    "billing": 1,
+                    "category": "actor",
+                    "characters": [
+                        "Thomas"
+                    ],
+                    "roles": [
+                        {
+                            "character": "Thomas",
+                            "characterId": "/character/ch0382350/"
+                        }
+                    ]
+                },
+                {
+                    "id": "/name/nm2546012/",
+                    "legacyNameText": "Scodelario, Kaya",
+                    "name": "Kaya Scodelario",
+                    "billing": 3,
+                    "category": "actress",
+                    "characters": [
+                        "Teresa"
+                    ],
+                    "roles": [
+                        {
+                            "character": "Teresa",
+                            "characterId": "/character/ch0381864/"
+                        }
+                    ]
+                },
+                {
+                    "id": "/name/nm1032473/",
+                    "legacyNameText": "Brodie-Sangster, Thomas",
+                    "name": "Thomas Brodie-Sangster",
+                    "billing": 4,
+                    "category": "actor",
+                    "characters": [
+                        "Newt"
+                    ],
+                    "roles": [
+                        {
+                            "character": "Newt",
+                            "characterId": "/character/ch0375450/"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "/title/tt10297640/",
+            "image": {
+                "height": 1350,
+                "id": "/title/tt10297640/images/rm484016385",
+                "url": "https://m.media-amazon.com/images/M/MV5BY2Q0MmUxZjItOWIyNC00ZDAwLTkxYzItOTZmN2RlN2VhYTFmXkEyXkFqcGdeQXVyNDk3ODk4OQ@@._V1_.jpg",
+                "width": 900
+            },
+            "runningTimeInMinutes": 83,
+            "title": "Amazing Winter Romance",
+            "titleType": "tvMovie",
+            "year": 2020,
+            "principals": [
+                {
+                    "id": "/name/nm1789336/",
+                    "legacyNameText": "Schram, Jessy",
+                    "name": "Jessy Schram",
+                    "billing": 1,
+                    "category": "actress",
+                    "characters": [
+                        "Julia Miller"
+                    ],
+                    "roles": [
+                        {
+                            "character": "Julia Miller"
+                        }
+                    ]
+                },
+                {
+                    "disambiguation": "II",
+                    "id": "/name/nm3246893/",
+                    "legacyNameText": "Williams, Marshall (II)",
+                    "name": "Marshall Williams",
+                    "billing": 2,
+                    "category": "actor",
+                    "characters": [
+                        "Nate Perry"
+                    ],
+                    "roles": [
+                        {
+                            "character": "Nate Perry"
+                        }
+                    ]
+                },
+                {
+                    "id": "/name/nm8624879/",
+                    "legacyNameText": "Fish, Zoe",
+                    "name": "Zoe Fish",
+                    "billing": 3,
+                    "category": "actress",
+                    "characters": [
+                        "Ava"
+                    ],
+                    "roles": [
+                        {
+                            "character": "Ava"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "/title/tt0084314/",
+            "image": {
+                "height": 1800,
+                "id": "/title/tt0084314/images/rm473822209",
+                "url": "https://m.media-amazon.com/images/M/MV5BMzIyZjEzNDgtYjA5ZS00YzRkLTliZmEtMDlkZDNhM2EyMmZjXkEyXkFqcGdeQXVyMTY5Nzc4MDY@._V1_.jpg",
+                "width": 995
+            },
+            "runningTimeInMinutes": 100,
+            "title": "Mazes and Monsters",
+            "titleType": "tvMovie",
+            "year": 1982,
+            "principals": [
+                {
+                    "id": "/name/nm0000158/",
+                    "legacyNameText": "Hanks, Tom",
+                    "name": "Tom Hanks",
+                    "billing": 1,
+                    "category": "actor",
+                    "characters": [
+                        "Robbie Wheeling"
+                    ],
+                    "roles": [
+                        {
+                            "character": "Robbie Wheeling"
+                        }
+                    ]
+                },
+                {
+                    "id": "/name/nm0187724/",
+                    "legacyNameText": "Crewson, Wendy",
+                    "name": "Wendy Crewson",
+                    "billing": 2,
+                    "category": "actress",
+                    "characters": [
+                        "Kate Finch"
+                    ],
+                    "roles": [
+                        {
+                            "character": "Kate Finch"
+                        }
+                    ]
+                },
+                {
+                    "disambiguation": "I",
+                    "id": "/name/nm0908594/",
+                    "legacyNameText": "Wysocki, David (I)",
+                    "name": "David Wysocki",
+                    "as": "David Wallace",
+                    "billing": 3,
+                    "category": "actor",
+                    "characters": [
+                        "Daniel"
+                    ],
+                    "roles": [
+                        {
+                            "character": "Daniel"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "/name/nm7803304/",
+            "legacyNameText": "Vyas, Mazel",
+            "name": "Mazel Vyas",
+            "knownFor": [
+                {
+                    "cast": [
+                        {
+                            "billing": 20,
+                            "category": "actress",
+                            "characters": [
+                                "Roohi"
+                            ],
+                            "roles": [
+                                {
+                                    "character": "Roohi"
+                                }
+                            ]
+                        }
+                    ],
+                    "summary": {
+                        "category": "actress",
+                        "characters": [
+                            "Roohi"
+                        ],
+                        "displayYear": "2016"
+                    },
+                    "disambiguation": "I",
+                    "id": "/title/tt0315642/",
+                    "title": "Wazir",
+                    "titleType": "movie",
+                    "year": 2016
+                },
+                {
+                    "cast": [
+                        {
+                            "billing": 6,
+                            "category": "actress",
+                            "characters": [
+                                "Nimmi Sethi"
+                            ],
+                            "roles": [
+                                {
+                                    "character": "Nimmi Sethi"
+                                }
+                            ]
+                        }
+                    ],
+                    "summary": {
+                        "category": "actress",
+                        "characters": [
+                            "Nimmi Sethi"
+                        ],
+                        "displayYear": "2020"
+                    },
+                    "id": "/title/tt10543680/",
+                    "title": "Ginny Weds Sunny",
+                    "titleType": "movie",
+                    "year": 2020
+                },
+                {
+                    "cast": [
+                        {
+                            "category": "actress",
+                            "characters": [
+                                "Kanika Mehta"
+                            ],
+                            "roles": [
+                                {
+                                    "character": "Kanika Mehta"
+                                }
+                            ]
+                        }
+                    ],
+                    "summary": {
+                        "category": "actress",
+                        "characters": [
+                            "Kanika Mehta"
+                        ],
+                        "displayYear": "2021"
+                    },
+                    "id": "/title/tt11816092/",
+                    "title": "Hum Do Hamare Do",
+                    "titleType": "movie",
+                    "year": 2021
+                },
+                {
+                    "cast": [
+                        {
+                            "category": "actress",
+                            "characters": [
+                                "Arpita Chauhan"
+                            ],
+                            "roles": [
+                                {
+                                    "character": "Arpita Chauhan"
+                                }
+                            ]
+                        }
+                    ],
+                    "summary": {
+                        "category": "actress",
+                        "characters": [
+                            "Arpita Chauhan"
+                        ],
+                        "displayYear": "2016"
+                    },
+                    "id": "/title/tt7933978/",
+                    "title": "Meri Saasu Maa",
+                    "titleType": "tvSeries",
+                    "year": 2016
+                }
+            ]
+        },
+        {
+            "id": "/name/nm10621800/",
+            "image": {
+                "height": 1334,
+                "id": "/name/nm10621800/images/rm1315678465",
+                "url": "https://m.media-amazon.com/images/M/MV5BNzg5NjFmNzEtOGQwMi00NzY2LWIyZGEtZTNmZmM1YTVmMzIwXkEyXkFqcGdeQXVyMTA1ODEyMzAw._V1_.jpg",
+                "width": 750
+            },
+            "legacyNameText": "Shehabi, Mazen",
+            "name": "Mazen Shehabi",
+            "knownFor": [
+                {
+                    "cast": [
+                        {
+                            "category": "actor",
+                            "characters": [
+                                "James"
+                            ],
+                            "roles": [
+                                {
+                                    "character": "James"
+                                }
+                            ]
+                        }
+                    ],
+                    "summary": {
+                        "category": "actor",
+                        "characters": [
+                            "James"
+                        ],
+                        "displayYear": "2019"
+                    },
+                    "id": "/title/tt10167590/",
+                    "title": "The Power of Beauty",
+                    "titleType": "movie",
+                    "year": 2019
+                },
+                {
+                    "cast": [
+                        {
+                            "category": "actor",
+                            "characters": [
+                                "Jonathan"
+                            ],
+                            "roles": [
+                                {
+                                    "character": "Jonathan"
+                                }
+                            ]
+                        }
+                    ],
+                    "summary": {
+                        "category": "actor",
+                        "characters": [
+                            "Jonathan"
+                        ],
+                        "displayYear": "2021"
+                    },
+                    "id": "/title/tt13467676/",
+                    "title": "Hopeless Place",
+                    "titleType": "short",
+                    "year": 2021
+                },
+                {
+                    "cast": [
+                        {
+                            "category": "actor",
+                            "characters": [
+                                "Fireman"
+                            ],
+                            "endYear": 2019,
+                            "episodeCount": 1,
+                            "roles": [
+                                {
+                                    "character": "Fireman"
+                                }
+                            ],
+                            "startYear": 2019
+                        }
+                    ],
+                    "summary": {
+                        "category": "actor",
+                        "characters": [
+                            "Fireman"
+                        ],
+                        "displayYear": "2019"
+                    },
+                    "id": "/title/tt10162082/",
+                    "title": "Accident, Suicide or Murder",
+                    "titleType": "tvSeries",
+                    "year": 2019
+                },
+                {
+                    "cast": [
+                        {
+                            "category": "actor",
+                            "characters": [
+                                "Police Officer"
+                            ],
+                            "endYear": 2019,
+                            "episodeCount": 2,
+                            "roles": [
+                                {
+                                    "character": "Police Officer"
+                                }
+                            ],
+                            "startYear": 2019
+                        }
+                    ],
+                    "summary": {
+                        "category": "actor",
+                        "characters": [
+                            "Police Officer"
+                        ],
+                        "displayYear": "2019"
+                    },
+                    "id": "/title/tt8257674/",
+                    "title": "Buried in the Backyard",
+                    "titleType": "tvSeries",
+                    "year": 2018
+                }
+            ]
+        },
+        {
+            "disambiguation": "I",
+            "id": "/name/nm2925066/",
+            "image": {
+                "height": 1080,
+                "id": "/name/nm2925066/images/rm1754711041",
+                "url": "https://m.media-amazon.com/images/M/MV5BYzQxY2JlYjktOTg2ZC00OWQwLWFmMTMtNmQ0MmVhNmZhNTFiXkEyXkFqcGdeQXVyMTgyMjM1MDM@._V1_.jpg",
+                "width": 1920
+            },
+            "legacyNameText": "Khaled, Mazen (I)",
+            "name": "Mazen Khaled",
+            "knownFor": [
+                {
+                    "crew": [
+                        {
+                            "category": "director"
+                        },
+                        {
+                            "category": "writer",
+                            "job": "writer"
+                        }
+                    ],
+                    "summary": {
+                        "category": "director",
+                        "displayYear": "2017"
+                    },
+                    "id": "/title/tt7385556/",
+                    "title": "Martyr",
+                    "titleType": "movie",
+                    "year": 2017
+                },
+                {
+                    "crew": [
+                        {
+                            "category": "director"
+                        },
+                        {
+                            "category": "writer",
+                            "job": "writer"
+                        }
+                    ],
+                    "summary": {
+                        "category": "director",
+                        "displayYear": "2012"
+                    },
+                    "id": "/title/tt2585524/",
+                    "title": "A Very Dangerous Man",
+                    "titleType": "short",
+                    "year": 2012
+                },
+                {
+                    "crew": [
+                        {
+                            "category": "director"
+                        },
+                        {
+                            "category": "writer",
+                            "job": "written by"
+                        },
+                        {
+                            "category": "producer",
+                            "job": "producer"
+                        },
+                        {
+                            "category": "editor"
+                        }
+                    ],
+                    "summary": {
+                        "category": "director",
+                        "displayYear": "2010"
+                    },
+                    "id": "/title/tt1538884/",
+                    "title": "My Queer Samsara",
+                    "titleType": "short",
+                    "year": 2010
+                },
+                {
+                    "crew": [
+                        {
+                            "category": "director"
+                        },
+                        {
+                            "category": "writer",
+                            "job": "writer"
+                        },
+                        {
+                            "category": "producer",
+                            "job": "producer"
+                        }
+                    ],
+                    "summary": {
+                        "category": "director",
+                        "displayYear": "2016"
+                    },
+                    "id": "/title/tt5712718/",
+                    "title": "A Petty Bourgeois Dream",
+                    "titleType": "movie",
+                    "year": 2016
+                }
+            ]
+        },
+        {
+            "id": "/name/nm0600753/",
+            "image": {
+                "height": 3024,
+                "id": "/name/nm0600753/images/rm1956833281",
+                "url": "https://m.media-amazon.com/images/M/MV5BOWNmOTk5ZWEtMmU2Zi00N2MyLWExYzMtMjk2N2NmMjQwOWQ2XkEyXkFqcGdeQXVyMTY0NzE1NDQ@._V1_.jpg",
+                "width": 4032
+            },
+            "legacyNameText": "Mooney, Mario",
+            "name": "Mario Mooney",
+            "knownFor": [
+                {
+                    "crew": [
+                        {
+                            "category": "sound_department",
+                            "job": "boom operator"
+                        }
+                    ],
+                    "summary": {
+                        "category": "sound_department",
+                        "displayYear": "2011"
+                    },
+                    "id": "/title/tt1422136/",
+                    "title": "A Lonely Place to Die",
+                    "titleType": "movie",
+                    "year": 2011
+                },
+                {
+                    "crew": [
+                        {
+                            "category": "sound_department",
+                            "job": "sound mixer"
+                        }
+                    ],
+                    "summary": {
+                        "category": "sound_department",
+                        "displayYear": "2017"
+                    },
+                    "id": "/title/tt3962984/",
+                    "title": "The Black Prince",
+                    "titleType": "movie",
+                    "year": 2017
+                },
+                {
+                    "crew": [
+                        {
+                            "category": "sound_department",
+                            "job": "sound mixer"
+                        }
+                    ],
+                    "summary": {
+                        "category": "sound_department",
+                        "displayYear": "2014"
+                    },
+                    "id": "/title/tt2360446/",
+                    "title": "The Hooligan Factory",
+                    "titleType": "movie",
+                    "year": 2014
+                },
+                {
+                    "crew": [
+                        {
+                            "category": "sound_department",
+                            "job": "sound mixer"
+                        }
+                    ],
+                    "summary": {
+                        "category": "sound_department",
+                        "displayYear": "2019"
+                    },
+                    "id": "/title/tt4008584/",
+                    "title": "Evolutionary",
+                    "titleType": "movie",
+                    "year": 2019
+                }
+            ]
+        },
+        {
+            "id": "/name/nm11028909/",
+            "image": {
+                "height": 595,
+                "id": "/name/nm11028909/images/rm1721076225",
+                "url": "https://m.media-amazon.com/images/M/MV5BNmZhZjMxNDMtODgxZS00NTI4LWI0MDItZmRkYmM3MzZmZTI1XkEyXkFqcGdeQXVyMTA4MzA1NTE4._V1_.jpg",
+                "width": 472
+            },
+            "legacyNameText": "Fayad, Mazen",
+            "name": "Mazen Fayad",
+            "knownFor": [
+                {
+                    "crew": [
+                        {
+                            "category": "director",
+                            "endYear": 2020,
+                            "episodeCount": 1,
+                            "startYear": 2020
+                        }
+                    ],
+                    "summary": {
+                        "category": "director",
+                        "displayYear": "2020"
+                    },
+                    "id": "/title/tt13676688/",
+                    "title": "Beirut 6:07",
+                    "titleType": "tvMiniSeries",
+                    "year": 2020
+                },
+                {
+                    "crew": [
+                        {
+                            "category": "director"
+                        },
+                        {
+                            "category": "producer",
+                            "job": "producer"
+                        }
+                    ],
+                    "summary": {
+                        "category": "director",
+                        "displayYear": "2019"
+                    },
+                    "id": "/title/tt13081874/",
+                    "title": "Awake",
+                    "titleType": "tvSeries",
+                    "year": 2019
+                }
+            ]
+        },
+        {
+            "akas": [
+                "Keeley Hazel"
+            ],
+            "id": "/name/nm1931742/",
+            "image": {
+                "height": 701,
+                "id": "/name/nm1931742/images/rm177400320",
+                "url": "https://m.media-amazon.com/images/M/MV5BMTk2Njc2MTE0OV5BMl5BanBnXkFtZTcwNTIzODYwNA@@._V1_.jpg",
+                "width": 449
+            },
+            "legacyNameText": "Hazell, Keeley",
+            "name": "Keeley Hazell",
+            "knownFor": [
+                {
+                    "cast": [
+                        {
+                            "billing": 37,
+                            "category": "actress",
+                            "characters": [
+                                "Rex's Assistant"
+                            ],
+                            "roles": [
+                                {
+                                    "character": "Rex's Assistant"
+                                }
+                            ]
+                        }
+                    ],
+                    "summary": {
+                        "category": "actress",
+                        "characters": [
+                            "Rex's Assistant"
+                        ],
+                        "displayYear": "2014"
+                    },
+                    "id": "/title/tt2170439/",
+                    "title": "Horrible Bosses 2",
+                    "titleType": "movie",
+                    "year": 2014
+                },
+                {
+                    "cast": [
+                        {
+                            "billing": 13,
+                            "category": "actress",
+                            "characters": [
+                                "Sabrina"
+                            ],
+                            "roles": [
+                                {
+                                    "character": "Sabrina"
+                                }
+                            ]
+                        }
+                    ],
+                    "summary": {
+                        "category": "actress",
+                        "characters": [
+                            "Sabrina"
+                        ],
+                        "displayYear": "2011"
+                    },
+                    "id": "/title/tt1758692/",
+                    "title": "Like Crazy",
+                    "titleType": "movie",
+                    "year": 2011
+                }
+            ]
+        },
+        {
+            "id": "/title/tt0948470/",
+            "image": {
+                "height": 2048,
+                "id": "/title/tt0948470/images/rm2110040832",
+                "url": "https://m.media-amazon.com/images/M/MV5BMjMyOTM4MDMxNV5BMl5BanBnXkFtZTcwNjIyNzExOA@@._V1_.jpg",
+                "width": 1381
+            },
+            "runningTimeInMinutes": 136,
+            "title": "The Amazing Spider-Man",
+            "titleType": "movie",
+            "year": 2012,
+            "principals": [
+                {
+                    "disambiguation": "I",
+                    "id": "/name/nm1940449/",
+                    "legacyNameText": "Garfield, Andrew (I)",
+                    "name": "Andrew Garfield",
+                    "billing": 1,
+                    "category": "actor",
+                    "characters": [
+                        "Spider-Man",
+                        "Peter Parker"
+                    ],
+                    "roles": [
+                        {
+                            "character": "Spider-Man",
+                            "characterId": "/character/ch0001354/"
+                        },
+                        {
+                            "character": "Peter Parker",
+                            "characterId": "/character/ch0188706/"
+                        }
+                    ]
+                },
+                {
+                    "disambiguation": "III",
+                    "id": "/name/nm1297015/",
+                    "legacyNameText": "Stone, Emma (III)",
+                    "name": "Emma Stone",
+                    "billing": 2,
+                    "category": "actress",
+                    "characters": [
+                        "Gwen Stacy"
+                    ],
+                    "roles": [
+                        {
+                            "character": "Gwen Stacy",
+                            "characterId": "/character/ch0001352/"
+                        }
+                    ]
+                },
+                {
+                    "id": "/name/nm0406975/",
+                    "legacyNameText": "Ifans, Rhys",
+                    "name": "Rhys Ifans",
+                    "billing": 3,
+                    "category": "actor",
+                    "characters": [
+                        "The Lizard",
+                        "Dr. Curt Connors"
+                    ],
+                    "roles": [
+                        {
+                            "character": "The Lizard",
+                            "characterId": "/character/ch0001356/"
+                        },
+                        {
+                            "character": "Dr. Curt Connors",
+                            "characterId": "/character/ch0236047/"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "/title/tt1872181/",
+            "image": {
+                "height": 3000,
+                "id": "/title/tt1872181/images/rm2573584384",
+                "url": "https://m.media-amazon.com/images/M/MV5BOTA5NDYxNTg0OV5BMl5BanBnXkFtZTgwODE5NzU1MTE@._V1_.jpg",
+                "width": 2025
+            },
+            "runningTimeInMinutes": 142,
+            "title": "The Amazing Spider-Man 2",
+            "titleType": "movie",
+            "year": 2014,
+            "principals": [
+                {
+                    "disambiguation": "I",
+                    "id": "/name/nm1940449/",
+                    "legacyNameText": "Garfield, Andrew (I)",
+                    "name": "Andrew Garfield",
+                    "billing": 1,
+                    "category": "actor",
+                    "characters": [
+                        "Spider-Man",
+                        "Peter Parker"
+                    ],
+                    "roles": [
+                        {
+                            "character": "Spider-Man",
+                            "characterId": "/character/ch0001354/"
+                        },
+                        {
+                            "character": "Peter Parker",
+                            "characterId": "/character/ch0188706/"
+                        }
+                    ]
+                },
+                {
+                    "disambiguation": "III",
+                    "id": "/name/nm1297015/",
+                    "legacyNameText": "Stone, Emma (III)",
+                    "name": "Emma Stone",
+                    "billing": 2,
+                    "category": "actress",
+                    "characters": [
+                        "Gwen Stacy"
+                    ],
+                    "roles": [
+                        {
+                            "character": "Gwen Stacy",
+                            "characterId": "/character/ch0001352/"
+                        }
+                    ]
+                },
+                {
+                    "id": "/name/nm0004937/",
+                    "legacyNameText": "Foxx, Jamie",
+                    "name": "Jamie Foxx",
+                    "billing": 3,
+                    "category": "actor",
+                    "characters": [
+                        "Electro",
+                        "Max Dillon"
+                    ],
+                    "roles": [
+                        {
+                            "character": "Electro",
+                            "characterId": "/character/ch0091617/"
+                        },
+                        {
+                            "character": "Max Dillon",
+                            "characterId": "/character/ch0091617/"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "/name/nm10894712/",
+            "image": {
+                "height": 5516,
+                "id": "/name/nm10894712/images/rm2277279233",
+                "url": "https://m.media-amazon.com/images/M/MV5BNDUwZGZlZWEtNzU4NC00NjVmLTgwOGYtMTM3ZGRhM2M5MzRkXkEyXkFqcGdeQXVyMTA2OTQyOTI0._V1_.jpg",
+                "width": 4137
+            },
+            "legacyNameText": "Mazepa, Marina",
+            "name": "Marina Mazepa",
+            "knownFor": [
+                {
+                    "cast": [
+                        {
+                            "billing": 27,
+                            "category": "actress",
+                            "characters": [
+                                "Gabriel (Physical Performer)"
+                            ],
+                            "roles": [
+                                {
+                                    "character": "Gabriel (Physical Performer)"
+                                }
+                            ]
+                        }
+                    ],
+                    "summary": {
+                        "category": "actress",
+                        "characters": [
+                            "Gabriel (Physical Performer)"
+                        ],
+                        "displayYear": "2021"
+                    },
+                    "disambiguation": "I",
+                    "id": "/title/tt3811906/",
+                    "title": "Malignant",
+                    "titleType": "movie",
+                    "year": 2021
+                },
+                {
+                    "cast": [
+                        {
+                            "billing": 10,
+                            "category": "actress",
+                            "characters": [
+                                "Lisa Trevor"
+                            ],
+                            "roles": [
+                                {
+                                    "character": "Lisa Trevor"
+                                }
+                            ]
+                        }
+                    ],
+                    "summary": {
+                        "category": "actress",
+                        "characters": [
+                            "Lisa Trevor"
+                        ],
+                        "displayYear": "2021"
+                    },
+                    "id": "/title/tt6920084/",
+                    "title": "Resident Evil: Welcome to Raccoon City",
+                    "titleType": "movie",
+                    "year": 2021
+                },
+                {
+                    "cast": [
+                        {
+                            "category": "actress",
+                            "characters": [
+                                "The Echo"
+                            ],
+                            "endYear": 2021,
+                            "episodeCount": 4,
+                            "roles": [
+                                {
+                                    "character": "The Echo"
+                                }
+                            ],
+                            "startYear": 2021
+                        }
+                    ],
+                    "summary": {
+                        "category": "actress",
+                        "characters": [
+                            "The Echo"
+                        ],
+                        "displayYear": "2021"
+                    },
+                    "id": "/title/tt14622682/",
+                    "title": "The Girl in the Woods",
+                    "titleType": "tvSeries",
+                    "year": 2021
+                },
+                {
+                    "cast": [
+                        {
+                            "billing": 8,
+                            "category": "actress",
+                            "characters": [
+                                "Mary of Elnor (Entity)"
+                            ],
+                            "roles": [
+                                {
+                                    "character": "Mary of Elnor (Entity)"
+                                }
+                            ]
+                        }
+                    ],
+                    "summary": {
+                        "category": "actress",
+                        "characters": [
+                            "Mary of Elnor (Entity)"
+                        ],
+                        "displayYear": "2021"
+                    },
+                    "id": "/title/tt9419056/",
+                    "title": "The Unholy",
+                    "titleType": "movie",
+                    "year": 2021
+                }
+            ]
+        }
+    ],
+    "types": [
+        "title",
+        "name"
+    ]
+}

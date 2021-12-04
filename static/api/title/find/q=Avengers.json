@@ -1,0 +1,1663 @@
+{
+    "@meta": {
+        "operation": "Search",
+        "requestId": "0e74f5cc-0d83-4b69-9456-5735bc1eeef7",
+        "serviceTimeMs": 277.203789
+    },
+    "@type": "imdb.api.find.response",
+    "query": "Avengers",
+    "results": [
+        {
+            "id": "/title/tt0848228/",
+            "image": {
+                "height": 1184,
+                "id": "/title/tt0848228/images/rm3955117056",
+                "url": "https://m.media-amazon.com/images/M/MV5BNDYxNjQyMjAtNTdiOS00NGYwLWFmNTAtNThmYjU5ZGI2YTI1XkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_.jpg",
+                "width": 800
+            },
+            "runningTimeInMinutes": 143,
+            "title": "The Avengers",
+            "titleType": "movie",
+            "year": 2012,
+            "principals": [
+                {
+                    "id": "/name/nm0000375/",
+                    "legacyNameText": "Downey Jr., Robert",
+                    "name": "Robert Downey Jr.",
+                    "billing": 1,
+                    "category": "actor",
+                    "characters": [
+                        "Tony Stark",
+                        "Iron Man"
+                    ],
+                    "roles": [
+                        {
+                            "character": "Tony Stark",
+                            "characterId": "/character/ch0556868/"
+                        },
+                        {
+                            "character": "Iron Man",
+                            "characterId": "/character/ch0020749/"
+                        }
+                    ]
+                },
+                {
+                    "disambiguation": "V",
+                    "id": "/name/nm0262635/",
+                    "legacyNameText": "Evans, Chris (V)",
+                    "name": "Chris Evans",
+                    "billing": 2,
+                    "category": "actor",
+                    "characters": [
+                        "Steve Rogers",
+                        "Captain America"
+                    ],
+                    "roles": [
+                        {
+                            "character": "Steve Rogers",
+                            "characterId": "/character/ch0565201/"
+                        },
+                        {
+                            "character": "Captain America",
+                            "characterId": "/character/ch0001375/"
+                        }
+                    ]
+                },
+                {
+                    "id": "/name/nm0424060/",
+                    "legacyNameText": "Johansson, Scarlett",
+                    "name": "Scarlett Johansson",
+                    "billing": 5,
+                    "category": "actress",
+                    "characters": [
+                        "Natasha Romanoff",
+                        "Black Widow"
+                    ],
+                    "roles": [
+                        {
+                            "character": "Natasha Romanoff",
+                            "characterId": "/character/ch0183355/"
+                        },
+                        {
+                            "character": "Black Widow",
+                            "characterId": "/character/ch0020745/"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "/title/tt6468680/",
+            "image": {
+                "height": 800,
+                "id": "/title/tt6468680/images/rm2273761537",
+                "url": "https://m.media-amazon.com/images/M/MV5BM2Q5MjY1ZGQtZjY2My00NTg5LWIzZGYtY2E4MzgxYzQ0MjYwXkEyXkFqcGdeQXVyNzEzNjU1NDg@._V1_.jpg",
+                "width": 584
+            },
+            "title": "Marvel's Avengers",
+            "titleType": "videoGame",
+            "year": 2020,
+            "principals": [
+                {
+                    "disambiguation": "I",
+                    "id": "/name/nm5543421/",
+                    "legacyNameText": "Saad, Sandra (I)",
+                    "name": "Sandra Saad",
+                    "attr": [
+                        "voice"
+                    ],
+                    "billing": 1,
+                    "category": "actress",
+                    "characters": [
+                        "Kamala Khan"
+                    ],
+                    "roles": [
+                        {
+                            "character": "Kamala Khan"
+                        }
+                    ]
+                },
+                {
+                    "id": "/name/nm0636046/",
+                    "legacyNameText": "North, Nolan",
+                    "name": "Nolan North",
+                    "attr": [
+                        "voice"
+                    ],
+                    "billing": 2,
+                    "category": "actor",
+                    "characters": [
+                        "Iron Man",
+                        "Tony Stark"
+                    ],
+                    "roles": [
+                        {
+                            "character": "Iron Man"
+                        },
+                        {
+                            "character": "Tony Stark"
+                        }
+                    ]
+                },
+                {
+                    "disambiguation": "II",
+                    "id": "/name/nm1684869/",
+                    "legacyNameText": "Baker, Troy (II)",
+                    "name": "Troy Baker",
+                    "attr": [
+                        "voice"
+                    ],
+                    "billing": 3,
+                    "category": "actor",
+                    "characters": [
+                        "Bruce Banner"
+                    ],
+                    "roles": [
+                        {
+                            "character": "Bruce Banner"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "/title/tt0203247/",
+            "image": {
+                "height": 1130,
+                "id": "/title/tt0203247/images/rm949885184",
+                "url": "https://m.media-amazon.com/images/M/MV5BNDg0MzM1MWQtMDI3ZC00NDY4LTk4MjYtMjdjNDZlNzk3MTY5XkEyXkFqcGdeQXVyNjExODE1MDc@._V1_.jpg",
+                "width": 800
+            },
+            "runningTimeInMinutes": 30,
+            "nextEpisode": "/title/tt0516788/",
+            "numberOfEpisodes": 13,
+            "seriesEndYear": 2000,
+            "seriesStartYear": 1999,
+            "title": "Avengers: United They Stand",
+            "titleType": "tvSeries",
+            "year": 1999,
+            "principals": [
+                {
+                    "disambiguation": "I",
+                    "id": "/name/nm0050563/",
+                    "legacyNameText": "Ballantyne, Linda (I)",
+                    "name": "Linda Ballantyne",
+                    "category": "actress",
+                    "characters": [
+                        "Janet Van Dyne",
+                        "Wasp",
+                        "Reporter"
+                    ],
+                    "endYear": 2000,
+                    "episodeCount": 13,
+                    "roles": [
+                        {
+                            "character": "Janet Van Dyne",
+                            "characterId": "/character/ch0236133/"
+                        },
+                        {
+                            "character": "Wasp",
+                            "characterId": "/character/ch0020746/"
+                        },
+                        {
+                            "character": "Reporter"
+                        }
+                    ],
+                    "startYear": 1999
+                },
+                {
+                    "disambiguation": "I",
+                    "id": "/name/nm0200104/",
+                    "legacyNameText": "Daniels, Tony (I)",
+                    "name": "Tony Daniels",
+                    "category": "actor",
+                    "characters": [
+                        "Clint Barton",
+                        "Hawkeye",
+                        "Aries"
+                    ],
+                    "endYear": 2000,
+                    "episodeCount": 13,
+                    "roles": [
+                        {
+                            "character": "Clint Barton",
+                            "characterId": "/character/ch0245422/"
+                        },
+                        {
+                            "character": "Hawkeye",
+                            "characterId": "/character/ch0036535/"
+                        },
+                        {
+                            "character": "Aries",
+                            "characterId": "/character/ch0041115/"
+                        }
+                    ],
+                    "startYear": 1999
+                },
+                {
+                    "disambiguation": "I",
+                    "id": "/name/nm0747865/",
+                    "legacyNameText": "Rubin, Ron (I)",
+                    "name": "Ron Rubin",
+                    "category": "actor",
+                    "characters": [
+                        "Vision"
+                    ],
+                    "endYear": 2000,
+                    "episodeCount": 13,
+                    "roles": [
+                        {
+                            "character": "Vision",
+                            "characterId": "/character/ch0104488/"
+                        }
+                    ],
+                    "startYear": 1999
+                }
+            ]
+        },
+        {
+            "id": "/name/nm5314227/",
+            "legacyNameText": "Avengers",
+            "name": "Avengers",
+            "knownFor": [
+                {
+                    "crew": [
+                        {
+                            "category": "transportation_department",
+                            "job": "transportation"
+                        }
+                    ],
+                    "summary": {
+                        "category": "transportation_department",
+                        "displayYear": "2011"
+                    },
+                    "id": "/title/tt0409847/",
+                    "title": "Cowboys & Aliens",
+                    "titleType": "movie",
+                    "year": 2011
+                }
+            ]
+        },
+        {
+            "id": "/title/tt4154796/",
+            "image": {
+                "height": 2048,
+                "id": "/title/tt4154796/images/rm2775147008",
+                "url": "https://m.media-amazon.com/images/M/MV5BMTc5MDE2ODcwNV5BMl5BanBnXkFtZTgwMzI2NzQ2NzM@._V1_.jpg",
+                "width": 1382
+            },
+            "runningTimeInMinutes": 181,
+            "title": "Avengers: Endgame",
+            "titleType": "movie",
+            "year": 2019,
+            "principals": [
+                {
+                    "id": "/name/nm0000375/",
+                    "legacyNameText": "Downey Jr., Robert",
+                    "name": "Robert Downey Jr.",
+                    "billing": 1,
+                    "category": "actor",
+                    "characters": [
+                        "Tony Stark",
+                        "Iron Man"
+                    ],
+                    "roles": [
+                        {
+                            "character": "Tony Stark",
+                            "characterId": "/character/ch0556868/"
+                        },
+                        {
+                            "character": "Iron Man",
+                            "characterId": "/character/ch0020749/"
+                        }
+                    ]
+                },
+                {
+                    "disambiguation": "V",
+                    "id": "/name/nm0262635/",
+                    "legacyNameText": "Evans, Chris (V)",
+                    "name": "Chris Evans",
+                    "billing": 2,
+                    "category": "actor",
+                    "characters": [
+                        "Steve Rogers",
+                        "Captain America"
+                    ],
+                    "roles": [
+                        {
+                            "character": "Steve Rogers",
+                            "characterId": "/character/ch0565201/"
+                        },
+                        {
+                            "character": "Captain America",
+                            "characterId": "/character/ch0001375/"
+                        }
+                    ]
+                },
+                {
+                    "id": "/name/nm0749263/",
+                    "legacyNameText": "Ruffalo, Mark",
+                    "name": "Mark Ruffalo",
+                    "billing": 3,
+                    "category": "actor",
+                    "characters": [
+                        "Bruce Banner",
+                        "Hulk"
+                    ],
+                    "roles": [
+                        {
+                            "character": "Bruce Banner"
+                        },
+                        {
+                            "character": "Hulk"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "/title/tt4154756/",
+            "image": {
+                "height": 2048,
+                "id": "/title/tt4154756/images/rm4044245504",
+                "url": "https://m.media-amazon.com/images/M/MV5BMjMxNjY2MDU1OV5BMl5BanBnXkFtZTgwNzY1MTUwNTM@._V1_.jpg",
+                "width": 1382
+            },
+            "runningTimeInMinutes": 149,
+            "title": "Avengers: Infinity War",
+            "titleType": "movie",
+            "year": 2018,
+            "principals": [
+                {
+                    "id": "/name/nm0000375/",
+                    "legacyNameText": "Downey Jr., Robert",
+                    "name": "Robert Downey Jr.",
+                    "billing": 1,
+                    "category": "actor",
+                    "characters": [
+                        "Tony Stark",
+                        "Iron Man"
+                    ],
+                    "roles": [
+                        {
+                            "character": "Tony Stark",
+                            "characterId": "/character/ch0556868/"
+                        },
+                        {
+                            "character": "Iron Man",
+                            "characterId": "/character/ch0020749/"
+                        }
+                    ]
+                },
+                {
+                    "id": "/name/nm1165110/",
+                    "legacyNameText": "Hemsworth, Chris",
+                    "name": "Chris Hemsworth",
+                    "billing": 2,
+                    "category": "actor",
+                    "characters": [
+                        "Thor"
+                    ],
+                    "roles": [
+                        {
+                            "character": "Thor",
+                            "characterId": "/character/ch0560636/"
+                        }
+                    ]
+                },
+                {
+                    "id": "/name/nm0749263/",
+                    "legacyNameText": "Ruffalo, Mark",
+                    "name": "Mark Ruffalo",
+                    "billing": 3,
+                    "category": "actor",
+                    "characters": [
+                        "Bruce Banner",
+                        "Hulk"
+                    ],
+                    "roles": [
+                        {
+                            "character": "Bruce Banner",
+                            "characterId": "/character/ch0188716/"
+                        },
+                        {
+                            "character": "Hulk",
+                            "characterId": "/character/ch0007099/"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "/title/tt2395427/",
+            "image": {
+                "height": 1280,
+                "id": "/title/tt2395427/images/rm4050576640",
+                "url": "https://m.media-amazon.com/images/M/MV5BMTM4OGJmNWMtOTM4Ni00NTE3LTg3MDItZmQxYjc4N2JhNmUxXkEyXkFqcGdeQXVyNTgzMDMzMTg@._V1_.jpg",
+                "width": 864
+            },
+            "runningTimeInMinutes": 141,
+            "title": "Avengers: Age of Ultron",
+            "titleType": "movie",
+            "year": 2015,
+            "principals": [
+                {
+                    "id": "/name/nm0000375/",
+                    "legacyNameText": "Downey Jr., Robert",
+                    "name": "Robert Downey Jr.",
+                    "billing": 1,
+                    "category": "actor",
+                    "characters": [
+                        "Tony Stark",
+                        "Iron Man"
+                    ],
+                    "roles": [
+                        {
+                            "character": "Tony Stark",
+                            "characterId": "/character/ch0556868/"
+                        },
+                        {
+                            "character": "Iron Man",
+                            "characterId": "/character/ch0020749/"
+                        }
+                    ]
+                },
+                {
+                    "disambiguation": "V",
+                    "id": "/name/nm0262635/",
+                    "legacyNameText": "Evans, Chris (V)",
+                    "name": "Chris Evans",
+                    "billing": 4,
+                    "category": "actor",
+                    "characters": [
+                        "Steve Rogers",
+                        "Captain America"
+                    ],
+                    "roles": [
+                        {
+                            "character": "Steve Rogers",
+                            "characterId": "/character/ch0565201/"
+                        },
+                        {
+                            "character": "Captain America",
+                            "characterId": "/character/ch0001375/"
+                        }
+                    ]
+                },
+                {
+                    "id": "/name/nm0749263/",
+                    "legacyNameText": "Ruffalo, Mark",
+                    "name": "Mark Ruffalo",
+                    "billing": 3,
+                    "category": "actor",
+                    "characters": [
+                        "Bruce Banner",
+                        "Hulk"
+                    ],
+                    "roles": [
+                        {
+                            "character": "Bruce Banner",
+                            "characterId": "/character/ch0188716/"
+                        },
+                        {
+                            "character": "Hulk",
+                            "characterId": "/character/ch0007099/"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "/title/tt2455546/",
+            "image": {
+                "height": 2048,
+                "id": "/title/tt2455546/images/rm1971510272",
+                "url": "https://m.media-amazon.com/images/M/MV5BMTY0NTUyMDQwOV5BMl5BanBnXkFtZTgwNjAwMTA0MDE@._V1_.jpg",
+                "width": 1526
+            },
+            "runningTimeInMinutes": 23,
+            "nextEpisode": "/title/tt2473294/",
+            "numberOfEpisodes": 127,
+            "seriesEndYear": 2019,
+            "seriesStartYear": 2012,
+            "title": "Avengers Assemble",
+            "titleType": "tvSeries",
+            "year": 2012,
+            "principals": [
+                {
+                    "id": "/name/nm1886746/",
+                    "legacyNameText": "Smith, Roger Craig",
+                    "name": "Roger Craig Smith",
+                    "category": "actor",
+                    "characters": [
+                        "Captain America",
+                        "Steve Rogers",
+                        "Boy"
+                    ],
+                    "endYear": 2019,
+                    "episodeCount": 107,
+                    "roles": [
+                        {
+                            "character": "Captain America",
+                            "characterId": "/character/ch0001375/"
+                        },
+                        {
+                            "character": "Steve Rogers",
+                            "characterId": "/character/ch0565201/"
+                        },
+                        {
+                            "character": "Boy"
+                        }
+                    ],
+                    "startYear": 2012
+                },
+                {
+                    "disambiguation": "II",
+                    "id": "/name/nm1684869/",
+                    "legacyNameText": "Baker, Troy (II)",
+                    "name": "Troy Baker",
+                    "category": "actor",
+                    "characters": [
+                        "Hawkeye",
+                        "Loki",
+                        "Old Man"
+                    ],
+                    "endYear": 2019,
+                    "episodeCount": 93,
+                    "roles": [
+                        {
+                            "character": "Hawkeye",
+                            "characterId": "/character/ch0036535/"
+                        },
+                        {
+                            "character": "Loki",
+                            "characterId": "/character/ch0039559/"
+                        },
+                        {
+                            "character": "Old Man"
+                        }
+                    ],
+                    "startYear": 2012
+                },
+                {
+                    "id": "/name/nm0851317/",
+                    "legacyNameText": "Tatasciore, Fred",
+                    "name": "Fred Tatasciore",
+                    "category": "actor",
+                    "characters": [
+                        "Hulk",
+                        "Crossbones",
+                        "Black Bolt"
+                    ],
+                    "endYear": 2019,
+                    "episodeCount": 90,
+                    "roles": [
+                        {
+                            "character": "Hulk",
+                            "characterId": "/character/ch0007099/"
+                        },
+                        {
+                            "character": "Crossbones",
+                            "characterId": "/character/ch0351510/"
+                        },
+                        {
+                            "character": "Black Bolt",
+                            "characterId": "/character/ch0508573/"
+                        }
+                    ],
+                    "startYear": 2012
+                }
+            ]
+        },
+        {
+            "id": "/title/tt1626038/",
+            "image": {
+                "height": 1176,
+                "id": "/title/tt1626038/images/rm3791063552",
+                "url": "https://m.media-amazon.com/images/M/MV5BYzA4ZjVhYzctZmI0NC00ZmIxLWFmYTgtOGIxMDYxODhmMGQ2XkEyXkFqcGdeQXVyNjExODE1MDc@._V1_.jpg",
+                "width": 800
+            },
+            "runningTimeInMinutes": 30,
+            "nextEpisode": "/title/tt1729480/",
+            "numberOfEpisodes": 52,
+            "seriesEndYear": 2012,
+            "seriesStartYear": 2010,
+            "title": "The Avengers: Earth's Mightiest Heroes",
+            "titleType": "tvSeries",
+            "year": 2010,
+            "principals": [
+                {
+                    "disambiguation": "I",
+                    "id": "/name/nm0519680/",
+                    "legacyNameText": "Loomis, Eric (I)",
+                    "name": "Eric Loomis",
+                    "category": "actor",
+                    "characters": [
+                        "Iron Man",
+                        "Tony Stark",
+                        "Newspaper Vendor"
+                    ],
+                    "endYear": 2012,
+                    "episodeCount": 42,
+                    "roles": [
+                        {
+                            "character": "Iron Man",
+                            "characterId": "/character/ch0020749/"
+                        },
+                        {
+                            "character": "Tony Stark",
+                            "characterId": "/character/ch0556868/"
+                        },
+                        {
+                            "character": "Newspaper Vendor"
+                        }
+                    ],
+                    "startYear": 2010
+                },
+                {
+                    "id": "/name/nm0642601/",
+                    "legacyNameText": "O'Shaughnessey, Colleen",
+                    "name": "Colleen O'Shaughnessey",
+                    "category": "actress",
+                    "characters": [
+                        "Janet Van Dyne",
+                        "The Wasp",
+                        "Ann Darnell"
+                    ],
+                    "endYear": 2012,
+                    "episodeCount": 38,
+                    "roles": [
+                        {
+                            "character": "Janet Van Dyne",
+                            "characterId": "/character/ch0236133/"
+                        },
+                        {
+                            "character": "The Wasp",
+                            "characterId": "/character/ch0020746/"
+                        },
+                        {
+                            "character": "Ann Darnell",
+                            "characterId": "/character/ch0236457/"
+                        }
+                    ],
+                    "startYear": 2010
+                },
+                {
+                    "disambiguation": "I",
+                    "id": "/name/nm0089141/",
+                    "legacyNameText": "Bloom, Brian (I)",
+                    "name": "Brian Bloom",
+                    "category": "actor",
+                    "characters": [
+                        "Captain America",
+                        "Steve Rogers",
+                        "Pitt'o Nili"
+                    ],
+                    "endYear": 2012,
+                    "episodeCount": 39,
+                    "roles": [
+                        {
+                            "character": "Captain America",
+                            "characterId": "/character/ch0001375/"
+                        },
+                        {
+                            "character": "Steve Rogers",
+                            "characterId": "/character/ch0565201/"
+                        },
+                        {
+                            "character": "Pitt'o Nili"
+                        }
+                    ],
+                    "startYear": 2010
+                }
+            ]
+        },
+        {
+            "id": "/title/tt0054518/",
+            "image": {
+                "height": 582,
+                "id": "/title/tt0054518/images/rm3079787265",
+                "url": "https://m.media-amazon.com/images/M/MV5BZWQwZTdjMDUtNTY1YS00MDI0LWFkNjYtZDA4MDdmZjdlMDRlXkEyXkFqcGdeQXVyNjUwNzk3NDc@._V1_.jpg",
+                "width": 427
+            },
+            "runningTimeInMinutes": 60,
+            "nextEpisode": "/title/tt0516848/",
+            "numberOfEpisodes": 161,
+            "seriesEndYear": 1969,
+            "seriesStartYear": 1961,
+            "title": "The Avengers",
+            "titleType": "tvSeries",
+            "year": 1961,
+            "principals": [
+                {
+                    "id": "/name/nm0001495/",
+                    "legacyNameText": "Macnee, Patrick",
+                    "name": "Patrick Macnee",
+                    "category": "actor",
+                    "characters": [
+                        "John Steed",
+                        "Basil"
+                    ],
+                    "endYear": 1969,
+                    "episodeCount": 161,
+                    "roles": [
+                        {
+                            "character": "John Steed",
+                            "characterId": "/character/ch0012861/"
+                        },
+                        {
+                            "character": "Basil"
+                        }
+                    ],
+                    "startYear": 1961
+                },
+                {
+                    "disambiguation": "I",
+                    "id": "/name/nm0001671/",
+                    "legacyNameText": "Rigg, Diana (I)",
+                    "name": "Diana Rigg",
+                    "category": "actress",
+                    "characters": [
+                        "Emma Peel",
+                        "Lola"
+                    ],
+                    "endYear": 1968,
+                    "episodeCount": 51,
+                    "roles": [
+                        {
+                            "character": "Emma Peel",
+                            "characterId": "/character/ch0012860/"
+                        },
+                        {
+                            "character": "Lola"
+                        }
+                    ],
+                    "startYear": 1965
+                },
+                {
+                    "id": "/name/nm0000303/",
+                    "legacyNameText": "Blackman, Honor",
+                    "name": "Honor Blackman",
+                    "category": "actress",
+                    "characters": [
+                        "Catherine Gale"
+                    ],
+                    "endYear": 1964,
+                    "episodeCount": 43,
+                    "roles": [
+                        {
+                            "character": "Catherine Gale",
+                            "characterId": "/character/ch0012863/"
+                        }
+                    ],
+                    "startYear": 1962
+                }
+            ]
+        },
+        {
+            "id": "/title/tt0118661/",
+            "image": {
+                "height": 742,
+                "id": "/title/tt0118661/images/rm559483392",
+                "url": "https://m.media-amazon.com/images/M/MV5BYWE1NTdjOWQtYTQ2Ny00Nzc5LWExYzMtNmRlOThmOTE2N2I4XkEyXkFqcGdeQXVyNjUwNzk3NDc@._V1_.jpg",
+                "width": 493
+            },
+            "runningTimeInMinutes": 89,
+            "title": "The Avengers",
+            "titleType": "movie",
+            "year": 1998,
+            "principals": [
+                {
+                    "id": "/name/nm0000146/",
+                    "legacyNameText": "Fiennes, Ralph",
+                    "name": "Ralph Fiennes",
+                    "billing": 1,
+                    "category": "actor",
+                    "characters": [
+                        "John Steed"
+                    ],
+                    "roles": [
+                        {
+                            "character": "John Steed",
+                            "characterId": "/character/ch0012861/"
+                        }
+                    ]
+                },
+                {
+                    "id": "/name/nm0000235/",
+                    "legacyNameText": "Thurman, Uma",
+                    "name": "Uma Thurman",
+                    "billing": 2,
+                    "category": "actress",
+                    "characters": [
+                        "Dr. Emma Peel"
+                    ],
+                    "roles": [
+                        {
+                            "character": "Dr. Emma Peel"
+                        }
+                    ]
+                },
+                {
+                    "id": "/name/nm0000125/",
+                    "legacyNameText": "Connery, Sean",
+                    "name": "Sean Connery",
+                    "billing": 3,
+                    "category": "actor",
+                    "characters": [
+                        "Sir August de Wynter"
+                    ],
+                    "roles": [
+                        {
+                            "character": "Sir August de Wynter",
+                            "characterId": "/character/ch0012859/"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "/name/nm0000297/",
+            "image": {
+                "height": 1300,
+                "id": "/name/nm0000297/images/rm1364521472",
+                "url": "https://m.media-amazon.com/images/M/MV5BMTk1OTQ5MzUzM15BMl5BanBnXkFtZTgwMDUxMTY1NDE@._V1_.jpg",
+                "width": 867
+            },
+            "legacyNameText": "Berenger, Tom",
+            "name": "Tom Berenger",
+            "knownFor": [
+                {
+                    "cast": [
+                        {
+                            "billing": 8,
+                            "category": "actor",
+                            "characters": [
+                                "Browning"
+                            ],
+                            "roles": [
+                                {
+                                    "character": "Browning",
+                                    "characterId": "/character/ch0158129/"
+                                }
+                            ]
+                        }
+                    ],
+                    "summary": {
+                        "category": "actor",
+                        "characters": [
+                            "Browning"
+                        ],
+                        "displayYear": "2010"
+                    },
+                    "id": "/title/tt1375666/",
+                    "title": "Inception",
+                    "titleType": "movie",
+                    "year": 2010
+                },
+                {
+                    "cast": [
+                        {
+                            "billing": 14,
+                            "category": "actor",
+                            "characters": [
+                                "Sgt. Barnes"
+                            ],
+                            "roles": [
+                                {
+                                    "character": "Sgt. Barnes",
+                                    "characterId": "/character/ch0213809/"
+                                }
+                            ]
+                        }
+                    ],
+                    "summary": {
+                        "category": "actor",
+                        "characters": [
+                            "Sgt. Barnes"
+                        ],
+                        "displayYear": "1986"
+                    },
+                    "id": "/title/tt0091763/",
+                    "title": "Platoon",
+                    "titleType": "movie",
+                    "year": 1986
+                },
+                {
+                    "cast": [
+                        {
+                            "billing": 1,
+                            "category": "actor",
+                            "characters": [
+                                "Sam"
+                            ],
+                            "roles": [
+                                {
+                                    "character": "Sam",
+                                    "characterId": "/character/ch0016954/"
+                                }
+                            ]
+                        }
+                    ],
+                    "summary": {
+                        "category": "actor",
+                        "characters": [
+                            "Sam"
+                        ],
+                        "displayYear": "1983"
+                    },
+                    "id": "/title/tt0085244/",
+                    "title": "The Big Chill",
+                    "titleType": "movie",
+                    "year": 1983
+                },
+                {
+                    "cast": [
+                        {
+                            "billing": 1,
+                            "category": "actor",
+                            "characters": [
+                                "Jake Taylor"
+                            ],
+                            "roles": [
+                                {
+                                    "character": "Jake Taylor",
+                                    "characterId": "/character/ch0011523/"
+                                }
+                            ]
+                        }
+                    ],
+                    "summary": {
+                        "category": "actor",
+                        "characters": [
+                            "Jake Taylor"
+                        ],
+                        "displayYear": "1989"
+                    },
+                    "id": "/title/tt0097815/",
+                    "title": "Major League",
+                    "titleType": "movie",
+                    "year": 1989
+                }
+            ]
+        },
+        {
+            "id": "/name/nm0828447/",
+            "image": {
+                "height": 280,
+                "id": "/name/nm0828447/images/rm2808782080",
+                "url": "https://m.media-amazon.com/images/M/MV5BMTI3MTk0NDg1M15BMl5BanBnXkFtZTcwNzQ1MTgyMQ@@._V1_.jpg",
+                "width": 200
+            },
+            "legacyNameText": "Stevens, Inger",
+            "name": "Inger Stevens",
+            "knownFor": [
+                {
+                    "cast": [
+                        {
+                            "billing": 2,
+                            "category": "actress",
+                            "characters": [
+                                "Rachel Warren"
+                            ],
+                            "roles": [
+                                {
+                                    "character": "Rachel Warren",
+                                    "characterId": "/character/ch0072329/"
+                                }
+                            ]
+                        }
+                    ],
+                    "summary": {
+                        "category": "actress",
+                        "characters": [
+                            "Rachel Warren"
+                        ],
+                        "displayYear": "1968"
+                    },
+                    "id": "/title/tt0061747/",
+                    "title": "Hang 'Em High",
+                    "titleType": "movie",
+                    "year": 1968
+                },
+                {
+                    "cast": [
+                        {
+                            "billing": 4,
+                            "category": "actress",
+                            "characters": [
+                                "Annette Claiborne"
+                            ],
+                            "roles": [
+                                {
+                                    "character": "Annette Claiborne",
+                                    "characterId": "/character/ch0151312/"
+                                }
+                            ]
+                        }
+                    ],
+                    "summary": {
+                        "category": "actress",
+                        "characters": [
+                            "Annette Claiborne"
+                        ],
+                        "displayYear": "1958"
+                    },
+                    "id": "/title/tt0051436/",
+                    "title": "The Buccaneer",
+                    "titleType": "movie",
+                    "year": 1958
+                },
+                {
+                    "cast": [
+                        {
+                            "category": "actress",
+                            "characters": [
+                                "Katy Holstrum",
+                                "Katy Morley",
+                                "Ann Carpenter"
+                            ],
+                            "endYear": 1966,
+                            "episodeCount": 101,
+                            "roles": [
+                                {
+                                    "character": "Katy Holstrum",
+                                    "characterId": "/character/ch0105997/"
+                                },
+                                {
+                                    "character": "Katy Morley"
+                                },
+                                {
+                                    "character": "Ann Carpenter"
+                                }
+                            ],
+                            "startYear": 1963
+                        }
+                    ],
+                    "summary": {
+                        "category": "actress",
+                        "characters": [
+                            "Katy Holstrum",
+                            "Katy Morley",
+                            "Ann Carpenter"
+                        ],
+                        "displayYear": "1963-1966"
+                    },
+                    "id": "/title/tt0056755/",
+                    "title": "The Farmer's Daughter",
+                    "titleType": "tvSeries",
+                    "year": 1963
+                },
+                {
+                    "cast": [
+                        {
+                            "billing": 2,
+                            "category": "actress",
+                            "characters": [
+                                "Sarah Crandall"
+                            ],
+                            "roles": [
+                                {
+                                    "character": "Sarah Crandall",
+                                    "characterId": "/character/ch0085911/"
+                                }
+                            ]
+                        }
+                    ],
+                    "summary": {
+                        "category": "actress",
+                        "characters": [
+                            "Sarah Crandall"
+                        ],
+                        "displayYear": "1959"
+                    },
+                    "id": "/title/tt0053454/",
+                    "title": "The World, the Flesh and the Devil",
+                    "titleType": "movie",
+                    "year": 1959
+                }
+            ]
+        },
+        {
+            "akas": [
+                "Meredith J. Giagrande",
+                "Meredith Salinger"
+            ],
+            "id": "/name/nm0001694/",
+            "image": {
+                "height": 292,
+                "id": "/name/nm0001694/images/rm3702102528",
+                "url": "https://m.media-amazon.com/images/M/MV5BMTIyMDkyNTk0OF5BMl5BanBnXkFtZTYwODgzNTgy._V1_.jpg",
+                "width": 221
+            },
+            "legacyNameText": "Salenger, Meredith",
+            "name": "Meredith Salenger",
+            "knownFor": [
+                {
+                    "cast": [
+                        {
+                            "billing": 1,
+                            "category": "actress",
+                            "characters": [
+                                "Natty Gann"
+                            ],
+                            "roles": [
+                                {
+                                    "character": "Natty Gann",
+                                    "characterId": "/character/ch0097247/"
+                                }
+                            ]
+                        }
+                    ],
+                    "summary": {
+                        "category": "actress",
+                        "characters": [
+                            "Natty Gann"
+                        ],
+                        "displayYear": "1985"
+                    },
+                    "id": "/title/tt0089385/",
+                    "title": "The Journey of Natty Gann",
+                    "titleType": "movie",
+                    "year": 1985
+                },
+                {
+                    "cast": [
+                        {
+                            "billing": 6,
+                            "category": "actress",
+                            "characters": [
+                                "Lainie Diamond"
+                            ],
+                            "roles": [
+                                {
+                                    "character": "Lainie Diamond"
+                                }
+                            ]
+                        }
+                    ],
+                    "summary": {
+                        "category": "actress",
+                        "characters": [
+                            "Lainie Diamond"
+                        ],
+                        "displayYear": "1989"
+                    },
+                    "id": "/title/tt0097236/",
+                    "title": "Dream a Little Dream",
+                    "titleType": "movie",
+                    "year": 1989
+                },
+                {
+                    "cast": [
+                        {
+                            "billing": 3,
+                            "category": "actress",
+                            "characters": [
+                                "Lisa Bentwright"
+                            ],
+                            "roles": [
+                                {
+                                    "character": "Lisa Bentwright"
+                                }
+                            ]
+                        }
+                    ],
+                    "summary": {
+                        "category": "actress",
+                        "characters": [
+                            "Lisa Bentwright"
+                        ],
+                        "displayYear": "1988"
+                    },
+                    "id": "/title/tt0095736/",
+                    "title": "A Night in the Life of Jimmy Reardon",
+                    "titleType": "movie",
+                    "year": 1988
+                },
+                {
+                    "cast": [
+                        {
+                            "billing": 10,
+                            "category": "actress",
+                            "characters": [
+                                "Deputy Sharon Gare"
+                            ],
+                            "roles": [
+                                {
+                                    "character": "Deputy Sharon Gare",
+                                    "characterId": "/character/ch0075313/"
+                                }
+                            ]
+                        }
+                    ],
+                    "summary": {
+                        "category": "actress",
+                        "characters": [
+                            "Deputy Sharon Gare"
+                        ],
+                        "displayYear": "1999"
+                    },
+                    "id": "/title/tt0139414/",
+                    "title": "Lake Placid",
+                    "titleType": "movie",
+                    "year": 1999
+                }
+            ]
+        },
+        {
+            "akas": [
+                "Stephen Geray",
+                "Steve Geray",
+                "Stephan Gergay",
+                "István Gyergyay",
+                "Gyergyai István",
+                "Gyergyay István"
+            ],
+            "id": "/name/nm0314065/",
+            "image": {
+                "height": 1382,
+                "id": "/name/nm0314065/images/rm519176960",
+                "url": "https://m.media-amazon.com/images/M/MV5BNTFlNGVjYTctYWIwOC00ODM1LTliZTAtN2RhOTI3NzQzNmMzXkEyXkFqcGdeQXVyMzI5NDcxNzI@._V1_.jpg",
+                "width": 1066
+            },
+            "legacyNameText": "Geray, Steven",
+            "name": "Steven Geray",
+            "knownFor": [
+                {
+                    "cast": [
+                        {
+                            "billing": 5,
+                            "category": "actor",
+                            "characters": [
+                                "Uncle Pio"
+                            ],
+                            "roles": [
+                                {
+                                    "character": "Uncle Pio"
+                                }
+                            ]
+                        }
+                    ],
+                    "summary": {
+                        "category": "actor",
+                        "characters": [
+                            "Uncle Pio"
+                        ],
+                        "displayYear": "1946"
+                    },
+                    "id": "/title/tt0038559/",
+                    "title": "Gilda",
+                    "titleType": "movie",
+                    "year": 1946
+                },
+                {
+                    "cast": [
+                        {
+                            "billing": 11,
+                            "category": "actor",
+                            "characters": [
+                                "Paul"
+                            ],
+                            "roles": [
+                                {
+                                    "character": "Paul",
+                                    "characterId": "/character/ch0392987/"
+                                }
+                            ]
+                        }
+                    ],
+                    "summary": {
+                        "category": "actor",
+                        "characters": [
+                            "Paul"
+                        ],
+                        "displayYear": "1950"
+                    },
+                    "id": "/title/tt0042593/",
+                    "title": "In a Lonely Place",
+                    "titleType": "movie",
+                    "year": 1950
+                },
+                {
+                    "cast": [
+                        {
+                            "billing": 11,
+                            "category": "actor",
+                            "characters": [
+                                "Hotel Manager"
+                            ],
+                            "roles": [
+                                {
+                                    "character": "Hotel Manager"
+                                }
+                            ]
+                        }
+                    ],
+                    "summary": {
+                        "category": "actor",
+                        "characters": [
+                            "Hotel Manager"
+                        ],
+                        "displayYear": "1953"
+                    },
+                    "id": "/title/tt0045810/",
+                    "title": "Gentlemen Prefer Blondes",
+                    "titleType": "movie",
+                    "year": 1953
+                },
+                {
+                    "cast": [
+                        {
+                            "billing": 9,
+                            "category": "actor",
+                            "characters": [
+                                "Dr. Graff"
+                            ],
+                            "roles": [
+                                {
+                                    "character": "Dr. Graff",
+                                    "characterId": "/character/ch0397451/"
+                                }
+                            ]
+                        }
+                    ],
+                    "summary": {
+                        "category": "actor",
+                        "characters": [
+                            "Dr. Graff"
+                        ],
+                        "displayYear": "1945"
+                    },
+                    "id": "/title/tt0038109/",
+                    "title": "Spellbound",
+                    "titleType": "movie",
+                    "year": 1945
+                }
+            ]
+        },
+        {
+            "akas": [
+                "Steve Gersh"
+            ],
+            "id": "/name/nm2338340/",
+            "legacyNameText": "Gersh, Steven",
+            "name": "Steven Gersh",
+            "knownFor": [
+                {
+                    "crew": [
+                        {
+                            "category": "producer",
+                            "job": "executive producer"
+                        }
+                    ],
+                    "summary": {
+                        "category": "producer",
+                        "displayYear": "2007"
+                    },
+                    "id": "/title/tt0834939/",
+                    "title": "Palo Alto, CA",
+                    "titleType": "movie",
+                    "year": 2007
+                }
+            ]
+        },
+        {
+            "id": "/name/nm1657855/",
+            "image": {
+                "height": 2048,
+                "id": "/name/nm1657855/images/rm2663559680",
+                "url": "https://m.media-amazon.com/images/M/MV5BMjI3MDgxMzE2MV5BMl5BanBnXkFtZTcwNTM0NTI5Ng@@._V1_.jpg",
+                "width": 1501
+            },
+            "legacyNameText": "Mengers, Sue",
+            "name": "Sue Mengers",
+            "knownFor": [
+                {
+                    "cast": [
+                        {
+                            "category": "self",
+                            "characters": [
+                                "Self - Talent Agent (segment \"Mengers' the Name, Hollywood's the Game\")"
+                            ],
+                            "endYear": 1975,
+                            "episodeCount": 1,
+                            "roles": [
+                                {
+                                    "character": "Self - Talent Agent (segment \"Mengers' the Name, Hollywood's the Game\")"
+                                }
+                            ],
+                            "startYear": 1975
+                        }
+                    ],
+                    "summary": {
+                        "category": "self",
+                        "characters": [
+                            "Self - Talent Agent (segment \"Mengers' the Name, Hollywood's the Game\")"
+                        ],
+                        "displayYear": "1975"
+                    },
+                    "id": "/title/tt0123338/",
+                    "title": "60 Minutes",
+                    "titleType": "tvSeries",
+                    "year": 1968
+                }
+            ]
+        },
+        {
+            "id": "/name/nm2457426/",
+            "image": {
+                "height": 2000,
+                "id": "/name/nm2457426/images/rm1084258304",
+                "url": "https://m.media-amazon.com/images/M/MV5BODI4OWVlYjgtOTlkYS00ZGM2LWE3M2UtN2ZkZTc4MzAxMTIxXkEyXkFqcGdeQXVyMjUyNDk2ODc@._V1_.jpg",
+                "width": 3000
+            },
+            "legacyNameText": "Avenged Sevenfold",
+            "name": "Avenged Sevenfold",
+            "knownFor": [
+                {
+                    "summary": {
+                        "category": "soundtrack",
+                        "displayYear": "2006"
+                    },
+                    "id": "/title/tt0421729/",
+                    "title": "Big Momma's House 2",
+                    "titleType": "movie",
+                    "year": 2006
+                },
+                {
+                    "cast": [
+                        {
+                            "billing": 1,
+                            "category": "actor",
+                            "characters": [
+                                "Avenged Sevenfold"
+                            ],
+                            "roles": [
+                                {
+                                    "character": "Avenged Sevenfold"
+                                }
+                            ]
+                        }
+                    ],
+                    "crew": [
+                        {
+                            "category": "composer"
+                        }
+                    ],
+                    "summary": {
+                        "category": "actor",
+                        "characters": [
+                            "Avenged Sevenfold"
+                        ],
+                        "displayYear": "2005"
+                    },
+                    "id": "/title/tt8215920/",
+                    "title": "Avenged Sevenfold: Bat Country",
+                    "titleType": "musicVideo",
+                    "year": 2005
+                },
+                {
+                    "summary": {
+                        "category": "soundtrack"
+                    },
+                    "id": "/title/tt0460627/",
+                    "title": "Bones",
+                    "titleType": "tvSeries",
+                    "year": 2005
+                },
+                {
+                    "summary": {
+                        "category": "soundtrack",
+                        "displayYear": "2012"
+                    },
+                    "id": "/title/tt2387409/",
+                    "title": "Call of Duty: Black Ops II",
+                    "titleType": "videoGame",
+                    "year": 2012
+                }
+            ]
+        },
+        {
+            "id": "/title/tt13196080/",
+            "image": {
+                "height": 600,
+                "id": "/title/tt13196080/images/rm3606626817",
+                "url": "https://m.media-amazon.com/images/M/MV5BNTVkMzRlYmMtYzc1Ny00YTQ5LWI5ZTAtNTk3YmYxOWYwZGVlXkEyXkFqcGdeQXVyOTc4OTAwMjU@._V1_.jpg",
+                "width": 422
+            },
+            "runningTimeInMinutes": 24,
+            "nextEpisode": "/title/tt13655274/",
+            "numberOfEpisodes": 25,
+            "seriesStartYear": 2021,
+            "title": "Tokyo Revengers",
+            "titleType": "tvSeries",
+            "year": 2021,
+            "principals": [
+                {
+                    "id": "/name/nm8427541/",
+                    "legacyNameText": "Puatu, Griffin",
+                    "name": "Griffin Puatu",
+                    "category": "actor",
+                    "characters": [
+                        "Naoto Tachibana"
+                    ],
+                    "endYear": 2021,
+                    "episodeCount": 24,
+                    "roles": [
+                        {
+                            "character": "Naoto Tachibana"
+                        }
+                    ],
+                    "startYear": 2021
+                },
+                {
+                    "disambiguation": "I",
+                    "id": "/name/nm1394523/",
+                    "legacyNameText": "O'Hare, Darren (I)",
+                    "name": "Darren O'Hare",
+                    "category": "actor",
+                    "characters": [
+                        "Makoto Suzuki"
+                    ],
+                    "endYear": 2021,
+                    "episodeCount": 24,
+                    "roles": [
+                        {
+                            "character": "Makoto Suzuki"
+                        }
+                    ],
+                    "startYear": 2021
+                },
+                {
+                    "id": "/name/nm2134328/",
+                    "legacyNameText": "Suzuki, Tatsuhisa",
+                    "name": "Tatsuhisa Suzuki",
+                    "category": "actor",
+                    "characters": [
+                        "Ken Ryuguji"
+                    ],
+                    "endYear": 2021,
+                    "episodeCount": 12,
+                    "roles": [
+                        {
+                            "character": "Ken Ryuguji"
+                        }
+                    ],
+                    "startYear": 2021
+                }
+            ]
+        },
+        {
+            "disambiguation": "I",
+            "id": "/title/tt1355644/",
+            "image": {
+                "height": 3000,
+                "id": "/title/tt1355644/images/rm1547656192",
+                "url": "https://m.media-amazon.com/images/M/MV5BZjk4ZTMwMTYtOTk1NC00OTA0LWFhMGYtZTBjMzViMDY2YWZjXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_.jpg",
+                "width": 2025
+            },
+            "runningTimeInMinutes": 116,
+            "title": "Passengers",
+            "titleType": "movie",
+            "year": 2016,
+            "principals": [
+                {
+                    "disambiguation": "III",
+                    "id": "/name/nm2225369/",
+                    "legacyNameText": "Lawrence, Jennifer (III)",
+                    "name": "Jennifer Lawrence",
+                    "billing": 1,
+                    "category": "actress",
+                    "characters": [
+                        "Aurora Lane"
+                    ],
+                    "roles": [
+                        {
+                            "character": "Aurora Lane",
+                            "characterId": "/character/ch0513154/"
+                        }
+                    ]
+                },
+                {
+                    "disambiguation": "I",
+                    "id": "/name/nm0695435/",
+                    "legacyNameText": "Pratt, Chris (I)",
+                    "name": "Chris Pratt",
+                    "billing": 2,
+                    "category": "actor",
+                    "characters": [
+                        "Jim Preston"
+                    ],
+                    "roles": [
+                        {
+                            "character": "Jim Preston",
+                            "characterId": "/character/ch0513403/"
+                        }
+                    ]
+                },
+                {
+                    "disambiguation": "I",
+                    "id": "/name/nm0790688/",
+                    "legacyNameText": "Sheen, Michael (I)",
+                    "name": "Michael Sheen",
+                    "billing": 3,
+                    "category": "actor",
+                    "characters": [
+                        "Arthur"
+                    ],
+                    "roles": [
+                        {
+                            "character": "Arthur",
+                            "characterId": "/character/ch0556499/"
+                        }
+                    ]
+                }
+            ]
+        }
+    ],
+    "types": [
+        "title",
+        "name"
+    ]
+}
