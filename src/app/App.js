@@ -8,7 +8,7 @@ const template = `
 export const App = ({ renderOn }) => {
     render({ on: renderOn, html: template });
 
-    ApiProvider.search('Interstellar')
-        .then((v) => console.debug(JSON.stringify(v)))
+    ApiProvider.search('Minions')
+        .then((v) => console.debug(v))
         .catch(console.error);
 };
