@@ -1,4 +1,4 @@
-import cacheManager from './CacheManager';
+import CacheManager from './CacheManager';
 import { serializeQueryParams } from '../utils/Utils';
 
 class ApiService {
@@ -42,7 +42,7 @@ class ApiService {
      * @param {object} parameters key-value object of query parameters
      */
     async request(method = 'GET', endpoint = '/', parameters) {
-        let cache_entry = await cacheManager.getCache(
+        let cache_entry = await CacheManager.getCache(
             method,
             endpoint,
             parameters
