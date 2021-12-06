@@ -1,16 +1,23 @@
 import 'regenerator-runtime/runtime'; //async/await with Parcel
 import { App } from './app/App';
 
+const redirect = (href) => {
+    console.log('Redirecting to ', href);
+    history.pushState({}, href, href);
+
+    window.onload();
+};
+
 window.addEventListener('click', (e) => {
     if (e.target instanceof HTMLAnchorElement) {
-        const href = e.target.href;
-
         e.preventDefault();
-        console.log('redirecting', href);
-        history.pushState({}, href, href);
-
-        window.onload(null);
+        redirect(e.target.href);
     }
 });
 
-window.onload = () => App('#app');
+window.addEventListener('popstate', (e) => {
+    e.preventDefault();
+    redirect(window.location.origin);
+});
+
+window.onload = () => App({ renderOn: '#app' });
