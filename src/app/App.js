@@ -1,9 +1,12 @@
 import { render } from '../shared/dom';
+import ApiProvider from '../providers/ApiProvider';
 
 const template = `
-    <div>Hello world!</div>
+    <div id="app">
+        <div>Hello world!</div>
+    </div>
 `;
 
-export const App = ({ renderOn, options }) => {
-  render({ on: renderOn, html: template });
+export const App = async ({ renderOn }) => {
+    render({ on: renderOn, html: template });
 };
