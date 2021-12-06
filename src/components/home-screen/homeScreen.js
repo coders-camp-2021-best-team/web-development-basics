@@ -1,7 +1,7 @@
 import { render } from '../shared/dom.js';
 
 const template = `
-    <div id="home-screen">This is nav-bar</div>
+    <div id="home-screen">This is home screen</div>
 `;
 
 export const HomeScreen = ({ renderOn, options }) => {
