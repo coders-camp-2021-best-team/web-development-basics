@@ -6,7 +6,7 @@ const template = `
     </template>
 `;
 
-export const App = (renderOn: string) => {
-    render(template, renderOn, false);
+export const App = ({ renderOn }) => {
+    render({ html: template, on: renderOn }, false);
     Router({ renderOn: '#app-router' });
 };

@@ -6,6 +6,6 @@ const template = `
     </navbar>
 `;
 
-export const Navbar = (renderOn: string) => {
-    render(template, renderOn);
+export const Navbar = ({ renderOn }) => {
+    render({ html: template, on: renderOn });
 };

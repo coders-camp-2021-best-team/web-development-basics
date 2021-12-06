@@ -6,6 +6,6 @@ const template = `
     </footer>
 `;
 
-export const Footer = (renderOn: string) => {
-    render(template, renderOn);
+export const Footer = ({ renderOn }) => {
+    render({ html: template, on: renderOn });
 };
