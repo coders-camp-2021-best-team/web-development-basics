@@ -12,11 +12,11 @@ const template = (movies) => `
 
 export const App = async ({ renderOn }) => {
     let movies = [];
-    let data = await ApiProvider.search('Fast & Furious');
+    const { results } = await ApiProvider.search('Fast & Furious');
     console.debug(data);
 
-    for (const result of data.results) {
-        let details = await ApiProvider.getTitleDetails(result.id);
+    for (const title of results) {
+        const details = await ApiProvider.getTitleDetails(title.id);
         movies.push(`${details.title} (${details.year})`);
     }
 

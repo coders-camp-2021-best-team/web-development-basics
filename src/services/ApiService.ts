@@ -14,19 +14,19 @@ class ApiService {
     }
 
     async callAPI(method: Http, api: ApiType, params: string, optional_params?: string) {
-        let url = this.getURL(`/${api}/${process.env.API_SECRET_KEY}/${params}/${optional_params}`);
+        const url = this.getURL(`/${api}/${process.env.API_SECRET_KEY}/${params}/${optional_params}`);
 
         console.debug(`Trying to fetch data from API... ${url}`);
 
         try {
-            let resp = await fetch(url, {
+            const response = await fetch(url, {
                 method: method,
                 headers: {
                     'X-RapidAPI-Host': API_BASE_URL.replace('https://', ''),
                     'X-RapidAPI-Key': API_SECRET_KEY
                 }
             });
-            let json = await resp.json();
+            const json = await response.json();
 
             CacheManager.reportNewCacheEntry(json, api, params);
 
@@ -38,7 +38,7 @@ class ApiService {
     }
 
     async request(method: Http, api: ApiType, params: string, optional_params?: string) {
-        let cache_entry = await CacheManager.getCache(method, api, params);
+        const cache_entry = await CacheManager.getCache(method, api, params);
 
         if (cache_entry) {
             return cache_entry;

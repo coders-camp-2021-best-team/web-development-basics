@@ -2,20 +2,20 @@ import ApiService from '../services/ApiService';
 import { ApiType, Http, SearchData, TitleData } from '../interfaces';
 
 class ApiProvider {
-    search(q: string): Promise<SearchData> {
-        return ApiService.request(Http.GET, ApiType.Search, q);
+    search(name: string): Promise<SearchData> {
+        return ApiService.request(Http.GET, ApiType.Search, name);
     }
 
-    searchTitle(q: string): Promise<SearchData> {
-        return ApiService.request(Http.GET, ApiType.SearchTitle, q);
+    searchTitle(name: string): Promise<SearchData> {
+        return ApiService.request(Http.GET, ApiType.SearchTitle, name);
     }
 
-    searchMovie(q: string): Promise<SearchData> {
-        return ApiService.request(Http.GET, ApiType.SearchMovie, q);
+    searchMovie(name: string): Promise<SearchData> {
+        return ApiService.request(Http.GET, ApiType.SearchMovie, name);
     }
 
-    searchSeries(q: string): Promise<SearchData> {
-        return ApiService.request(Http.GET, ApiType.SearchSeries, q);
+    searchSeries(name: string): Promise<SearchData> {
+        return ApiService.request(Http.GET, ApiType.SearchSeries, name);
     }
 
     getTitleDetails(id: string, options: string = 'Posters,Images,Trailer,'): Promise<TitleData> {
