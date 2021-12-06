@@ -13,7 +13,7 @@ const template = (movies) => `
 export const App = async ({ renderOn }) => {
     let movies = [];
     const { results } = await ApiProvider.search('Fast & Furious');
-    console.debug(data);
+    console.debug(results);
 
     for (const title of results) {
         const details = await ApiProvider.getTitleDetails(title.id);

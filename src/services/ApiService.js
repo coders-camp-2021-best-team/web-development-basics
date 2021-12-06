@@ -1,11 +1,15 @@
 import CacheManager from './CacheManager';
-import { ApiType, Http } from '../interfaces';
 
 const API_SECRET_KEY = process.env.API_SECRET_KEY || '';
 const API_BASE_URL = process.env.API_BASE_URL || '';
 
 class ApiService {
-    getURL(endpoint: string, prefix = API_BASE_URL) {
+    /**
+     * @param {string} endpoint
+     * @param {string} prefix
+     * @returns {string}
+     */
+    getURL(endpoint, prefix = API_BASE_URL) {
         let url = prefix + endpoint;
         while (url.match('//')) {
             url = url.replace('//', '/');
@@ -13,8 +17,17 @@ class ApiService {
         return url;
     }
 
-    async callAPI(method: Http, api: ApiType, params: string, optional_params?: string) {
-        const url = this.getURL(`/${api}/${process.env.API_SECRET_KEY}/${params}/${optional_params}`);
+    /**
+     * @param {'GET' | 'HEAD' | 'POST' | 'PUT' | 'DELETE' | 'OPTIONS' | 'PATCH'} method
+     * @param {string} api
+     * @param {string} params
+     * @param {string} optional_params
+     * @returns {Promise<object>}
+     */
+    async callAPI(method, api, params, optional_params = '') {
+        const url = this.getURL(
+            `/${api}/${process.env.API_SECRET_KEY}/${params}/${optional_params}`
+        );
 
         console.debug(`Trying to fetch data from API... ${url}`);
 
@@ -37,7 +50,14 @@ class ApiService {
         }
     }
 
-    async request(method: Http, api: ApiType, params: string, optional_params?: string) {
+    /**
+     * @param {'GET' | 'HEAD' | 'POST' | 'PUT' | 'DELETE' | 'OPTIONS' | 'PATCH'} method
+     * @param {string} api
+     * @param {string} params
+     * @param {string} optional_params
+     * @returns {Promise<object>}
+     */
+    async request(method, api, params, optional_params = '') {
         const cache_entry = await CacheManager.getCache(method, api, params);
 
         if (cache_entry) {

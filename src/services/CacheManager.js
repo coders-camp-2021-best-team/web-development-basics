@@ -1,15 +1,25 @@
 import ApiService from './ApiService';
-import { ApiType, Http } from '../interfaces';
 
 class CacheManager {
-
-    getCacheFilename(api: ApiType, params: string) {
+    /**
+     * @param {string} api
+     * @param {string} params
+     * @returns {string}
+     */
+    getCacheFilename(api, params) {
         return ApiService.getURL(`/static/api/${api}/${params}.json`, '');
     }
 
-    downloadFile(filename: string, text: string) {
+    /**
+     * @param {string} filename
+     * @param {string} text
+     */
+    downloadFile(filename, text) {
         const element = document.createElement('a');
-        element.setAttribute('href', 'data:text/plain;charset=utf-8,' + encodeURIComponent(text));
+        element.setAttribute(
+            'href',
+            'data:text/plain;charset=utf-8,' + encodeURIComponent(text)
+        );
         element.setAttribute('download', filename);
 
         element.style.display = 'none';
@@ -20,7 +30,12 @@ class CacheManager {
         document.body.removeChild(element);
     }
 
-    reportNewCacheEntry(json: object, api: ApiType, params: string) {
+    /**
+     * @param {object} json
+     * @param {string} api
+     * @param {string} params
+     */
+    reportNewCacheEntry(json, api, params) {
         const filename = this.getCacheFilename(api, params);
         let path_arr = filename.split('/');
         let basename = path_arr[path_arr.length - 1];
@@ -33,12 +48,18 @@ class CacheManager {
         this.downloadFile(basename, JSON.stringify(json));
     }
 
-    async getCache(method: Http, api: ApiType, params: string) {
+    /**
+     * @param {'GET' | 'HEAD' | 'POST' | 'PUT' | 'DELETE' | 'OPTIONS' | 'PATCH'} method
+     * @param {string} api
+     * @param {string} params
+     * @returns {Promise<object>}
+     */
+    async getCache(method, api, params) {
         const url = this.getCacheFilename(api, params);
 
         console.debug(`Trying to fetch data from cache... ${url}`);
 
-        if (method !== Http.GET) {
+        if (method !== 'GET') {
             throw new Error('HTTP method other than GET is not supported.');
         } else {
             try {
