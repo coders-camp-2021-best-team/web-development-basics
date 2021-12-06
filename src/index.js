@@ -1,7 +1,16 @@
 import 'regenerator-runtime/runtime'; //async/await with Parcel
 import { App } from './app/App';
 
-const BASE_API_URL = process.env.API_BASE_URL || 'https://google.com';
+window.addEventListener('click', (e) => {
+    if (e.target instanceof HTMLAnchorElement) {
+        const href = e.target.href;
 
-window.onload = () =>
-  App({ renderOn: '#movie-app', options: { apiUrl: BASE_API_URL } });
+        e.preventDefault();
+        console.log('redirecting', href);
+        history.pushState({}, href, href);
+
+        window.onload(null);
+    }
+});
+
+window.onload = () => App('#app');
