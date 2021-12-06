@@ -1,24 +1,12 @@
 import { render } from '../shared/dom';
 import ApiProvider from '../providers/ApiProvider';
 
-const template = (movies) => `
+const template = `
     <div id="app">
         <div>Hello world!</div>
-        <ol>
-            ${movies.reduce((r, movie) => r + `<li>${movie}</li>`, '')}
-        </ol>
     </div>
 `;
 
 export const App = async ({ renderOn }) => {
-    let movies = [];
-    const { results } = await ApiProvider.search('Fast & Furious');
-    console.debug(results);
-
-    for (const title of results) {
-        const details = await ApiProvider.getTitleDetails(title.id);
-        movies.push(`${details.title} (${details.year})`);
-    }
-
-    render({ on: renderOn, html: template(movies) });
+    render({ on: renderOn, html: template });
 };
