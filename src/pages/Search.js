@@ -1,12 +1,12 @@
 import { render } from '../shared/dom';
 
-const template = `
+const template = (query) => `
     <div>
-        <h1>Search!</h1>
+        <h1>Search "${query}"!</h1>
         <a href="/">go Home!</a>
     </div>
 `;
 
-export const SearchPage = ({ renderOn }) => {
-    render({ html: template, on: renderOn });
+export const SearchPage = ({ renderOn }, { query }) => {
+    render({ html: template(query), on: renderOn });
 };

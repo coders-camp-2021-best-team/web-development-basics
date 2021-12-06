@@ -18,18 +18,22 @@ export const Router = ({ renderOn }) => {
     Navbar({ renderOn: '#app-navbar' });
     Footer({ renderOn: '#app-footer' });
 
-    let options = { renderOn: '#app-main' };
-    switch (window.location.pathname) {
-        case '/':
-            HomePage(options);
-            break;
+    let path = window.location.pathname + '/';
+    while (path.match('//')) {
+        path = path.replace('//', '/');
+    }
 
-        case '/search':
-            SearchPage(options);
-            break;
+    const endpoints = path.substr(1).split('/');
 
-        default:
-            NotFound(options);
-            break;
+    console.debug({ path, endpoints });
+
+    const options = { renderOn: '#app-main' };
+
+    if (endpoints[0] == '') {
+        HomePage(options);
+    } else if (endpoints[0] == 'search') {
+        SearchPage(options, { query: endpoints[1] });
+    } else {
+        NotFound(options);
     }
 };
