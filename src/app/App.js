@@ -1,5 +1,6 @@
 import { render } from '../shared/dom';
 import { Router, routes } from '../route';
+import { SearchScreen } from '../screens';
 
 const template = `
     <div>
@@ -18,11 +19,11 @@ export const App = ({ renderOn }) => {
             {
                 component: () => null,
                 route: routes.home
+            },
+            {
+                component: SearchScreen,
+                route: routes.search
             }
-            // {
-            //     component: SearchScreen,
-            //     route: routes.search
-            // },
             // {
             //     component: Error404Screen,
             //     route: routes.error404

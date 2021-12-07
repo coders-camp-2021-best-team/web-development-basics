@@ -2,11 +2,11 @@ export const routes = {
     home: {
         routerPath: '/',
         getPathWithParams: () => '/'
+    },
+    search: {
+        routerPath: '/search',
+        getPathWithParams: (q = '') => `/search?q=${q}`
     }
-    // search: {
-    //     routerPath: '/search',
-    //     getPathWithParams: (id = '') => `/search?id=${id}`
-    // },
     // error404: {
     //     routerPath: '*',
     //     getPathWithParams: () => '/error404'
