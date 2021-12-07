@@ -11,9 +11,8 @@ export function render({ html, on }, drawInstead = true) {
 
     if (drawInstead) {
         placeholder.parentNode.replaceChild(element, placeholder);
-        return element;
     } else {
         placeholder.replaceChildren(element);
-        return element;
     }
+    return element;
 }
