@@ -1,5 +1,3 @@
-import { render } from '../shared/dom';
-
 export const Router = ({ routes, on }) => {
     const options = { renderOn: on };
     const path = window.location.pathname;
