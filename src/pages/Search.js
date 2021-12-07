@@ -7,6 +7,6 @@ const template = (query) => `
     </div>
 `;
 
-export const SearchPage = ({ renderOn }, { query }) => {
-    render({ html: template(query), on: renderOn });
+export const SearchPage = ({ renderOn }, params) => {
+    render({ html: template(params[0]), on: renderOn });
 };
