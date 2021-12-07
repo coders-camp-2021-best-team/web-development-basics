@@ -1,39 +1,18 @@
 import { render } from '../shared/dom';
-import { Navbar, Footer } from '../components';
-import { HomePage, SearchPage, NotFound } from '.';
 
-const template = `
-    <div id="app-router">
-        <template id="app-navbar"></template>
-        <main>
-            <template id="app-main"></template>
-        </main>
-        <template id="app-footer"></template>
-    </div>
-`;
+export const Router = ({ routes, on }) => {
+    const options = { renderOn: on };
+    const path = window.location.pathname;
 
-export const Router = ({ renderOn }) => {
-    render({ html: template, on: renderOn });
+    for (const route_path in routes) {
+        const route = routes[route_path];
 
-    Navbar({ renderOn: '#app-navbar' });
-    Footer({ renderOn: '#app-footer' });
-
-    let path = window.location.pathname + '/';
-    while (path.match('//')) {
-        path = path.replace('//', '/');
-    }
-
-    const endpoints = path.substr(1).split('/');
-
-    console.debug({ path, endpoints });
-
-    const options = { renderOn: '#app-main' };
-
-    if (endpoints[0] == '') {
-        HomePage(options);
-    } else if (endpoints[0] == 'search') {
-        SearchPage(options, { query: endpoints[1] });
-    } else {
-        NotFound(options);
+        const regex = `^${route_path}$`;
+        let matches = path.match(regex);
+        if (matches) {
+            matches.splice(0, 1);
+            route(options, matches);
+            break;
+        }
     }
 };
