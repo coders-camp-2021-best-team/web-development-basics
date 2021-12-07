@@ -1,14 +1,15 @@
-export class StorageManager  {
+class StorageManager {
   addItem(name, myObj) {
-    let myObj_serialized = JSON.stringify(myObj)
-    localStorage.setItem(name, myObj_serialized)
-   }
-   
+    let myObj_serialized = JSON.stringify(myObj);
+    localStorage.setItem(name, myObj_serialized);
+  } 
   removeItem(name) {
-     localStorage.removeItem(name)
-   }
+    localStorage.removeItem(name);
+  }
   getItem(name) {
-      let myObj_deserialized = JSON.parse(localStorage.getItem(name))
-      return myObj_deserialized
-   }
+    let myObj_deserialized = JSON.parse(localStorage.getItem(name));
+    return myObj_deserialized;
+  }
 } 
+
+export default new StorageManager();
