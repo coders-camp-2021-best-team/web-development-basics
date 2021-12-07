@@ -1,5 +1,5 @@
 import { render } from '../shared/dom';
-import { Router } from '../pages';
+import { Router, routes } from '../route';
 
 const template = `
     <div>
@@ -13,7 +13,21 @@ export const App = ({ renderOn }) => {
     render({ html: template, on: renderOn }, false);
 
     Router({
-        routes: {},
+        // TODO: add your components
+        routes: [
+            {
+                component: () => null,
+                route: routes.home
+            }
+            // {
+            //     component: SearchScreen,
+            //     route: routes.search
+            // },
+            // {
+            //     component: Error404Screen,
+            //     route: routes.error404
+            // }
+        ],
         on: '#app-main'
     });
 };
