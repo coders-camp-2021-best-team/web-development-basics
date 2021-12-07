@@ -1,12 +1,29 @@
 import { render } from '../shared/dom';
-import { Router } from '../pages';
+import { Navbar, Footer } from '../components';
+import { Router, HomePage, SearchPage, NotFound } from '../pages';
 
 const template = `
-    <template id="app-router">
-    </template>
+    <div>
+        <template id="app-navbar"></template>
+        <main>
+            <template id="app-main"></template>
+        </main>
+        <template id="app-footer"></template>
+    </div>
 `;
 
 export const App = ({ renderOn }) => {
     render({ html: template, on: renderOn }, false);
-    Router({ renderOn: '#app-router' });
+
+    Navbar({ renderOn: '#app-navbar' });
+    Footer({ renderOn: '#app-footer' });
+
+    Router({
+        routes: {
+            '/': HomePage,
+            '/search/(.*)': SearchPage,
+            '.*': NotFound
+        },
+        on: '#app-main'
+    });
 };
