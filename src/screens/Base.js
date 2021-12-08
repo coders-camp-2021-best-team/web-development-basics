@@ -1,22 +1,28 @@
 import { render } from '../shared/dom';
 import { Router, routes } from '../route';
-import { HomeScreen, BaseScreen } from '../screens';
+import { Header, Footer } from '../components';
 
 const template = `
-    <template id="app-basescreen"></template>
+    <div>
+        <template id="app-header"></template>
+        <main>
+            <template id="app-main"></template>
+        </main>
+        <template id="app-footer"></template>
+    </div>
 `;
 
-export const App = ({ renderOn }) => {
-    render({ html: template, on: renderOn }, false);
+export const BaseScreen = ({ renderOn }) => {
+    render({ html: template, on: renderOn });
 
-
-    BaseScreen({ renderOn: '#app-basescreen' });
+    Header({ renderOn: '#app-header' });
+    Footer({ renderOn: '#app-footer' });
 
     Router({
         // TODO: add your components
         routes: [
             {
-                component: HomeScreen,
+                component: () => null,
                 route: routes.home
             }
             // {
@@ -30,4 +36,5 @@ export const App = ({ renderOn }) => {
         ],
         on: '#app-main'
     });
-};
+}
+
