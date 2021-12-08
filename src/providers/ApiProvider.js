@@ -40,6 +40,10 @@ class ApiProvider {
     getTop250Movies() {
         return ApiService.request('GET', 'Top250Movies', ' ');
     }
+    getRandomAsset() {
+        const idx = Math.floor(250 * Math.random());
+        return this.getTop250()[idx];
+    }
 }
 
 export default new ApiProvider();
