@@ -1,9 +1,9 @@
 import { render } from '../shared/dom';
 
 const template = `
-    <div>
+    <header>
         I am a Header!
-    </div>
+    </header>
 `;
 
 export const Header = ({ renderOn }) => {

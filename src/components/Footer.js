@@ -1,9 +1,9 @@
 import { render } from '../shared/dom';
 
 const template = `
-    <div>
-        I am a Footer!
-    </div>
+    <footer>
+        Copyright © 2021 CodersCamp
+    </footer>
 `;
 
 export const Footer = ({ renderOn }) => {
