@@ -1,12 +1,34 @@
 import { render } from '../shared/dom';
-import ApiProvider from '../providers/ApiProvider';
+import { Router, routes } from '../route';
+import { HomeScreen } from '../screens';
 
 const template = `
-    <div id="app">
-        <div>Hello world!</div>
+    <div>
+        <main>
+            <template id="app-main"></template>
+        </main>
     </div>
 `;
 
-export const App = async ({ renderOn }) => {
-    render({ on: renderOn, html: template });
+export const App = ({ renderOn }) => {
+    render({ html: template, on: renderOn }, false);
+
+    Router({
+        // TODO: add your components
+        routes: [
+            {
+                component: HomeScreen,
+                route: routes.home
+            }
+            // {
+            //     component: SearchScreen,
+            //     route: routes.search
+            // },
+            // {
+            //     component: Error404Screen,
+            //     route: routes.error404
+            // }
+        ],
+        on: '#app-main'
+    });
 };
