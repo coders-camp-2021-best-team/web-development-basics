@@ -36,6 +36,10 @@ class ApiProvider {
     getTitleDetails(id, options = 'Posters,Images,Trailer,') {
         return ApiService.request('GET', 'Title', id, options);
     }
+
+    getTop250Movies() {
+        return ApiService.request('GET', 'Top250Movies', ' ');
+    }
 }
 
 export default new ApiProvider();
