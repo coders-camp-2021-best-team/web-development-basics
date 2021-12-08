@@ -2,14 +2,14 @@ import { render } from '../../shared/dom';
 
 const template=`
     <div id="header">
-      <img scr="logo.png" alt="logo">
+      <img src="/static/img/logo.png" alt="logo">
       <div class="menu">
         <ul>
           <li>Movie</li>
           <li>TV Series</li>
           <li>Search</li>
           <li>Favorite</li>
-          <li id="radnomBTN">tu byndize guzik</li>
+          <li id="radnomBTN">Tu byndzie guzik</li>
         </ul>
       </div>
     </div>

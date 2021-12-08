@@ -1,0 +1,30 @@
+@import '../../../styles/variables';
+
+#header{
+  background-color: $background-color;
+  height: 255px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  .menu{
+    font-family: $font-body, sans-serif;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 32px;
+    line-height: 39px;
+    text-transform: uppercase;
+    ul{
+      display: flex;
+      justify-content: flex-start;
+      list-style: none;
+      color: $font-primary-color;
+      height: fit-content;
+      li{
+        margin-right: 24px;
+      }
+    }
+  }
+  img{
+    display: block;
+  }
+}
