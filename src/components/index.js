@@ -1,3 +1,3 @@
 
 export * from './Footer';
-export * from '../components/Header';
+export * from '../header/Header';
