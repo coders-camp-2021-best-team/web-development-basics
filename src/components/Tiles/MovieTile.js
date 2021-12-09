@@ -1,14 +1,19 @@
 import { render } from '../../shared/dom';
 
-const template = (title, image) => `
-    <div class="movie-tile">
-        <img src="${image}"/>
-        <h3 class='title'>${title}</h3>
-    </div>
-`;
-
 export const MovieTile = ({ renderOn, movie }) => {
-    console.log(movie);
-    const component = template(movie.title, movie.image);
+    const component = `
+    <div class="movie-tile">
+        <div class="img-hover">
+            <img src="${movie.image}"/>
+            <div class="movie-details">
+                <p><strong>Year:</strong> ${movie.year}</p>
+                <p><strong>Starring:</strong> ${movie.stars}</p>
+                <p><strong>Plot:</strong> ${movie.plot}</p>
+            </div>
+            
+        </div>
+        <h3 class='title'>${movie.title}</h3>
+    </div>
+`
     render({ on: renderOn, html: component });
 };

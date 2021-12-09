@@ -12,7 +12,11 @@ const template = `
 export const HomeScreen = async ({ renderOn, options }) => {
     render({on: renderOn, html: template});
 
-    const movies = await ApiProvider.search('Inception');
+    const movies = await ApiProvider.search('Fast & Furious');
 
-    MovieTile({ renderOn: '#home-movie-tiles', movie: movies.results[3] });
-};
+    const my_movie = movies.results[1];
+    const movie = await ApiProvider.getTitleDetails(my_movie.id);
+    console.log(movie);
+
+    MovieTile({ renderOn: '#home-movie-tiles', movie: movie });
+}

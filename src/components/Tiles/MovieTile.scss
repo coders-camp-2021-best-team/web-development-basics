@@ -4,13 +4,33 @@
     width: 335px;
     height: 579px;
 
+    .movie-details {
+        position: relative;
+        background-color: $background-movie-hover;
+        opacity: 0%;
+        color: $font-primary-color;
+        max-width: 335px;
+        height: 500px;
+        transition: opacity 1s;
+        -webkit-transition: opacity 1s;
+        -moz-transition: opacity 1s;
+        -ms-transition: opacity 1s;
+        -o-transition: opacity 1s;
+    }
+
+    .movie-details:hover {
+        opacity: 90%;
+    }
+
     img {
+        position: absolute;
         object-fit: contain;
-        width: 335px;
+        max-width: 335px;
         height: auto;
     }
 
     .title {
+        position: relative;
         margin-bottom: auto;
         text-align: center;
         background-color: $btn-color;
@@ -19,7 +39,6 @@
         text-overflow: ellipsis;
         color: $font-primary-color;
         font-size: 24px;
-        // height:59px;
         width: 335px;
         padding: 10px 5px;
         box-sizing: border-box;
