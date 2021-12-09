@@ -1,0 +1,27 @@
+@import './variables';
+
+.movie-tile {
+    width: 335px;
+    height: 579px;
+
+    img {
+        object-fit: contain;
+        width: 335px;
+        height: auto;
+    }
+
+    .title {
+        margin-bottom: auto;
+        text-align: center;
+        background-color: $btn-color;
+        white-space: nowrap;
+        overflow: hidden;
+        text-overflow: ellipsis;
+        color: $font-primary-color;
+        font-size: 24px;
+        // height:59px;
+        width: 335px;
+        padding: 10px 5px;
+        box-sizing: border-box;
+    }
+}

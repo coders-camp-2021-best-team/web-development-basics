@@ -3,30 +3,3 @@ body {
     padding: 0;
     margin: 0;
 }
-
-
-.movie-tiles {
-    display: flex;
-    flex-flow: column row;
-    gap: 10px;
-    overflow: hidden;
-    justify-content: space-between;
-    .movie-tile {
-
-        text-align: center;
-
-        img {
-            object-fit: contain;
-            height: 32vh;
-            flex-grow: 4;
-        }
-
-        .title {
-            background-color: #78736F;
-            padding: 10px;
-            // text-overflow: ellipsis;
-            color:white;
-            font-size: 12px;
-        }
-    }
-}
