@@ -22,7 +22,7 @@ const template= (close, open) =>`
 export const Header = ({ renderOn, options}) => {
   
   const open = () => {
-      document.getElementById("menu").classList.add("menu-activate");
+      document.getElementById("menu").classList.add("menu-active");
       document.getElementById("menu").classList.remove("menu");
     }
     
