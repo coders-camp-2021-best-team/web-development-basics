@@ -1,4 +1,4 @@
-import { render } from '../shared/dom';
+import { render } from '../../shared/dom';
 
 const template = `
     <footer>
