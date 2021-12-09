@@ -9,10 +9,10 @@ const template= (close, open) =>`
           <li>TV Series</li>
           <li>Search</li>
           <li>Favorite</li>
-          <button onclick="${close.bind()}" id="exit"><li>&times;</li></button>
+          <button id="exit"><li>&times;</li></button>
         </ul>
         <div class="btns">
-          <button onclick="${open.bind()}" id="icon"><img src="/static/img/menuIcon.png" alt="menu"></button>
+          <button id="icon"><img src="/static/img/menuIcon.png" alt="menu"></button>
           <div id="randomBtn">Tu byndzie guzik</div>
         </div>
       </div>
@@ -20,21 +20,19 @@ const template= (close, open) =>`
 `;
 
 export const Header = ({ renderOn, options}) => {
+  render({on: renderOn, html: template(close, open)});
   
   const open = () => {
       document.getElementById("menu").classList.add("menu-active");
       document.getElementById("menu").classList.remove("menu");
     }
-    
-  const btn = document.getElementById("icon").onclick=open;
-
   
   const close = () => {
       document.getElementById("menu").classList.add("menu");
       document.getElementById("menu").classList.remove("menu-active");
     }
 
-  render({on: renderOn, html: template(close, open)});
-    
+  document.getElementById('icon').onclick = open;
+  document.getElementById('exit').onclick = close;
     
 }
