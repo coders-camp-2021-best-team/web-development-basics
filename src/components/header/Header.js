@@ -1,7 +1,7 @@
 import { render } from '../../shared/dom';
 
 const template= (close, open) =>`
-    <div id="header">
+    <header>
       <img src="/static/img/logo.png" alt="logo" class="logo">
       <div class="navBar">
         <ul id="menu" class="menu">
@@ -9,14 +9,14 @@ const template= (close, open) =>`
           <li>TV Series</li>
           <li>Search</li>
           <li>Favorite</li>
-          <button id="exit"><li>&times;</li></button>
+          <button id="exit" class="exit"><li>&times;</li></button>
         </ul>
         <div class="btns">
-          <button id="icon"><img src="/static/img/menuIcon.png" alt="menu"></button>
+          <button id="icon" class="icon"><img src="/static/img/menuIcon.png" alt="menu"></button>
           <div id="randomBtn">Tu byndzie guzik</div>
         </div>
       </div>
-    </div>
+    </header>
 `;
 
 export const Header = ({ renderOn, options}) => {

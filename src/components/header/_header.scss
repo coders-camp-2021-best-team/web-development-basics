@@ -1,6 +1,6 @@
 @import '../../../styles/variables';
 
-#header{
+header{
   background-color: $background-color;
   height: 275px;
   display: flex;
@@ -16,6 +16,7 @@
     display: flex;
     justify-content: space-between;
     align-items: center;
+    padding-right: 42.85px;
     ul{
       display: flex;
       justify-content: space-between;
@@ -26,31 +27,31 @@
         margin-right: 24px;
         cursor: pointer;
       }
-      #exit{
+      .exit{
         display: none;
       }
     }
   }
-  #icon{
+  .icon{
     display: none;
   }
 }
 
 @media (max-width : 1316px) {
-  #header{
+  header{
     display: flex;
     font-size: 10px;
     justify-content: space-between;
     align-items: center;
     height: 80px;
-    padding-left: 10px;
-    padding-right: 10px;
+    padding: 0 10px;
     .navBar{
       flex-shrink: 100;
       height: 80px;
-      #icon{
+      padding-right: 10px;
+      .icon{
         display: block;
-        background-color: rgba(0, 0, 0, 0);
+        background-color: $transparent;
         cursor: pointer;
         border: none;
         outline: none;
@@ -64,14 +65,13 @@
       ul{
         display: none;
         text-align: center;
-        padding-left: 25px;
-        padding-right: 25px;
-        #exit{
+        padding: 0 25px;
+        .exit{
           display: contents;
           cursor: pointer;
           border: none;
           outline: none;
-          background-color: rgba(0, 0, 0, 0);
+          background-color: $transparent;
           color: $font-primary-color;
           font-size: 30px;
         }
@@ -83,10 +83,10 @@
     .menu-active{
       position: absolute;
       display: block !important;
-      background-color: #B9B9B7;
+      background-color: $popuot-menu-backgorund-color;
       margin: 0;
       top: 5.6em;
-      right: 7.8em;
+      right: 9.25em;
     }
     .logo{
       height: 60px;
