@@ -1,6 +1,8 @@
 import { render } from '../../shared/dom';
 
-const template= (close, open) =>`
+//TODO: connect li elements with redirect function
+
+const template=`
     <header>
       <img src="/static/img/logo.png" alt="logo" class="logo">
       <div class="navBar">
@@ -12,7 +14,7 @@ const template= (close, open) =>`
           <button id="exit" class="exit"><li>&times;</li></button>
         </ul>
         <div class="btns">
-          <button id="icon" class="icon"><img src="/static/img/menuIcon.png" alt="menu"></button>
+          <button id="icon" class="icon"><img src="/static/img/menuIcon.png" alt="toggleMenuIconMinor"></button>
           <div id="randomBtn">Tu byndzie guzik</div>
         </div>
       </div>
