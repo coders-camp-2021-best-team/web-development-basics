@@ -1,96 +1,101 @@
 @import '../../../styles/variables';
+@import '../../../styles/mixins';
 
 header{
   background-color: $background-color;
-  height: 275px;
   display: flex;
+  font-size: 10px;
   justify-content: space-between;
   align-items: center;
-  font-size: 32px;
+  height: 80px;
+  padding: 0 10px;
+  font-family: $font-body, sans-serif;
+  text-transform: uppercase;
   .navBar{
-    font-family: $font-body, sans-serif;
-    font-style: normal;
-    font-weight: 500;
-    line-height: 39px;
-    text-transform: uppercase;
+    flex-shrink: 100;
+    height: 80px;
+    padding-right: 10px;
     display: flex;
     justify-content: space-between;
     align-items: center;
-    padding-right: 42.85px;
-    ul{
+    .icon{
+      display: block;
+      background-color: $transparent;
+      cursor: pointer;
+      border: none;
+      outline: none;
+      margin-right: 11px;
+    }
+    .btns{
       display: flex;
       justify-content: space-between;
+      align-items: center;
+    }
+    ul{
+      display: none;
+      text-align: center;
       list-style: none;
       color: $font-primary-color;
-      height: fit-content;
-      li{
-        margin-right: 24px;
-        cursor: pointer;
-      }
       .exit{
-        display: none;
-      }
-    }
-  }
-  .icon{
-    display: none;
-  }
-}
-
-@media (max-width : 1316px) {
-  header{
-    display: flex;
-    font-size: 10px;
-    justify-content: space-between;
-    align-items: center;
-    height: 80px;
-    padding: 0 10px;
-    .navBar{
-      flex-shrink: 100;
-      height: 80px;
-      padding-right: 10px;
-      .icon{
-        display: block;
-        background-color: $transparent;
+        display: contents;
         cursor: pointer;
         border: none;
         outline: none;
-        margin-right: 11px;
+        background-color: $transparent;
+        color: $font-primary-color;
+        font-size: 30px;
       }
-      .btns{
+      li{
+        margin: 0;
+        cursor: pointer;
+      }
+    }
+  }
+  .menu-active{
+    position: absolute;
+    display: block !important;
+    background-color: $popuot-menu-backgorund-color;
+    margin: 0;
+    top: 5.6em;
+    right: 9.25em;
+    padding: 0 25px;
+    li{
+      padding: 5px 0;
+    }
+  }
+  .logo{
+    height: 60px;
+    width: 80px;
+  }
+}
+
+@include for-desktop-up {
+  header{
+    height: 275px;
+    font-size: 32px;
+    .navBar{
+      line-height: 39px;
+      ul{
         display: flex;
         justify-content: space-between;
-        align-items: center;
-      }
-      ul{
-        display: none;
-        text-align: center;
-        padding: 0 25px;
+        height: fit-content;
         .exit{
-          display: contents;
-          cursor: pointer;
-          border: none;
-          outline: none;
-          background-color: $transparent;
-          color: $font-primary-color;
-          font-size: 30px;
+          display: none;
         }
         li{
-          margin: 0;
+        margin-right: 24px;
         }
       }
     }
-    .menu-active{
-      position: absolute;
-      display: block !important;
-      background-color: $popuot-menu-backgorund-color;
-      margin: 0;
-      top: 5.6em;
-      right: 9.25em;
+    .icon{
+      display: none !important;
     }
     .logo{
-      height: 60px;
-      width: 80px;
+      height: 225px;
+      width: 300px;
+      left: 0px;
+      top: 0px;
+      border-radius: 0px;
     }
   }
 }
