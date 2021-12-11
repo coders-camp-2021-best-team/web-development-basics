@@ -42,7 +42,7 @@ class ApiProvider {
     }
     getRandomAsset() {
         const idx = Math.floor(250 * Math.random());
-        return this.getTop250()[idx];
+        return this.getTop250Movies()[idx];
     }
 }
 
