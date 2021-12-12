@@ -36,6 +36,14 @@ class ApiProvider {
     getTitleDetails(id, options = 'Posters,Images,Trailer,') {
         return ApiService.request('GET', 'Title', id, options);
     }
+
+    getTop250Movies() {
+        return ApiService.request('GET', 'Top250Movies', ' ');
+    }
+    getRandomAsset() {
+        const idx = Math.floor(250 * Math.random());
+        return this.getTop250Movies()[idx];
+    }
 }
 
 export default new ApiProvider();
