@@ -1,0 +1,54 @@
+.details {
+    position: relative;
+    width: 1920px;
+    height: 3444px;
+    background: rgba(20, 20, 20, 0.7);
+    &__logo {
+        position: absolute;
+        width: 300px;
+        height: 225px;
+        left: 30px;
+        top: 30px;
+    }
+    &__trailer {
+        position: absolute;
+        left: 0%;
+        right: 0%;
+        top: 0%;
+        bottom: 0%;
+        background: #C4C4C4;
+    }
+    &__gallery {
+        /* Auto Layout */
+        display: flex;
+        flex-direction: row;
+        justify-content: center;
+        align-items: center;
+        padding: 25px 80px;
+        position: absolute;
+        width: 295px;
+        height: 89px;
+        left: 813px;
+        top: 2264px;
+
+        /* button */
+        background: #78736F;
+        border-radius: 10px;
+    }
+    &__footer {
+        /* Auto Layout */
+        display: flex;
+        flex-direction: row;
+        justify-content: center;
+        align-items: center;
+        padding: 15px 128px;
+        position: absolute;
+        width: 1920px;
+        height: 59px;
+        left: 0px;
+        top: 3385px;
+
+        /* footer */
+        background: #C3C30E;
+    }
+}
