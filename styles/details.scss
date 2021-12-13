@@ -5,13 +5,7 @@
     width: 1920px;
     height: 3444px;
     background: $background-color;
-    &__logo {
-        position: absolute;
-        width: 300px;
-        height: 225px;
-        left: 30px;
-        top: 30px;
-    }
+    
     &__trailer {
         position: absolute;
         left: 0%;
@@ -20,7 +14,7 @@
         bottom: 0%;
         background: $trailer-color;
     }
-    &__gallery {
+    &__poster {
         /* Auto Layout */
         display: flex;
         flex-direction: row;
@@ -32,12 +26,18 @@
         height: 89px;
         left: 813px;
         top: 2264px;
+    }
 
-        /* button */
+    &__gallery-button {
+        position: absolute;
+        width: 300px;
+        height: 225px;
+        left: 30px;
+        top: 30px;
         background: $btn-color;
         border-radius: 10px;
     }
-    &__footer {
+    &__gallery {
         /* Auto Layout */
         display: flex;
         flex-direction: row;
