@@ -1,0 +1,29 @@
+.carousel {
+    overflow: auto;
+    scroll-behavior: smooth;
+    scrollbar-width: none;
+    position: relative;
+    .prev, .next {
+    display: flex;
+    justify-content: center;
+    align-content: center;
+    background: white;
+    border: none;
+    padding: 8px;
+    border-radius: 50%;
+    outline: 0;
+    cursor: pointer;
+    position: absolute;
+    }
+    .prev {
+    top: 50%;
+    left: -7%;
+    transform: translate(50%, -50%);
+    display: none;
+    }
+    .next {
+    top: 50%;
+    right: -7%;
+    transform: translate(-50%, -50%);
+    }
+}
