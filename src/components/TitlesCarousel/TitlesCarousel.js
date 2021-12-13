@@ -4,13 +4,13 @@ import ApiProvider from '../../providers/ApiProvider';
 
 export const MovieCarousel = ({ renderOn, movies }) => {
     const template = `
-    <div class="carousel" id="carousel">
-        <div class="content" id="carousel_content">
+    <div id="carousel">
+        <div id="carousel_content">
             ${movies.map((_,idx) => (`
               <template id="carousel-movie-${idx}"></template>
             `)).join(' ')}
         </div>
-        <button class="prev" id="carousel_prev">
+        <button id="carousel_prev">
         <svg
           xmlns="http://www.w3.org/2000/svg"
           width="24"
@@ -21,7 +21,7 @@ export const MovieCarousel = ({ renderOn, movies }) => {
           <path d="M15.61 7.41L14.2 6l-6 6 6 6 1.41-1.41L11.03 12l4.58-4.59z" />
         </svg>
       </button>
-      <button class="next" id="carousel_next">
+      <button id="carousel_next">
         <svg
           xmlns="http://www.w3.org/2000/svg"
           width="24"
