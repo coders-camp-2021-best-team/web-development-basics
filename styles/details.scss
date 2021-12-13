@@ -1,8 +1,10 @@
+@import './variables.scss';
+
 .details {
     position: relative;
     width: 1920px;
     height: 3444px;
-    background: rgba(20, 20, 20, 0.7);
+    background: $background-color;
     &__logo {
         position: absolute;
         width: 300px;
@@ -16,7 +18,7 @@
         right: 0%;
         top: 0%;
         bottom: 0%;
-        background: #C4C4C4;
+        background: $trailer-color;
     }
     &__gallery {
         /* Auto Layout */
@@ -32,7 +34,7 @@
         top: 2264px;
 
         /* button */
-        background: #78736F;
+        background: $btn-color;
         border-radius: 10px;
     }
     &__footer {
