@@ -14,6 +14,5 @@ export const HomeScreen = async ({ renderOn, options }) => {
 
     const movies = await ApiProvider.search('Inception');
 
-    MovieTiles({ renderOn: '#home-movie-tiles', movies: movies.results });
     MovieCarousel({ renderOn: '#home-movie-tiles', movies: movies.results });
 };

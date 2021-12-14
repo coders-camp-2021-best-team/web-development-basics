@@ -8,6 +8,9 @@ footer {
     flex-direction: row;
     justify-content: center;
     align-items: center;
+    position: absolute;
+    bottom: 0;
+
     p {
         font-family: $font-body;
         color: $font-secondary-color;

@@ -1,0 +1,62 @@
+.carousel {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    overflow: auto;
+    scroll-behavior: smooth;
+    scrollbar-width: none;
+    position: relative;
+
+    &__content {
+        display: flex;
+        flex-direction: row;
+        justify-content: center;
+        align-items: flex-start;
+        gap: 1em;
+        overflow: hidden;
+    }
+
+    &__item {
+        width: 335px;
+        height: 500px;
+        background-color: red;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+    }
+
+    &__prev, &__next {
+        cursor: pointer;
+    }
+}
+
+
+<div id="carousel" class="carousel">
+
+<div id="carousel_prev" class="carousel__prev">
+  <svg
+    xmlns="http://www.w3.org/2000/svg"
+    width="24"
+    height="24"
+    viewBox="0 0 24 24">
+    <path fill="none" d="M0 0h24v24H0V0z" />
+    <path d="M15.61 7.41L14.2 6l-6 6 6 6 1.41-1.41L11.03 12l4.58-4.59z" />
+  </svg>
+</div>
+
+<div id="carousel_content" class="carousel__content">
+    ${movies.map((_,idx) => (`
+      <div class="carousel__item">${idx}</div>
+    `)).join(' ')}
+</div>
+
+<div id="carousel_next" class="carousel__next">
+  <svg
+    xmlns="http://www.w3.org/2000/svg"
+    width="24"
+    height="24"
+    viewBox="0 0 24 24">
+    <path fill="none" d="M0 0h24v24H0V0z" />
+    <path d="M10.02 6L8.61 7.41 13.19 12l-4.58 4.59L10.02 18l6-6-6-6z" />
+  </svg>
+</div>

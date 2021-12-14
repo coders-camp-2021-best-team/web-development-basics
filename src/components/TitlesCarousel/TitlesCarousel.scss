@@ -1,29 +1,47 @@
-#carousel {
-    overflow: auto;
-    scroll-behavior: smooth;
-    scrollbar-width: none;
+.wrapper {
+    width: 100%;
     position: relative;
-    #prev, #next {
+    display: flex;
+    .carousel__prev, .carousel__next {
     display: flex;
     justify-content: center;
     align-content: center;
-    background: white;
-    border: none;
-    padding: 8px;
-    border-radius: 50%;
     outline: 0;
     cursor: pointer;
     position: absolute;
     }
-    #prev {
+    .carousel__prev {
     top: 50%;
-    left: -7%;
+    left: -1.5%;
     transform: translate(50%, -50%);
     display: none;
     }
-    #next {
+    .carousel__next {
     top: 50%;
-    right: -7%;
+    right: -1.5%;
     transform: translate(-50%, -50%);
+    }
+}
+
+.carousel {
+    overflow: hidden;
+    scroll-behavior: smooth;
+    scrollbar-width: none;
+    margin: 0 1em;
+    ::-webkit-scrollbar {
+        height: 0;
+    }
+    &__content {
+        display: grid;
+        grid-gap: 18px;
+        grid-auto-flow: column;
+        margin: auto;
+        box-sizing: border-box;
+    }
+
+    &__item {
+        width: 335px;
+        height: 500px;
+        background-color: red;
     }
 }

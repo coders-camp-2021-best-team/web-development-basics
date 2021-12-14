@@ -4,48 +4,47 @@ import ApiProvider from '../../providers/ApiProvider';
 
 export const MovieCarousel = ({ renderOn, movies }) => {
     const template = `
-    <div id="carousel">
-        <div id="carousel_content">
-            ${movies.map((_,idx) => (`
-              <template id="carousel-movie-${idx}"></template>
-            `)).join(' ')}
-        </div>
-        <button id="carousel_prev">
+    <div class="wrapper">
+
+    <div id="carousel" class="carousel">
+    
+      <div id="carousel_content" class="carousel__content">
+          ${movies.map((_,idx) => (`
+            <div class="carousel__item">${idx}</div>
+          `)).join(' ')}
+      </div>
+      
+      <div id="carousel_prev" class="carousel__prev">
         <svg
           xmlns="http://www.w3.org/2000/svg"
-          width="24"
-          height="24"
-          viewBox="0 0 24 24"
-        >
+          width="48"
+          height="48"
+          viewBox="0 0 24 24">
           <path fill="none" d="M0 0h24v24H0V0z" />
           <path d="M15.61 7.41L14.2 6l-6 6 6 6 1.41-1.41L11.03 12l4.58-4.59z" />
         </svg>
-      </button>
-      <button id="carousel_next">
+      </div>
+      <div id="carousel_next" class="carousel__next">
         <svg
           xmlns="http://www.w3.org/2000/svg"
-          width="24"
-          height="24"
-          viewBox="0 0 24 24"
-        >
+          width="48"
+          height="48"
+          viewBox="0 0 24 24">
           <path fill="none" d="M0 0h24v24H0V0z" />
           <path d="M10.02 6L8.61 7.41 13.19 12l-4.58 4.59L10.02 18l6-6-6-6z" />
         </svg>
-      </button>
+      </div>
     </div>
   `;
-  movies.foreach(async (movie, idx) => {
-    const movie_more_details = await ApiProvider.getTitleDetails(movie.id);
-    MovieTiles({ renderOn: `#carousel-movie-${idx}`, movie: movie_more_details });
-  });
+
   render({ on: renderOn, html: template });
 
   const gap = 16;
 
-const carousel = document.getElementById("carousel"), //.querySelector("carousel"),
-  content = document.getElementById("carousel_content"), //.querySelector("content"),
-  next = document.getElementById("carousel_next"), //.querySelector("next"),
-  prev = document.getElementById("carousel_prev"); //.querySelector("prev");
+const carousel = document.getElementById("carousel"),
+  content = document.getElementById("carousel_content"),
+  next = document.getElementById("carousel_next"),
+  prev = document.getElementById("carousel_prev");
 
 next.addEventListener("click", e => {
   carousel.scrollBy(width + gap, 0);
