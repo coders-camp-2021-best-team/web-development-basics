@@ -16,7 +16,7 @@ export const HomeScreen = async ({ renderOn, options }) => {
 
     const my_movie = movies.results[1];
     const movie = await ApiProvider.getTitleDetails(my_movie.id);
-    console.log(movie);
+    
 
     MovieTile({ renderOn: '#home-movie-tiles', movie: movie });
 }
