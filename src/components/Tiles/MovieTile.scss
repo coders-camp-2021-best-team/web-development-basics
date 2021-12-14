@@ -1,32 +1,46 @@
 @import './variables';
 
+
+
+
 .movie-tile {
     width: 335px;
     height: 579px;
+    float: left;
+    margin: 10px;
+    position: relative;
+
+
 
     .movie-details {
-        position: relative;
+        position: static;
         background-color: $background-movie-hover;
         opacity: 0%;
         color: $font-primary-color;
-        max-width: 335px;
-        height: 500px;
+        width:100%;
+        height: 100%;
         transition: opacity 1s;
         -webkit-transition: opacity 1s;
         -moz-transition: opacity 1s;
         -ms-transition: opacity 1s;
         -o-transition: opacity 1s;
-    }
+        padding: 20px;
+        box-sizing: border-box;
 
+    }
+    .img-hover {
+        width:100%;
+    }
     .movie-details:hover {
         opacity: 90%;
     }
 
-    img {
+    .img-tile {
         position: absolute;
         object-fit: contain;
-        max-width: 335px;
-        height: auto;
+        width: 100%;
+        height: 100%;
+        
     }
 
     .title {
@@ -38,9 +52,73 @@
         overflow: hidden;
         text-overflow: ellipsis;
         color: $font-primary-color;
-        font-size: 24px;
-        width: 335px;
+        width: 100%;
         padding: 10px 5px;
         box-sizing: border-box;
+        font-family: Verdana, Geneva, Tahoma, sans-serif;
     }
+
+
+}
+
+@media all and (max-width:425px) {
+    .movie-tile {
+        width: 134px;
+        height: 231.6px;
+        float: left;
+        margin: 4px;
+        position: relative;
+}
+
+.movie-details {
+    position: relative;
+    background-color: $background-movie-hover;
+    opacity: 0%;
+    color: $font-primary-color;
+    width:40%;
+    height: 100%;
+    transition: opacity 1s;
+    -webkit-transition: opacity 1s;
+    -moz-transition: opacity 1s;
+    -ms-transition: opacity 1s;
+    -o-transition: opacity 1s;
+    padding: 10px;
+    box-sizing: border-box;
+    font-size: 5px;
+
+}
+.img-hover {
+    width:40%;
+}
+.movie-details:hover {
+    opacity: 90%;
+}
+
+.img-tile {
+    position: absolute;
+    object-fit: contain;
+    width: 40%;
+    height: 40%;
+    
+}
+
+.title {
+    position: relative;
+    margin-bottom: auto;
+    text-align: center;
+    background-color: $btn-color;
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    color: $font-primary-color;
+    width: 100%;
+    padding: auto;
+    box-sizing: border-box;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+h3 {
+    font-size: 6px;
+}
+
 }

@@ -2,9 +2,9 @@ import { render } from '../../shared/dom';
 
 export const MovieTile = ({ renderOn, movie }) => {
     const component = `
-    <div class="movie-tile">
+    <div id="es" class="movie-tile">
         <div class="img-hover">
-            <img src="${movie.image}"/>
+            <img src="${movie.image}" class="img-tile"/>
             <div class="movie-details">
                 <p><strong>Year:</strong> ${movie.year}</p>
                 <p><strong>Starring:</strong> ${movie.stars}</p>
@@ -12,7 +12,7 @@ export const MovieTile = ({ renderOn, movie }) => {
             </div>
             
         </div>
-        <h3 class='title'>${movie.title}</h3>
+        <h3 class="title">${movie.title}</h3>
     </div>
 `
     render({ on: renderOn, html: component });
