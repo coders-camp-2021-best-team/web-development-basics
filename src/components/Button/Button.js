@@ -2,12 +2,24 @@ import { render } from '../../shared/dom';
 
 
 
-const template = (ID, className, onClick, text, type) => `
-    <button id = "${ID}" class='btn ${className}' type="${type}" onClick="${onClick()}">${text}</button>
-`;
+const observer = (id, callback, event = 'click') => {
+    const observer = new MutationObserver((_, obs) => {
+        const element = document.getElementById(`${id}`);
+        if (element) {
+            element.addEventListener(event, callback);
+            obs.disconnect();
+            return;
+        }
+    });
+    observer.observe(document, {
+        childList: true,
+        subtree: true
+    });
+};
 
-export const Button = ({ ID, className, onClick, text, type}) => {
-    render({ html: template(ID, className, onClick, text, type), on: renderOn });
-
-    document.getElementById(`${ID}`).onclick = onClick;
+const Button = ({ onClick, id, text, type, className }) => {
+    observer(id, onClick);
+    return `
+    <button id="${id}" class="btn ${className}" type="${type}">${text}</button>
+    `;
 };
