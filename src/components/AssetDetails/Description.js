@@ -7,7 +7,9 @@ import { render } from '../../shared/dom';
  * @returns {string}
  */
 const DescriptionRow = (movie, name, index) => {
-    if (!index) index = name.toLowerCase();
+    if (!index) {
+        index = name.toLowerCase();
+    }
 
     return `
         <tr>
