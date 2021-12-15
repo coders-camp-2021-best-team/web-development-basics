@@ -1,0 +1,78 @@
+@import './variables';
+@import './mixins';
+
+
+.movie-tile {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: 335px;
+    height: 579px;
+    float: left;
+    margin: 10px;
+    position: relative;
+
+    .img-hover {
+        flex: 1;
+        position: relative;
+        width: 100%;
+        min-height: 0;
+
+        .img-tile {
+            position: absolute;
+            object-fit: contain;
+            width: 100%;
+            height: 100%;
+        }
+
+        .movie-details {
+            position: relative;
+            background-color: $background-movie-hover;
+            opacity: 0;
+            color: $font-primary-color;
+            width: 100%;
+            height: 100%;
+            transition: opacity 1s;
+            padding: 10px;
+            box-sizing: border-box;
+            overflow: hidden;
+            text-overflow: ellipsis;
+        }
+
+        .movie-details:hover {
+            opacity: 0.9;
+        }
+    }
+
+    .title {
+        margin-bottom: auto;
+        text-align: center;
+        background-color: $btn-color;
+        white-space: nowrap;
+        overflow: hidden;
+        text-overflow: ellipsis;
+        color: $font-primary-color;
+        width: 100%;
+        padding: 8px 5px;
+        box-sizing: border-box;
+        font-family: $font-title;
+    }
+}
+
+@include for-phone-and-tablet {
+    .movie-tile {
+        width: 134px;
+        height: 231.6px;
+        margin: 4px;
+
+        .title {
+            font-size: 8px;
+        }
+        .img-hover {
+            .movie-details {
+                padding: 8px;
+                font-size: 6px;
+            }
+        }
+    }
+}
