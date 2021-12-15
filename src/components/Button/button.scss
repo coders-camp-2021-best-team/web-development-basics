@@ -10,7 +10,7 @@
     background: $btn-color;
     box-shadow: $box-shadow-btn-cateogry;
     border-radius: 10px;
-    margin: 45px 0px;       
+    border: none;
     width: 255px;
     height: 39px;
     left: 80px;
@@ -26,8 +26,11 @@
     text-shadow: $text-shadow;
 }
 
-@media screen and (max-width: 768px) {
-    .ctext-wrap {
-        max-width: 100%;
+@include for-phone-only {
+    .btn {
+        width: 120px;
+        height: auto;
+        padding: 0px 10px;
+        font-size: 0.6EM;
     }
 }
