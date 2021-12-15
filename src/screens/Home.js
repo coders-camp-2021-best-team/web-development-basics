@@ -1,6 +1,7 @@
 import { render } from '../shared/dom.js';
 import { MovieTile } from '../components';
 import ApiProvider from '../providers/ApiProvider.js';
+import { Star } from '../components/index.js';
 
 const template = `
     <div>
