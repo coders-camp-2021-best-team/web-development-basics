@@ -1,7 +1,5 @@
-import { render } from '../../shared/dom';
-
-export const MovieTile = ({ renderOn, movie }) => {
-    const component = `
+export const MovieTile = ({ movie }) => {
+    return  `
     <div id="es" class="movie-tile">
         <div class="img-hover">
             <img src="${movie.image}" class="img-tile"/>
@@ -15,5 +13,5 @@ export const MovieTile = ({ renderOn, movie }) => {
         <h3 class="title">${movie.title}</h3>
     </div>
 `
-    render({ on: renderOn, html: component });
+    
 };
