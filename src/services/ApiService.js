@@ -1,4 +1,5 @@
 import CacheManager from './CacheManager';
+import Logger from '../utils/ConsoleLogger';
 
 const API_SECRET_KEY = process.env.API_SECRET_KEY || '';
 const API_BASE_URL = process.env.API_BASE_URL || '';
@@ -29,7 +30,7 @@ class ApiService {
             `/${api}/${process.env.API_SECRET_KEY}/${params}/${optional_params}`
         );
 
-        console.debug(`Trying to fetch data from API... ${url}`);
+        Logger.debug(`Trying to fetch data from API... ${url}`);
 
         try {
             const response = await fetch(url, {
@@ -45,7 +46,7 @@ class ApiService {
 
             return json;
         } catch (e) {
-            console.error(e);
+            Logger.error(e);
             throw new Error('Error occurred while fetching the API!');
         }
     }
