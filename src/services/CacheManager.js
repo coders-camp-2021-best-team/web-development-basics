@@ -1,4 +1,5 @@
 import ApiService from './ApiService';
+import Logger from '../utils/ConsoleLogger';
 
 class CacheManager {
     /**
@@ -40,7 +41,7 @@ class CacheManager {
         let path_arr = filename.split('/');
         let basename = path_arr[path_arr.length - 1];
 
-        console.warn(`New cache entry!`, {
+        Logger.warn(`New cache entry!`, {
             filename,
             content: JSON.stringify(json)
         });
@@ -57,7 +58,7 @@ class CacheManager {
     async getCache(method, api, params) {
         const url = this.getCacheFilename(api, params);
 
-        console.debug(`Trying to fetch data from cache... ${url}`);
+        Logger.debug(`Trying to fetch data from cache... ${url}`);
 
         if (method !== 'GET') {
             throw new Error('HTTP method other than GET is not supported.');
@@ -65,10 +66,10 @@ class CacheManager {
             try {
                 const response = await fetch(url);
                 const json = await response.json();
-                console.debug('Successfully fetched data from cache!');
+                Logger.debug('Successfully fetched data from cache!');
                 return json;
             } catch (err) {
-                console.error(err);
+                Logger.error(err);
                 return null;
             }
         }
