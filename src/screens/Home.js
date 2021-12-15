@@ -6,6 +6,7 @@ const template = `
     <div>
         <div id="home-screen">This is home screen</div>
         <template id="home-movie-tiles"></template>
+        <template id="home-movie-tiles-2"></template>
     </div>
 `;
 
@@ -14,5 +15,7 @@ export const HomeScreen = async ({ renderOn, options }) => {
 
     const movies = await ApiProvider.search('Inception');
 
-    MovieCarousel({ renderOn: '#home-movie-tiles', movies: movies.results });
+    MovieCarousel({ renderOn: '#home-movie-tiles', movies: movies.results, id:'Carousel' });
+
+    MovieCarousel({ renderOn: '#home-movie-tiles-2', movies: movies.results, id:'Carousel-2' });
 };

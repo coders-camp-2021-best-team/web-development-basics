@@ -12,13 +12,13 @@
     }
     .carousel__prev {
     top: 50%;
-    left: -1.5%;
+    left: -1%;
     transform: translate(50%, -50%);
     display: none;
     }
     .carousel__next {
     top: 50%;
-    right: -1.5%;
+    right: -1%;
     transform: translate(-50%, -50%);
     }
 }
@@ -28,12 +28,13 @@
     scroll-behavior: smooth;
     scrollbar-width: none;
     margin: 0 1em;
+
     ::-webkit-scrollbar {
         height: 0;
     }
     &__content {
         display: grid;
-        grid-gap: 18px;
+        grid-gap: 1em;
         grid-auto-flow: column;
         margin: auto;
         box-sizing: border-box;
