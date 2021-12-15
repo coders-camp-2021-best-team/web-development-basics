@@ -1,6 +1,6 @@
 export const MovieTile = ({ movie }) => {
     return  `
-    <div id="es" class="movie-tile">
+    <div class="movie-tile">
         <div class="img-hover">
             <img src="${movie.image}" class="img-tile"/>
             <div class="movie-details">
