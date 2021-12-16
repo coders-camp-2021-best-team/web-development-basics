@@ -1,3 +1,5 @@
+import { Star } from "../Star/Star";
+
 export const MovieTile = ({ movie }) => {
     return  `
     <div class="movie-tile">
@@ -8,7 +10,7 @@ export const MovieTile = ({ movie }) => {
                 <p><strong>Starring:</strong> ${movie.stars}</p>
                 <p><strong>Plot:</strong> ${movie.plot}</p>
             </div>
-            
+            ${Star({options : {id: `${movie.id}`}})}
         </div>
         <h3 class="title">${movie.title}</h3>
     </div>
