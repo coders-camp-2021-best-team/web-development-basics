@@ -1,7 +1,5 @@
 export const MovieTile = ({ movie }) => {
-    if (movie){
-
-    return  `
+    return `
     <div class="movie-tile">
         <div class="img-hover">
             <img src="${movie.image}" class="img-tile"/>
@@ -14,6 +12,5 @@ export const MovieTile = ({ movie }) => {
         </div>
         <h3 class="title">${movie.title}</h3>
     </div>
-`
-}    
+`;
 };

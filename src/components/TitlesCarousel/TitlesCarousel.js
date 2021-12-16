@@ -50,11 +50,7 @@ export const MovieCarousel = ({ movies, id }) => {
   <div id="carousel-${id}" class="carousel">
 
     <div id="carousel_content-${id}" class="carousel__content">
-        ${movies
-            .map(
-                (movie) => MovieTile(movie)
-            )
-            .join(' ')}
+        ${movies.map((movie) => MovieTile({movie})).join(' ')}
     </div>
 
     <div id="carousel_prev-${id}" class="carousel__prev">
