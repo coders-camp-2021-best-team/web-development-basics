@@ -1,4 +1,5 @@
 import { obseverDom } from '../../shared/observer';
+import { MovieTile } from '../Tiles/MovieTile';
 
 export const MovieCarousel = ({ movies, id }) => {
     obseverDom((_, obs) => {
@@ -51,9 +52,7 @@ export const MovieCarousel = ({ movies, id }) => {
     <div id="carousel_content-${id}" class="carousel__content">
         ${movies
             .map(
-                (_, idx) => `
-          <div class="carousel__item">${idx}</div>
-        `
+                (movie) => MovieTile(movie)
             )
             .join(' ')}
     </div>

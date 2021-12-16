@@ -21,5 +21,5 @@ export const HomeScreen = async ({ renderOn, options }) => {
     const movie = await ApiProvider.getTitleDetails(my_movie.id);
     const movie_tile = MovieTile({movie: movie});
 
-    render({on: "#home-movie-tiles", html: movie_tile});
-}
+    render({ on: renderOn, html: template(movies) });
+};

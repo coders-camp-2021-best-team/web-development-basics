@@ -1,4 +1,6 @@
 export const MovieTile = ({ movie }) => {
+    if (movie){
+
     return  `
     <div class="movie-tile">
         <div class="img-hover">
@@ -13,5 +15,5 @@ export const MovieTile = ({ movie }) => {
         <h3 class="title">${movie.title}</h3>
     </div>
 `
-    
+}    
 };
