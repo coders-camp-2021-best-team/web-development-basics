@@ -20,12 +20,6 @@
         margin: auto;
         box-sizing: border-box;
     }
-
-    &__item {
-        width: 335px;
-        height: 500px;
-        background-color: red;
-    }
     &__prev, &__next {
         display: flex;
         justify-content: center;
