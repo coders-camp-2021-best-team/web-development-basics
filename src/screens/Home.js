@@ -1,6 +1,8 @@
 import { render } from '../shared/dom.js';
 import { MovieCarousel } from '../components';
 import ApiProvider from '../providers/ApiProvider.js';
+import { MovieTile } from '../components';
+import { Star } from '../components/index.js';
 
 const template = (movies) => `
     <div>
@@ -11,7 +13,13 @@ const template = (movies) => `
 `;
 
 export const HomeScreen = async ({ renderOn, options }) => {
-    const movies = await ApiProvider.search('Inception');
 
-    render({ on: renderOn, html: template(movies) });
-};
+    // TODO this is temporary to show example movie tile
+    const movies = await ApiProvider.search('Fast & Furious');
+
+    const my_movie = movies.results[1];
+    const movie = await ApiProvider.getTitleDetails(my_movie.id);
+    const movie_tile = MovieTile({movie: movie});
+
+    render({on: "#home-movie-tiles", html: movie_tile});
+}
