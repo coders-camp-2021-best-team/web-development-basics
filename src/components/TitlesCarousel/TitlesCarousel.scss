@@ -2,25 +2,6 @@
     width: 100%;
     position: relative;
     display: flex;
-    .carousel__prev, .carousel__next {
-    display: flex;
-    justify-content: center;
-    align-content: center;
-    outline: 0;
-    cursor: pointer;
-    position: absolute;
-    }
-    .carousel__prev {
-    top: 50%;
-    left: -1%;
-    transform: translate(50%, -50%);
-    display: none;
-    }
-    .carousel__next {
-    top: 50%;
-    right: -1%;
-    transform: translate(-50%, -50%);
-    }
 }
 
 .carousel {
@@ -44,5 +25,24 @@
         width: 335px;
         height: 500px;
         background-color: red;
+    }
+    &__prev, &__next {
+        display: flex;
+        justify-content: center;
+        align-content: center;
+        outline: 0;
+        cursor: pointer;
+        position: absolute;
+    }
+    &__prev {
+        top: 50%;
+        left: -1%;
+        transform: translate(50%, -50%);
+        display: none;
+    }
+    &__next {
+        top: 50%;
+        right: -1%;
+        transform: translate(-50%, -50%);
     }
 }

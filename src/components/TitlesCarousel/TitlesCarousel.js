@@ -58,8 +58,6 @@ export const MovieCarousel = ({ movies, id }) => {
             .join(' ')}
     </div>
 
-  </div>
-
     <div id="carousel_prev-${id}" class="carousel__prev">
       <svg
         xmlns="http://www.w3.org/2000/svg"
@@ -81,7 +79,7 @@ export const MovieCarousel = ({ movies, id }) => {
         <path d="M10.02 6L8.61 7.41 13.19 12l-4.58 4.59L10.02 18l6-6-6-6z" />
       </svg>
     </div>
-
+    </div>
 </div>
 `;
 };
