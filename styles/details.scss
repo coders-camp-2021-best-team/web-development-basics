@@ -8,52 +8,110 @@
     &__trailer {
         display: flex;
         background: $trailer-color;
-        margin: 0px 10px;
-		padding-left: 10px;
-		padding-right: 10px;
-		justify-content: center;
+        margin: 0px 11px;
+        video {
+            display: flex;
+            width: 100%;
+        }
     }
     &__poster {
         display: flex;
-        padding-top: 10px;
-		padding-left: 10px;
-		padding-right: 10px;
+        padding: 10px 11px;
         justify-content: space-between;
+        line-height: 2;
+        img {
+            display: flex;
+        }
     }
 
     &__gallery-button {
         display: flex;
 		justify-content: center;
-		padding-top: 4vh;
-		padding-bottom: 2vh;
+        padding: 25px 80px;
     }
     &__gallery {
         display: grid;
 		grid-template-columns: 1fr 1fr 1fr 1fr;
-		gap: 0.5vh;
+		gap: 0.5vw;
+        img {
+            display: flex;
+            width: 100%;
+        }
     }
 }
-/*
 @include for-phone-only{
+    .details {
+        font-size: 11px;
+        &__trailer {
+            margin: 0 5px;
+        }
+        &__poster {
+            img {
+                max-height: 300px;
+            }
+        }
+        &__gallery {
+            grid-template-columns: 1fr 1fr;
+        }
+    }
 
 }
 
 @include for-phone-and-tablet {
+    .details {
+		font-size: 14px;
+		&__poster {
+			img {
+				max-height: 280px;
+			}
+		}
+	}
 
 }
 
 @include for-tablet-portrait-up{
+    .details {
+		font-size: 18px;
+		&__poster {
+			img {
+				max-height: 500px;
+			}
+		}
+	}
 
 }
 
 @include for-tablet-landscape-up{
+    .details {
+		font-size: 20px;
+        &__poster {
+			img {
+				max-height: 500px;
+			}
+		}
+	}
 
 }
 
 @include for-desktop-up{
+    .details {
+		font-size: 22px;
+		&__poster {
+			img {
+				max-height: 600px;
+			}
+		}
+	}
 
 }
 @include for-big-desktop-up{
+    .details {
+		font-size: 28px;
+		&__poster {
+			img {
+				max-height: 1000px;
+			}
+		}
+	}
 
 }
-*/
