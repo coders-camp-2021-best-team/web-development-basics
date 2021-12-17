@@ -1,27 +1,34 @@
 @import './variables.scss';
 
 .details {
-    width: 100%;
     background: $background-color;
+    color: $font-primary-color;
     
     &__trailer {
+        display: flex;
         background: $trailer-color;
+        margin: 0px 10px;
+		padding-left: 10px;
+		padding-right: 10px;
+		justify-content: center;
     }
     &__poster {
-        /* Auto Layout */
         display: flex;
-        justify-content: center;
-        align-items: center;
-        padding: 25px 80px;
+        padding-top: 10px;
+		padding-left: 10px;
+		padding-right: 10px;
+        justify-content: space-between;
     }
 
     &__gallery-button {
-        background: $btn-color;
+        display: flex;
+		justify-content: center;
+		padding-top: 4vh;
+		padding-bottom: 2vh;
     }
     &__gallery {
-        /* Auto Layout */
-        display: flex;
-        justify-content: center;
-        align-items: center;
+        display: grid;
+		grid-template-columns: 1fr 1fr 1fr 1fr;
+		gap: 0.5vh;
     }
 }
