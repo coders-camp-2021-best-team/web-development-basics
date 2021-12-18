@@ -21,6 +21,7 @@
         line-height: 2;
         img {
             display: flex;
+            max-width: 690px;
         }
     }
 
@@ -47,7 +48,7 @@
         }
         &__poster {
             img {
-                max-height: 300px;
+                max-width: 150px;
             }
         }
         &__gallery {
@@ -59,10 +60,10 @@
 
 @include for-phone-and-tablet {
     .details {
-		font-size: 14px;
+		font-size: 12px;
 		&__poster {
 			img {
-				max-height: 280px;
+				max-width: 160px;
 			}
 		}
 	}
@@ -74,7 +75,7 @@
 		font-size: 18px;
 		&__poster {
 			img {
-				max-height: 500px;
+				max-width: 300px;
 			}
 		}
 	}
@@ -86,7 +87,7 @@
 		font-size: 20px;
         &__poster {
 			img {
-				max-height: 500px;
+				max-width: 400px;
 			}
 		}
 	}
@@ -98,7 +99,7 @@
 		font-size: 22px;
 		&__poster {
 			img {
-				max-height: 600px;
+				max-width: 450px;
 			}
 		}
 	}
@@ -107,11 +108,5 @@
 @include for-big-desktop-up{
     .details {
 		font-size: 28px;
-		&__poster {
-			img {
-				max-height: 1000px;
-			}
-		}
 	}
-
 }
