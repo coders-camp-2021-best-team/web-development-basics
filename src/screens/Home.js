@@ -3,7 +3,6 @@ import { MovieTile } from '../components';
 import ApiProvider from '../providers/ApiProvider.js';
 import { Star } from '../components/index.js';
 import { MovieCarousel } from '../components';
-import ApiProvider from '../providers/ApiProvider.js';
 
 const template = (movies) => `
     <div>
