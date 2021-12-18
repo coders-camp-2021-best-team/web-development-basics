@@ -1,5 +1,7 @@
+import { Star } from "../Star/Star";
+
 export const MovieTile = ({ movie }) => {
-    return  `
+    return `
     <div class="movie-tile">
         <div class="img-hover">
             <img src="${movie.image}" class="img-tile"/>
@@ -8,10 +10,9 @@ export const MovieTile = ({ movie }) => {
                 <p><strong>Starring:</strong> ${movie.stars}</p>
                 <p><strong>Plot:</strong> ${movie.plot}</p>
             </div>
-            
+            ${Star({options : {id: `${movie.id}`}})}
         </div>
         <h3 class="title">${movie.title}</h3>
     </div>
-`
-    
+`;
 };

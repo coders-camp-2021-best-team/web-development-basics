@@ -1,0 +1,42 @@
+.wrapper {
+    width: 100%;
+    position: relative;
+    display: flex;
+}
+
+.carousel {
+    overflow: hidden;
+    scroll-behavior: smooth;
+    scrollbar-width: none;
+    margin: 0 1em;
+
+    ::-webkit-scrollbar {
+        height: 0;
+    }
+    &__content {
+        display: grid;
+        grid-gap: 1em;
+        grid-auto-flow: column;
+        margin: auto;
+        box-sizing: border-box;
+    }
+    &__prev, &__next {
+        display: flex;
+        justify-content: center;
+        align-content: center;
+        outline: 0;
+        cursor: pointer;
+        position: absolute;
+    }
+    &__prev {
+        top: 50%;
+        left: -1%;
+        transform: translate(50%, -50%);
+        display: none;
+    }
+    &__next {
+        top: 50%;
+        right: -1%;
+        transform: translate(-50%, -50%);
+    }
+}
