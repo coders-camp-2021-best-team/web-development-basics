@@ -2,6 +2,7 @@ import { render } from '../shared/dom';
 import { Router, routes } from '../route';
 import { Header, Footer } from '../components';
 import { HomeScreen } from '../screens';
+import { DetailsScreen } from './Details';
 
 const template = `
     <div>
@@ -25,7 +26,7 @@ export const BaseScreen = ({ renderOn }) => {
             {
                 component: HomeScreen,
                 route: routes.home
-            }
+            },
             // {
             //     component: SearchScreen,
             //     route: routes.search
@@ -34,6 +35,10 @@ export const BaseScreen = ({ renderOn }) => {
             //     component: Error404Screen,
             //     route: routes.error404
             // }
+            {
+                component: DetailsScreen,
+                route: routes.details
+            }
         ],
         on: '#app-main'
     });
