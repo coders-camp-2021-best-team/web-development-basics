@@ -1,6 +1,6 @@
 import { render } from '../shared/dom.js';
-import { MovieCarousel } from '../components';
 import ApiProvider from '../providers/ApiProvider.js';
+import { MovieCarousel } from '../components';
 
 const template = (movies) => `
     <div>
