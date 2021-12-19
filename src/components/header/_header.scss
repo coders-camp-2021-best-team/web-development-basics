@@ -36,6 +36,7 @@ header{
       text-align: center;
       list-style: none;
       color: $font-primary-color;
+      z-index: 2;
       .exit{
         display: contents;
         cursor: pointer;
