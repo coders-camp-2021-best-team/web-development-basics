@@ -1,23 +1,11 @@
-import { ResultsTable } from '../components/Search/ResultsTable';
-import { render } from '../shared/dom';
-import ApiProvider from '../providers/ApiProvider';
+import { render } from '../shared/dom.js';
 
 const template = `
-    <div id="app__screen__search">
-        <template id="search__results-table"></template>
-    </div>
+<div id="search-screen">
+    <template id="tiles-grid"></template>
+</div>
 `;
 
 export const SearchScreen = async ({ renderOn }) => {
-    render({ html: template, on: renderOn });
-
-    const params = new URLSearchParams(window.location.search);
-    const query = params.get('q');
-
-    const { results } = await ApiProvider.search(query);
-
-    ResultsTable({
-        renderOn: '#search__results-table',
-        results
-    });
+    render({ on: renderOn, html: template });
 };

@@ -1,8 +1,7 @@
 import { render } from '../shared/dom';
 import { Router, routes } from '../route';
 import { Header, Footer } from '../components';
-import { HomeScreen } from '../screens';
-import { DetailsScreen } from './Details';
+import { HomeScreen, DetailsScreen, SearchScreen } from '../screens';
 
 const template = `
     <div>
@@ -21,16 +20,15 @@ export const BaseScreen = ({ renderOn }) => {
     Footer({ renderOn: '#app-footer' });
 
     Router({
-        // TODO: add your components
         routes: [
             {
                 component: HomeScreen,
                 route: routes.home
             },
-            // {
-            //     component: SearchScreen,
-            //     route: routes.search
-            // },
+            {
+                component: SearchScreen,
+                route: routes.search
+            },
             // {
             //     component: Error404Screen,
             //     route: routes.error404
