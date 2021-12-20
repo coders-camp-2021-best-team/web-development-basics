@@ -4,3 +4,9 @@
     grid-template-columns: repeat(auto-fit, 380px);
     justify-content: center;
 }
+
+@include for-phone-and-tablet {
+    .grid-container {
+        grid-template-columns: repeat(auto-fit, 140px);
+    }
+}
