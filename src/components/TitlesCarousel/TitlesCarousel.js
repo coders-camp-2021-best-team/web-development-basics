@@ -1,7 +1,7 @@
 import { obseverDom } from '../../shared/observer';
 import { MovieTile } from '../Tiles/MovieTile';
 
-export const MovieCarousel = ({ movies, id }) => {
+export const MovieCarousel = async ({ movies, id }) => {
     obseverDom((_, obs) => {
         const carousel = document.getElementById(`carousel-${id}`);
         const content = document.getElementById(`carousel_content-${id}`);
@@ -50,7 +50,13 @@ export const MovieCarousel = ({ movies, id }) => {
   <div id="carousel-${id}" class="carousel">
 
     <div id="carousel_content-${id}" class="carousel__content">
-        ${movies.map((movie) => MovieTile({movie})).join(' ')}
+        ${(
+            await Promise.all(
+                movies.map(
+                    async (movie) => await MovieTile({ movieID: movie.id })
+                )
+            )
+        ).join(' ')}
     </div>
 
     <div id="carousel_prev-${id}" class="carousel__prev">

@@ -1,5 +1,6 @@
 import { render } from '../../shared/dom';
 import { NavLink } from '../Nav/Link';
+import { redirect } from '../..';
 import { routes } from '../../route';
 
 const template = `
@@ -23,7 +24,7 @@ const template = `
     </header>
 `;
 
-export const Header = ({ renderOn, options }) => {
+export const Header = ({ renderOn }) => {
     render({ on: renderOn, html: template });
 
     const open = () => {
@@ -38,4 +39,8 @@ export const Header = ({ renderOn, options }) => {
 
     document.getElementById('icon').onclick = open;
     document.getElementById('exit').onclick = close;
+
+    document.getElementById('favorites').addEventListener('click', () => {
+        redirect(routes.favorites.routerPath);
+    });
 };
