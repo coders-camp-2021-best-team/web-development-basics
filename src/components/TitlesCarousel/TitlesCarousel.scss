@@ -13,6 +13,7 @@
     ::-webkit-scrollbar {
         height: 0;
     }
+
     &__content {
         display: grid;
         grid-gap: 1em;
@@ -20,23 +21,29 @@
         margin: auto;
         box-sizing: border-box;
     }
-    &__prev, &__next {
+
+    &__prev,
+    &__next {
         display: flex;
         justify-content: center;
         align-content: center;
         outline: 0;
         cursor: pointer;
         position: absolute;
-    }
-    &__prev {
         top: 50%;
+        background-color: $popuot-menu-backgorund-color;
+        border: 2px solid black;
+        border-radius: 50%;
+    }
+
+    &__prev {
         left: -1%;
-        transform: translate(50%, -50%);
+        transform: translate(60%, -50%);
         display: none;
     }
+
     &__next {
-        top: 50%;
         right: -1%;
-        transform: translate(-50%, -50%);
+        transform: translate(-60%, -50%);
     }
 }
