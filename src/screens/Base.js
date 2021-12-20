@@ -3,7 +3,7 @@ import { Router, routes } from '../route';
 import { Header, Footer } from '../components';
 import { HomeScreen } from '../screens';
 import { DetailsScreen } from './Details';
-import { FavoriteScreen } from './favorite';
+import { FavoriteScreen } from './Favorite';
 
 const template = `
     <div>
