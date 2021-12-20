@@ -1,7 +1,6 @@
 import { render } from '../../shared/dom';
 import { NavLink } from '../Nav/Link';
-
-//TODO: connect li elements with redirect function
+import { routes } from '../../route';
 
 const template = `
     <header>
@@ -12,7 +11,7 @@ const template = `
         <ul id="menu" class="menu">
           ${NavLink({ href: '#', title: 'Movie' })}
           ${NavLink({ href: '#', title: 'TV Series' })}
-          ${NavLink({ href: '/search', title: 'Search' })}
+          ${NavLink({ href: routes.search.routerPath, title: 'Search' })}
           ${NavLink({ href: '#', title: 'Favorite' })}
           <button id="exit" class="exit"><li>&times;</li></button>
         </ul>
