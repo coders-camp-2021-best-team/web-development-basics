@@ -13,7 +13,7 @@ const template = `
           ${NavLink({ href: '#', title: 'Movie' })}
           ${NavLink({ href: '#', title: 'TV Series' })}
           ${NavLink({ href: routes.search.routerPath, title: 'Search' })}
-          ${NavLink({ href: '#', title: 'Favorite' })}
+          ${NavLink({ href: routes.favorites.routerPath, title: 'Favorite' })}
           <button id="exit" class="exit"><li>&times;</li></button>
         </ul>
         <div class="btns">
@@ -39,8 +39,4 @@ export const Header = ({ renderOn }) => {
 
     document.getElementById('icon').onclick = open;
     document.getElementById('exit').onclick = close;
-
-    document.getElementById('favorites').addEventListener('click', () => {
-        redirect(routes.favorites.routerPath);
-    });
 };
