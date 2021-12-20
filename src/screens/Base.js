@@ -3,6 +3,7 @@ import { Router, routes } from '../route';
 import { Header, Footer } from '../components';
 import { HomeScreen } from '../screens';
 import { DetailsScreen } from './Details';
+import { FavoriteScreen } from './favorite';
 
 const template = `
     <div>
@@ -38,6 +39,10 @@ export const BaseScreen = ({ renderOn }) => {
             {
                 component: DetailsScreen,
                 route: routes.details
+            },
+            {
+                component: FavoriteScreen,
+                route: routes.favorites
             }
         ],
         on: '#app-main'
