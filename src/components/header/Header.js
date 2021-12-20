@@ -1,6 +1,7 @@
 import { render } from '../../shared/dom';
 import { NavLink } from '../Nav/Link';
 import { routes } from '../../route';
+import { Button } from '../Button/Button';
 
 const template = `
     <header>
@@ -17,7 +18,7 @@ const template = `
         </ul>
         <div class="btns">
           <button id="icon" class="icon"><img src="/static/img/menuIcon.png" alt="toggleMenuIconMinor"></button>
-          <div id="randomBtn">Tu byndzie guzik</div>
+          ${Button(() => console.log("dupa"), "randomBtn", "random movies")}
         </div>
       </div>
     </header>
