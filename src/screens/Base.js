@@ -37,6 +37,10 @@ export const BaseScreen = ({ renderOn }) => {
             {
                 component: DetailsScreen,
                 route: routes.details
+            },
+            {
+                component: FavoriteScreen,
+                route: routes.favorites
             }
         ],
         on: '#app-main'
