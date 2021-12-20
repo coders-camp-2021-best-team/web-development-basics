@@ -1,0 +1,11 @@
+@import '../../../styles/mixins';
+@import '../../../styles/variables';
+
+.movie-label {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 15px 128px;
+    background-color: $btn-color;
+    color: $font-primary-color;
+}
