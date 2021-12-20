@@ -1,10 +1,14 @@
 import { render } from '../../shared/dom';
 import { MovieTile } from './MovieTile';
 
-export const TilesGrid = ({ renderOn, movies }) => {
+export const TilesGrid = async ({ renderOn, movies }) => {
     const template = `
         <div class='grid-container'>
-            ${movies.map((movie) => MovieTile({ movie })).join(' ')}
+            ${(
+                await Promise.all(
+                    movies.map((movie) => MovieTile({ movieID: movie.id }))
+                )
+            ).join(' ')}
         </div>
     `;
 
