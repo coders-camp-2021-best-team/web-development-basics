@@ -18,7 +18,7 @@ const template = `
         </ul>
         <div class="btns">
           <button id="icon" class="icon"><img src="/static/img/menuIcon.png" alt="toggleMenuIconMinor"></button>
-          ${Button(() => console.log("dupa"), "randomBtn", "random movies")}
+          ${Button(() => console.log("dupa"), "randomBtn", "random movies", "button" , "randomBtn")}
         </div>
       </div>
     </header>
