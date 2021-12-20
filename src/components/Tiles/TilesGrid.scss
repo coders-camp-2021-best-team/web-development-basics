@@ -1,0 +1,6 @@
+.tiles-grid-container {
+    display: grid;
+
+    grid-template-columns: repeat(auto-fit, 380px);
+    justify-content: center;
+}
