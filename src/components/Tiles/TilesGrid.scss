@@ -1,0 +1,10 @@
+.grid-container {
+    display: grid;
+    justify-content: center;
+
+    grid-template-columns: repeat(auto-fit, 380px);
+
+    @include for-phone-and-tablet {
+        grid-template-columns: repeat(auto-fit, 140px);
+    }
+}

@@ -2,7 +2,7 @@ import 'regenerator-runtime/runtime'; //async/await with Parcel
 import { App } from './app/App';
 import Logger from './utils/ConsoleLogger';
 
-const redirect = (href) => {
+export const redirect = (href) => {
     Logger.debug('Redirecting to ', href);
     history.pushState({}, href, href);
 
