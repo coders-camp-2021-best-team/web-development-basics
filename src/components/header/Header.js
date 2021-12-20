@@ -1,16 +1,19 @@
 import { render } from '../../shared/dom';
+import { NavLink } from '../Nav/Link';
 
 //TODO: connect li elements with redirect function
 
-const template=`
+const template = `
     <header>
-      <img src="/static/img/logo.png" alt="logo" class="logo">
+      <a href="/">
+        <img src="/static/img/logo.png" alt="logo" class="logo">
+      </a>
       <div class="navBar">
         <ul id="menu" class="menu">
-          <li>Movie</li>
-          <li>TV Series</li>
-          <li>Search</li>
-          <li>Favorite</li>
+          ${NavLink({ href: '#', title: 'Movie' })}
+          ${NavLink({ href: '#', title: 'TV Series' })}
+          ${NavLink({ href: '/search', title: 'Search' })}
+          ${NavLink({ href: '#', title: 'Favorite' })}
           <button id="exit" class="exit"><li>&times;</li></button>
         </ul>
         <div class="btns">
@@ -21,20 +24,19 @@ const template=`
     </header>
 `;
 
-export const Header = ({ renderOn, options}) => {
-  render({on: renderOn, html: template});
-  
-  const open = () => {
-      document.getElementById("menu").classList.add("menu-active");
-      document.getElementById("menu").classList.remove("menu");
-    }
-  
-  const close = () => {
-      document.getElementById("menu").classList.add("menu");
-      document.getElementById("menu").classList.remove("menu-active");
-    }
+export const Header = ({ renderOn, options }) => {
+    render({ on: renderOn, html: template });
 
-  document.getElementById('icon').onclick = open;
-  document.getElementById('exit').onclick = close;
-    
-}
+    const open = () => {
+        document.getElementById('menu').classList.add('menu-active');
+        document.getElementById('menu').classList.remove('menu');
+    };
+
+    const close = () => {
+        document.getElementById('menu').classList.add('menu');
+        document.getElementById('menu').classList.remove('menu-active');
+    };
+
+    document.getElementById('icon').onclick = open;
+    document.getElementById('exit').onclick = close;
+};
