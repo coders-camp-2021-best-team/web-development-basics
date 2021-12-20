@@ -1,11 +1,10 @@
 import { render } from '../../shared/dom';
 import { NavLink } from '../Nav/Link';
-import { redirect } from '../..';
 import { routes } from '../../route';
 
 const template = `
     <header>
-      <a href="/">
+      <a href="${routes.home.routerPath}">
         <img src="/static/img/logo.png" alt="logo" class="logo">
       </a>
       <div class="navBar">
