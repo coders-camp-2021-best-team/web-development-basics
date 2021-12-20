@@ -1,6 +1,6 @@
 import { render } from '../shared/dom.js';
 import { TilesGrid } from '../components';
-import ApiProvider from '../providers/ApiProvider.js';\
+import ApiProvider from '../providers/ApiProvider.js';
 
 const template = `
 <div id="search-screen">
