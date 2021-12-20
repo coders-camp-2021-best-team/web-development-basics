@@ -1,18 +1,18 @@
 import { render } from '../../shared/dom';
-import { redirect } from '../..';
+import { NavLink } from '../Nav/Link';
 import { routes } from '../../route';
-
-//TODO: connect li elements with redirect function
 
 const template = `
     <header>
-      <img src="/static/img/logo.png" alt="logo" class="logo">
+      <a href="${routes.home.routerPath}">
+        <img src="/static/img/logo.png" alt="logo" class="logo">
+      </a>
       <div class="navBar">
         <ul id="menu" class="menu">
-          <li>Movie</li>
-          <li>TV Series</li>
-          <li>Search</li>
-          <li id="favorites">Favorite</li>
+          ${NavLink({ href: '#', title: 'Movie' })}
+          ${NavLink({ href: '#', title: 'TV Series' })}
+          ${NavLink({ href: routes.search.routerPath, title: 'Search' })}
+          ${NavLink({ href: routes.favorites.routerPath, title: 'Favorite' })}
           <button id="exit" class="exit"><li>&times;</li></button>
         </ul>
         <div class="btns">
@@ -38,8 +38,4 @@ export const Header = ({ renderOn }) => {
 
     document.getElementById('icon').onclick = open;
     document.getElementById('exit').onclick = close;
-
-    document.getElementById('favorites').addEventListener('click', () => {
-        redirect(routes.favorites.routerPath);
-    });
 };
