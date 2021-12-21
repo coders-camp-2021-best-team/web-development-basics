@@ -20,8 +20,6 @@ const DescriptionRow = (movie, name, index) => {
 };
 
 export const AssetDetailsDescription = ({ renderOn, movie }) => {
-    console.debug(movie);
-
     const template = `
         <article class='asset-description'>
             <div class="details__container">

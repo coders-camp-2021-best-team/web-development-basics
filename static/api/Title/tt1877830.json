@@ -1,0 +1,809 @@
+{
+    "id": "tt1877830",
+    "title": "The Batman",
+    "originalTitle": "",
+    "fullTitle": "The Batman (2022)",
+    "type": "Movie",
+    "year": "2022",
+    "image": "https://imdb-api.com/images/original/MV5BZTE2YTY3YTMtM2FlMS00YmI3LTgyMWUtM2FhMWIyZWRmMDk5XkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_Ratio0.7985_AL_.jpg",
+    "releaseDate": "2022-03-03",
+    "runtimeMins": "",
+    "runtimeStr": "",
+    "plot": "The plot is unknown.",
+    "plotLocal": "",
+    "plotLocalIsRtl": false,
+    "awards": "",
+    "directors": "Matt Reeves",
+    "directorList": [{ "id": "nm0716257", "name": "Matt Reeves" }],
+    "writers": "Peter Craig, Bob Kane, Bill Finger, Matt Reeves, Mattson Tomlin",
+    "writerList": [
+        { "id": "nm0185976", "name": "Peter Craig" },
+        { "id": "nm0004170", "name": "Bob Kane" },
+        { "id": "nm0277730", "name": "Bill Finger" },
+        { "id": "nm0716257", "name": "Matt Reeves" },
+        { "id": "nm3231728", "name": "Mattson Tomlin" }
+    ],
+    "stars": "Robert Pattinson, Colin Farrell, Andy Serkis, Paul Dano",
+    "starList": [
+        { "id": "nm1500155", "name": "Robert Pattinson" },
+        { "id": "nm0268199", "name": "Colin Farrell" },
+        { "id": "nm0785227", "name": "Andy Serkis" },
+        { "id": "nm0200452", "name": "Paul Dano" }
+    ],
+    "actorList": [
+        {
+            "id": "nm1500155",
+            "image": "https://imdb-api.com/images/original/MV5BNzk0MDQ5OTUxMV5BMl5BanBnXkFtZTcwMDM5ODk5Mg@@._V1_Ratio0.7273_AL_.jpg",
+            "name": "Robert Pattinson",
+            "asCharacter": "Bruce Wayne / Batman"
+        },
+        {
+            "id": "nm0268199",
+            "image": "https://imdb-api.com/images/original/MV5BMTg4NzM5NDk0MV5BMl5BanBnXkFtZTcwNzAzMTUxNw@@._V1_Ratio0.7273_AL_.jpg",
+            "name": "Colin Farrell",
+            "asCharacter": "Oswald Cobblepot / The Penguin"
+        },
+        {
+            "id": "nm0785227",
+            "image": "https://imdb-api.com/images/original/MV5BYTgwYmM0ZjgtMWRmZC00YTc1LWIwYWEtYTFjMTZiMDNjNWRkXkEyXkFqcGdeQXVyNjcwMjczMzE@._V1_Ratio0.7273_AL_.jpg",
+            "name": "Andy Serkis",
+            "asCharacter": "Alfred Pennyworth"
+        },
+        {
+            "id": "nm0200452",
+            "image": "https://imdb-api.com/images/original/MV5BMjMwMzE1OTc0OF5BMl5BanBnXkFtZTcwMDU2NTg0Nw@@._V1_Ratio0.7273_AL_.jpg",
+            "name": "Paul Dano",
+            "asCharacter": "Edward Nashton / The Riddler"
+        },
+        {
+            "id": "nm2368789",
+            "image": "https://imdb-api.com/images/original/MV5BMWJiYzFjYWQtNWEwMS00ODQ0LWI5NDktMTNkOTcwOWVjNjk5XkEyXkFqcGdeQXVyNjk2NTA3MTc@._V1_Ratio1.3182_AL_.jpg",
+            "name": "Zoë Kravitz",
+            "asCharacter": "Selina Kyle / Catwoman"
+        },
+        {
+            "id": "nm9245718",
+            "image": "https://imdb-api.com/images/original/MV5BMjA1ZTRlM2EtNGNhZi00MTY4LWE1NTYtY2YwMzU4NDdjMGQzXkEyXkFqcGdeQXVyODAwMjI2Njk@._V1_Ratio1.0000_AL_.jpg",
+            "name": "Amber Sienna",
+            "asCharacter": "Gentlemen's Club Hostess"
+        },
+        {
+            "id": "nm0765597",
+            "image": "https://imdb-api.com/images/original/MV5BMjE0Mjg0NzE2Nl5BMl5BanBnXkFtZTcwMDE1MTkxMw@@._V1_Ratio0.7727_AL_.jpg",
+            "name": "Peter Sarsgaard",
+            "asCharacter": "District Attorney Gil Colson"
+        },
+        {
+            "id": "nm4422686",
+            "image": "https://imdb-api.com/images/original/MV5BMTcyNzEzMjY4NV5BMl5BanBnXkFtZTgwOTMzOTA5MjI@._V1_Ratio0.7273_AL_.jpg",
+            "name": "Barry Keoghan",
+            "asCharacter": "Officer Stanley Merkel"
+        },
+        {
+            "id": "nm0942482",
+            "image": "https://imdb-api.com/images/original/MV5BMjI1NDYyNzk4OV5BMl5BanBnXkFtZTgwNDAyMzI1MDI@._V1_Ratio1.5000_AL_.jpg",
+            "name": "Jeffrey Wright",
+            "asCharacter": "James Gordon"
+        },
+        {
+            "id": "nm0001806",
+            "image": "https://imdb-api.com/images/original/MV5BNzYwNjgwMjMxMF5BMl5BanBnXkFtZTcwNjUwOTc3NQ@@._V1_Ratio0.8182_AL_.jpg",
+            "name": "John Turturro",
+            "asCharacter": "Carmine Falcone"
+        },
+        {
+            "id": "nm0672303",
+            "image": "https://imdb-api.com/images/original/MV5BMjE1ODc2MjEzMV5BMl5BanBnXkFtZTgwNDg1MzQxMDE@._V1_Ratio0.7273_AL_.jpg",
+            "name": "Rupert Penry-Jones",
+            "asCharacter": "Mayor Don Mitchell Jr"
+        },
+        {
+            "id": "nm0273159",
+            "image": "https://imdb-api.com/images/original/MV5BMDI5MmRmODEtNjIxZS00NWQxLWJkN2UtZDRjNjZkMzMyOWIyXkEyXkFqcGdeQXVyNDgzOTM5Nzc@._V1_Ratio1.4545_AL_.jpg",
+            "name": "Alex Ferns",
+            "asCharacter": "Commissioner Pete Savage"
+        },
+        {
+            "id": "nm3083350",
+            "image": "https://imdb-api.com/images/original/MV5BZTY2MGNjY2ItYjcyYi00NjViLThkOTAtNDU5OWM1YThlZmFkXkEyXkFqcGdeQXVyMTI4NTcwOTQ0._V1_Ratio0.7727_AL_.jpg",
+            "name": "Charlie Carver",
+            "asCharacter": ""
+        },
+        {
+            "id": "nm4591704",
+            "image": "https://imdb-api.com/images/original/MV5BNmQ0NzQ2ZmMtODE2Ny00NmI1LTllYzgtM2UyNjA2YWQ2YTkxXkEyXkFqcGdeQXVyMjQwMDg0Ng@@._V1_Ratio0.7727_AL_.jpg",
+            "name": "Ed Kear",
+            "asCharacter": "Surly Cop"
+        },
+        {
+            "id": "nm3083571",
+            "image": "https://imdb-api.com/images/original/MV5BMmNhMWZjOGYtYzU1MS00NGQxLTgyYmMtMWRlNzU1YTM4NWViXkEyXkFqcGdeQXVyMjE4ODc1NTQ@._V1_Ratio0.7273_AL_.jpg",
+            "name": "Max Carver",
+            "asCharacter": ""
+        }
+    ],
+    "fullCast": null,
+    "genres": "Action, Crime, Drama",
+    "genreList": [
+        { "key": "Action", "value": "Action" },
+        { "key": "Crime", "value": "Crime" },
+        { "key": "Drama", "value": "Drama" }
+    ],
+    "companies": "6th & Idaho Productions, DC Comics, DC Entertainment",
+    "companyList": [
+        { "id": "co0510680", "name": "6th & Idaho Productions" },
+        { "id": "co0038332", "name": "DC Comics" },
+        { "id": "co0283444", "name": "DC Entertainment" }
+    ],
+    "countries": "USA",
+    "countryList": [{ "key": "USA", "value": "USA" }],
+    "languages": "English",
+    "languageList": [{ "key": "English", "value": "English" }],
+    "contentRating": "",
+    "imDbRating": "",
+    "imDbRatingVotes": "",
+    "metacriticRating": "",
+    "ratings": null,
+    "wikipedia": null,
+    "posters": {
+        "imDbId": "tt1877830",
+        "title": "The Batman",
+        "fullTitle": "The Batman (2022)",
+        "type": "Movie",
+        "year": "2022",
+        "posters": [
+            {
+                "id": "pOaKyhMwALpCTg07eQQu0SQCbL9.jpg",
+                "link": "https://imdb-api.com/posters/original/pOaKyhMwALpCTg07eQQu0SQCbL9.jpg",
+                "aspectRatio": 0.6666666666666666,
+                "language": "en",
+                "width": 2000,
+                "height": 3000
+            },
+            {
+                "id": "7YncShtIGNJP5euTPSZGxGsImaN.jpg",
+                "link": "https://imdb-api.com/posters/original/7YncShtIGNJP5euTPSZGxGsImaN.jpg",
+                "aspectRatio": 0.6747638326585695,
+                "language": "en",
+                "width": 2000,
+                "height": 2964
+            },
+            {
+                "id": "tdWJFXQZzzI8TIJQ54vLaQ50bW2.jpg",
+                "link": "https://imdb-api.com/posters/original/tdWJFXQZzzI8TIJQ54vLaQ50bW2.jpg",
+                "aspectRatio": 0.6666666666666666,
+                "language": "en",
+                "width": 2000,
+                "height": 3000
+            },
+            {
+                "id": "yYMG2uT87auGztI9aKVzBB2pHvK.jpg",
+                "link": "https://imdb-api.com/posters/original/yYMG2uT87auGztI9aKVzBB2pHvK.jpg",
+                "aspectRatio": 0.6666666666666666,
+                "language": "en",
+                "width": 2000,
+                "height": 3000
+            },
+            {
+                "id": "gmU7P3FzGFsl2wiSDhx9znZCNub.jpg",
+                "link": "https://imdb-api.com/posters/original/gmU7P3FzGFsl2wiSDhx9znZCNub.jpg",
+                "aspectRatio": 0.66640625,
+                "language": "en",
+                "width": 1706,
+                "height": 2560
+            },
+            {
+                "id": "nEfGeo74ZJNGkyHAhF4gOc4v5AM.jpg",
+                "link": "https://imdb-api.com/posters/original/nEfGeo74ZJNGkyHAhF4gOc4v5AM.jpg",
+                "aspectRatio": 0.6666666666666666,
+                "language": "en",
+                "width": 2000,
+                "height": 3000
+            },
+            {
+                "id": "nShcVgKSFSa6LSwdnXOVenGW0gE.jpg",
+                "link": "https://imdb-api.com/posters/original/nShcVgKSFSa6LSwdnXOVenGW0gE.jpg",
+                "aspectRatio": 0.6666666666666666,
+                "language": "en",
+                "width": 2000,
+                "height": 3000
+            },
+            {
+                "id": "e1pa0T32ZedIqUZ28YbXltqq3qc.jpg",
+                "link": "https://imdb-api.com/posters/original/e1pa0T32ZedIqUZ28YbXltqq3qc.jpg",
+                "aspectRatio": 0.6666666666666666,
+                "language": "en",
+                "width": 2000,
+                "height": 3000
+            },
+            {
+                "id": "oHUsnMgdcSh7xHfVuUaQTe4bz9l.jpg",
+                "link": "https://imdb-api.com/posters/original/oHUsnMgdcSh7xHfVuUaQTe4bz9l.jpg",
+                "aspectRatio": 0.6666666666666666,
+                "language": "en",
+                "width": 2000,
+                "height": 3000
+            },
+            {
+                "id": "y5XvGfELR5H1SASVdoWgwWfaFo2.jpg",
+                "link": "https://imdb-api.com/posters/original/y5XvGfELR5H1SASVdoWgwWfaFo2.jpg",
+                "aspectRatio": 0.6666666666666666,
+                "language": "en",
+                "width": 600,
+                "height": 900
+            },
+            {
+                "id": "5y8nlHZ1z2tBRQ4kOiWmNmRLYlm.jpg",
+                "link": "https://imdb-api.com/posters/original/5y8nlHZ1z2tBRQ4kOiWmNmRLYlm.jpg",
+                "aspectRatio": 0.6669741697416974,
+                "language": "en",
+                "width": 723,
+                "height": 1084
+            }
+        ],
+        "backdrops": [
+            {
+                "id": "tRS6jvPM9qPrrnx2KRp3ew96Yot.jpg",
+                "link": "https://imdb-api.com/posters/original/tRS6jvPM9qPrrnx2KRp3ew96Yot.jpg",
+                "aspectRatio": 1.7777777777777777,
+                "language": "en",
+                "width": 3840,
+                "height": 2160
+            },
+            {
+                "id": "9JVTQNCN4zUF0IfShUvsOFsmo1Q.jpg",
+                "link": "https://imdb-api.com/posters/original/9JVTQNCN4zUF0IfShUvsOFsmo1Q.jpg",
+                "aspectRatio": 1.7777777777777777,
+                "language": "en",
+                "width": 2560,
+                "height": 1440
+            },
+            {
+                "id": "4ke48uabb0K6uDcLlSED2ZvvYEb.jpg",
+                "link": "https://imdb-api.com/posters/original/4ke48uabb0K6uDcLlSED2ZvvYEb.jpg",
+                "aspectRatio": 1.78,
+                "language": "en",
+                "width": 1424,
+                "height": 800
+            },
+            {
+                "id": "1K7jIv3vy6dIXwo0CQNwokLeJc5.jpg",
+                "link": "https://imdb-api.com/posters/original/1K7jIv3vy6dIXwo0CQNwokLeJc5.jpg",
+                "aspectRatio": 1.7777777777777777,
+                "language": "en",
+                "width": 2560,
+                "height": 1440
+            },
+            {
+                "id": "t11wwXwc9J6O1L8aNNNrlT6HqSg.jpg",
+                "link": "https://imdb-api.com/posters/original/t11wwXwc9J6O1L8aNNNrlT6HqSg.jpg",
+                "aspectRatio": 1.7777777777777777,
+                "language": "en",
+                "width": 2560,
+                "height": 1440
+            },
+            {
+                "id": "nu1fARVd5xx8PKSdUeQTz0wtjyo.jpg",
+                "link": "https://imdb-api.com/posters/original/nu1fARVd5xx8PKSdUeQTz0wtjyo.jpg",
+                "aspectRatio": 1.7777777777777777,
+                "language": "en",
+                "width": 1920,
+                "height": 1080
+            },
+            {
+                "id": "jZfpDaku8fm14GZNc8lr7Li88Rm.jpg",
+                "link": "https://imdb-api.com/posters/original/jZfpDaku8fm14GZNc8lr7Li88Rm.jpg",
+                "aspectRatio": 1.7777777777777777,
+                "language": "en",
+                "width": 1920,
+                "height": 1080
+            },
+            {
+                "id": "xzjSrEMDQEAsPvpjS24MZ9XAvJt.jpg",
+                "link": "https://imdb-api.com/posters/original/xzjSrEMDQEAsPvpjS24MZ9XAvJt.jpg",
+                "aspectRatio": 1.7777777777777777,
+                "language": "en",
+                "width": 1920,
+                "height": 1080
+            },
+            {
+                "id": "suZKnss1hKqeADIlXzLK2EWw6kf.jpg",
+                "link": "https://imdb-api.com/posters/original/suZKnss1hKqeADIlXzLK2EWw6kf.jpg",
+                "aspectRatio": 1.7777777777777777,
+                "language": "en",
+                "width": 1920,
+                "height": 1080
+            },
+            {
+                "id": "4u6gAp6LaHxRj7jlenPgvzUMcnc.jpg",
+                "link": "https://imdb-api.com/posters/original/4u6gAp6LaHxRj7jlenPgvzUMcnc.jpg",
+                "aspectRatio": 1.7777777777777777,
+                "language": "en",
+                "width": 2560,
+                "height": 1440
+            },
+            {
+                "id": "oCbJbk8qKvQJx3RoEo4gE1EVKcK.jpg",
+                "link": "https://imdb-api.com/posters/original/oCbJbk8qKvQJx3RoEo4gE1EVKcK.jpg",
+                "aspectRatio": 1.7777777777777777,
+                "language": "en",
+                "width": 1920,
+                "height": 1080
+            },
+            {
+                "id": "9LDDOCUSScM6r5y3NNuNMtCGHE4.jpg",
+                "link": "https://imdb-api.com/posters/original/9LDDOCUSScM6r5y3NNuNMtCGHE4.jpg",
+                "aspectRatio": 1.7777777777777777,
+                "language": "en",
+                "width": 2560,
+                "height": 1440
+            },
+            {
+                "id": "yeqNdfbqazqPMThHgWpb99m084W.jpg",
+                "link": "https://imdb-api.com/posters/original/yeqNdfbqazqPMThHgWpb99m084W.jpg",
+                "aspectRatio": 1.7777777777777777,
+                "language": "en",
+                "width": 2560,
+                "height": 1440
+            },
+            {
+                "id": "ibMUIiFH3JT6bxpVHwTe6Zu0Cnb.jpg",
+                "link": "https://imdb-api.com/posters/original/ibMUIiFH3JT6bxpVHwTe6Zu0Cnb.jpg",
+                "aspectRatio": 1.7777777777777777,
+                "language": "en",
+                "width": 2560,
+                "height": 1440
+            },
+            {
+                "id": "9uBFErRgf9g2QQnUNwN0k2EFf2t.jpg",
+                "link": "https://imdb-api.com/posters/original/9uBFErRgf9g2QQnUNwN0k2EFf2t.jpg",
+                "aspectRatio": 1.7777777777777777,
+                "language": "en",
+                "width": 2560,
+                "height": 1440
+            },
+            {
+                "id": "fuIonTd1bJVZyG5bStmiuIk6pxM.jpg",
+                "link": "https://imdb-api.com/posters/original/fuIonTd1bJVZyG5bStmiuIk6pxM.jpg",
+                "aspectRatio": 1.7777777777777777,
+                "language": "en",
+                "width": 2560,
+                "height": 1440
+            },
+            {
+                "id": "Ae6yziRPYTJabPBo7hZiuI6Osqd.jpg",
+                "link": "https://imdb-api.com/posters/original/Ae6yziRPYTJabPBo7hZiuI6Osqd.jpg",
+                "aspectRatio": 1.7777777777777777,
+                "language": "en",
+                "width": 2560,
+                "height": 1440
+            },
+            {
+                "id": "t522lUAHZD9urRMZ7FaFZ44NhWj.jpg",
+                "link": "https://imdb-api.com/posters/original/t522lUAHZD9urRMZ7FaFZ44NhWj.jpg",
+                "aspectRatio": 1.7777777777777777,
+                "language": "en",
+                "width": 2560,
+                "height": 1440
+            },
+            {
+                "id": "50SfudstAqXggY7SK2srEv2t63t.jpg",
+                "link": "https://imdb-api.com/posters/original/50SfudstAqXggY7SK2srEv2t63t.jpg",
+                "aspectRatio": 1.7777777777777777,
+                "language": "en",
+                "width": 2560,
+                "height": 1440
+            },
+            {
+                "id": "nD6Xk2h8uHMzeAWxvBhkYa7c3Y9.jpg",
+                "link": "https://imdb-api.com/posters/original/nD6Xk2h8uHMzeAWxvBhkYa7c3Y9.jpg",
+                "aspectRatio": 1.7777777777777777,
+                "language": "en",
+                "width": 2560,
+                "height": 1440
+            },
+            {
+                "id": "nxQZlAqhxPolAkbn5u2pfHUosOi.jpg",
+                "link": "https://imdb-api.com/posters/original/nxQZlAqhxPolAkbn5u2pfHUosOi.jpg",
+                "aspectRatio": 1.7777777777777777,
+                "language": "en",
+                "width": 3840,
+                "height": 2160
+            },
+            {
+                "id": "lERnFsSNywclf1rxTBMWBVQTwEy.jpg",
+                "link": "https://imdb-api.com/posters/original/lERnFsSNywclf1rxTBMWBVQTwEy.jpg",
+                "aspectRatio": 1.7777777777777777,
+                "language": "en",
+                "width": 1920,
+                "height": 1080
+            },
+            {
+                "id": "8559XDGhxlxn4RaBBdwRoNq9k0P.jpg",
+                "link": "https://imdb-api.com/posters/original/8559XDGhxlxn4RaBBdwRoNq9k0P.jpg",
+                "aspectRatio": 1.7777777777777777,
+                "language": "en",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "id": "kFQM4p3MhVk0XZc5pAkdT0Yo1S8.jpg",
+                "link": "https://imdb-api.com/posters/original/kFQM4p3MhVk0XZc5pAkdT0Yo1S8.jpg",
+                "aspectRatio": 1.7777777777777777,
+                "language": "en",
+                "width": 3840,
+                "height": 2160
+            }
+        ],
+        "errorMessage": ""
+    },
+    "images": {
+        "imDbId": "tt1877830",
+        "title": "The Batman",
+        "fullTitle": "The Batman (2022)",
+        "type": "Movie",
+        "year": "2022",
+        "items": [
+            {
+                "title": "Zoë Kravitz in The Batman (2022)",
+                "image": "https://imdb-api.com/images/original/MV5BMjU5ZTI4NjYtNjg5OC00NjQwLTk4M2QtMDJlZDNmMGQyZDY2XkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_Ratio2.4000_AL_.jpg"
+            },
+            {
+                "title": "Robert Pattinson in The Batman (2022)",
+                "image": "https://imdb-api.com/images/original/MV5BYmI0MmNhNTYtOTg3Zi00YjM4LThiNDctYWZmYWM3ZjBiNDBmXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_Ratio2.4200_AL_.jpg"
+            },
+            {
+                "title": "Robert Pattinson in The Batman (2022)",
+                "image": "https://imdb-api.com/images/original/MV5BZmNkZTgwNTEtODhjOC00MmY3LTg3OWEtMDJjNzMwY2U1NWZiXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_Ratio2.3800_AL_.jpg"
+            },
+            {
+                "title": "Robert Pattinson in The Batman (2022)",
+                "image": "https://imdb-api.com/images/original/MV5BNTlhMmIxZWEtNzg5MC00M2U1LTk1YWQtMzVmOGE0ZGJkZDBjXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_Ratio1.7800_AL_.jpg"
+            },
+            {
+                "title": "Paul Dano in The Batman (2022)",
+                "image": "https://imdb-api.com/images/original/MV5BZjJlYTllZGYtN2Y0Zi00MDg5LWFlNTktM2ExN2ZjZjc3ZGIxXkEyXkFqcGdeQXVyMTEyMjM2NDc2._V1_Ratio1.0000_AL_.jpg"
+            },
+            {
+                "title": "Robert Pattinson in The Batman (2022)",
+                "image": "https://imdb-api.com/images/original/MV5BYTExZTdhY2ItNGQ1YS00NjJlLWIxMjYtZTI1MzNlMzY0OTk4XkEyXkFqcGdeQXVyMTEyMjM2NDc2._V1_Ratio1.0000_AL_.jpg"
+            },
+            {
+                "title": "The Batman (2022)",
+                "image": "https://imdb-api.com/images/original/MV5BZTE2YTY3YTMtM2FlMS00YmI3LTgyMWUtM2FhMWIyZWRmMDk5XkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_Ratio1.0000_AL_.jpg"
+            },
+            {
+                "title": "Robert Pattinson in The Batman (2022)",
+                "image": "https://imdb-api.com/images/original/MV5BYTQ4YTg4OWItZGNjMi00MDM1LTg5ODctODA0MmUwMmIwNWRjXkEyXkFqcGdeQXVyODUxNjcxNjE@._V1_Ratio1.7800_AL_.jpg"
+            },
+            {
+                "title": "Robert Pattinson in The Batman (2022)",
+                "image": "https://imdb-api.com/images/original/MV5BNmQ4MjliNzAtODM1Mi00ZmQ3LWE3NDgtY2E4ZDkxOGJlYTExXkEyXkFqcGdeQXVyODUxNjcxNjE@._V1_Ratio2.1600_AL_.jpg"
+            },
+            {
+                "title": "Robert Pattinson and Zoë Kravitz in The Batman (2022)",
+                "image": "https://imdb-api.com/images/original/MV5BZjU4OTY3YTMtNDZkNC00YWQ0LWE0NTktNmY1MmMwNzQxZDY0XkEyXkFqcGdeQXVyODUxNjcxNjE@._V1_Ratio2.1200_AL_.jpg"
+            },
+            {
+                "title": "Robert Pattinson in The Batman (2022)",
+                "image": "https://imdb-api.com/images/original/MV5BNzI0OTc5NmYtOTk0MS00NDAzLWE5MDEtMzRhYWVmOTA0OGUwXkEyXkFqcGdeQXVyODUxNjcxNjE@._V1_Ratio2.2400_AL_.jpg"
+            },
+            {
+                "title": "Robert Pattinson in The Batman (2022)",
+                "image": "https://imdb-api.com/images/original/MV5BMDI3NTQ1OWEtZjI4Ni00MjQ3LThmYjUtZWZmN2E3ZDYxNzVjXkEyXkFqcGdeQXVyODUxNjcxNjE@._V1_Ratio2.3000_AL_.jpg"
+            },
+            {
+                "title": "Robert Pattinson in The Batman (2022)",
+                "image": "https://imdb-api.com/images/original/MV5BNzljODY2MDUtMGU0MS00NWE5LWExMDMtYzQ3ZGQzYzY1OGY0XkEyXkFqcGdeQXVyODUxNjcxNjE@._V1_Ratio2.3400_AL_.jpg"
+            },
+            {
+                "title": "Robert Pattinson in The Batman (2022)",
+                "image": "https://imdb-api.com/images/original/MV5BZDk2M2M4NjEtM2UzZS00MWU5LTg1MjEtZTQxMGRhZDE0NDk0XkEyXkFqcGdeQXVyNDIyNjA2MTk@._V1_Ratio2.4000_AL_.jpg"
+            },
+            {
+                "title": "Zoë Kravitz in The Batman (2022)",
+                "image": "https://imdb-api.com/images/original/MV5BYjk1MDQ4ODUtZGRlYS00NDk4LThmOTMtZjcxZGIzNTEwZjljXkEyXkFqcGdeQXVyNDIyNjA2MTk@._V1_Ratio2.4200_AL_.jpg"
+            },
+            {
+                "title": "Robert Pattinson in The Batman (2022)",
+                "image": "https://imdb-api.com/images/original/MV5BMmUxYjUyMjQtMzNkOS00ODdlLTk1Y2ItYjdkYjY0MzBmOTE1XkEyXkFqcGdeQXVyNDIyNjA2MTk@._V1_Ratio2.4200_AL_.jpg"
+            },
+            {
+                "title": "Zoë Kravitz in The Batman (2022)",
+                "image": "https://imdb-api.com/images/original/MV5BOTdhNTdjMjgtY2M3Mi00NDFkLTlkNDItMTY4ODU0ZmU5MDE4XkEyXkFqcGdeQXVyNDIyNjA2MTk@._V1_Ratio2.4400_AL_.jpg"
+            },
+            {
+                "title": "Robert Pattinson in The Batman (2022)",
+                "image": "https://imdb-api.com/images/original/MV5BNTcxYzkwYzQtZDU3ZS00NjYxLWJiODYtOTkyNjMyZDBmNjg5XkEyXkFqcGdeQXVyNDIyNjA2MTk@._V1_Ratio2.4200_AL_.jpg"
+            },
+            {
+                "title": "Robert Pattinson in The Batman (2022)",
+                "image": "https://imdb-api.com/images/original/MV5BMzQ4MGY5MjktZTUzMS00MjYwLWJhMmUtMmRlNDkyZWY0NWVkXkEyXkFqcGdeQXVyNDIyNjA2MTk@._V1_Ratio2.3800_AL_.jpg"
+            },
+            {
+                "title": "Paul Dano in The Batman (2022)",
+                "image": "https://imdb-api.com/images/original/MV5BNzAyZmJhZDQtZGNmZC00ZTQ4LWEwODItYmI1ZDc0NmE5NjI5XkEyXkFqcGdeQXVyNDIyNjA2MTk@._V1_Ratio2.4000_AL_.jpg"
+            },
+            {
+                "title": "The Batman (2022)",
+                "image": "https://imdb-api.com/images/original/MV5BMmUzOTA0MzktODliMC00OTRlLTg1NDItMDAzM2VhYWQ5ZjQyXkEyXkFqcGdeQXVyNDIyNjA2MTk@._V1_Ratio2.2600_AL_.jpg"
+            },
+            {
+                "title": "Colin Farrell in The Batman (2022)",
+                "image": "https://imdb-api.com/images/original/MV5BNDgxNTgwMmUtM2MzNy00MTRiLWE5YWUtOWNkMmVhNDI3N2Y4XkEyXkFqcGdeQXVyNzk3NDUzNTc@._V1_Ratio2.4200_AL_.jpg"
+            },
+            {
+                "title": "Jeffrey Wright in The Batman (2022)",
+                "image": "https://imdb-api.com/images/original/MV5BYjg2YWQ4YTktNTBjNC00MDkxLWI1NmQtNDI5OTZhYjUwMDEzXkEyXkFqcGdeQXVyNjUwNzk3NDc@._V1_Ratio2.4200_AL_.jpg"
+            },
+            {
+                "title": "Robert Pattinson in The Batman (2022)",
+                "image": "https://imdb-api.com/images/original/MV5BMDBkYTUyOTQtZTk1NC00Mjk1LTg5ZDAtZGU4OTIyYzA4ZTkyXkEyXkFqcGdeQXVyNzIyNTk2MjY@._V1_Ratio2.0400_AL_.jpg"
+            },
+            {
+                "title": "Robert Pattinson in The Batman (2022)",
+                "image": "https://imdb-api.com/images/original/MV5BNTE0OGE2NzQtMDU3My00ZjAxLWJlNzAtM2ViMjI4MWI3ZWFhXkEyXkFqcGdeQXVyNjc0NzQzNTM@._V1_Ratio1.5000_AL_.jpg"
+            },
+            {
+                "title": "Robert Pattinson in The Batman (2022)",
+                "image": "https://imdb-api.com/images/original/MV5BY2M3N2I5ODktMjNlZS00YjlmLWJkNzYtZjM2YmU0NDVmZTZmXkEyXkFqcGdeQXVyOTMyMjYwNTA@._V1_Ratio1.7800_AL_.jpg"
+            },
+            {
+                "title": "Robert Pattinson in The Batman (2022)",
+                "image": "https://imdb-api.com/images/original/MV5BZGQxNjIyY2ItMWE0Ni00MWY4LWIwOGUtMmQ5MDRlZWYwMjgwXkEyXkFqcGdeQXVyOTMyMjYwNTA@._V1_Ratio1.7800_AL_.jpg"
+            },
+            {
+                "title": "Robert Pattinson in The Batman (2022)",
+                "image": "https://imdb-api.com/images/original/MV5BMzgwZjgwZWYtNmEzMC00OGRhLWI4NTktYjRiOWM1YWRkMzk4XkEyXkFqcGdeQXVyOTMyMjYwNTA@._V1_Ratio1.7800_AL_.jpg"
+            },
+            {
+                "title": "Robert Pattinson in The Batman (2022)",
+                "image": "https://imdb-api.com/images/original/MV5BZDBiM2Y0Y2UtYWRhMy00OWY5LWFkNWQtZGE5ZDBlMTQ5NzY0XkEyXkFqcGdeQXVyOTMyMjYwNTA@._V1_Ratio1.7800_AL_.jpg"
+            },
+            {
+                "title": "The Batman (2022)",
+                "image": "https://imdb-api.com/images/original/MV5BMDVmZWFlZDAtZWI0ZS00OWYzLTk5YWYtMzRmZmM3ZmY3NjVkXkEyXkFqcGdeQXVyODUxNjcxNjE@._V1_Ratio1.0000_AL_.jpg"
+            },
+            {
+                "title": "The Batman (2022)",
+                "image": "https://imdb-api.com/images/original/MV5BMTY0NmVlZjEtMDMwZC00NDg2LTlmZmEtNzUxNjIyZjAyOTkwXkEyXkFqcGdeQXVyODUxNjcxNjE@._V1_Ratio1.0000_AL_.jpg"
+            },
+            {
+                "title": "The Batman (2022)",
+                "image": "https://imdb-api.com/images/original/MV5BOGVjOWFkMWMtYTViMS00OTc1LThhYmEtNWVjY2E4MDMyNzc1XkEyXkFqcGdeQXVyODUxNjcxNjE@._V1_Ratio1.0000_AL_.jpg"
+            },
+            {
+                "title": "The Batman (2022)",
+                "image": "https://imdb-api.com/images/original/MV5BODcyMDU0OGUtOWE0MS00NDEwLWFkMzUtMjQ1YjI3MDA5NGQ0XkEyXkFqcGdeQXVyODUxNjcxNjE@._V1_Ratio1.0000_AL_.jpg"
+            },
+            {
+                "title": "The Batman (2022)",
+                "image": "https://imdb-api.com/images/original/MV5BMzE4NGY4ZTUtZWQ3My00MGVhLWIxNjAtYjg3OTFhYTQ4MWQzXkEyXkFqcGdeQXVyODUxNjcxNjE@._V1_Ratio1.0000_AL_.jpg"
+            },
+            {
+                "title": "Matt Reeves and Robert Pattinson in The Batman (2022)",
+                "image": "https://imdb-api.com/images/original/MV5BYjQ2NmUzZGUtYmMyMi00ZjI0LTg2MjUtYzE0ZDAyZDUzYjViXkEyXkFqcGdeQXVyODUxNjcxNjE@._V1_Ratio2.1600_AL_.jpg"
+            },
+            {
+                "title": "Matt Reeves in The Batman (2022)",
+                "image": "https://imdb-api.com/images/original/MV5BYjU5NmEyNjAtM2Y5My00OTliLTk5ZmUtYmMxMmM3MmFmMGZkXkEyXkFqcGdeQXVyODUxNjcxNjE@._V1_Ratio1.3200_AL_.jpg"
+            },
+            {
+                "title": "Robert Pattinson in The Batman (2022)",
+                "image": "https://imdb-api.com/images/original/MV5BNWJhNTM5N2EtNDgyMS00YWMwLTgzOTAtMTA4ZGI5MWQ2ODI0XkEyXkFqcGdeQXVyODUxNjcxNjE@._V1_Ratio1.0600_AL_.jpg"
+            },
+            {
+                "title": "Robert Pattinson in The Batman (2022)",
+                "image": "https://imdb-api.com/images/original/MV5BYjhlNTBhZTItZWJmNS00NmRlLTkxZjQtNjA5MGY2OTFhNzViXkEyXkFqcGdeQXVyODUxNjcxNjE@._V1_Ratio1.1000_AL_.jpg"
+            },
+            {
+                "title": "Robert Pattinson in The Batman (2022)",
+                "image": "https://imdb-api.com/images/original/MV5BNzIyODA0NGItMTMxYS00NzA5LWFkYTQtMTAyNmQyZTE3ZjVlXkEyXkFqcGdeQXVyODUxNjcxNjE@._V1_Ratio1.0000_AL_.jpg"
+            },
+            {
+                "title": "Zoë Kravitz in The Batman (2022)",
+                "image": "https://imdb-api.com/images/original/MV5BZWZiNTk2MDYtN2IyOS00NGY0LTgwOWUtODYyYzU1YjVjOTM3XkEyXkFqcGdeQXVyODUxNjcxNjE@._V1_Ratio1.0000_AL_.jpg"
+            },
+            {
+                "title": "John Turturro and Zoë Kravitz in The Batman (2022)",
+                "image": "https://imdb-api.com/images/original/MV5BNDIzYzZiZjItMDRhNC00MjVlLWIwMTItNjZlODcwYWQ4NTFjXkEyXkFqcGdeQXVyODUxNjcxNjE@._V1_Ratio1.0000_AL_.jpg"
+            },
+            {
+                "title": "Zoë Kravitz in The Batman (2022)",
+                "image": "https://imdb-api.com/images/original/MV5BODJlODcyZTYtNmUwMy00MjFjLThkOTYtYzZiMWQxODk5OTA3XkEyXkFqcGdeQXVyODUxNjcxNjE@._V1_Ratio1.0000_AL_.jpg"
+            },
+            {
+                "title": "Zoë Kravitz in The Batman (2022)",
+                "image": "https://imdb-api.com/images/original/MV5BYzIzM2MxY2QtMjhiNC00MGRkLTg0OTktMWU0MjA2Y2YzY2IwXkEyXkFqcGdeQXVyODUxNjcxNjE@._V1_Ratio1.0000_AL_.jpg"
+            },
+            {
+                "title": "John Turturro and Zoë Kravitz in The Batman (2022)",
+                "image": "https://imdb-api.com/images/original/MV5BOWQ1YzIwMWYtZDM2Yi00OWY4LWI3ODQtMDgyMzkyYjNkMmRiXkEyXkFqcGdeQXVyODUxNjcxNjE@._V1_Ratio1.0000_AL_.jpg"
+            },
+            {
+                "title": "John Turturro and Zoë Kravitz in The Batman (2022)",
+                "image": "https://imdb-api.com/images/original/MV5BNTJhM2UxNGQtOTdmOC00ZTNjLTg1ZDktMGI0ZTk2ZjY5OThhXkEyXkFqcGdeQXVyODUxNjcxNjE@._V1_Ratio1.0000_AL_.jpg"
+            },
+            {
+                "title": "Zoë Kravitz in The Batman (2022)",
+                "image": "https://imdb-api.com/images/original/MV5BMWM5ODVmNjEtZDgzMS00MGRlLWIzZmUtZmU0OWJmZjBmZjUwXkEyXkFqcGdeQXVyODUxNjcxNjE@._V1_Ratio1.0000_AL_.jpg"
+            },
+            {
+                "title": "Robert Pattinson in The Batman (2022)",
+                "image": "https://imdb-api.com/images/original/MV5BMTA4NTc0YzQtZDBhMS00OWZmLTkxZTktODhkN2JiYzA2YjliXkEyXkFqcGdeQXVyODUxNjcxNjE@._V1_Ratio1.0000_AL_.jpg"
+            },
+            {
+                "title": "Robert Pattinson in The Batman (2022)",
+                "image": "https://imdb-api.com/images/original/MV5BMGM3MWU4NmYtNGMwMS00NGY5LWFmZmQtYTQxMmY0Yzg0NDJkXkEyXkFqcGdeQXVyODUxNjcxNjE@._V1_Ratio1.5000_AL_.jpg"
+            }
+        ],
+        "errorMessage": ""
+    },
+    "trailer": {
+        "imDbId": "tt1877830",
+        "title": "The Batman",
+        "fullTitle": "The Batman (2022)",
+        "type": "Movie",
+        "year": "2022",
+        "videoId": null,
+        "videoTitle": null,
+        "videoDescription": null,
+        "thumbnailUrl": null,
+        "uploadDate": null,
+        "link": null,
+        "linkEmbed": null,
+        "errorMessage": "404 Not Founded Error"
+    },
+    "boxOffice": {
+        "budget": "",
+        "openingWeekendUSA": "",
+        "grossUSA": "",
+        "cumulativeWorldwideGross": ""
+    },
+    "tagline": "",
+    "keywords": "superhero,based on comic,dc comics,batman character,gotham",
+    "keywordList": [
+        "superhero",
+        "based on comic",
+        "dc comics",
+        "batman character",
+        "gotham"
+    ],
+    "similars": [
+        {
+            "id": "tt5611352",
+            "title": "Man of Tomorrow",
+            "fullTitle": "",
+            "year": "",
+            "image": "https://imdb-api.com/images/original/MV5BMGVlZmQ4NmYtNTEwMC00MTViLWE2YzUtZTM4MmIxZjBmMzQwXkEyXkFqcGdeQXVyMzEyMDc3MjU@._V1_Ratio0.6737_AL_.jpg",
+            "plot": "\"Man of Tomorrow\" is a short Superman origin story, as our young hero Clark Kent deals with the pressures of what it means to be \"human\". As well as being an Alien on the planet Earth. More... See full summary »",
+            "directors": "Matthew Baltar",
+            "stars": "Christopher Smith, Christopher Smith Sr., Theodore Ballard",
+            "genres": "Short, Adventure, Drama",
+            "imDbRating": ""
+        },
+        {
+            "id": "tt5737504",
+            "title": "Gaijin",
+            "fullTitle": "",
+            "year": "",
+            "image": "https://imdb-api.com/images/original/MV5BMzgyOTBhOGItYTNjYS00OGVmLWFjZGQtNTY4ZjIwOTc0MjRiXkEyXkFqcGdeQXVyOTc1NjYyNg@@._V1_Ratio0.7053_AL_.jpg",
+            "plot": "A gritty action drama based on the life of Yasuke, an African slave who gained his freedom and became a samurai in 16th century Japan.",
+            "directors": "Matt Reeves",
+            "stars": "",
+            "genres": "Action, Drama",
+            "imDbRating": ""
+        },
+        {
+            "id": "tt5108870",
+            "title": "Morbius",
+            "fullTitle": "Morbius (2022)",
+            "year": "2022",
+            "image": "https://imdb-api.com/images/original/MV5BNjIxMDcxMGQtNTViOC00MWM0LWFjYjItNDNmNzRkZThlMmZjXkEyXkFqcGdeQXVyMDA4NzMyOA@@._V1_Ratio0.6737_AL_.jpg",
+            "plot": "Biochemist Michael Morbius tries to cure himself of a rare blood disease, but he inadvertently infects himself with a form of vampirism instead.",
+            "directors": "Daniel Espinosa",
+            "stars": "Archie Renaux, Jared Leto, Michael Keaton",
+            "genres": "Action, Adventure, Drama",
+            "imDbRating": ""
+        },
+        {
+            "id": "tt0439572",
+            "title": "The Flash",
+            "fullTitle": "The Flash (2022)",
+            "year": "2022",
+            "image": "https://imdb-api.com/images/original/MV5BZDM1NjY4ODgtNjJjMS00YTRjLTg4YWYtYzAwNTU1YTMxNGQ0XkEyXkFqcGdeQXVyNjc0NzQzNTM@._V1_Ratio1.0842_AL_.jpg",
+            "plot": "The plot is unknown. Feature film based on the comic book superhero, The Flash.",
+            "directors": "Andy Muschietti",
+            "stars": "Ben Affleck, Ezra Miller, Michael Keaton",
+            "genres": "Action, Adventure, Fantasy",
+            "imDbRating": ""
+        },
+        {
+            "id": "tt10872600",
+            "title": "Spider-Man: No Way Home",
+            "fullTitle": "Spider-Man: No Way Home (2021)",
+            "year": "2021",
+            "image": "https://imdb-api.com/images/original/MV5BNTMxOGI4OGMtMTgwMy00NmFjLWIyOTUtYjQ0OGQ4Mjk0YjNjXkEyXkFqcGdeQXVyMDM2NDM2MQ@@._V1_Ratio0.6737_AL_.jpg",
+            "plot": "A continuation of Spider-Man Far From Home",
+            "directors": "Jon Watts",
+            "stars": "Angourie Rice, Tom Holland, Zendaya",
+            "genres": "Action, Adventure, Sci-Fi",
+            "imDbRating": ""
+        },
+        {
+            "id": "tt10838180",
+            "title": "The Matrix 4",
+            "fullTitle": "The Matrix 4 (2021)",
+            "year": "2021",
+            "image": "https://imdb-api.com/images/original/MV5BN2I5NzlmMWYtYjIwYy00Y2ZiLWI0ODgtYjAxNDZiZGJlMjlhXkEyXkFqcGdeQXVyMzk1MDQ2MQ@@._V1_Ratio1.4947_AL_.jpg",
+            "plot": "The plot is currently unknown.",
+            "directors": "Lana Wachowski",
+            "stars": "Keanu Reeves, Jessica Henwick, Carrie-Anne Moss",
+            "genres": "Action, Sci-Fi",
+            "imDbRating": ""
+        },
+        {
+            "id": "tt1705130",
+            "title": "Robin: The Story of Dick Grayson",
+            "fullTitle": "Robin: The Story of Dick Grayson (Video 2010)",
+            "year": "Video 2010",
+            "image": "https://imdb-api.com/images/original/MV5BNjIxNGFjYmQtY2RhMi00MTYwLTg0ZGMtMTA4MjM4YzUyNzU0XkEyXkFqcGdeQXVyNjgzOTI5NDY@._V1_Ratio0.6947_AL_.jpg",
+            "plot": "The origins of the Dark Knight's sidekick Dick Grayson, who will soon be known as Robin, the Boy Wonder!",
+            "directors": "",
+            "stars": "Thomas Andrae, Phil Cousineau, Dan DiDio",
+            "genres": "Short, Sci-Fi",
+            "imDbRating": "5.8"
+        },
+        {
+            "id": "tt1464335",
+            "title": "Uncharted",
+            "fullTitle": "Uncharted (2022)",
+            "year": "2022",
+            "image": "https://imdb-api.com/images/original/MV5BOTZjZWZhMTAtYTAxZS00ZDMwLWE0YzEtMzFkNzdhZjc5OGQ0XkEyXkFqcGdeQXVyNjI5MDc2MjU@._V1_Ratio0.7053_AL_.jpg",
+            "plot": "The story is a prequel to the games, starring Holland as a younger Drake, showing us details of how he came to meet and befriend Sully.",
+            "directors": "Ruben Fleischer",
+            "stars": "Tom Holland, Mark Wahlberg, Antonio Banderas",
+            "genres": "Action, Adventure",
+            "imDbRating": ""
+        },
+        {
+            "id": "tt9419884",
+            "title": "Doctor Strange in the Multiverse of Madness",
+            "fullTitle": "Doctor Strange in the Multiverse of Madness (2022)",
+            "year": "2022",
+            "image": "https://imdb-api.com/images/original/MV5BYzljNzE0ZDktNWFkOS00ZjE3LWJjNzEtZTE0NmVhNzBmYzE5XkEyXkFqcGdeQXVyNjg3MDMxNzU@._V1_Ratio0.6737_AL_.jpg",
+            "plot": "Plot unknown. Sequel to the 2016 Marvel film 'Doctor Strange'.",
+            "directors": "Sam Raimi",
+            "stars": "Rachel McAdams, Elizabeth Olsen, Benedict Cumberbatch",
+            "genres": "Action, Adventure, Fantasy",
+            "imDbRating": ""
+        },
+        {
+            "id": "tt11245972",
+            "title": "Scream",
+            "fullTitle": "Scream (2022)",
+            "year": "2022",
+            "image": "https://imdb-api.com/images/original/MV5BNDBjOGVjOGEtNTZmMi00MzlmLTg3OWEtNmVhNDk4MzYwOTAxXkEyXkFqcGdeQXVyNzk5NDk3MjQ@._V1_Ratio0.8000_AL_.jpg",
+            "plot": "A new installment of the 'Scream' horror franchise will follow a woman returning to her home town to try to find out who has been committing a series of vicious crimes.",
+            "directors": "Directors: Matt Bettinelli-Olpin, Tyler Gillett",
+            "stars": "Jenna Ortega, Courteney Cox, Jack Quaid",
+            "genres": "Horror, Mystery, Thriller",
+            "imDbRating": ""
+        },
+        {
+            "id": "tt0096895",
+            "title": "Batman",
+            "fullTitle": "Batman (1989)",
+            "year": "1989",
+            "image": "https://imdb-api.com/images/original/MV5BMTYwNjAyODIyMF5BMl5BanBnXkFtZTYwNDMwMDk2._V1_Ratio0.6737_AL_.jpg",
+            "plot": "The Dark Knight of Gotham City begins his war on crime with his first major enemy being Jack Napier, a criminal who becomes the clownishly homicidal Joker.",
+            "directors": "Tim Burton",
+            "stars": "Michael Keaton, Jack Nicholson, Kim Basinger",
+            "genres": "Action, Adventure",
+            "imDbRating": "7.5"
+        }
+    ],
+    "tvSeriesInfo": null,
+    "tvEpisodeInfo": null,
+    "errorMessage": ""
+}

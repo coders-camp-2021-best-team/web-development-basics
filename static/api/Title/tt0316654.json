@@ -1,0 +1,1122 @@
+{
+    "id": "tt0316654",
+    "title": "Spider-Man 2",
+    "originalTitle": "",
+    "fullTitle": "Spider-Man 2 (2004)",
+    "type": "Movie",
+    "year": "2004",
+    "image": "https://imdb-api.com/images/original/MV5BMzY2ODk4NmUtOTVmNi00ZTdkLTlmOWYtMmE2OWVhNTU2OTVkXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_Ratio0.7239_AL_.jpg",
+    "releaseDate": "2004-06-25",
+    "runtimeMins": "127",
+    "runtimeStr": "2h 7mins",
+    "plot": "Peter Parker is an unhappy man: after two years of fighting crime as Spider-Man, his life has begun to fall apart. The girl he loves is engaged to someone else, his grades are slipping, he cannot keep any of his jobs, and on top of it, the newspaper Daily Bugle is attacking him viciously, claiming that Spider-Man is a criminal. He reaches the breaking point and gives up the crime fighter's life, once and for all. But after a failed fusion experiment, eccentric and obsessive scientist Dr. Otto Octavius is transformed into super villain Doctor Octopus, Doc Ock for short, having four long tentacles as extra hands. Peter guesses it might just be time for Spider-Man to return, but would he act upon it?",
+    "plotLocal": "",
+    "plotLocalIsRtl": false,
+    "awards": "Won 1 Oscar. Another 24 wins & 60 nominations.",
+    "directors": "Sam Raimi",
+    "directorList": [{ "id": "nm0000600", "name": "Sam Raimi" }],
+    "writers": "Stan Lee, Steve Ditko, Alfred Gough, Miles Millar, Michael Chabon, Alvin Sargent",
+    "writerList": [
+        { "id": "nm0498278", "name": "Stan Lee" },
+        { "id": "nm0228492", "name": "Steve Ditko" },
+        { "id": "nm0332184", "name": "Alfred Gough" },
+        { "id": "nm0587692", "name": "Miles Millar" },
+        { "id": "nm0149290", "name": "Michael Chabon" },
+        { "id": "nm0765091", "name": "Alvin Sargent" }
+    ],
+    "stars": "Tobey Maguire, Kirsten Dunst, Alfred Molina, James Franco",
+    "starList": [
+        { "id": "nm0001497", "name": "Tobey Maguire" },
+        { "id": "nm0000379", "name": "Kirsten Dunst" },
+        { "id": "nm0000547", "name": "Alfred Molina" },
+        { "id": "nm0290556", "name": "James Franco" }
+    ],
+    "actorList": [
+        {
+            "id": "nm0001497",
+            "image": "https://imdb-api.com/images/original/MV5BMTYwMTI5NTM2OF5BMl5BanBnXkFtZTcwODk3MDQ2Mg@@._V1_Ratio0.7273_AL_.jpg",
+            "name": "Tobey Maguire",
+            "asCharacter": "Spider-Man / Peter Parker"
+        },
+        {
+            "id": "nm0000379",
+            "image": "https://imdb-api.com/images/original/MV5BMTQ3NzkwNzM1MV5BMl5BanBnXkFtZTgwMzE2MTQ3MjE@._V1_Ratio0.7273_AL_.jpg",
+            "name": "Kirsten Dunst",
+            "asCharacter": "Mary Jane Watson"
+        },
+        {
+            "id": "nm0290556",
+            "image": "https://imdb-api.com/images/original/MV5BMjA4MzMzNDM5MF5BMl5BanBnXkFtZTgwMjQ0MDk0NDM@._V1_Ratio0.7273_AL_.jpg",
+            "name": "James Franco",
+            "asCharacter": "Harry Osborn"
+        },
+        {
+            "id": "nm0000547",
+            "image": "https://imdb-api.com/images/original/MV5BMTEwNTgzNzgxNzNeQTJeQWpwZ15BbWU3MDQ5NzU1NjM@._V1_Ratio0.7727_AL_.jpg",
+            "name": "Alfred Molina",
+            "asCharacter": "Doc Ock / Dr. Otto Octavius"
+        },
+        {
+            "id": "nm0365281",
+            "image": "https://imdb-api.com/images/original/MV5BMjAzOTExOTE1NF5BMl5BanBnXkFtZTYwNDY0ODk1._V1_Ratio0.7273_AL_.jpg",
+            "name": "Rosemary Harris",
+            "asCharacter": "May Parker"
+        },
+        {
+            "id": "nm0799777",
+            "image": "https://imdb-api.com/images/original/MV5BMzg2NTI5NzQ1MV5BMl5BanBnXkFtZTgwNjI1NDEwMDI@._V1_Ratio0.8182_AL_.jpg",
+            "name": "J.K. Simmons",
+            "asCharacter": "J. Jonah Jameson"
+        },
+        {
+            "id": "nm0614220",
+            "image": "https://imdb-api.com/images/original/MV5BMzE2OTAwNzM0Ml5BMl5BanBnXkFtZTcwNzE1MDg0Mw@@._V1_Ratio0.7273_AL_.jpg",
+            "name": "Donna Murphy",
+            "asCharacter": "Rosalie Octavius"
+        },
+        {
+            "id": "nm0319171",
+            "image": "https://imdb-api.com/images/original/MV5BMTUwMTExOTkxM15BMl5BanBnXkFtZTgwODQ1NjEyNjE@._V1_Ratio0.7273_AL_.jpg",
+            "name": "Daniel Gillies",
+            "asCharacter": "John Jameson"
+        },
+        {
+            "id": "nm0048414",
+            "image": "https://imdb-api.com/images/original/MV5BNTY1MzAwNTk5NV5BMl5BanBnXkFtZTYwMzkwMjY1._V1_Ratio0.7273_AL_.jpg",
+            "name": "Dylan Baker",
+            "asCharacter": "Dr. Curt Connors"
+        },
+        {
+            "id": "nm0638056",
+            "image": "https://imdb-api.com/images/original/MV5BMjE1NzE1NTY4NF5BMl5BanBnXkFtZTYwOTM0NDEz._V1_Ratio0.7273_AL_.jpg",
+            "name": "Bill Nunn",
+            "asCharacter": "Joseph 'Robbie' Robertson"
+        },
+        {
+            "id": "nm1089685",
+            "image": "https://imdb-api.com/images/original/MV5BNzkwMDIzMjcwMl5BMl5BanBnXkFtZTgwMTk3Mzk1NjE@._V1_Ratio0.7273_AL_.jpg",
+            "name": "Vanessa Ferlito",
+            "asCharacter": "Louise"
+        },
+        {
+            "id": "nm0541902",
+            "image": "https://imdb-api.com/images/original/MV5BYzVlMDkzNGEtZjk0Yy00ZjRjLWI2OTEtN2U1N2E0ZDhlZmJkXkEyXkFqcGdeQXVyOTAyOTE4Nw@@._V1_Ratio0.7273_AL_.jpg",
+            "name": "Aasif Mandvi",
+            "asCharacter": "Mr. Aziz"
+        },
+        {
+            "id": "nm0000353",
+            "image": "https://imdb-api.com/images/original/MV5BOWU4MTI2OTctODQ1ZS00MGM1LWJkM2EtODE3MGNkNmIyZDEwXkEyXkFqcGdeQXVyMjQwMDg0Ng@@._V1_Ratio0.7727_AL_.jpg",
+            "name": "Willem Dafoe",
+            "asCharacter": "Green Goblin / Norman Osborn"
+        },
+        {
+            "id": "nm0731772",
+            "image": "https://imdb-api.com/images/original/MV5BMTI2Nzc1MzM0Ml5BMl5BanBnXkFtZTYwNTA0ODk1._V1_Ratio0.7273_AL_.jpg",
+            "name": "Cliff Robertson",
+            "asCharacter": "Ben Parker"
+        },
+        {
+            "id": "nm0001646",
+            "image": "https://imdb-api.com/images/original/MV5BMjIxNTIwMTI4Nl5BMl5BanBnXkFtZTcwNjQ3OTExOQ@@._V1_Ratio0.7273_AL_.jpg",
+            "name": "Ted Raimi",
+            "asCharacter": "Hoffman"
+        }
+    ],
+    "fullCast": null,
+    "genres": "Action, Adventure, Sci-Fi",
+    "genreList": [
+        { "key": "Action", "value": "Action" },
+        { "key": "Adventure", "value": "Adventure" },
+        { "key": "Sci-Fi", "value": "Sci-Fi" }
+    ],
+    "companies": "Columbia Pictures, Marvel Enterprises, Laura Ziskin Productions",
+    "companyList": [
+        { "id": "co0050868", "name": "Columbia Pictures" },
+        { "id": "co0095134", "name": "Marvel Enterprises" },
+        { "id": "co0095403", "name": "Laura Ziskin Productions" }
+    ],
+    "countries": "USA",
+    "countryList": [{ "key": "USA", "value": "USA" }],
+    "languages": "English, Russian, Chinese",
+    "languageList": [
+        { "key": "English", "value": "English" },
+        { "key": "Russian", "value": "Russian" },
+        { "key": "Chinese", "value": "Chinese" }
+    ],
+    "contentRating": "PG-13",
+    "imDbRating": "7.3",
+    "imDbRatingVotes": "550984",
+    "metacriticRating": "83",
+    "ratings": null,
+    "wikipedia": null,
+    "posters": {
+        "imDbId": "tt0316654",
+        "title": "Spider-Man 2",
+        "fullTitle": "Spider-Man 2 (2004)",
+        "type": "Movie",
+        "year": "2004",
+        "posters": [
+            {
+                "id": "olxpyq9kJAZ2NU1siLshhhXEPR7.jpg",
+                "link": "https://imdb-api.com/posters/original/olxpyq9kJAZ2NU1siLshhhXEPR7.jpg",
+                "aspectRatio": 0.6666666666666666,
+                "language": "en",
+                "width": 2000,
+                "height": 3000
+            },
+            {
+                "id": "plvv0gzpYXJTnkaiLboFDc7KfYJ.jpg",
+                "link": "https://imdb-api.com/posters/original/plvv0gzpYXJTnkaiLboFDc7KfYJ.jpg",
+                "aspectRatio": 0.6666666666666666,
+                "language": "en",
+                "width": 2000,
+                "height": 3000
+            },
+            {
+                "id": "bKpPYsXVLRzjN639XEBP91LrAnT.jpg",
+                "link": "https://imdb-api.com/posters/original/bKpPYsXVLRzjN639XEBP91LrAnT.jpg",
+                "aspectRatio": 0.6666666666666666,
+                "language": "en",
+                "width": 2000,
+                "height": 3000
+            },
+            {
+                "id": "fDYMiWVeqglBS2fc3RRoM2UBNTc.jpg",
+                "link": "https://imdb-api.com/posters/original/fDYMiWVeqglBS2fc3RRoM2UBNTc.jpg",
+                "aspectRatio": 0.6666666666666666,
+                "language": "en",
+                "width": 500,
+                "height": 750
+            },
+            {
+                "id": "8QC7RxCHPaje4aI6EgLBeBS7Q2g.jpg",
+                "link": "https://imdb-api.com/posters/original/8QC7RxCHPaje4aI6EgLBeBS7Q2g.jpg",
+                "aspectRatio": 0.6666666666666666,
+                "language": "en",
+                "width": 2000,
+                "height": 3000
+            },
+            {
+                "id": "e8uVdHZqMq3fL2giIGHfXEjvKy8.jpg",
+                "link": "https://imdb-api.com/posters/original/e8uVdHZqMq3fL2giIGHfXEjvKy8.jpg",
+                "aspectRatio": 0.6666666666666666,
+                "language": "en",
+                "width": 500,
+                "height": 750
+            },
+            {
+                "id": "eyTbf8tzrAJCErXlfiKnWIpE6yy.jpg",
+                "link": "https://imdb-api.com/posters/original/eyTbf8tzrAJCErXlfiKnWIpE6yy.jpg",
+                "aspectRatio": 0.6666666666666666,
+                "language": "en",
+                "width": 1000,
+                "height": 1500
+            },
+            {
+                "id": "kUSGnFTtl0uMu5PJSKDX7bIB4sl.jpg",
+                "link": "https://imdb-api.com/posters/original/kUSGnFTtl0uMu5PJSKDX7bIB4sl.jpg",
+                "aspectRatio": 0.6666666666666666,
+                "language": "en",
+                "width": 2000,
+                "height": 3000
+            },
+            {
+                "id": "8MmUkrFu8mqos0x8GqtCQxm46ib.jpg",
+                "link": "https://imdb-api.com/posters/original/8MmUkrFu8mqos0x8GqtCQxm46ib.jpg",
+                "aspectRatio": 0.6666666666666666,
+                "language": "en",
+                "width": 1000,
+                "height": 1500
+            },
+            {
+                "id": "bUibmvEBpkrfEKKFR6a3ATWQoBR.jpg",
+                "link": "https://imdb-api.com/posters/original/bUibmvEBpkrfEKKFR6a3ATWQoBR.jpg",
+                "aspectRatio": 0.6666666666666666,
+                "language": "en",
+                "width": 2000,
+                "height": 3000
+            },
+            {
+                "id": "hCsXZPXP0VVohf84oYC6iOBCN43.jpg",
+                "link": "https://imdb-api.com/posters/original/hCsXZPXP0VVohf84oYC6iOBCN43.jpg",
+                "aspectRatio": 0.6666666666666666,
+                "language": "en",
+                "width": 2000,
+                "height": 3000
+            },
+            {
+                "id": "c5K8fdMsx5U9pv1KybJcNzeAwnv.jpg",
+                "link": "https://imdb-api.com/posters/original/c5K8fdMsx5U9pv1KybJcNzeAwnv.jpg",
+                "aspectRatio": 0.66625,
+                "language": "en",
+                "width": 533,
+                "height": 800
+            },
+            {
+                "id": "zCs2w78wj5QUxgivYMaD6o1LHf5.jpg",
+                "link": "https://imdb-api.com/posters/original/zCs2w78wj5QUxgivYMaD6o1LHf5.jpg",
+                "aspectRatio": 0.7292857142857143,
+                "language": "en",
+                "width": 1021,
+                "height": 1400
+            },
+            {
+                "id": "aooCRmxyffesddKOQXgAfMu5H7W.jpg",
+                "link": "https://imdb-api.com/posters/original/aooCRmxyffesddKOQXgAfMu5H7W.jpg",
+                "aspectRatio": 0.7012622720897616,
+                "language": "en",
+                "width": 1000,
+                "height": 1426
+            },
+            {
+                "id": "iYERvzAN1zNZwlo790LV08P1TYp.jpg",
+                "link": "https://imdb-api.com/posters/original/iYERvzAN1zNZwlo790LV08P1TYp.jpg",
+                "aspectRatio": 0.7012622720897616,
+                "language": "en",
+                "width": 1000,
+                "height": 1426
+            },
+            {
+                "id": "wFW0DnXCP96XvOj8r1KT32ag6Zs.jpg",
+                "link": "https://imdb-api.com/posters/original/wFW0DnXCP96XvOj8r1KT32ag6Zs.jpg",
+                "aspectRatio": 0.7012622720897616,
+                "language": "en",
+                "width": 1000,
+                "height": 1426
+            },
+            {
+                "id": "hzCRWTV40w4U9S381NpoTWrfOZQ.jpg",
+                "link": "https://imdb-api.com/posters/original/hzCRWTV40w4U9S381NpoTWrfOZQ.jpg",
+                "aspectRatio": 0.7012622720897616,
+                "language": "en",
+                "width": 1000,
+                "height": 1426
+            },
+            {
+                "id": "b2l0cD1jLZNzNLlUPy838ogbDkX.jpg",
+                "link": "https://imdb-api.com/posters/original/b2l0cD1jLZNzNLlUPy838ogbDkX.jpg",
+                "aspectRatio": 0.7012622720897616,
+                "language": "en",
+                "width": 1000,
+                "height": 1426
+            },
+            {
+                "id": "avoSFHOMxddcitOgorL9rbXdCoF.jpg",
+                "link": "https://imdb-api.com/posters/original/avoSFHOMxddcitOgorL9rbXdCoF.jpg",
+                "aspectRatio": 0.6666666666666666,
+                "language": "en",
+                "width": 1400,
+                "height": 2100
+            },
+            {
+                "id": "cQvI7KiGSWTf13UF538cXJuY9V9.jpg",
+                "link": "https://imdb-api.com/posters/original/cQvI7KiGSWTf13UF538cXJuY9V9.jpg",
+                "aspectRatio": 0.6666666666666666,
+                "language": "en",
+                "width": 1000,
+                "height": 1500
+            },
+            {
+                "id": "uxVEClLLSF5CDeQeVtDrtXzqGXh.jpg",
+                "link": "https://imdb-api.com/posters/original/uxVEClLLSF5CDeQeVtDrtXzqGXh.jpg",
+                "aspectRatio": 0.7069042316258352,
+                "language": "en",
+                "width": 1587,
+                "height": 2245
+            },
+            {
+                "id": "bnYABYtB2JGy0fDRal4jPkdbOR9.jpg",
+                "link": "https://imdb-api.com/posters/original/bnYABYtB2JGy0fDRal4jPkdbOR9.jpg",
+                "aspectRatio": 0.6666666666666666,
+                "language": "en",
+                "width": 1400,
+                "height": 2100
+            },
+            {
+                "id": "v69kQLcgIG1S4Xaoyqy85JvCi4W.jpg",
+                "link": "https://imdb-api.com/posters/original/v69kQLcgIG1S4Xaoyqy85JvCi4W.jpg",
+                "aspectRatio": 0.6666666666666666,
+                "language": "en",
+                "width": 1000,
+                "height": 1500
+            },
+            {
+                "id": "2r1iKx08JxWzpzx2FXuffTlPVA5.jpg",
+                "link": "https://imdb-api.com/posters/original/2r1iKx08JxWzpzx2FXuffTlPVA5.jpg",
+                "aspectRatio": 0.6666666666666666,
+                "language": "en",
+                "width": 1000,
+                "height": 1500
+            },
+            {
+                "id": "21sBOKhMDyuNHFfV5r3DchAdY9H.jpg",
+                "link": "https://imdb-api.com/posters/original/21sBOKhMDyuNHFfV5r3DchAdY9H.jpg",
+                "aspectRatio": 0.6666666666666666,
+                "language": "en",
+                "width": 1000,
+                "height": 1500
+            },
+            {
+                "id": "u4vvbPCiayQLUM5XZMT5OeMT186.jpg",
+                "link": "https://imdb-api.com/posters/original/u4vvbPCiayQLUM5XZMT5OeMT186.jpg",
+                "aspectRatio": 0.6666666666666666,
+                "language": "en",
+                "width": 500,
+                "height": 750
+            },
+            {
+                "id": "cRnviIWQNFcuz2BNuUnQTjwWC5J.jpg",
+                "link": "https://imdb-api.com/posters/original/cRnviIWQNFcuz2BNuUnQTjwWC5J.jpg",
+                "aspectRatio": 0.6666666666666666,
+                "language": "en",
+                "width": 1000,
+                "height": 1500
+            },
+            {
+                "id": "3STTyJPxDmNdMckF4TvrijuC62J.jpg",
+                "link": "https://imdb-api.com/posters/original/3STTyJPxDmNdMckF4TvrijuC62J.jpg",
+                "aspectRatio": 0.6725925925925926,
+                "language": "en",
+                "width": 908,
+                "height": 1350
+            },
+            {
+                "id": "jx2UCzW9zrxZczykuWkmFBopo4V.jpg",
+                "link": "https://imdb-api.com/posters/original/jx2UCzW9zrxZczykuWkmFBopo4V.jpg",
+                "aspectRatio": 0.7142857142857143,
+                "language": "en",
+                "width": 1000,
+                "height": 1400
+            }
+        ],
+        "backdrops": [
+            {
+                "id": "6al048Lat3eLVQOuKtc9h6Tu94d.jpg",
+                "link": "https://imdb-api.com/posters/original/6al048Lat3eLVQOuKtc9h6Tu94d.jpg",
+                "aspectRatio": 1.7777777777777777,
+                "language": "en",
+                "width": 1920,
+                "height": 1080
+            },
+            {
+                "id": "8HMHE8VpkWOTmkm3c9QyEL6h1cP.jpg",
+                "link": "https://imdb-api.com/posters/original/8HMHE8VpkWOTmkm3c9QyEL6h1cP.jpg",
+                "aspectRatio": 1.7777777777777777,
+                "language": "en",
+                "width": 2560,
+                "height": 1440
+            },
+            {
+                "id": "vqZnytUpDDAZI6JU7WtCqdq84L.jpg",
+                "link": "https://imdb-api.com/posters/original/vqZnytUpDDAZI6JU7WtCqdq84L.jpg",
+                "aspectRatio": 1.7777777777777777,
+                "language": "en",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "id": "pXzAbaFV8iNtflap5MqSyXcV8Qx.jpg",
+                "link": "https://imdb-api.com/posters/original/pXzAbaFV8iNtflap5MqSyXcV8Qx.jpg",
+                "aspectRatio": 1.7777777777777777,
+                "language": "en",
+                "width": 1920,
+                "height": 1080
+            },
+            {
+                "id": "aqaSgTT6jiAdx9aJ4xUI4G2MEXe.jpg",
+                "link": "https://imdb-api.com/posters/original/aqaSgTT6jiAdx9aJ4xUI4G2MEXe.jpg",
+                "aspectRatio": 1.7777777777777777,
+                "language": "en",
+                "width": 1920,
+                "height": 1080
+            },
+            {
+                "id": "ouMBIALAOq0rpoB8b2RydUevRu1.jpg",
+                "link": "https://imdb-api.com/posters/original/ouMBIALAOq0rpoB8b2RydUevRu1.jpg",
+                "aspectRatio": 1.7777777777777777,
+                "language": "en",
+                "width": 1920,
+                "height": 1080
+            },
+            {
+                "id": "5ijb90YkkT6teZDqEpKtCm2Umtg.jpg",
+                "link": "https://imdb-api.com/posters/original/5ijb90YkkT6teZDqEpKtCm2Umtg.jpg",
+                "aspectRatio": 1.7777777777777777,
+                "language": "en",
+                "width": 1920,
+                "height": 1080
+            },
+            {
+                "id": "gkINAPOuwUFo2Qphs3OUUbjUKUZ.jpg",
+                "link": "https://imdb-api.com/posters/original/gkINAPOuwUFo2Qphs3OUUbjUKUZ.jpg",
+                "aspectRatio": 1.7777777777777777,
+                "language": "en",
+                "width": 2560,
+                "height": 1440
+            },
+            {
+                "id": "eY120dfwVqINlsB6zSpQiFggp9G.jpg",
+                "link": "https://imdb-api.com/posters/original/eY120dfwVqINlsB6zSpQiFggp9G.jpg",
+                "aspectRatio": 1.7777777777777777,
+                "language": "en",
+                "width": 1920,
+                "height": 1080
+            },
+            {
+                "id": "kt8bwPIxzf7lN3mv96bt7703Dhl.jpg",
+                "link": "https://imdb-api.com/posters/original/kt8bwPIxzf7lN3mv96bt7703Dhl.jpg",
+                "aspectRatio": 1.7777777777777777,
+                "language": "en",
+                "width": 1920,
+                "height": 1080
+            },
+            {
+                "id": "ngsPPZHsnPE8k8EK04ndlnR3Dnw.jpg",
+                "link": "https://imdb-api.com/posters/original/ngsPPZHsnPE8k8EK04ndlnR3Dnw.jpg",
+                "aspectRatio": 1.7777777777777777,
+                "language": "en",
+                "width": 1920,
+                "height": 1080
+            },
+            {
+                "id": "tFeqZIp4potC0cG8jZhbdiY8YyZ.jpg",
+                "link": "https://imdb-api.com/posters/original/tFeqZIp4potC0cG8jZhbdiY8YyZ.jpg",
+                "aspectRatio": 1.7777777777777777,
+                "language": "en",
+                "width": 1920,
+                "height": 1080
+            },
+            {
+                "id": "7r2EQdqCwM1mqiO9m8625o5jcJ0.jpg",
+                "link": "https://imdb-api.com/posters/original/7r2EQdqCwM1mqiO9m8625o5jcJ0.jpg",
+                "aspectRatio": 1.7777777777777777,
+                "language": "en",
+                "width": 1920,
+                "height": 1080
+            },
+            {
+                "id": "1WhRRnPJ1hSo8VrS1vWCBOfK9KI.jpg",
+                "link": "https://imdb-api.com/posters/original/1WhRRnPJ1hSo8VrS1vWCBOfK9KI.jpg",
+                "aspectRatio": 1.7777777777777777,
+                "language": "en",
+                "width": 1920,
+                "height": 1080
+            },
+            {
+                "id": "qsuV5CmEJE4IoF9rbLNLDUmtvHH.jpg",
+                "link": "https://imdb-api.com/posters/original/qsuV5CmEJE4IoF9rbLNLDUmtvHH.jpg",
+                "aspectRatio": 1.7777777777777777,
+                "language": "en",
+                "width": 1920,
+                "height": 1080
+            },
+            {
+                "id": "9HrPwwSIP48NrJI6NmvgajlKEo7.jpg",
+                "link": "https://imdb-api.com/posters/original/9HrPwwSIP48NrJI6NmvgajlKEo7.jpg",
+                "aspectRatio": 1.7777777777777777,
+                "language": "en",
+                "width": 1920,
+                "height": 1080
+            },
+            {
+                "id": "3PlyDGcVGF13lONaOWdww7Egzht.jpg",
+                "link": "https://imdb-api.com/posters/original/3PlyDGcVGF13lONaOWdww7Egzht.jpg",
+                "aspectRatio": 1.7777777777777777,
+                "language": "en",
+                "width": 1920,
+                "height": 1080
+            },
+            {
+                "id": "lOcQZjhU99PMykoIStbmZLUVj9D.jpg",
+                "link": "https://imdb-api.com/posters/original/lOcQZjhU99PMykoIStbmZLUVj9D.jpg",
+                "aspectRatio": 1.7777777777777777,
+                "language": "en",
+                "width": 1920,
+                "height": 1080
+            },
+            {
+                "id": "sfY8b5FCUVCrlg4WVjxfSYljYFY.jpg",
+                "link": "https://imdb-api.com/posters/original/sfY8b5FCUVCrlg4WVjxfSYljYFY.jpg",
+                "aspectRatio": 1.7777777777777777,
+                "language": "en",
+                "width": 1920,
+                "height": 1080
+            },
+            {
+                "id": "yAHqWqXo3b0n3aTgqHjWpPmd0ic.jpg",
+                "link": "https://imdb-api.com/posters/original/yAHqWqXo3b0n3aTgqHjWpPmd0ic.jpg",
+                "aspectRatio": 1.7777777777777777,
+                "language": "en",
+                "width": 1920,
+                "height": 1080
+            },
+            {
+                "id": "mPglIawN5LTkNkHOIULepgn99gG.jpg",
+                "link": "https://imdb-api.com/posters/original/mPglIawN5LTkNkHOIULepgn99gG.jpg",
+                "aspectRatio": 1.7777777777777777,
+                "language": "en",
+                "width": 1920,
+                "height": 1080
+            },
+            {
+                "id": "wh2Nevof4wiK2gpF3ePqpeaH3Zk.jpg",
+                "link": "https://imdb-api.com/posters/original/wh2Nevof4wiK2gpF3ePqpeaH3Zk.jpg",
+                "aspectRatio": 1.7777777777777777,
+                "language": "en",
+                "width": 1920,
+                "height": 1080
+            },
+            {
+                "id": "eU3IYWXCZoNjZxMCIX2XmIFGpHt.jpg",
+                "link": "https://imdb-api.com/posters/original/eU3IYWXCZoNjZxMCIX2XmIFGpHt.jpg",
+                "aspectRatio": 1.7777777777777777,
+                "language": "en",
+                "width": 1920,
+                "height": 1080
+            },
+            {
+                "id": "6SxxFvoWvTqP3EZtizwhOgGRlyz.jpg",
+                "link": "https://imdb-api.com/posters/original/6SxxFvoWvTqP3EZtizwhOgGRlyz.jpg",
+                "aspectRatio": 1.7777777777777777,
+                "language": "en",
+                "width": 1920,
+                "height": 1080
+            },
+            {
+                "id": "2QZ93ZlcEyfrVgQ7aGQpaAWoa0S.jpg",
+                "link": "https://imdb-api.com/posters/original/2QZ93ZlcEyfrVgQ7aGQpaAWoa0S.jpg",
+                "aspectRatio": 1.7777777777777777,
+                "language": "en",
+                "width": 1920,
+                "height": 1080
+            },
+            {
+                "id": "eyi8HYXZByttuDX762imzx2U0ja.jpg",
+                "link": "https://imdb-api.com/posters/original/eyi8HYXZByttuDX762imzx2U0ja.jpg",
+                "aspectRatio": 1.7777777777777777,
+                "language": "en",
+                "width": 1920,
+                "height": 1080
+            },
+            {
+                "id": "h5JXYb2WuHn71pMoHfAvA6NOfud.jpg",
+                "link": "https://imdb-api.com/posters/original/h5JXYb2WuHn71pMoHfAvA6NOfud.jpg",
+                "aspectRatio": 1.7777777777777777,
+                "language": "en",
+                "width": 1920,
+                "height": 1080
+            },
+            {
+                "id": "6Gxx20QnxQS3wlrIFrOxKmhYBiX.jpg",
+                "link": "https://imdb-api.com/posters/original/6Gxx20QnxQS3wlrIFrOxKmhYBiX.jpg",
+                "aspectRatio": 1.7777777777777777,
+                "language": "en",
+                "width": 1920,
+                "height": 1080
+            },
+            {
+                "id": "cdb5HLoWbSfh6bZeR7EAd3wxQzg.jpg",
+                "link": "https://imdb-api.com/posters/original/cdb5HLoWbSfh6bZeR7EAd3wxQzg.jpg",
+                "aspectRatio": 1.7777777777777777,
+                "language": "en",
+                "width": 1920,
+                "height": 1080
+            },
+            {
+                "id": "lW1TxsiTN0e9rtjztMNcjFTu1sK.jpg",
+                "link": "https://imdb-api.com/posters/original/lW1TxsiTN0e9rtjztMNcjFTu1sK.jpg",
+                "aspectRatio": 1.7777777777777777,
+                "language": "en",
+                "width": 2128,
+                "height": 1197
+            },
+            {
+                "id": "p8FL4EAJR7bVJiQZDnkMqR1v81D.jpg",
+                "link": "https://imdb-api.com/posters/original/p8FL4EAJR7bVJiQZDnkMqR1v81D.jpg",
+                "aspectRatio": 1.7786666666666666,
+                "language": "en",
+                "width": 1334,
+                "height": 750
+            },
+            {
+                "id": "tTqQNCIgH4VxCABhjxEUYpzr71t.jpg",
+                "link": "https://imdb-api.com/posters/original/tTqQNCIgH4VxCABhjxEUYpzr71t.jpg",
+                "aspectRatio": 1.7777777777777777,
+                "language": "en",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "id": "bpgHdCmBroOSW1c9KdEgJKrHXxs.jpg",
+                "link": "https://imdb-api.com/posters/original/bpgHdCmBroOSW1c9KdEgJKrHXxs.jpg",
+                "aspectRatio": 1.7777777777777777,
+                "language": "en",
+                "width": 1920,
+                "height": 1080
+            },
+            {
+                "id": "vQCYMC114TJy3O7rBw62CbwUpky.jpg",
+                "link": "https://imdb-api.com/posters/original/vQCYMC114TJy3O7rBw62CbwUpky.jpg",
+                "aspectRatio": 1.7777777777777777,
+                "language": "en",
+                "width": 1920,
+                "height": 1080
+            },
+            {
+                "id": "vbV3zyhGZPxVHaoyTgIK6zwuMTV.jpg",
+                "link": "https://imdb-api.com/posters/original/vbV3zyhGZPxVHaoyTgIK6zwuMTV.jpg",
+                "aspectRatio": 1.7777777777777777,
+                "language": "en",
+                "width": 1920,
+                "height": 1080
+            },
+            {
+                "id": "WeOMVqQsNfIqb5OEk2M0GOlGlI.jpg",
+                "link": "https://imdb-api.com/posters/original/WeOMVqQsNfIqb5OEk2M0GOlGlI.jpg",
+                "aspectRatio": 1.7777777777777777,
+                "language": "en",
+                "width": 1920,
+                "height": 1080
+            },
+            {
+                "id": "9Bs6MR1RGtuM6Hwm6XD1LZWk22N.jpg",
+                "link": "https://imdb-api.com/posters/original/9Bs6MR1RGtuM6Hwm6XD1LZWk22N.jpg",
+                "aspectRatio": 1.7777777777777777,
+                "language": "en",
+                "width": 1920,
+                "height": 1080
+            },
+            {
+                "id": "lX7CY8J70jbVW8hMEer2irqwlCO.jpg",
+                "link": "https://imdb-api.com/posters/original/lX7CY8J70jbVW8hMEer2irqwlCO.jpg",
+                "aspectRatio": 1.7777777777777777,
+                "language": "en",
+                "width": 1920,
+                "height": 1080
+            },
+            {
+                "id": "8fdf0PkU64jAFvHnG3nmKllZ7Fz.jpg",
+                "link": "https://imdb-api.com/posters/original/8fdf0PkU64jAFvHnG3nmKllZ7Fz.jpg",
+                "aspectRatio": 1.7777777777777777,
+                "language": "en",
+                "width": 1920,
+                "height": 1080
+            },
+            {
+                "id": "f8d4eu9gAyGJQhdqBNX7Qs1Klo6.jpg",
+                "link": "https://imdb-api.com/posters/original/f8d4eu9gAyGJQhdqBNX7Qs1Klo6.jpg",
+                "aspectRatio": 1.7777777777777777,
+                "language": "en",
+                "width": 1920,
+                "height": 1080
+            },
+            {
+                "id": "sTt2xaHZnzPdw7Rndwd06IIXvOn.jpg",
+                "link": "https://imdb-api.com/posters/original/sTt2xaHZnzPdw7Rndwd06IIXvOn.jpg",
+                "aspectRatio": 1.7777777777777777,
+                "language": "en",
+                "width": 1920,
+                "height": 1080
+            },
+            {
+                "id": "hTOJeTFjvIqQ0NdBHvlpzqySpwF.jpg",
+                "link": "https://imdb-api.com/posters/original/hTOJeTFjvIqQ0NdBHvlpzqySpwF.jpg",
+                "aspectRatio": 1.7777777777777777,
+                "language": "en",
+                "width": 1920,
+                "height": 1080
+            },
+            {
+                "id": "iVBPaRzZtoSyRUSQpN4ekSGlD99.jpg",
+                "link": "https://imdb-api.com/posters/original/iVBPaRzZtoSyRUSQpN4ekSGlD99.jpg",
+                "aspectRatio": 1.7777777777777777,
+                "language": "en",
+                "width": 1920,
+                "height": 1080
+            }
+        ],
+        "errorMessage": ""
+    },
+    "images": {
+        "imDbId": "tt0316654",
+        "title": "Spider-Man 2",
+        "fullTitle": "Spider-Man 2 (2004)",
+        "type": "Movie",
+        "year": "2004",
+        "items": [
+            {
+                "title": "Alfred Molina in Spider-Man 2 (2004)",
+                "image": "https://imdb-api.com/images/original/MV5BMjM1ODMwNzEwMV5BMl5BanBnXkFtZTgwMzc0NDI4MTI@._V1_Ratio2.3400_AL_.jpg"
+            },
+            {
+                "title": "Tobey Maguire in Spider-Man 2 (2004)",
+                "image": "https://imdb-api.com/images/original/MV5BMTcxODg2NjI2N15BMl5BanBnXkFtZTgwMjY3OTUxMTI@._V1_Ratio1.4800_AL_.jpg"
+            },
+            {
+                "title": "Tobey Maguire in Spider-Man 2 (2004)",
+                "image": "https://imdb-api.com/images/original/MV5BMTgzNzQ1OTI5Nl5BMl5BanBnXkFtZTgwMDk5OTIwMjE@._V1_Ratio1.8400_AL_.jpg"
+            },
+            {
+                "title": "Kirsten Dunst and Tobey Maguire in Spider-Man 2 (2004)",
+                "image": "https://imdb-api.com/images/original/MV5BMTg5ODU0MDc4OF5BMl5BanBnXkFtZTgwMjk5OTIwMjE@._V1_Ratio1.6000_AL_.jpg"
+            },
+            {
+                "title": "Kirsten Dunst and Tobey Maguire in Spider-Man 2 (2004)",
+                "image": "https://imdb-api.com/images/original/MV5BMTc3ODA4MjM3OF5BMl5BanBnXkFtZTYwNzk2NzY3._V1_Ratio1.7800_AL_.jpg"
+            },
+            {
+                "title": "Alfred Molina and Tobey Maguire in Spider-Man 2 (2004)",
+                "image": "https://imdb-api.com/images/original/MV5BMTI2OTk3NDEwMF5BMl5BanBnXkFtZTYwMTA3NzY3._V1_Ratio1.8400_AL_.jpg"
+            },
+            {
+                "title": "Tobey Maguire in Spider-Man 2 (2004)",
+                "image": "https://imdb-api.com/images/original/MV5BNTIxODQ5Mjk3OF5BMl5BanBnXkFtZTYwMzA3NzY3._V1_Ratio1.4200_AL_.jpg"
+            },
+            {
+                "title": "Tobey Maguire in Spider-Man 2 (2004)",
+                "image": "https://imdb-api.com/images/original/MV5BNTkyMzU1NjkyOV5BMl5BanBnXkFtZTYwNzA3NzY3._V1_Ratio1.5000_AL_.jpg"
+            },
+            {
+                "title": "Tobey Maguire in Spider-Man 2 (2004)",
+                "image": "https://imdb-api.com/images/original/MV5BMTg4NjY4NzA0Ml5BMl5BanBnXkFtZTYwOTA3NzY3._V1_Ratio1.4800_AL_.jpg"
+            },
+            {
+                "title": "Tobey Maguire in Spider-Man 2 (2004)",
+                "image": "https://imdb-api.com/images/original/MV5BODIzNjYzMzU1NF5BMl5BanBnXkFtZTYwMTE3NzY3._V1_Ratio1.5000_AL_.jpg"
+            },
+            {
+                "title": "Tobey Maguire in Spider-Man 2 (2004)",
+                "image": "https://imdb-api.com/images/original/MV5BMTQ3NzQ0NTg2OV5BMl5BanBnXkFtZTYwMzE3NzY3._V1_Ratio1.0000_AL_.jpg"
+            },
+            {
+                "title": "Tobey Maguire in Spider-Man 2 (2004)",
+                "image": "https://imdb-api.com/images/original/MV5BMTcxMjAwNTY1NF5BMl5BanBnXkFtZTYwNjE3NzY3._V1_Ratio1.5000_AL_.jpg"
+            },
+            {
+                "title": "Tobey Maguire in Spider-Man 2 (2004)",
+                "image": "https://imdb-api.com/images/original/MV5BMTg5NzQ0MTEyNl5BMl5BanBnXkFtZTYwNzE3NzY3._V1_Ratio1.5000_AL_.jpg"
+            },
+            {
+                "title": "Kirsten Dunst in Spider-Man 2 (2004)",
+                "image": "https://imdb-api.com/images/original/MV5BMTAyMDY3MjU1NDleQTJeQWpwZ15BbWU2MDkxNzc2Nw@@._V1_Ratio1.0000_AL_.jpg"
+            },
+            {
+                "title": "Kirsten Dunst and Tobey Maguire in Spider-Man 2 (2004)",
+                "image": "https://imdb-api.com/images/original/MV5BMTY2MDg4OTExMF5BMl5BanBnXkFtZTYwMzExNzk3._V1_Ratio1.5000_AL_.jpg"
+            },
+            {
+                "title": "Kirsten Dunst in Spider-Man 2 (2004)",
+                "image": "https://imdb-api.com/images/original/MV5BMjE3OTA5NDA5Nl5BMl5BanBnXkFtZTYwNDI3NzY3._V1_Ratio1.0000_AL_.jpg"
+            },
+            {
+                "title": "Kirsten Dunst and Tobey Maguire in Spider-Man 2 (2004)",
+                "image": "https://imdb-api.com/images/original/MV5BMTM0ODgyNTM0MV5BMl5BanBnXkFtZTYwNTI3NzY3._V1_Ratio1.5000_AL_.jpg"
+            },
+            {
+                "title": "James Franco in Spider-Man 2 (2004)",
+                "image": "https://imdb-api.com/images/original/MV5BMTcxMzMwODc2MV5BMl5BanBnXkFtZTYwODI3NzY3._V1_Ratio1.5000_AL_.jpg"
+            },
+            {
+                "title": "Kirsten Dunst and Daniel Gillies in Spider-Man 2 (2004)",
+                "image": "https://imdb-api.com/images/original/MV5BMTMxNzI2NjEwNl5BMl5BanBnXkFtZTYwMDM3NzY3._V1_Ratio1.2600_AL_.jpg"
+            },
+            {
+                "title": "Tobey Maguire in Spider-Man 2 (2004)",
+                "image": "https://imdb-api.com/images/original/MV5BMTgyMDI0MjE0MF5BMl5BanBnXkFtZTYwNDM3NzY3._V1_Ratio1.5200_AL_.jpg"
+            },
+            {
+                "title": "Tobey Maguire in Spider-Man 2 (2004)",
+                "image": "https://imdb-api.com/images/original/MV5BMjEwMjEyNjY1OV5BMl5BanBnXkFtZTYwNjM3NzY3._V1_Ratio1.5000_AL_.jpg"
+            },
+            {
+                "title": "Tobey Maguire and James Franco in Spider-Man 2 (2004)",
+                "image": "https://imdb-api.com/images/original/MV5BMTM2NTk2NjA3Nl5BMl5BanBnXkFtZTYwODM3NzY3._V1_Ratio1.5000_AL_.jpg"
+            },
+            {
+                "title": "James Franco in Spider-Man 2 (2004)",
+                "image": "https://imdb-api.com/images/original/MV5BNzExMTcwNDI1OF5BMl5BanBnXkFtZTYwOTM3NzY3._V1_Ratio1.5000_AL_.jpg"
+            },
+            {
+                "title": "Alfred Molina in Spider-Man 2 (2004)",
+                "image": "https://imdb-api.com/images/original/MV5BMTYwNDk4NTc2MV5BMl5BanBnXkFtZTYwMTQ3NzY3._V1_Ratio1.5000_AL_.jpg"
+            },
+            {
+                "title": "Donna Murphy in Spider-Man 2 (2004)",
+                "image": "https://imdb-api.com/images/original/MV5BMTYxNzA4OTcyM15BMl5BanBnXkFtZTYwNDQ3NzY3._V1_Ratio1.5000_AL_.jpg"
+            },
+            {
+                "title": "Tobey Maguire, Bill Nunn, and J.K. Simmons in Spider-Man 2 (2004)",
+                "image": "https://imdb-api.com/images/original/MV5BMTM5NjU5ODE1MV5BMl5BanBnXkFtZTYwNjQ3NzY3._V1_Ratio1.5000_AL_.jpg"
+            },
+            {
+                "title": "J.K. Simmons in Spider-Man 2 (2004)",
+                "image": "https://imdb-api.com/images/original/MV5BMTIxOTU3NjY1NV5BMl5BanBnXkFtZTYwNzQ3NzY3._V1_Ratio1.5000_AL_.jpg"
+            },
+            {
+                "title": "Tobey Maguire and Elizabeth Banks in Spider-Man 2 (2004)",
+                "image": "https://imdb-api.com/images/original/MV5BMTYyNDA1NzUxM15BMl5BanBnXkFtZTYwOTQ3NzY3._V1_Ratio1.5000_AL_.jpg"
+            },
+            {
+                "title": "J.K. Simmons in Spider-Man 2 (2004)",
+                "image": "https://imdb-api.com/images/original/MV5BMTMzMTE4NTU3Nl5BMl5BanBnXkFtZTYwMjU3NzY3._V1_Ratio1.5000_AL_.jpg"
+            },
+            {
+                "title": "Tobey Maguire in Spider-Man 2 (2004)",
+                "image": "https://imdb-api.com/images/original/MV5BMTE5Mzc1NjY3M15BMl5BanBnXkFtZTYwNDU3NzY3._V1_Ratio1.5000_AL_.jpg"
+            },
+            {
+                "title": "Tobey Maguire and Rosemary Harris in Spider-Man 2 (2004)",
+                "image": "https://imdb-api.com/images/original/MV5BMTUwMzI4NjU5MF5BMl5BanBnXkFtZTYwNTU3NzY3._V1_Ratio1.5000_AL_.jpg"
+            },
+            {
+                "title": "Rosemary Harris in Spider-Man 2 (2004)",
+                "image": "https://imdb-api.com/images/original/MV5BMjA0Mjc1OTA4N15BMl5BanBnXkFtZTYwODU3NzY3._V1_Ratio1.5000_AL_.jpg"
+            },
+            {
+                "title": "Alfred Molina in Spider-Man 2 (2004)",
+                "image": "https://imdb-api.com/images/original/MV5BMTYzNzE3NTI5OF5BMl5BanBnXkFtZTYwOTU3NzY3._V1_Ratio1.5000_AL_.jpg"
+            },
+            {
+                "title": "Tobey Maguire in Spider-Man 2 (2004)",
+                "image": "https://imdb-api.com/images/original/MV5BMjEzMjM2NDUyOF5BMl5BanBnXkFtZTYwMzY3NzY3._V1_Ratio1.5000_AL_.jpg"
+            },
+            {
+                "title": "Kirsten Dunst in Spider-Man 2 (2004)",
+                "image": "https://imdb-api.com/images/original/MV5BMTc3OTg0NDMzNF5BMl5BanBnXkFtZTYwNTY3NzY3._V1_Ratio1.5000_AL_.jpg"
+            },
+            {
+                "title": "Kirsten Dunst and Tobey Maguire in Spider-Man 2 (2004)",
+                "image": "https://imdb-api.com/images/original/MV5BMTgwMzY0Mjc4N15BMl5BanBnXkFtZTYwNzY3NzY3._V1_Ratio1.5000_AL_.jpg"
+            },
+            {
+                "title": "Alfred Molina and Donna Murphy in Spider-Man 2 (2004)",
+                "image": "https://imdb-api.com/images/original/MV5BMTIzNzIxNDM1OF5BMl5BanBnXkFtZTYwNzc3NzY3._V1_Ratio1.4200_AL_.jpg"
+            },
+            {
+                "title": "James Franco in Spider-Man 2 (2004)",
+                "image": "https://imdb-api.com/images/original/MV5BMjA1Mzc0ODY5NV5BMl5BanBnXkFtZTYwOTc3NzY3._V1_Ratio1.5000_AL_.jpg"
+            },
+            {
+                "title": "Alfred Molina and Tobey Maguire in Spider-Man 2 (2004)",
+                "image": "https://imdb-api.com/images/original/MV5BMTczNTE1NTYzN15BMl5BanBnXkFtZTYwNDg3NzY3._V1_Ratio1.7000_AL_.jpg"
+            },
+            {
+                "title": "Tobey Maguire and Rosemary Harris in Spider-Man 2 (2004)",
+                "image": "https://imdb-api.com/images/original/MV5BNjMxOTQ4MTMwMl5BMl5BanBnXkFtZTYwNjg3NzY3._V1_Ratio1.0000_AL_.jpg"
+            },
+            {
+                "title": "Alfred Molina in Spider-Man 2 (2004)",
+                "image": "https://imdb-api.com/images/original/MV5BMTg2MjAxNjY1OV5BMl5BanBnXkFtZTYwODg3NzY3._V1_Ratio1.5200_AL_.jpg"
+            },
+            {
+                "title": "Alfred Molina in Spider-Man 2 (2004)",
+                "image": "https://imdb-api.com/images/original/MV5BMjAzNTY0NDkxOV5BMl5BanBnXkFtZTYwMDk3NzY3._V1_Ratio1.7600_AL_.jpg"
+            },
+            {
+                "title": "Alfred Molina in Spider-Man 2 (2004)",
+                "image": "https://imdb-api.com/images/original/MV5BMjA2ODYxNzA0OF5BMl5BanBnXkFtZTYwMjk3NzY3._V1_Ratio2.3400_AL_.jpg"
+            },
+            {
+                "title": "Alfred Molina in Spider-Man 2 (2004)",
+                "image": "https://imdb-api.com/images/original/MV5BMTE5NTk2NDI0OF5BMl5BanBnXkFtZTYwNDk3NzY3._V1_Ratio1.6600_AL_.jpg"
+            },
+            {
+                "title": "Tobey Maguire in Spider-Man 2 (2004)",
+                "image": "https://imdb-api.com/images/original/MV5BMTUyNjI4NzczN15BMl5BanBnXkFtZTYwNjk3NzY3._V1_Ratio1.7400_AL_.jpg"
+            },
+            {
+                "title": "Tobey Maguire in Spider-Man 2 (2004)",
+                "image": "https://imdb-api.com/images/original/MV5BMTU0OTM2NDI3OF5BMl5BanBnXkFtZTYwODk3NzY3._V1_Ratio1.5600_AL_.jpg"
+            },
+            {
+                "title": "Alfred Molina in Spider-Man 2 (2004)",
+                "image": "https://imdb-api.com/images/original/MV5BMTQ3MjQxOTg2MF5BMl5BanBnXkFtZTYwNTA3NzY3._V1_Ratio1.8800_AL_.jpg"
+            },
+            {
+                "title": "Alfred Molina in Spider-Man 2 (2004)",
+                "image": "https://imdb-api.com/images/original/MV5BMjE4MzY5Mzk1N15BMl5BanBnXkFtZTgwMjc0NDI4MTI@._V1_Ratio1.0000_AL_.jpg"
+            }
+        ],
+        "errorMessage": ""
+    },
+    "trailer": {
+        "imDbId": "tt0316654",
+        "title": "Spider-Man 2",
+        "fullTitle": "Spider-Man 2 (2004)",
+        "type": "Movie",
+        "year": "2004",
+        "videoId": null,
+        "videoTitle": null,
+        "videoDescription": null,
+        "thumbnailUrl": null,
+        "uploadDate": null,
+        "link": null,
+        "linkEmbed": null,
+        "errorMessage": "404 Not Founded Error"
+    },
+    "boxOffice": {
+        "budget": "$200,000,000 (estimated)",
+        "openingWeekendUSA": "$88,156,227, 4 July 2004",
+        "grossUSA": "$373,585,825",
+        "cumulativeWorldwideGross": "$788,976,453"
+    },
+    "tagline": "This summer a man will face his destiny. A hero will be revealed",
+    "keywords": "peter parker character,older actors younger roles,may parker character,spider man character,ben parker character",
+    "keywordList": [
+        "peter parker character",
+        "older actors younger roles",
+        "may parker character",
+        "spider man character",
+        "ben parker character"
+    ],
+    "similars": [
+        {
+            "id": "tt0145487",
+            "title": "Spider-Man",
+            "fullTitle": "Spider-Man (2002)",
+            "year": "2002",
+            "image": "https://imdb-api.com/images/original/MV5BZDEyN2NhMjgtMjdhNi00MmNlLWE5YTgtZGE4MzNjMTRlMGEwXkEyXkFqcGdeQXVyNDUyOTg3Njg@._V1_Ratio0.6737_AL_.jpg",
+            "plot": "When bitten by a genetically modified spider, a nerdy, shy, and awkward high school student gains spider-like abilities that he eventually must use to fight evil as a superhero after tragedy befalls his family.",
+            "directors": "Sam Raimi",
+            "stars": "Tobey Maguire, Kirsten Dunst, Willem Dafoe",
+            "genres": "Action, Adventure, Sci-Fi",
+            "imDbRating": "7.3"
+        },
+        {
+            "id": "tt0413300",
+            "title": "Spider-Man 3",
+            "fullTitle": "Spider-Man 3 (2007)",
+            "year": "2007",
+            "image": "https://imdb-api.com/images/original/MV5BYTk3MDljOWQtNGI2My00OTEzLTlhYjQtOTQ4ODM2MzUwY2IwXkEyXkFqcGdeQXVyNTIzOTk5ODM@._V1_Ratio0.6737_AL_.jpg",
+            "plot": "A strange black entity from another world bonds with Peter Parker and causes inner turmoil as he contends with new villains, temptations, and revenge.",
+            "directors": "Sam Raimi",
+            "stars": "Tobey Maguire, Kirsten Dunst, Topher Grace",
+            "genres": "Action, Adventure, Sci-Fi",
+            "imDbRating": "6.2"
+        },
+        {
+            "id": "tt0948470",
+            "title": "The Amazing Spider-Man",
+            "fullTitle": "The Amazing Spider-Man (2012)",
+            "year": "2012",
+            "image": "https://imdb-api.com/images/original/MV5BMjMyOTM4MDMxNV5BMl5BanBnXkFtZTcwNjIyNzExOA@@._V1_Ratio0.6737_AL_.jpg",
+            "plot": "After Peter Parker is bitten by a genetically altered spider, he gains newfound, spider-like powers and ventures out to save the city from the machinations of a mysterious reptilian foe.",
+            "directors": "Marc Webb",
+            "stars": "Andrew Garfield, Emma Stone, Rhys Ifans",
+            "genres": "Action, Adventure, Fantasy",
+            "imDbRating": "6.9"
+        },
+        {
+            "id": "tt1872181",
+            "title": "The Amazing Spider-Man 2",
+            "fullTitle": "The Amazing Spider-Man 2 (2014)",
+            "year": "2014",
+            "image": "https://imdb-api.com/images/original/MV5BOTA5NDYxNTg0OV5BMl5BanBnXkFtZTgwODE5NzU1MTE@._V1_Ratio0.6737_AL_.jpg",
+            "plot": "When New York is put under siege by Oscorp, it is up to Spider-Man to save the city he swore to protect as well as his loved ones.",
+            "directors": "Marc Webb",
+            "stars": "Andrew Garfield, Emma Stone, Jamie Foxx",
+            "genres": "Action, Adventure, Fantasy",
+            "imDbRating": "6.6"
+        },
+        {
+            "id": "tt2250912",
+            "title": "Spider-Man: Homecoming",
+            "fullTitle": "Spider-Man: Homecoming (2017)",
+            "year": "2017",
+            "image": "https://imdb-api.com/images/original/MV5BNTk4ODQ1MzgzNl5BMl5BanBnXkFtZTgwMTMyMzM4MTI@._V1_Ratio0.6737_AL_.jpg",
+            "plot": "Peter Parker balances his life as an ordinary high school student in Queens with his superhero alter-ego Spider-Man, and finds himself on the trail of a new menace prowling the skies of New York City.",
+            "directors": "Jon Watts",
+            "stars": "Tom Holland, Michael Keaton, Robert Downey Jr.",
+            "genres": "Action, Adventure, Sci-Fi",
+            "imDbRating": "7.4"
+        },
+        {
+            "id": "tt0120903",
+            "title": "X-Men",
+            "fullTitle": "X-Men (2000)",
+            "year": "2000",
+            "image": "https://imdb-api.com/images/original/MV5BZmIyMDk5NGYtYjQ5NS00ZWQxLTg2YzQtZDk1ZmM4ZDBlN2E3XkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_Ratio0.6737_AL_.jpg",
+            "plot": "In a world where mutants (evolved super-powered humans) exist and are discriminated against, two groups form for an inevitable clash: the supremacist Brotherhood, and the pacifist X-Men.",
+            "directors": "Bryan Singer",
+            "stars": "Patrick Stewart, Hugh Jackman, Ian McKellen",
+            "genres": "Action, Adventure, Sci-Fi",
+            "imDbRating": "7.4"
+        },
+        {
+            "id": "tt0290334",
+            "title": "X2: X-Men United",
+            "fullTitle": "X2: X-Men United (2003)",
+            "year": "2003",
+            "image": "https://imdb-api.com/images/original/MV5BNDk0NjYxMzIzOF5BMl5BanBnXkFtZTYwMTc1MjU3._V1_Ratio0.6737_AL_.jpg",
+            "plot": "When anti-mutant Colonel William Stryker kidnaps Professor X and attacks his school, the X-Men must ally with their archenemy Magneto to stop him.",
+            "directors": "Bryan Singer",
+            "stars": "Patrick Stewart, Hugh Jackman, Halle Berry",
+            "genres": "Action, Sci-Fi, Thriller",
+            "imDbRating": "7.4"
+        },
+        {
+            "id": "tt1270798",
+            "title": "X-Men: First Class",
+            "fullTitle": "X-Men: First Class (2011)",
+            "year": "2011",
+            "image": "https://imdb-api.com/images/original/MV5BMTg5OTMxNzk4Nl5BMl5BanBnXkFtZTcwOTk1MjAwNQ@@._V1_Ratio0.6737_AL_.jpg",
+            "plot": "In the 1960s, superpowered humans Charles Xavier and Erik Lensherr work together to find others like them, but Erik's vengeful pursuit of an ambitious mutant who ruined his life causes a schism to divide them.",
+            "directors": "Matthew Vaughn",
+            "stars": "James McAvoy, Michael Fassbender, Jennifer Lawrence",
+            "genres": "Action, Adventure, Sci-Fi",
+            "imDbRating": "7.7"
+        },
+        {
+            "id": "tt6320628",
+            "title": "Spider-Man: Far from Home",
+            "fullTitle": "Spider-Man: Far from Home (2019)",
+            "year": "2019",
+            "image": "https://imdb-api.com/images/original/MV5BMGZlNTY1ZWUtYTMzNC00ZjUyLWE0MjQtMTMxN2E3ODYxMWVmXkEyXkFqcGdeQXVyMDM2NDM2MQ@@._V1_Ratio0.6737_AL_.jpg",
+            "plot": "Following the events of Avengers: Endgame (2019), Spider-Man must step up to take on new threats in a world that has changed forever.",
+            "directors": "Jon Watts",
+            "stars": "Tom Holland, Samuel L. Jackson, Jake Gyllenhaal",
+            "genres": "Action, Adventure, Sci-Fi",
+            "imDbRating": "7.5"
+        },
+        {
+            "id": "tt1430132",
+            "title": "The Wolverine",
+            "fullTitle": "The Wolverine (2013)",
+            "year": "2013",
+            "image": "https://imdb-api.com/images/original/MV5BNzg1MDQxMTQ2OF5BMl5BanBnXkFtZTcwMTk3MjAzOQ@@._V1_Ratio0.6737_AL_.jpg",
+            "plot": "Wolverine comes to Japan to meet an old friend whose life he saved years ago, and gets embroiled in a conspiracy involving yakuza and mutants.",
+            "directors": "James Mangold",
+            "stars": "Hugh Jackman, Will Yun Lee, Tao Okamoto",
+            "genres": "Action, Sci-Fi",
+            "imDbRating": "6.7"
+        },
+        {
+            "id": "tt0371746",
+            "title": "Iron Man",
+            "fullTitle": "Iron Man (2008)",
+            "year": "2008",
+            "image": "https://imdb-api.com/images/original/MV5BMTczNTI2ODUwOF5BMl5BanBnXkFtZTcwMTU0NTIzMw@@._V1_Ratio0.6737_AL_.jpg",
+            "plot": "After being held captive in an Afghan cave, billionaire engineer Tony Stark creates a unique weaponized suit of armor to fight evil.",
+            "directors": "Jon Favreau",
+            "stars": "Robert Downey Jr., Gwyneth Paltrow, Terrence Howard",
+            "genres": "Action, Adventure, Sci-Fi",
+            "imDbRating": "7.9"
+        },
+        {
+            "id": "tt1877832",
+            "title": "X-Men: Days of Future Past",
+            "fullTitle": "X-Men: Days of Future Past (2014)",
+            "year": "2014",
+            "image": "https://imdb-api.com/images/original/MV5BZGIzNWYzN2YtMjcwYS00YjQ3LWI2NjMtOTNiYTUyYjE2MGNkXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_Ratio0.6737_AL_.jpg",
+            "plot": "The X-Men send Wolverine to the past in a desperate effort to change history and prevent an event that results in doom for both humans and mutants.",
+            "directors": "Bryan Singer",
+            "stars": "Patrick Stewart, Ian McKellen, Hugh Jackman",
+            "genres": "Action, Adventure, Sci-Fi",
+            "imDbRating": "7.9"
+        }
+    ],
+    "tvSeriesInfo": null,
+    "tvEpisodeInfo": null,
+    "errorMessage": ""
+}

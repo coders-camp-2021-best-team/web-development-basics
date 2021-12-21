@@ -4,7 +4,7 @@ import { Button, MovieCarousel } from '../components';
 import './Home.scss';
 import { redirect } from '../index.js';
 
-const template = async (top, movies, series) => `
+const template = async (movies) => `
     <div id="homeScreen" class="homeScreen">
         <template id="home-movie-tiles"></template>
         ${Button({
@@ -13,7 +13,7 @@ const template = async (top, movies, series) => `
             text: 'Top 250 movies'
         })}
         ${await MovieCarousel({
-            movies: top.items.slice(0, 15),
+            movies: movies[0],
             id: 'topMovies'
         })}
         ${Button({
@@ -22,7 +22,7 @@ const template = async (top, movies, series) => `
             text: 'Series'
         })}
         ${await MovieCarousel({
-            movies: series.items.slice(0, 15),
+            movies: movies[1],
             id: 'series'
         })}
         ${Button({
@@ -31,7 +31,7 @@ const template = async (top, movies, series) => `
             text: 'Movies'
         })}
         ${await MovieCarousel({
-            movies: movies.items.slice(0, 15),
+            movies: movies[2],
             id: 'movies'
         })}
     </div>
@@ -40,7 +40,15 @@ const template = async (top, movies, series) => `
 export const HomeScreen = async ({ renderOn, options }) => {
     // TODO this is temporary to show example movie tile
     const top = await ApiProvider.getTop250Movies();
-    const movies = await ApiProvider.mostPopularMovies();
-    const series = await ApiProvider.mostPopularTVs();
-    render({ on: renderOn, html: await template(top, movies, series) });
+    const mostPopularTVs = await ApiProvider.mostPopularTVs();
+    const mostPopularMovies = await ApiProvider.mostPopularMovies();
+
+    render({
+        on: renderOn,
+        html: await template([
+            top.items.splice(0, 20),
+            mostPopularTVs.items.splice(0, 20),
+            mostPopularMovies.items.splice(0, 20)
+        ])
+    });
 };

@@ -1,0 +1,594 @@
+{
+    "id": "tt6467266",
+    "title": "Sing 2",
+    "originalTitle": "",
+    "fullTitle": "Sing 2 (2021)",
+    "type": "Movie",
+    "year": "2021",
+    "image": "https://imdb-api.com/images/original/MV5BNTA4NTRhZGUtYTJjNi00YTBkLTlhNjYtOThjZjY4ZTFiZmRhXkEyXkFqcGdeQXVyODk4OTc3MTY@._V1_Ratio0.6791_AL_.jpg",
+    "releaseDate": "2021-12-08",
+    "runtimeMins": "",
+    "runtimeStr": "",
+    "plot": "Buster Moon and his friends must persuade reclusive rock star Clay Calloway to join them for the opening of a new show.",
+    "plotLocal": "",
+    "plotLocalIsRtl": false,
+    "awards": "",
+    "directors": "Garth Jennings",
+    "directorList": [{ "id": "nm1134029", "name": "Garth Jennings" }],
+    "writers": "Garth Jennings",
+    "writerList": [{ "id": "nm1134029", "name": "Garth Jennings" }],
+    "stars": "Matthew McConaughey, Taron Egerton, Tori Kelly, Reese Witherspoon",
+    "starList": [
+        { "id": "nm0000190", "name": "Matthew McConaughey" },
+        { "id": "nm5473782", "name": "Taron Egerton" },
+        { "id": "nm1812991", "name": "Tori Kelly" },
+        { "id": "nm0000702", "name": "Reese Witherspoon" }
+    ],
+    "actorList": [
+        {
+            "id": "nm0000190",
+            "image": "https://imdb-api.com/images/original/MV5BMTg0MDc3ODUwOV5BMl5BanBnXkFtZTcwMTk2NjY4Nw@@._V1_Ratio0.7273_AL_.jpg",
+            "name": "Matthew McConaughey",
+            "asCharacter": "Buster Moon (voice)"
+        },
+        {
+            "id": "nm5473782",
+            "image": "https://imdb-api.com/images/original/MV5BMTYzODU2OTI2Nl5BMl5BanBnXkFtZTgwMTUyMTAwMzE@._V1_Ratio0.7273_AL_.jpg",
+            "name": "Taron Egerton",
+            "asCharacter": "Johnny (voice)"
+        },
+        {
+            "id": "nm1812991",
+            "image": "https://imdb-api.com/images/original/MV5BMzYyMzYyODIwOV5BMl5BanBnXkFtZTgwMDM0NDM3NTE@._V1_Ratio0.7273_AL_.jpg",
+            "name": "Tori Kelly",
+            "asCharacter": "Meena (voice)"
+        },
+        {
+            "id": "nm0000702",
+            "image": "https://imdb-api.com/images/original/MV5BMTc3MDcxMDA5Ml5BMl5BanBnXkFtZTgwNDM1NTU5MDE@._V1_Ratio0.7273_AL_.jpg",
+            "name": "Reese Witherspoon",
+            "asCharacter": "Rosita (voice)"
+        },
+        {
+            "id": "nm1802209",
+            "image": "https://imdb-api.com/images/original/MV5BMTg3NTE5Mjg2NF5BMl5BanBnXkFtZTgwODAxMzE4NDM@._V1_Ratio0.7273_AL_.jpg",
+            "name": "Nick Kroll",
+            "asCharacter": "Gunter (voice)"
+        },
+        {
+            "id": "nm0424060",
+            "image": "https://imdb-api.com/images/original/MV5BMTM3OTUwMDYwNl5BMl5BanBnXkFtZTcwNTUyNzc3Nw@@._V1_Ratio0.8182_AL_.jpg",
+            "name": "Scarlett Johansson",
+            "asCharacter": "Ash (voice)"
+        },
+        {
+            "id": "nm0134072",
+            "image": "https://imdb-api.com/images/original/MV5BMTU0NzM3MzQ4Ml5BMl5BanBnXkFtZTgwOTg2MjY4ODE@._V1_Ratio1.7727_AL_.jpg",
+            "name": "Bobby Cannavale",
+            "asCharacter": "Jimmy Crystal (voice)"
+        },
+        {
+            "id": "nm7214498",
+            "image": "https://imdb-api.com/images/original/MV5BNzgxMjk5NjU0Nl5BMl5BanBnXkFtZTgwMDAyOTY4OTE@._V1_Ratio0.7273_AL_.jpg",
+            "name": "Halsey",
+            "asCharacter": "Porsche Crystal (voice)"
+        },
+        {
+            "id": "nm0095104",
+            "image": "https://imdb-api.com/images/original/MV5BMTQ4MzQ5ODgxOV5BMl5BanBnXkFtZTYwNzk3Nzk0._V1_Ratio0.7273_AL_.jpg",
+            "name": "Bono",
+            "asCharacter": "Clay Calloway (voice)"
+        },
+        {
+            "id": "nm2765191",
+            "image": "https://imdb-api.com/images/original/MV5BMTQ2NzQ4MDMwOF5BMl5BanBnXkFtZTgwMzA2NDkwNDE@._V1_Ratio0.7273_AL_.jpg",
+            "name": "Eric André",
+            "asCharacter": "Elwood (voice)"
+        },
+        {
+            "id": "nm1214289",
+            "image": "https://imdb-api.com/images/original/MV5BMTQ3NzQ2ODYzMl5BMl5BanBnXkFtZTgwMDA4OTAzMTE@._V1_Ratio0.7273_AL_.jpg",
+            "name": "Pharrell Williams",
+            "asCharacter": "Alfonso (voice)"
+        },
+        {
+            "id": "nm4004793",
+            "image": "https://imdb-api.com/images/original/MV5BMjIyMzgxMzc5N15BMl5BanBnXkFtZTgwNDg3NzYzMDI@._V1_Ratio0.9545_AL_.jpg",
+            "name": "Letitia Wright",
+            "asCharacter": "Vivace (voice)"
+        },
+        {
+            "id": "nm2003229",
+            "image": "https://imdb-api.com/images/original/MV5BMTA2ODc5NzAzNDFeQTJeQWpwZ15BbWU4MDgxNDY0ODYx._V1_Ratio0.7273_AL_.jpg",
+            "name": "Chelsea Peretti",
+            "asCharacter": "Dixie (voice)"
+        },
+        {
+            "id": "nm1134029",
+            "image": "https://imdb-api.com/images/original/MV5BMTA4OTkxMzY3MjheQTJeQWpwZ15BbWU2MDM4NjQ2NA@@._V1_Ratio0.7273_AL_.jpg",
+            "name": "Garth Jennings",
+            "asCharacter": "Miss Crawly (voice)"
+        },
+        {
+            "id": "nm0125511",
+            "image": "https://imdb-api.com/images/original/MV5BMTA1MDg1MjMzOTJeQTJeQWpwZ15BbWU3MDgxMjA0MDg@._V1_Ratio0.7273_AL_.jpg",
+            "name": "Adam Buxton",
+            "asCharacter": "(voice)"
+        }
+    ],
+    "fullCast": null,
+    "genres": "Animation, Adventure, Comedy, Family, Fantasy, Music, Musical",
+    "genreList": [
+        { "key": "Animation", "value": "Animation" },
+        { "key": "Adventure", "value": "Adventure" },
+        { "key": "Comedy", "value": "Comedy" },
+        { "key": "Family", "value": "Family" },
+        { "key": "Fantasy", "value": "Fantasy" },
+        { "key": "Music", "value": "Music" },
+        { "key": "Musical", "value": "Musical" }
+    ],
+    "companies": "Illumination Entertainment, Universal Pictures",
+    "companyList": [
+        { "id": "co0221986", "name": "Illumination Entertainment" },
+        { "id": "co0005073", "name": "Universal Pictures" }
+    ],
+    "countries": "France, Japan, USA",
+    "countryList": [
+        { "key": "France", "value": "France" },
+        { "key": "Japan", "value": "Japan" },
+        { "key": "USA", "value": "USA" }
+    ],
+    "languages": "English",
+    "languageList": [{ "key": "English", "value": "English" }],
+    "contentRating": "PG",
+    "imDbRating": "",
+    "imDbRatingVotes": "",
+    "metacriticRating": "51",
+    "ratings": null,
+    "wikipedia": null,
+    "posters": {
+        "imDbId": "tt6467266",
+        "title": "Sing 2",
+        "fullTitle": "Sing 2 (2021)",
+        "type": "Movie",
+        "year": "2021",
+        "posters": [
+            {
+                "id": "aWeKITRFbbwY8txG5uCj4rMCfSP.jpg",
+                "link": "https://imdb-api.com/posters/original/aWeKITRFbbwY8txG5uCj4rMCfSP.jpg",
+                "aspectRatio": 0.6666666666666666,
+                "language": "en",
+                "width": 2000,
+                "height": 3000
+            },
+            {
+                "id": "sgNDmH3ucT1hi60ECLsasMloKEF.jpg",
+                "link": "https://imdb-api.com/posters/original/sgNDmH3ucT1hi60ECLsasMloKEF.jpg",
+                "aspectRatio": 0.6666666666666666,
+                "language": "en",
+                "width": 2000,
+                "height": 3000
+            },
+            {
+                "id": "mC0zoSvnmGw4nFBGVfkeFp7lcAU.jpg",
+                "link": "https://imdb-api.com/posters/original/mC0zoSvnmGw4nFBGVfkeFp7lcAU.jpg",
+                "aspectRatio": 0.6666666666666666,
+                "language": "en",
+                "width": 1000,
+                "height": 1500
+            },
+            {
+                "id": "eAeD5AOAbKCFkQgejxGbzOIVNB6.jpg",
+                "link": "https://imdb-api.com/posters/original/eAeD5AOAbKCFkQgejxGbzOIVNB6.jpg",
+                "aspectRatio": 0.6665494196271544,
+                "language": "en",
+                "width": 1895,
+                "height": 2843
+            },
+            {
+                "id": "e3P1WA9752b5Zvqs4HpWqPZwWxS.jpg",
+                "link": "https://imdb-api.com/posters/original/e3P1WA9752b5Zvqs4HpWqPZwWxS.jpg",
+                "aspectRatio": 0.6666666666666666,
+                "language": "en",
+                "width": 1080,
+                "height": 1620
+            },
+            {
+                "id": "o0yXC4jpt532TeU3vetOAcJpwQL.jpg",
+                "link": "https://imdb-api.com/posters/original/o0yXC4jpt532TeU3vetOAcJpwQL.jpg",
+                "aspectRatio": 0.6666666666666666,
+                "language": "en",
+                "width": 2000,
+                "height": 3000
+            },
+            {
+                "id": "aSZqLQXweD1e8T1QuaSEM4d1RRE.jpg",
+                "link": "https://imdb-api.com/posters/original/aSZqLQXweD1e8T1QuaSEM4d1RRE.jpg",
+                "aspectRatio": 0.6665494196271544,
+                "language": "en",
+                "width": 1895,
+                "height": 2843
+            }
+        ],
+        "backdrops": [
+            {
+                "id": "tutaKitJJIaqZPyMz7rxrhb4Yxm.jpg",
+                "link": "https://imdb-api.com/posters/original/tutaKitJJIaqZPyMz7rxrhb4Yxm.jpg",
+                "aspectRatio": 1.7777777777777777,
+                "language": "en",
+                "width": 1920,
+                "height": 1080
+            }
+        ],
+        "errorMessage": ""
+    },
+    "images": {
+        "imDbId": "tt6467266",
+        "title": "Sing 2",
+        "fullTitle": "Sing 2 (2021)",
+        "type": "Movie",
+        "year": "2021",
+        "items": [
+            {
+                "title": "Matthew McConaughey, Scarlett Johansson, and Nick Kroll in Sing 2 (2021)",
+                "image": "https://imdb-api.com/images/original/MV5BNGNjMWU1OTUtZTQ4ZS00ZjMzLTgzMDQtMTM3MjQxMmQ3NzdhXkEyXkFqcGdeQXVyNjY1MTg4Mzc@._V1_Ratio1.8400_AL_.jpg"
+            },
+            {
+                "title": "Matthew McConaughey, Reese Witherspoon, Scarlett Johansson, Garth Jennings, Nick Kroll, Tori Kelly, and Taron Egerton in Sing 2 (2021)",
+                "image": "https://imdb-api.com/images/original/MV5BOGU3NmY4ZTAtODUyYS00NGU3LWFiM2UtODViZjA1OTY2YTA4XkEyXkFqcGdeQXVyNjY1MTg4Mzc@._V1_Ratio1.8400_AL_.jpg"
+            },
+            {
+                "title": "Garth Jennings and Tori Kelly at an event for Sing 2 (2021)",
+                "image": "https://imdb-api.com/images/original/MV5BNjczMTc5YjEtNmQ4YS00MzFmLWI1ZDAtM2MxYzE4NGM1NTdhXkEyXkFqcGdeQXVyMDM2NDM2MQ@@._V1_Ratio1.4600_AL_.jpg"
+            },
+            {
+                "title": "Sing 2 (2021)",
+                "image": "https://imdb-api.com/images/original/MV5BMTYxNjE5ZGYtNmIwMS00ZWZlLWE3YzgtZWM4NzEyYzU2ZTdmXkEyXkFqcGdeQXVyMTA3MDk2NDg2._V1_Ratio1.0000_AL_.jpg"
+            },
+            {
+                "title": "Sing 2 (2021)",
+                "image": "https://imdb-api.com/images/original/MV5BMWRiZGQ1NDMtODQ2OS00MDlhLWJkZGYtM2ZmNjlhZThjOWRmXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_Ratio1.0000_AL_.jpg"
+            },
+            {
+                "title": "Sing 2 (2021)",
+                "image": "https://imdb-api.com/images/original/MV5BZjVhNGQ1OWYtYTJiNi00OWFlLWJhY2MtNTViNzRmMDFmNjk1XkEyXkFqcGdeQXVyMTA3MDk2NDg2._V1_Ratio1.0000_AL_.jpg"
+            },
+            {
+                "title": "Sing 2 (2021)",
+                "image": "https://imdb-api.com/images/original/MV5BYzU3ZjFlOWYtZjcxOC00MzgyLWI4MTEtOWEyYjE2ZjQ5MDc2XkEyXkFqcGdeQXVyMTA3MDk2NDg2._V1_Ratio1.0000_AL_.jpg"
+            },
+            {
+                "title": "Sing 2 (2021)",
+                "image": "https://imdb-api.com/images/original/MV5BMGMzZDEyZmItNzFiNy00ZTg4LThhNzUtY2ZkMTg2MmViZjgwXkEyXkFqcGdeQXVyMTA3MDk2NDg2._V1_Ratio1.0000_AL_.jpg"
+            },
+            {
+                "title": "Sing 2 (2021)",
+                "image": "https://imdb-api.com/images/original/MV5BOTgzYzA3NWItYzkxZC00OWQ2LTkxNTItODMyNmMxNTNkZTMxXkEyXkFqcGdeQXVyMTEyMjM2NDc2._V1_Ratio1.0000_AL_.jpg"
+            },
+            {
+                "title": "Matthew McConaughey in Sing 2 (2021)",
+                "image": "https://imdb-api.com/images/original/MV5BYWE2MDk0MDMtMmM5NC00MjJhLWJkYWItNzQxMGMxMjUxYWExXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_Ratio1.0000_AL_.jpg"
+            },
+            {
+                "title": "Bono in Sing 2 (2021)",
+                "image": "https://imdb-api.com/images/original/MV5BMjg5YTFjNDMtOGVhNy00OWJhLTlkZDUtNmQyNzVlYTk1YTY2XkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_Ratio1.0000_AL_.jpg"
+            },
+            {
+                "title": "Scarlett Johansson in Sing 2 (2021)",
+                "image": "https://imdb-api.com/images/original/MV5BNWI4NmI3YzEtZWJlMS00YjRiLTg2MTItY2IwZjY4OWNjYTliXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_Ratio1.0000_AL_.jpg"
+            },
+            {
+                "title": "Taron Egerton in Sing 2 (2021)",
+                "image": "https://imdb-api.com/images/original/MV5BZTgxZDVmNWMtNDEyYi00ODU2LWFlMGYtNWU2MWFiZmQ3YTE5XkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_Ratio1.0000_AL_.jpg"
+            },
+            {
+                "title": "Tori Kelly in Sing 2 (2021)",
+                "image": "https://imdb-api.com/images/original/MV5BNDMxZDE2YWItNGE0YS00ODY5LTg1ZDItZDRlMWE5YTM4ZGI1XkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_Ratio1.0000_AL_.jpg"
+            },
+            {
+                "title": "Reese Witherspoon in Sing 2 (2021)",
+                "image": "https://imdb-api.com/images/original/MV5BNjM1MjRjMDYtMzQyZi00M2QyLTgyMWQtN2YyYTU4ZmViZDc5XkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_Ratio1.0000_AL_.jpg"
+            },
+            {
+                "title": "Matthew McConaughey in Sing 2 (2021)",
+                "image": "https://imdb-api.com/images/original/MV5BNTA4NTRhZGUtYTJjNi00YTBkLTlhNjYtOThjZjY4ZTFiZmRhXkEyXkFqcGdeQXVyODk4OTc3MTY@._V1_Ratio1.0000_AL_.jpg"
+            },
+            {
+                "title": "Bono and Scarlett Johansson in Sing 2 (2021)",
+                "image": "https://imdb-api.com/images/original/MV5BMTkyZDIwMDAtOThiNy00ZTA3LTlkODctNGQ4OTNkNDViYmU1XkEyXkFqcGdeQXVyODEwMTc2ODQ@._V1_Ratio1.8400_AL_.jpg"
+            },
+            {
+                "title": "Bono and Scarlett Johansson in Sing 2 (2021)",
+                "image": "https://imdb-api.com/images/original/MV5BNWRjOGRiNGUtZDg5ZS00NjRlLWJmMDgtMjJmZTk0OWUyYmNiXkEyXkFqcGdeQXVyODEwMTc2ODQ@._V1_Ratio1.8000_AL_.jpg"
+            },
+            {
+                "title": "Sing 2 (2021)",
+                "image": "https://imdb-api.com/images/original/MV5BODgxYWU3YmUtYjg4ZS00NzVkLTg1YzUtMTVmYmNkZDBkZjY4XkEyXkFqcGdeQXVyODEwMTc2ODQ@._V1_Ratio1.8400_AL_.jpg"
+            },
+            {
+                "title": "Matthew McConaughey, Reese Witherspoon, Scarlett Johansson, Nick Kroll, and Chelsea Peretti in Sing 2 (2021)",
+                "image": "https://imdb-api.com/images/original/MV5BYWE2NDAyN2MtNzAyMi00YTYxLThkMzMtZjJlYTc1ZmM5ZWM4XkEyXkFqcGdeQXVyNzEwODIxNzE@._V1_Ratio1.7800_AL_.jpg"
+            },
+            {
+                "title": "Matthew McConaughey, Reese Witherspoon, Scarlett Johansson, Garth Jennings, Nick Kroll, Tori Kelly, and Taron Egerton in Sing 2 (2021)",
+                "image": "https://imdb-api.com/images/original/MV5BNmFmZjUyNmItNmUwMy00MzJhLTgzNmQtYzhjMzk4NWM1OWI1XkEyXkFqcGdeQXVyNzEwODIxNzE@._V1_Ratio1.7800_AL_.jpg"
+            },
+            {
+                "title": "Matthew McConaughey and Halsey in Sing 2 (2021)",
+                "image": "https://imdb-api.com/images/original/MV5BZDcwMTZmODgtNDQzNS00ZTU2LWI0NzYtOGFiODUxYTdiYTA5XkEyXkFqcGdeQXVyNzEwODIxNzE@._V1_Ratio1.7800_AL_.jpg"
+            },
+            {
+                "title": "Sing 2 (2021)",
+                "image": "https://imdb-api.com/images/original/MV5BNDdmMzhhZWEtZGNiNy00NzMwLWJmOTMtODQzMjk2Nzk2OGMyXkEyXkFqcGdeQXVyNzEwODIxNzE@._V1_Ratio1.7800_AL_.jpg"
+            },
+            {
+                "title": "Sing 2 (2021)",
+                "image": "https://imdb-api.com/images/original/MV5BMWUxMDM2ZWQtNDhiMS00ZTVjLThhNWQtMzA0NmZhMWIzMjJlXkEyXkFqcGdeQXVyNzczNjkzMjM@._V1_Ratio1.8400_AL_.jpg"
+            },
+            {
+                "title": "Halsey in Sing 2 (2021)",
+                "image": "https://imdb-api.com/images/original/MV5BZmI2NmRiZmMtMTYyNC00ZDgxLTk2ODYtNDRmZWY5MjVmMThjXkEyXkFqcGdeQXVyMjg1NTQ1NzY@._V1_Ratio1.0000_AL_.jpg"
+            },
+            {
+                "title": "Halsey in Sing 2 (2021)",
+                "image": "https://imdb-api.com/images/original/MV5BZGFhY2RhZWItMmM2NS00ZTRiLTlkMjEtMmIwNzM0MDdiMTgxXkEyXkFqcGdeQXVyMTQxMDM1OTM3._V1_Ratio1.2800_AL_.jpg"
+            },
+            {
+                "title": "Garth Jennings in Sing 2 (2021)",
+                "image": "https://imdb-api.com/images/original/MV5BM2ZhODM1MWEtMjAxZi00OTNkLWIwNTEtZDliNTM5M2E3NGVjXkEyXkFqcGdeQXVyNzEwODIxNzE@._V1_Ratio1.8400_AL_.jpg"
+            },
+            {
+                "title": "Scarlett Johansson in Sing 2 (2021)",
+                "image": "https://imdb-api.com/images/original/MV5BMzU1NzJlYTctNjNjMC00YThkLTg0MjUtMzM4OWI0MWFjNGJhXkEyXkFqcGdeQXVyNzEwODIxNzE@._V1_Ratio1.8400_AL_.jpg"
+            },
+            {
+                "title": "Letitia Wright in Sing 2 (2021)",
+                "image": "https://imdb-api.com/images/original/MV5BYWE3MTkzNTYtODE0Yi00ZWRjLTljMTYtYmFhOTdjZDBkMWUxXkEyXkFqcGdeQXVyNzEwODIxNzE@._V1_Ratio1.8400_AL_.jpg"
+            },
+            {
+                "title": "Bono and Scarlett Johansson in Sing 2 (2021)",
+                "image": "https://imdb-api.com/images/original/MV5BMzVhZDY3N2MtNjNhOS00ZGFjLTllMzgtNGUwNzhiYWYyYWYzXkEyXkFqcGdeQXVyNzEwODIxNzE@._V1_Ratio1.7800_AL_.jpg"
+            },
+            {
+                "title": "Letitia Wright in Sing 2 (2021)",
+                "image": "https://imdb-api.com/images/original/MV5BMTlmZjQwMTEtODJlMC00Y2Y4LWJhODQtZmRjYzY3OGE3NTVlXkEyXkFqcGdeQXVyNzEwODIxNzE@._V1_Ratio1.7800_AL_.jpg"
+            },
+            {
+                "title": "Halsey in Sing 2 (2021)",
+                "image": "https://imdb-api.com/images/original/MV5BNzZjNzE5NWQtZDU5Yi00NmNiLTk1MzktOWRmZDUyOTYzZTZjXkEyXkFqcGdeQXVyMjcwMDQxODY@._V1_Ratio1.0000_AL_.jpg"
+            },
+            {
+                "title": "Bobby Cannavale and Halsey in Sing 2 (2021)",
+                "image": "https://imdb-api.com/images/original/MV5BYjNhY2VhMTUtOWNlMC00YmU4LTkzOTYtNDc1Nzc3YjI1MTAyXkEyXkFqcGdeQXVyNzEwODIxNzE@._V1_Ratio1.7800_AL_.jpg"
+            },
+            {
+                "title": "Reese Witherspoon, Scarlett Johansson, Garth Jennings, Nick Kroll, Tori Kelly, and Taron Egerton in Sing 2 (2021)",
+                "image": "https://imdb-api.com/images/original/MV5BZWQ5Y2JmNTEtMTNiMC00YjAzLTkzNTUtYWVhYzBmZGQ0ZWIwXkEyXkFqcGdeQXVyMTIwNjY2NjA1._V1_Ratio2.3400_AL_.jpg"
+            },
+            {
+                "title": "Matthew McConaughey in Sing 2 (2021)",
+                "image": "https://imdb-api.com/images/original/MV5BMzk2NjBhNGEtZGNhNi00ZDFlLWJkMDctNDI3YTc5NjBmM2VhXkEyXkFqcGdeQXVyMTIwNjY2NjA1._V1_Ratio2.3200_AL_.jpg"
+            },
+            {
+                "title": "Pharrell Williams in Sing 2 (2021)",
+                "image": "https://imdb-api.com/images/original/MV5BYjllNmNlM2ItNTk2OS00YTlmLThjNGUtYzc1MGE4MTg5OGVmXkEyXkFqcGdeQXVyMTQ3MzI4OTAw._V1_Ratio1.0000_AL_.jpg"
+            },
+            {
+                "title": "Matthew McConaughey, Reese Witherspoon, Scarlett Johansson, Pharrell Williams, Nick Kroll, Eric André, and Taron Egerton in Sing 2 (2021)",
+                "image": "https://imdb-api.com/images/original/MV5BZWU2YWEyMTEtNmVhZS00ZWQ3LWFkYjEtOTEwZDNiNThmMjM4XkEyXkFqcGdeQXVyMjg1NTQ1NzY@._V1_Ratio1.9800_AL_.jpg"
+            },
+            {
+                "title": "Matthew McConaughey, Reese Witherspoon, and Nick Kroll in Sing 2 (2021)",
+                "image": "https://imdb-api.com/images/original/MV5BZDY0M2ExYTItODVhNS00NDJmLWIwMTctOTU3MzBlODY4NzAyXkEyXkFqcGdeQXVyMTIwNDcxNjQ3._V1_Ratio1.7800_AL_.jpg"
+            },
+            {
+                "title": "Tori Kelly at an event for Sing 2 (2021)",
+                "image": "https://imdb-api.com/images/original/MV5BYmIwNTJhZmMtMzhhZC00ZDkwLWFjMmQtMzkwMDRmNDJkZDMxXkEyXkFqcGdeQXVyMjg1NTQ1NzY@._V1_Ratio1.5000_AL_.jpg"
+            },
+            {
+                "title": "Billy Zane at an event for Sing 2 (2021)",
+                "image": "https://imdb-api.com/images/original/MV5BMDc1MzM4OWQtYjVjMS00ZjI4LTg5MzYtOGY4MjE1NGYzNTZmXkEyXkFqcGdeQXVyMjg1NTQ1NzY@._V1_Ratio1.4400_AL_.jpg"
+            },
+            {
+                "title": "Garth Jennings at an event for Sing 2 (2021)",
+                "image": "https://imdb-api.com/images/original/MV5BZGRkNzVhYWMtNTZjMi00ZjM0LWI3ZjctMWUxOTZhMjFkM2M0XkEyXkFqcGdeQXVyMjg1NTQ1NzY@._V1_Ratio1.1200_AL_.jpg"
+            },
+            {
+                "title": "Tori Kelly at an event for Sing 2 (2021)",
+                "image": "https://imdb-api.com/images/original/MV5BZWJlYzE4YzMtNGIxMS00ZTU2LWJjNzctYjdmYjgyNGY3NzQzXkEyXkFqcGdeQXVyMjg1NTQ1NzY@._V1_Ratio1.4000_AL_.jpg"
+            },
+            {
+                "title": "Sing 2 (2021)",
+                "image": "https://imdb-api.com/images/original/MV5BOGQ4MjM0NTMtMmE4Mi00MjY1LTkzMTYtZmVkNjI1ZGE2YzhhXkEyXkFqcGdeQXVyMjg1NTQ1NzY@._V1_Ratio1.0000_AL_.jpg"
+            },
+            {
+                "title": "Matthew McConaughey, Reese Witherspoon, Bono, Scarlett Johansson, Pharrell Williams, Nick Kroll, Tori Kelly, Eric André, Letitia Wright, Taron Egerton, and Halsey in Sing 2 (2021)",
+                "image": "https://imdb-api.com/images/original/MV5BOGQ4N2E5YzYtMjc2OC00YjkzLWExMDYtZDIwMDFmMzIzYjhjXkEyXkFqcGdeQXVyMTI3ODczNTk2._V1_Ratio1.0000_AL_.jpg"
+            },
+            {
+                "title": "Garth Jennings in Sing 2 (2021)",
+                "image": "https://imdb-api.com/images/original/MV5BODI3MzYzYTYtYTExMS00NDhiLTg1NjgtNGI1ZjMyMjhlODVmXkEyXkFqcGdeQXVyMjg1NTQ1NzY@._V1_Ratio1.0000_AL_.jpg"
+            },
+            {
+                "title": "Sing 2 (2021)",
+                "image": "https://imdb-api.com/images/original/MV5BOGM5NTI4ZjEtMDBhMS00MGMwLWFlYjUtNjk2YjFiMTQxOTJhXkEyXkFqcGdeQXVyMjg1NTQ1NzY@._V1_Ratio1.0000_AL_.jpg"
+            },
+            {
+                "title": "Sing 2 (2021)",
+                "image": "https://imdb-api.com/images/original/MV5BMWQ4ZGFlZGItNzJjNS00MzMwLWI5YzktMDg3ZWE2M2VmYjA1XkEyXkFqcGdeQXVyMjg1NTQ1NzY@._V1_Ratio1.0000_AL_.jpg"
+            },
+            {
+                "title": "Taron Egerton in Sing 2 (2021)",
+                "image": "https://imdb-api.com/images/original/MV5BY2E3OWM4NzMtMDk5My00MjNiLWFkNGQtZTZhZTM3NzU0ZmFhXkEyXkFqcGdeQXVyMjg1NTQ1NzY@._V1_Ratio1.0000_AL_.jpg"
+            }
+        ],
+        "errorMessage": ""
+    },
+    "trailer": {
+        "imDbId": "tt6467266",
+        "title": "Sing 2",
+        "fullTitle": "Sing 2 (2021)",
+        "type": "Movie",
+        "year": "2021",
+        "videoId": null,
+        "videoTitle": null,
+        "videoDescription": null,
+        "thumbnailUrl": null,
+        "uploadDate": null,
+        "link": null,
+        "linkEmbed": null,
+        "errorMessage": "404 Not Founded Error"
+    },
+    "boxOffice": {
+        "budget": "",
+        "openingWeekendUSA": "",
+        "grossUSA": "",
+        "cumulativeWorldwideGross": ""
+    },
+    "tagline": "Where will your dreams take you?",
+    "keywords": "second part,numbered sequel,koala,singing porcupine,punk rocker",
+    "keywordList": [
+        "second part",
+        "numbered sequel",
+        "koala",
+        "singing porcupine",
+        "punk rocker"
+    ],
+    "similars": [
+        {
+            "id": "tt3470600",
+            "title": "Sing",
+            "fullTitle": "Sing (2016)",
+            "year": "2016",
+            "image": "https://imdb-api.com/images/original/MV5BMTYzODYzODU2Ml5BMl5BanBnXkFtZTgwNTc1MTA2NzE@._V1_Ratio0.6737_AL_.jpg",
+            "plot": "In a city of humanoid animals, a hustling theater impresario's attempt to save his theater with a singing competition becomes grander than he anticipates even as its finalists find that their lives will never be the same.",
+            "directors": "Directors: Garth Jennings, Christophe Lourdelet",
+            "stars": "Matthew McConaughey, Reese Witherspoon, Seth MacFarlane",
+            "genres": "Animation, Comedy, Family",
+            "imDbRating": "7.1"
+        },
+        {
+            "id": "tt1262426",
+            "title": "Wicked",
+            "fullTitle": "",
+            "year": "",
+            "image": "https://imdb-api.com/images/original/MV5BNjczYjBhMTctYTA3Yy00NTgyLWFkZWQtZjQwYTRkMDc1YTc1XkEyXkFqcGdeQXVyNTk5NTQzNDI@._V1_Ratio0.6737_AL_.jpg",
+            "plot": "The story of how a green-skinned woman framed by the Wizard of Oz becomes the Wicked Witch of the West; feature film based on the Broadway musical.",
+            "directors": "Jon M. Chu",
+            "stars": "",
+            "genres": "Action, Adventure, Family",
+            "imDbRating": ""
+        },
+        {
+            "id": "tt8337158",
+            "title": "Rumble",
+            "fullTitle": "Rumble (2022)",
+            "year": "2022",
+            "image": "https://imdb-api.com/images/original/MV5BYjY0ODA0YmUtMGFlNC00ODQzLTllOTUtZjU4Mjc1MTUwNTAxXkEyXkFqcGdeQXVyMDM2NDM2MQ@@._V1_Ratio0.6737_AL_.jpg",
+            "plot": "In a world where monster wrestling is a global sport and monsters are superstar athletes, teenage Winnie seeks to follow in her father's footsteps by coaching a loveable underdog monster into a champion.",
+            "directors": "Hamish Grieve",
+            "stars": "Will Arnett, Ben Schwartz, Terry Crews",
+            "genres": "Animation, Comedy, Family",
+            "imDbRating": ""
+        },
+        {
+            "id": "tt6932874",
+            "title": "The Boss Baby: Family Business",
+            "fullTitle": "The Boss Baby: Family Business (2021)",
+            "year": "2021",
+            "image": "https://imdb-api.com/images/original/MV5BYWY1N2I5MGUtZTBmNS00MWZmLWEyNzAtZjliNzk0ZDVkYzI1XkEyXkFqcGdeQXVyMTEyMjM2NDc2._V1_Ratio0.6737_AL_.jpg",
+            "plot": "The Templeton brothers have become adults and drifted away from each other, but a new boss baby with a cutting-edge approach is about to bring them together again - and inspire a new family business.",
+            "directors": "Tom McGrath",
+            "stars": "Lisa Kudrow, James Marsden, Jeff Goldblum",
+            "genres": "Animation, Adventure, Comedy",
+            "imDbRating": ""
+        },
+        {
+            "id": "tt10155932",
+            "title": "Cinderella",
+            "fullTitle": "Cinderella (2021)",
+            "year": "2021",
+            "image": "https://imdb-api.com/images/original/MV5BNDgyNTE1M2YtYzAzOS00OWQyLTgxOWItNDc4YTU5OTY1ZDJiXkEyXkFqcGdeQXVyODcyMTQ4MTc@._V1_Ratio0.6737_AL_.jpg",
+            "plot": "A modern musical version of the classic fairy tale \"Cinderella\".",
+            "directors": "Kay Cannon",
+            "stars": "Camila Cabello, Billy Porter, Idina Menzel",
+            "genres": "Comedy, Family, Fantasy",
+            "imDbRating": ""
+        },
+        {
+            "id": "tt9848626",
+            "title": "Hotel Transylvania: Transformania",
+            "fullTitle": "Hotel Transylvania: Transformania (2021)",
+            "year": "2021",
+            "image": "https://imdb-api.com/images/original/MV5BOTVhMmI2OTUtYTIzNC00NDAwLTg4OTEtMjA5YzdmNGNkMjlhXkEyXkFqcGdeQXVyODk4OTc3MTY@._V1_Ratio0.6737_AL_.jpg",
+            "plot": "Drac's Pack is back, like you've never seen them before in the final chapter of 'Hotel Transylvania'.",
+            "directors": "Directors: Derek Drymon, Jennifer Kluska",
+            "stars": "Brian Hull, Andy Samberg, Selena Gomez",
+            "genres": "Animation, Adventure, Comedy",
+            "imDbRating": ""
+        },
+        {
+            "id": "tt11832046",
+            "title": "Paw Patrol: The Movie",
+            "fullTitle": "Paw Patrol: The Movie (2021)",
+            "year": "2021",
+            "image": "https://imdb-api.com/images/original/MV5BNzY2OTYwNjItYzczMC00YjYzLThmY2MtZGFhNmVmMzUzN2QyXkEyXkFqcGdeQXVyNjY1MTg4Mzc@._V1_Ratio0.6737_AL_.jpg",
+            "plot": "Ryder and the pups are called to Adventure City to stop Mayor Humdinger from turning the bustling metropolis into a state of chaos.",
+            "directors": "Cal Brunker",
+            "stars": "Iain Armitage, Will Brisbin, Ron Pardo",
+            "genres": "Animation, Adventure, Comedy",
+            "imDbRating": ""
+        },
+        {
+            "id": "tt6338498",
+            "title": "Vivo",
+            "fullTitle": "",
+            "year": "",
+            "image": "https://imdb-api.com/images/original/MV5BOTUzYzkyMGItOGU2MC00YWU4LThlM2ItODU3MWZiYTJjMGM2XkEyXkFqcGdeQXVyMjMzMTI2NzU@._V1_Ratio0.6737_AL_.jpg",
+            "plot": "Vivo, Sony Pictures Animation's first-ever musical adventure featuring all-new original songs from Lin-Manuel Miranda, will take audiences on an epic adventure to gorgeous and vibrant locations never before seen in animation.",
+            "directors": "Directors: Kirk DeMicco, Brandon Jeffords",
+            "stars": "Lin-Manuel Miranda, Ynairaly Simo, Zoe Saldana",
+            "genres": "Animation, Adventure, Comedy",
+            "imDbRating": ""
+        },
+        {
+            "id": "tt2953050",
+            "title": "Encanto",
+            "fullTitle": "Encanto (2021)",
+            "year": "2021",
+            "image": "https://imdb-api.com/images/original/MV5BMzQ5OWE0NzUtNGUzZC00N2IzLTlmZWMtYjdlYzRiZWI4MTNhXkEyXkFqcGdeQXVyNzEzNjU1NDg@._V1_Ratio0.6737_AL_.jpg",
+            "plot": "A young Colombian girl has to face the frustration of being the only member of her family without magical powers.",
+            "directors": "Directors: Jared Bush, Byron Howard, and 1 more credit »",
+            "stars": "Stephanie Beatriz",
+            "genres": "Animation, Adventure, Comedy",
+            "imDbRating": ""
+        },
+        {
+            "id": "tt12412888",
+            "title": "Sonic the Hedgehog 2",
+            "fullTitle": "Sonic the Hedgehog 2 (2022)",
+            "year": "2022",
+            "image": "https://imdb-api.com/images/original/MV5BMzQwZTI5MjMtN2YzMC00OTJlLThmZWQtYTBjMDgxNzBjYjIzXkEyXkFqcGdeQXVyMTEzMTI1Mjk3._V1_Ratio0.6737_AL_.jpg",
+            "plot": "Sequel to the 2020 live-action feature film 'Sonic the Hedgehog'.",
+            "directors": "Jeff Fowler",
+            "stars": "Jim Carrey, James Marsden, Ben Schwartz",
+            "genres": "Animation, Action, Adventure",
+            "imDbRating": ""
+        },
+        {
+            "id": "tt13622964",
+            "title": "Tiana",
+            "fullTitle": "Tiana (TV Series 2022)",
+            "year": "TV Series 2022",
+            "image": "https://imdb-api.com/images/original/MV5BM2I4N2YyMTItOWJiZS00MGRmLWE1MGEtNDlhNjQyOTI4ZDhkXkEyXkFqcGdeQXVyNzEzNjU1NDg@._V1_Ratio0.6737_AL_.jpg",
+            "plot": "Tiana continues to explore New Orleans in a musical series.",
+            "directors": "",
+            "stars": "",
+            "genres": "Animation, Adventure, Comedy",
+            "imDbRating": ""
+        }
+    ],
+    "tvSeriesInfo": null,
+    "tvEpisodeInfo": null,
+    "errorMessage": ""
+}
