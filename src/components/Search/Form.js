@@ -5,7 +5,15 @@ import { routes } from '../../route';
 export const SearchForm = ({ renderOn, initSearch }) => {
     const template = `
         <form class="search-form" id="search-form">
-            <input id="search-keywords" type="text" placeholder="Search Keywords" value="${initSearch}" />
+            <input
+                type="text"
+                id="search-keywords"
+                placeholder="Search Keywords"
+                value="${initSearch}"
+                required
+                autofocus
+                onFocus="this.select()"
+            />
         </form>
     `;
 
