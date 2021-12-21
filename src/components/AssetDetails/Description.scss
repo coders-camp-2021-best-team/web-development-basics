@@ -7,17 +7,19 @@
         .details__prop {
             display: flex;
 
-            th,
-            td {
+            div {
                 flex: 1;
             }
 
             padding: 10px;
             text-align: left;
-            line-height: 2.2rem;
 
             .details__prop-name {
                 font-weight: bold;
+            }
+
+            .details__prop-value {
+                line-height: 1.8em;
             }
         }
     }
