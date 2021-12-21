@@ -15,8 +15,8 @@ class ApiProvider {
         return ApiService.request('GET', 'SearchTitle', name);
     }
 
-    commingSoon() {
-        return ApiService.request('GET', 'CommingSoon', '');
+    comingSoon() {
+        return ApiService.request('GET', 'ComingSoon', '');
     }
 
     mostPopularTVs() {
