@@ -15,19 +15,7 @@ class ApiProvider {
         return ApiService.request('GET', 'SearchTitle', name);
     }
 
-    /**
-     * @param {string} name
-     */
-    searchMovie(name) {
-        return ApiService.request('GET', 'SearchMovie', name);
-    }
-
-    /**
-     * @param {string} name
-     */
-    searchSeries(name) {
-        return ApiService.request('GET', 'SearchSeries', name);
-    }
+    
 
     /**
      * @param {string} id
