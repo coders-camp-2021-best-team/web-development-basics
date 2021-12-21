@@ -46,6 +46,7 @@ class ApiService {
 
             return json;
         } catch (e) {
+            console.log(e);
             Logger.error(e);
             throw new Error('Error occurred while fetching the API!');
         }
