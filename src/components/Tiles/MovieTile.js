@@ -2,12 +2,15 @@ import { Star } from '../Star/Star';
 import { ImageComponent } from '../ImageComponent/ImageComponent';
 import ApiProvider from '../../providers/ApiProvider';
 import { observerListener } from '../../shared/observer';
+import { routes } from '../../route/routes';
+import { redirect } from '../..';
 
 export const MovieTile = async ({ movieID }) => {
     const movie = await ApiProvider.getTitleDetails(movieID);
 
     observerListener(`movie-tile-${movie.id}`, () => {
-        window.location.href = `/details?id=${movie.id}`;
+        const TileOnclick = routes.details.getPathWithParams(movie.id);
+        redirect(TileOnclick);
     });
 
     return `
