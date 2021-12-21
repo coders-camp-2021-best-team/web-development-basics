@@ -2,7 +2,6 @@
 @import '../../../styles/mixins';
 
 header {
-    background-color: $background-color;
     display: flex;
     font-size: 10px;
     justify-content: space-between;
@@ -84,7 +83,7 @@ header {
 
 @include for-desktop-up {
     header {
-        height: 275px;
+        height: auto;
         font-size: 32px;
         .navBar {
             line-height: 39px;
@@ -118,10 +117,11 @@ header {
             display: none !important;
         }
         .logo {
-            height: 225px;
-            width: 300px;
+            height: 100px;
+            width: auto;
             left: 0px;
             top: 0px;
+            padding-top: 15px;
             border-radius: 0px;
         }
     }

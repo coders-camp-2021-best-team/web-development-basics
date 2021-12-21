@@ -22,7 +22,7 @@ const template = async (top, movies, series) => `
             text: 'Series'
         })}
         ${await MovieCarousel({
-            movies: series.results,
+            movies: series.items.slice(0, 15),
             id: 'series'
         })}
         ${Button({
@@ -31,7 +31,7 @@ const template = async (top, movies, series) => `
             text: 'Movies'
         })}
         ${await MovieCarousel({
-            movies: movies.results,
+            movies: movies.items.slice(0, 15),
             id: 'movies'
         })}
     </div>
@@ -40,7 +40,7 @@ const template = async (top, movies, series) => `
 export const HomeScreen = async ({ renderOn, options }) => {
     // TODO this is temporary to show example movie tile
     const top = await ApiProvider.getTop250Movies();
-    const movies = await ApiProvider.search('Inception');
-    const series = await ApiProvider.search('Maze');
+    const movies = await ApiProvider.mostPopularMovies();
+    const series = await ApiProvider.mostPopularTVs();
     render({ on: renderOn, html: await template(top, movies, series) });
 };
