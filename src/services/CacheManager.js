@@ -22,13 +22,10 @@ class CacheManager {
             'data:text/plain;charset=utf-8,' + encodeURIComponent(text)
         );
         element.setAttribute('download', filename);
+        element.setAttribute('target', '_blank');
+        element.innerText = filename;
 
-        element.style.display = 'none';
         document.body.appendChild(element);
-
-        element.click();
-
-        document.body.removeChild(element);
     }
 
     /**
