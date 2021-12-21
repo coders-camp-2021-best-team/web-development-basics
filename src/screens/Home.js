@@ -4,7 +4,7 @@ import { Button, MovieCarousel } from '../components';
 import './Home.scss';
 import { redirect } from '../index.js';
 
-const template = async (movies, lol, dupa) => `
+const template = async (top, movies, series) => `
     <div id="homeScreen" class="homeScreen">
         <template id="home-movie-tiles"></template>
         ${Button({
@@ -13,7 +13,7 @@ const template = async (movies, lol, dupa) => `
             text: 'Top 250 movies'
         })}
         ${await MovieCarousel({
-            movies: movies.items.slice(0, 15),
+            movies: top.items.slice(0, 15),
             id: 'topMovies'
         })}
         ${Button({
@@ -22,7 +22,7 @@ const template = async (movies, lol, dupa) => `
             text: 'Series'
         })}
         ${await MovieCarousel({
-            movies: lol.results.slice(0, 15),
+            movies: series.results,
             id: 'series'
         })}
         ${Button({
@@ -31,7 +31,7 @@ const template = async (movies, lol, dupa) => `
             text: 'Movies'
         })}
         ${await MovieCarousel({
-            movies: dupa.results.slice(0, 15),
+            movies: movies.results,
             id: 'movies'
         })}
     </div>
@@ -39,11 +39,8 @@ const template = async (movies, lol, dupa) => `
 
 export const HomeScreen = async ({ renderOn, options }) => {
     // TODO this is temporary to show example movie tile
-    const movies = await ApiProvider.getTop250Movies();
-    const lol = await ApiProvider.mostPopularTVs('Incepction');
-    const dupa = await ApiProvider.mostPopular('Maze');
-    console.log(movies);
-    console.log(lol);
-    console.log(dupa);
-    render({ on: renderOn, html: await template(movies, lol, dupa) });
+    const top = await ApiProvider.getTop250Movies();
+    const movies = await ApiProvider.search('Inception');
+    const series = await ApiProvider.search('Maze');
+    render({ on: renderOn, html: await template(top, movies, series) });
 };
