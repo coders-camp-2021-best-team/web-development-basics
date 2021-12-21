@@ -6,7 +6,7 @@
     "scripts": {
         "clean": "rimraf .cache && rimraf coverage && rimraf dist && rimraf node_modules",
         "prebuild": "rimraf dist",
-        "build": "parcel build index.html _redirects --public-url ./",
+        "build": "parcel build index.html netlify.toml --public-url ./",
         "format": "prettier --write \"src/**/*.js\" \"src/**/*.ts\" \"test/**/*.js\" \"test/**/*.ts\"",
         "start:dev": "parcel -p 8765 watch index.html",
         "test": "jest",
