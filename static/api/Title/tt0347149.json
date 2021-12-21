@@ -1,0 +1,934 @@
+{
+    "id": "tt0347149",
+    "title": "Howl's Moving Castle",
+    "originalTitle": "Hauru no ugoku shiro",
+    "fullTitle": "Howl's Moving Castle (2004)",
+    "type": "Movie",
+    "year": "2004",
+    "image": "https://imdb-api.com/images/original/MV5BNmM4YTFmMmItMGE3Yy00MmRkLTlmZGEtMzZlOTQzYjk3MzA2XkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_Ratio0.6791_AL_.jpg",
+    "releaseDate": "2004-11-20",
+    "runtimeMins": "119",
+    "runtimeStr": "1h 59mins",
+    "plot": "A love story between an 18-year-old girl named Sophie, cursed by a witch into an old woman's body, and a magician named Howl. Under the curse, Sophie sets out to seek her fortune, which takes her to Howl's strange moving castle. In the castle, Sophie meets Howl's fire demon, named Karishifâ. Seeing that she is under a curse, the demon makes a deal with Sophie--if she breaks the contract he is under with Howl, then Karushifâ will lift the curse that Sophie is under, and she will return to her 18-year-old shape.",
+    "plotLocal": "",
+    "plotLocalIsRtl": false,
+    "awards": "Top Rated Movies #137 | Nominated for 1 Oscar. Another 14 wins & 19 nominations.",
+    "directors": "Hayao Miyazaki",
+    "directorList": [{ "id": "nm0594503", "name": "Hayao Miyazaki" }],
+    "writers": "Hayao Miyazaki, Diana Wynne Jones",
+    "writerList": [
+        { "id": "nm0594503", "name": "Hayao Miyazaki" },
+        { "id": "nm1168510", "name": "Diana Wynne Jones" }
+    ],
+    "stars": "Chieko Baishô, Takuya Kimura, Tatsuya Gashûin, Akihiro Miwa",
+    "starList": [
+        { "id": "nm0047962", "name": "Chieko Baishô" },
+        { "id": "nm0454120", "name": "Takuya Kimura" },
+        { "id": "nm0309107", "name": "Tatsuya Gashûin" },
+        { "id": "nm0594271", "name": "Akihiro Miwa" }
+    ],
+    "actorList": [
+        {
+            "id": "nm0047962",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Chieko Baishô",
+            "asCharacter": "Sofî (voice)"
+        },
+        {
+            "id": "nm0454120",
+            "image": "https://imdb-api.com/images/original/MV5BMjM1ODAxNjIwOF5BMl5BanBnXkFtZTgwMzI2MDYzMjI@._V1_Ratio1.5000_AL_.jpg",
+            "name": "Takuya Kimura",
+            "asCharacter": "Hauru (voice)"
+        },
+        {
+            "id": "nm0594271",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Akihiro Miwa",
+            "asCharacter": "Arechi no Majo (voice)"
+        },
+        {
+            "id": "nm0309107",
+            "image": "https://imdb-api.com/images/original/MV5BNzkwYTU0MTYtYTVhMC00NGQ3LWJkZmUtOWFlYzhmMDI3MzdmXkEyXkFqcGdeQXVyMjg0MTI5NzQ@._V1_Ratio0.7273_AL_.jpg",
+            "name": "Tatsuya Gashûin",
+            "asCharacter": "Karushifâ (voice)"
+        },
+        {
+            "id": "nm1126340",
+            "image": "https://imdb-api.com/images/original/MV5BNzlkYzdjYWEtOTkyNC00NDNhLWIyNTItZmFjNWQxZDZmNzFlXkEyXkFqcGdeQXVyNDQxNjcxNQ@@._V1_Ratio1.5000_AL_.jpg",
+            "name": "Ryûnosuke Kamiki",
+            "asCharacter": "Marukuru (voice)"
+        },
+        {
+            "id": "nm0410659",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Mitsunori Isaki",
+            "asCharacter": "Koshô (voice)"
+        },
+        {
+            "id": "nm1126978",
+            "image": "https://imdb-api.com/images/original/MV5BMDZiYzI4MWEtYmE2OC00YzkzLThlNzctYmY4MjY1NGFlNTIzXkEyXkFqcGdeQXVyNDQxNjcxNQ@@._V1_Ratio1.5000_AL_.jpg",
+            "name": "Yô Ôizumi",
+            "asCharacter": "Kakashi no Kabu (voice)"
+        },
+        {
+            "id": "nm0960033",
+            "image": "https://imdb-api.com/images/original/MV5BYzZlY2NiYjktM2Y2My00YjcyLTg5Y2UtM2M5YjMwNDRiMjY1XkEyXkFqcGdeQXVyNjUwNzk3NDc@._V1_Ratio0.7273_AL_.jpg",
+            "name": "Akio Ôtsuka",
+            "asCharacter": "Kokuô (voice)"
+        },
+        {
+            "id": "nm0361717",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Daijirô Harada",
+            "asCharacter": "Hin (voice)"
+        },
+        {
+            "id": "nm0441353",
+            "image": "https://imdb-api.com/images/original/MV5BM2I3OWQxNDctMmY3Yi00MmMwLWI1ZGEtYmY4N2U3ZDMwNWE2XkEyXkFqcGdeQXVyMTI3MDk3MzQ@._V1_Ratio1.8636_AL_.jpg",
+            "name": "Haruko Katô",
+            "asCharacter": "Sariman (voice)"
+        },
+        {
+            "id": "nm0001739",
+            "image": "https://imdb-api.com/images/original/MV5BMTM3OTQ1ODk3N15BMl5BanBnXkFtZTYwMDk4MDM2._V1_Ratio0.7727_AL_.jpg",
+            "name": "Jean Simmons",
+            "asCharacter": "Grandma Sophie (voice)"
+        },
+        {
+            "id": "nm0000288",
+            "image": "https://imdb-api.com/images/original/MV5BMTkxMzk4MjQ4MF5BMl5BanBnXkFtZTcwMzExODQxOA@@._V1_Ratio0.7273_AL_.jpg",
+            "name": "Christian Bale",
+            "asCharacter": "Howl (voice)"
+        },
+        {
+            "id": "nm0000002",
+            "image": "https://imdb-api.com/images/original/MV5BMzg2OTk3MzU0OF5BMl5BanBnXkFtZTYwMzE3MzU2._V1_Ratio0.7273_AL_.jpg",
+            "name": "Lauren Bacall",
+            "asCharacter": "Witch of the Waste (voice)"
+        },
+        {
+            "id": "nm0001100",
+            "image": "https://imdb-api.com/images/original/MV5BMTAwMDkzNTAyODdeQTJeQWpwZ15BbWU3MDY5ODEzMjQ@._V1_Ratio0.7727_AL_.jpg",
+            "name": "Blythe Danner",
+            "asCharacter": "Madame Suliman (voice)"
+        },
+        {
+            "id": "nm0607865",
+            "image": "https://imdb-api.com/images/original/MV5BMTM2NjIzMDg3NV5BMl5BanBnXkFtZTcwNDQ5MzczNA@@._V1_Ratio0.7273_AL_.jpg",
+            "name": "Emily Mortimer",
+            "asCharacter": "Young Sophie (voice)"
+        }
+    ],
+    "fullCast": null,
+    "genres": "Animation, Adventure, Family, Fantasy",
+    "genreList": [
+        { "key": "Animation", "value": "Animation" },
+        { "key": "Adventure", "value": "Adventure" },
+        { "key": "Family", "value": "Family" },
+        { "key": "Fantasy", "value": "Fantasy" }
+    ],
+    "companies": "Buena Vista Home Entertainment, DENTSU Music And Entertainment, Mitsubishi",
+    "companyList": [
+        { "id": "co0088070", "name": "Buena Vista Home Entertainment" },
+        { "id": "co0064941", "name": "DENTSU Music And Entertainment" },
+        { "id": "co0148513", "name": "Mitsubishi" }
+    ],
+    "countries": "Japan, USA",
+    "countryList": [
+        { "key": "Japan", "value": "Japan" },
+        { "key": "USA", "value": "USA" }
+    ],
+    "languages": "Japanese",
+    "languageList": [{ "key": "Japanese", "value": "Japanese" }],
+    "contentRating": "PG",
+    "imDbRating": "8.2",
+    "imDbRatingVotes": "342066",
+    "metacriticRating": "80",
+    "ratings": null,
+    "wikipedia": null,
+    "posters": {
+        "imDbId": "tt0347149",
+        "title": "Howl's Moving Castle",
+        "fullTitle": "Howl's Moving Castle (2004)",
+        "type": "Movie",
+        "year": "2004",
+        "posters": [
+            {
+                "id": "TkTPELv4kC3u1lkloush8skOjE.jpg",
+                "link": "https://imdb-api.com/posters/original/TkTPELv4kC3u1lkloush8skOjE.jpg",
+                "aspectRatio": 0.6666666666666666,
+                "language": "en",
+                "width": 2000,
+                "height": 3000
+            },
+            {
+                "id": "6pZgH10jhpToPcf0uvyTCPFhWpI.jpg",
+                "link": "https://imdb-api.com/posters/original/6pZgH10jhpToPcf0uvyTCPFhWpI.jpg",
+                "aspectRatio": 0.6666666666666666,
+                "language": "en",
+                "width": 1000,
+                "height": 1500
+            },
+            {
+                "id": "13kOl2v0nD2OLbVSHnHk8GUFEhO.jpg",
+                "link": "https://imdb-api.com/posters/original/13kOl2v0nD2OLbVSHnHk8GUFEhO.jpg",
+                "aspectRatio": 0.6666666666666666,
+                "language": "en",
+                "width": 1000,
+                "height": 1500
+            },
+            {
+                "id": "1QRmDIYOMzdcTBaf0Pn09fCi83x.jpg",
+                "link": "https://imdb-api.com/posters/original/1QRmDIYOMzdcTBaf0Pn09fCi83x.jpg",
+                "aspectRatio": 0.6666666666666666,
+                "language": "en",
+                "width": 2000,
+                "height": 3000
+            },
+            {
+                "id": "wajsLyJkcClIVqds2AlIU9bGmH.jpg",
+                "link": "https://imdb-api.com/posters/original/wajsLyJkcClIVqds2AlIU9bGmH.jpg",
+                "aspectRatio": 0.6666666666666666,
+                "language": "en",
+                "width": 1000,
+                "height": 1500
+            },
+            {
+                "id": "jwks38gjzVppwDOFNPRJmsDItUp.jpg",
+                "link": "https://imdb-api.com/posters/original/jwks38gjzVppwDOFNPRJmsDItUp.jpg",
+                "aspectRatio": 0.6666666666666666,
+                "language": "en",
+                "width": 2000,
+                "height": 3000
+            },
+            {
+                "id": "yeJ5Nj1k2NA0bBZjkZ10PvQKjTD.jpg",
+                "link": "https://imdb-api.com/posters/original/yeJ5Nj1k2NA0bBZjkZ10PvQKjTD.jpg",
+                "aspectRatio": 0.6666666666666666,
+                "language": "en",
+                "width": 2000,
+                "height": 3000
+            },
+            {
+                "id": "c9eugdsEzv1iEfd07cotRyLdL0k.jpg",
+                "link": "https://imdb-api.com/posters/original/c9eugdsEzv1iEfd07cotRyLdL0k.jpg",
+                "aspectRatio": 0.6666666666666666,
+                "language": "en",
+                "width": 2000,
+                "height": 3000
+            },
+            {
+                "id": "shZbNLEYUvS0HVS0EV9rg6kUGw.jpg",
+                "link": "https://imdb-api.com/posters/original/shZbNLEYUvS0HVS0EV9rg6kUGw.jpg",
+                "aspectRatio": 0.7494145199063232,
+                "language": "en",
+                "width": 640,
+                "height": 854
+            },
+            {
+                "id": "64cvpKhe1JJSedjiEZSuBuyQrkV.jpg",
+                "link": "https://imdb-api.com/posters/original/64cvpKhe1JJSedjiEZSuBuyQrkV.jpg",
+                "aspectRatio": 0.6666666666666666,
+                "language": "en",
+                "width": 1000,
+                "height": 1500
+            }
+        ],
+        "backdrops": [
+            {
+                "id": "vwBa7djy1oxfxUjc7YtVgGNsjrT.jpg",
+                "link": "https://imdb-api.com/posters/original/vwBa7djy1oxfxUjc7YtVgGNsjrT.jpg",
+                "aspectRatio": 1.7777777777777777,
+                "language": "en",
+                "width": 1920,
+                "height": 1080
+            },
+            {
+                "id": "FL8luPKWa1oLQZ4kccIPUEGVVZ.jpg",
+                "link": "https://imdb-api.com/posters/original/FL8luPKWa1oLQZ4kccIPUEGVVZ.jpg",
+                "aspectRatio": 1.7777777777777777,
+                "language": "en",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "id": "iuFbU5jiNh8DAxLBGifZCvv3KmB.jpg",
+                "link": "https://imdb-api.com/posters/original/iuFbU5jiNh8DAxLBGifZCvv3KmB.jpg",
+                "aspectRatio": 1.7777777777777777,
+                "language": "en",
+                "width": 1536,
+                "height": 864
+            },
+            {
+                "id": "xqaN2WYQclQlqvKvsOcNgOx2vRn.jpg",
+                "link": "https://imdb-api.com/posters/original/xqaN2WYQclQlqvKvsOcNgOx2vRn.jpg",
+                "aspectRatio": 1.7777777777777777,
+                "language": "en",
+                "width": 1920,
+                "height": 1080
+            },
+            {
+                "id": "uCmCxC8Jw0SOgz1JTrI4KVVfu5u.jpg",
+                "link": "https://imdb-api.com/posters/original/uCmCxC8Jw0SOgz1JTrI4KVVfu5u.jpg",
+                "aspectRatio": 1.7777777777777777,
+                "language": "en",
+                "width": 1648,
+                "height": 927
+            },
+            {
+                "id": "94QDjwjaueEwM2c8Vvz1cYh19lC.jpg",
+                "link": "https://imdb-api.com/posters/original/94QDjwjaueEwM2c8Vvz1cYh19lC.jpg",
+                "aspectRatio": 1.7777777777777777,
+                "language": "en",
+                "width": 1840,
+                "height": 1035
+            },
+            {
+                "id": "7uwHTDCI33poFzU4SvVDjjCnTd7.jpg",
+                "link": "https://imdb-api.com/posters/original/7uwHTDCI33poFzU4SvVDjjCnTd7.jpg",
+                "aspectRatio": 1.7777777777777777,
+                "language": "en",
+                "width": 1840,
+                "height": 1035
+            },
+            {
+                "id": "bNYDRRgmKogbPjhsR0PTPkqITnh.jpg",
+                "link": "https://imdb-api.com/posters/original/bNYDRRgmKogbPjhsR0PTPkqITnh.jpg",
+                "aspectRatio": 1.778,
+                "language": "en",
+                "width": 2667,
+                "height": 1500
+            },
+            {
+                "id": "bzJ8yeyFnhdFSCtu3Y0G7MQFcMk.jpg",
+                "link": "https://imdb-api.com/posters/original/bzJ8yeyFnhdFSCtu3Y0G7MQFcMk.jpg",
+                "aspectRatio": 1.7777777777777777,
+                "language": "en",
+                "width": 1840,
+                "height": 1035
+            },
+            {
+                "id": "mA8Y1LKaGsVQPj2cL7q8xzQjDkd.jpg",
+                "link": "https://imdb-api.com/posters/original/mA8Y1LKaGsVQPj2cL7q8xzQjDkd.jpg",
+                "aspectRatio": 1.7777777777777777,
+                "language": "en",
+                "width": 1840,
+                "height": 1035
+            },
+            {
+                "id": "oZggdgTPWAOnVVUAUlWAbjm9i4R.jpg",
+                "link": "https://imdb-api.com/posters/original/oZggdgTPWAOnVVUAUlWAbjm9i4R.jpg",
+                "aspectRatio": 1.7777777777777777,
+                "language": "en",
+                "width": 1840,
+                "height": 1035
+            },
+            {
+                "id": "hjlvbMKhQm7N8tYynr8yQ8GBmqe.jpg",
+                "link": "https://imdb-api.com/posters/original/hjlvbMKhQm7N8tYynr8yQ8GBmqe.jpg",
+                "aspectRatio": 1.7777777777777777,
+                "language": "en",
+                "width": 1840,
+                "height": 1035
+            },
+            {
+                "id": "gXkw1aU7fpPHnlIh5ITobyo3mnK.jpg",
+                "link": "https://imdb-api.com/posters/original/gXkw1aU7fpPHnlIh5ITobyo3mnK.jpg",
+                "aspectRatio": 1.7777777777777777,
+                "language": "en",
+                "width": 1920,
+                "height": 1080
+            },
+            {
+                "id": "r3p33ajbUccK64JuSwcItho1Kvs.jpg",
+                "link": "https://imdb-api.com/posters/original/r3p33ajbUccK64JuSwcItho1Kvs.jpg",
+                "aspectRatio": 1.7777777777777777,
+                "language": "en",
+                "width": 1920,
+                "height": 1080
+            },
+            {
+                "id": "5AfrTLqfAMcAsTvtlfLqSSdg91Q.jpg",
+                "link": "https://imdb-api.com/posters/original/5AfrTLqfAMcAsTvtlfLqSSdg91Q.jpg",
+                "aspectRatio": 1.7777777777777777,
+                "language": "en",
+                "width": 1792,
+                "height": 1008
+            },
+            {
+                "id": "sQSBPNPvmq8FDerPeFQsicj1faw.jpg",
+                "link": "https://imdb-api.com/posters/original/sQSBPNPvmq8FDerPeFQsicj1faw.jpg",
+                "aspectRatio": 1.7777777777777777,
+                "language": "en",
+                "width": 1600,
+                "height": 900
+            },
+            {
+                "id": "4E08xZyj97VjdQVkho04e1mnEYx.jpg",
+                "link": "https://imdb-api.com/posters/original/4E08xZyj97VjdQVkho04e1mnEYx.jpg",
+                "aspectRatio": 1.7777777777777777,
+                "language": "en",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "id": "pAoGbzXvXgAFzpdUujhJgG0Wt3h.jpg",
+                "link": "https://imdb-api.com/posters/original/pAoGbzXvXgAFzpdUujhJgG0Wt3h.jpg",
+                "aspectRatio": 1.7777777777777777,
+                "language": "en",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "id": "nv5wwZou159v5OC61i4ElR7OqyY.jpg",
+                "link": "https://imdb-api.com/posters/original/nv5wwZou159v5OC61i4ElR7OqyY.jpg",
+                "aspectRatio": 1.7777777777777777,
+                "language": "en",
+                "width": 1920,
+                "height": 1080
+            },
+            {
+                "id": "9MeUZMoDwzCb6gF0V4xh860GpiW.jpg",
+                "link": "https://imdb-api.com/posters/original/9MeUZMoDwzCb6gF0V4xh860GpiW.jpg",
+                "aspectRatio": 1.778,
+                "language": "en",
+                "width": 2667,
+                "height": 1500
+            },
+            {
+                "id": "fW7tTzXPIcaV2bOE16RFtmhyCk7.jpg",
+                "link": "https://imdb-api.com/posters/original/fW7tTzXPIcaV2bOE16RFtmhyCk7.jpg",
+                "aspectRatio": 1.7777777777777777,
+                "language": "en",
+                "width": 1920,
+                "height": 1080
+            },
+            {
+                "id": "bHASG5MLsxIys3m4gnqR1W49yb7.jpg",
+                "link": "https://imdb-api.com/posters/original/bHASG5MLsxIys3m4gnqR1W49yb7.jpg",
+                "aspectRatio": 1.7777777777777777,
+                "language": "en",
+                "width": 1920,
+                "height": 1080
+            },
+            {
+                "id": "rQRoWJPUPFLdDdO0IloGVSsm54p.jpg",
+                "link": "https://imdb-api.com/posters/original/rQRoWJPUPFLdDdO0IloGVSsm54p.jpg",
+                "aspectRatio": 1.7777777777777777,
+                "language": "en",
+                "width": 1920,
+                "height": 1080
+            },
+            {
+                "id": "2ppYnrndksQr9SnCR6s0q1B1yOu.jpg",
+                "link": "https://imdb-api.com/posters/original/2ppYnrndksQr9SnCR6s0q1B1yOu.jpg",
+                "aspectRatio": 1.7777777777777777,
+                "language": "en",
+                "width": 1344,
+                "height": 756
+            },
+            {
+                "id": "h50Lz1Q6Vo0zkEDUaa1PXfiOI6d.jpg",
+                "link": "https://imdb-api.com/posters/original/h50Lz1Q6Vo0zkEDUaa1PXfiOI6d.jpg",
+                "aspectRatio": 1.7777777777777777,
+                "language": "en",
+                "width": 1648,
+                "height": 927
+            },
+            {
+                "id": "5E8Iu6H2XSroKZo7ndXvaqtvtEY.jpg",
+                "link": "https://imdb-api.com/posters/original/5E8Iu6H2XSroKZo7ndXvaqtvtEY.jpg",
+                "aspectRatio": 1.7776162790697674,
+                "language": "en",
+                "width": 2446,
+                "height": 1376
+            },
+            {
+                "id": "zk51tb9RJdsqlSlZdP6ZKCoEzJE.jpg",
+                "link": "https://imdb-api.com/posters/original/zk51tb9RJdsqlSlZdP6ZKCoEzJE.jpg",
+                "aspectRatio": 1.7783333333333333,
+                "language": "en",
+                "width": 2134,
+                "height": 1200
+            },
+            {
+                "id": "faUep3Nh0cNKYQJDk3Y6aJ2OPAh.jpg",
+                "link": "https://imdb-api.com/posters/original/faUep3Nh0cNKYQJDk3Y6aJ2OPAh.jpg",
+                "aspectRatio": 1.7777777777777777,
+                "language": "en",
+                "width": 1920,
+                "height": 1080
+            },
+            {
+                "id": "zFwVXJPpd8HQpLTJHNkP7d1UrNg.jpg",
+                "link": "https://imdb-api.com/posters/original/zFwVXJPpd8HQpLTJHNkP7d1UrNg.jpg",
+                "aspectRatio": 1.7777777777777777,
+                "language": "en",
+                "width": 1920,
+                "height": 1080
+            },
+            {
+                "id": "aB3WIBTMWuyYExBO1ezbPQ1pdkk.jpg",
+                "link": "https://imdb-api.com/posters/original/aB3WIBTMWuyYExBO1ezbPQ1pdkk.jpg",
+                "aspectRatio": 1.7777777777777777,
+                "language": "en",
+                "width": 1920,
+                "height": 1080
+            },
+            {
+                "id": "fvkDzizV3Sti13TtqczZg57uhb9.jpg",
+                "link": "https://imdb-api.com/posters/original/fvkDzizV3Sti13TtqczZg57uhb9.jpg",
+                "aspectRatio": 1.7777777777777777,
+                "language": "en",
+                "width": 1920,
+                "height": 1080
+            },
+            {
+                "id": "detXIVyDd0L31MLErp2iCiJjxg9.jpg",
+                "link": "https://imdb-api.com/posters/original/detXIVyDd0L31MLErp2iCiJjxg9.jpg",
+                "aspectRatio": 1.7777777777777777,
+                "language": "en",
+                "width": 1920,
+                "height": 1080
+            },
+            {
+                "id": "7wFCbdLta0mvqoAWd1wozCXb39b.jpg",
+                "link": "https://imdb-api.com/posters/original/7wFCbdLta0mvqoAWd1wozCXb39b.jpg",
+                "aspectRatio": 1.7777777777777777,
+                "language": "en",
+                "width": 1920,
+                "height": 1080
+            },
+            {
+                "id": "wToartcGEtDo8r7Wym7pnFW74Pf.jpg",
+                "link": "https://imdb-api.com/posters/original/wToartcGEtDo8r7Wym7pnFW74Pf.jpg",
+                "aspectRatio": 1.7777777777777777,
+                "language": "en",
+                "width": 1920,
+                "height": 1080
+            },
+            {
+                "id": "aqcv1SEpcqoAaLLK0ylF590tvu1.jpg",
+                "link": "https://imdb-api.com/posters/original/aqcv1SEpcqoAaLLK0ylF590tvu1.jpg",
+                "aspectRatio": 1.7777777777777777,
+                "language": "en",
+                "width": 1920,
+                "height": 1080
+            },
+            {
+                "id": "7timx6094ffe4ekp2zCLGEOituj.jpg",
+                "link": "https://imdb-api.com/posters/original/7timx6094ffe4ekp2zCLGEOituj.jpg",
+                "aspectRatio": 1.7777777777777777,
+                "language": "en",
+                "width": 1920,
+                "height": 1080
+            },
+            {
+                "id": "bu6UkpkBir5FTMAxSM0oqPqv6OV.jpg",
+                "link": "https://imdb-api.com/posters/original/bu6UkpkBir5FTMAxSM0oqPqv6OV.jpg",
+                "aspectRatio": 1.7777777777777777,
+                "language": "en",
+                "width": 1920,
+                "height": 1080
+            },
+            {
+                "id": "8ccM6BRk4oeHPkXpeuwnqvw2B8x.jpg",
+                "link": "https://imdb-api.com/posters/original/8ccM6BRk4oeHPkXpeuwnqvw2B8x.jpg",
+                "aspectRatio": 1.7777777777777777,
+                "language": "en",
+                "width": 1920,
+                "height": 1080
+            },
+            {
+                "id": "uFE410P9LVHBXkMv97uFQEg6oz3.jpg",
+                "link": "https://imdb-api.com/posters/original/uFE410P9LVHBXkMv97uFQEg6oz3.jpg",
+                "aspectRatio": 1.7777777777777777,
+                "language": "en",
+                "width": 1920,
+                "height": 1080
+            }
+        ],
+        "errorMessage": ""
+    },
+    "images": {
+        "imDbId": "tt0347149",
+        "title": "Howl's Moving Castle",
+        "fullTitle": "Howl's Moving Castle (2004)",
+        "type": "Movie",
+        "year": "2004",
+        "items": [
+            {
+                "title": "Emily Mortimer in Howl's Moving Castle (2004)",
+                "image": "https://imdb-api.com/images/original/MV5BNDQwNDk1ODkzMl5BMl5BanBnXkFtZTcwMDk1NzEyNw@@._V1_Ratio1.8400_AL_.jpg"
+            },
+            {
+                "title": "Howl's Moving Castle (2004)",
+                "image": "https://imdb-api.com/images/original/MV5BMTM4MTg2MjAzN15BMl5BanBnXkFtZTcwMTk1NzEyNw@@._V1_Ratio1.8400_AL_.jpg"
+            },
+            {
+                "title": "Christian Bale and Albano Jerónimo in Howl's Moving Castle (2004)",
+                "image": "https://imdb-api.com/images/original/MV5BMTM3NzI5MTg2Nl5BMl5BanBnXkFtZTcwMjk1NzEyNw@@._V1_Ratio1.8400_AL_.jpg"
+            },
+            {
+                "title": "Josh Hutcherson in Howl's Moving Castle (2004)",
+                "image": "https://imdb-api.com/images/original/MV5BMTU1NTE5NjQ0OF5BMl5BanBnXkFtZTcwMzk1NzEyNw@@._V1_Ratio1.8400_AL_.jpg"
+            },
+            {
+                "title": "Christian Bale and Albano Jerónimo in Howl's Moving Castle (2004)",
+                "image": "https://imdb-api.com/images/original/MV5BMTUzMjgxNjYyOV5BMl5BanBnXkFtZTcwNDk1NzEyNw@@._V1_Ratio1.8400_AL_.jpg"
+            },
+            {
+                "title": "Jean Simmons in Howl's Moving Castle (2004)",
+                "image": "https://imdb-api.com/images/original/MV5BMTkyNTExOTM2OV5BMl5BanBnXkFtZTcwNTk1NzEyNw@@._V1_Ratio1.9000_AL_.jpg"
+            },
+            {
+                "title": "Howl's Moving Castle (2004)",
+                "image": "https://imdb-api.com/images/original/MV5BMTMyNTg1Mzc1NV5BMl5BanBnXkFtZTcwNjk1NzEyNw@@._V1_Ratio1.8400_AL_.jpg"
+            },
+            {
+                "title": "Howl's Moving Castle (2004)",
+                "image": "https://imdb-api.com/images/original/MV5BMTg2MTkwMDcxNF5BMl5BanBnXkFtZTcwNzk1NzEyNw@@._V1_Ratio1.8400_AL_.jpg"
+            },
+            {
+                "title": "Howl's Moving Castle (2004)",
+                "image": "https://imdb-api.com/images/original/MV5BMTM3OTMzNzgzNl5BMl5BanBnXkFtZTcwODk1NzEyNw@@._V1_Ratio1.8400_AL_.jpg"
+            },
+            {
+                "title": "Howl's Moving Castle (2004)",
+                "image": "https://imdb-api.com/images/original/MV5BMTg2NDE1NDI2OV5BMl5BanBnXkFtZTcwOTk1NzEyNw@@._V1_Ratio1.8400_AL_.jpg"
+            },
+            {
+                "title": "Billy Crystal and Victor Emanuel in Howl's Moving Castle (2004)",
+                "image": "https://imdb-api.com/images/original/MV5BMjAyNDA0MzQyMV5BMl5BanBnXkFtZTcwMDA2NzEyNw@@._V1_Ratio1.8400_AL_.jpg"
+            },
+            {
+                "title": "Howl's Moving Castle (2004)",
+                "image": "https://imdb-api.com/images/original/MV5BNjczNjI2NTIwMV5BMl5BanBnXkFtZTcwMTA2NzEyNw@@._V1_Ratio1.8400_AL_.jpg"
+            },
+            {
+                "title": "Howl's Moving Castle (2004)",
+                "image": "https://imdb-api.com/images/original/MV5BMTkxNTU2MjM3Ml5BMl5BanBnXkFtZTYwODg4MDQ3._V1_Ratio1.8400_AL_.jpg"
+            },
+            {
+                "title": "Howl's Moving Castle (2004)",
+                "image": "https://imdb-api.com/images/original/MV5BMTcwMjg2NjA0NF5BMl5BanBnXkFtZTYwMDk4MDQ3._V1_Ratio1.8400_AL_.jpg"
+            },
+            {
+                "title": "Howl's Moving Castle (2004)",
+                "image": "https://imdb-api.com/images/original/MV5BMTA1ODEwNTIxMDFeQTJeQWpwZ15BbWU2MDU5ODA0Nw@@._V1_Ratio1.0000_AL_.jpg"
+            },
+            {
+                "title": "Howl's Moving Castle (2004)",
+                "image": "https://imdb-api.com/images/original/MV5BMjA3MTQ1MTM4OF5BMl5BanBnXkFtZTYwNzk4MDQ3._V1_Ratio1.0000_AL_.jpg"
+            },
+            {
+                "title": "Howl's Moving Castle (2004)",
+                "image": "https://imdb-api.com/images/original/MV5BMTQyMjc4Njg5OF5BMl5BanBnXkFtZTYwOTk4MDQ3._V1_Ratio1.0000_AL_.jpg"
+            },
+            {
+                "title": "Howl's Moving Castle (2004)",
+                "image": "https://imdb-api.com/images/original/MV5BMjAyMDM5MDY5M15BMl5BanBnXkFtZTYwMTA5MDQ3._V1_Ratio1.8400_AL_.jpg"
+            },
+            {
+                "title": "Billy Crystal, Victor Emanuel, and Emily Mortimer in Howl's Moving Castle (2004)",
+                "image": "https://imdb-api.com/images/original/MV5BMjEyMTk5Mzg1OF5BMl5BanBnXkFtZTYwNDA5MDQ3._V1_Ratio1.8400_AL_.jpg"
+            },
+            {
+                "title": "Howl's Moving Castle (2004)",
+                "image": "https://imdb-api.com/images/original/MV5BMTY1NDI1NzM5OF5BMl5BanBnXkFtZTYwMDE5MDQ3._V1_Ratio1.8400_AL_.jpg"
+            },
+            {
+                "title": "Howl's Moving Castle (2004)",
+                "image": "https://imdb-api.com/images/original/MV5BMTY0Mjc4MDA0OF5BMl5BanBnXkFtZTYwNjg4MDQ3._V1_Ratio1.0000_AL_.jpg"
+            },
+            {
+                "title": "Howl's Moving Castle (2004)",
+                "image": "https://imdb-api.com/images/original/MV5BZWM1ZGI3NGQtZWRiZC00MWJiLWFkNGQtYzZhODJkYjRiYTk3XkEyXkFqcGdeQXVyMjgyNDU4MjE@._V1_Ratio1.0000_AL_.jpg"
+            },
+            {
+                "title": "Howl's Moving Castle (2004)",
+                "image": "https://imdb-api.com/images/original/MV5BNzBjZTZjZDYtOTM4MS00NWM0LThlMGEtYzBlMzllMjc4NzU4XkEyXkFqcGdeQXVyMjgyNDU4MjE@._V1_Ratio1.0000_AL_.jpg"
+            },
+            {
+                "title": "Howl's Moving Castle (2004)",
+                "image": "https://imdb-api.com/images/original/MV5BY2M2NjdjNDctNzQ1Ny00MWE0LTk2NDItYWExZjM5MzE0MTY0XkEyXkFqcGdeQXVyMjgyNDU4MjE@._V1_Ratio1.0000_AL_.jpg"
+            },
+            {
+                "title": "Howl's Moving Castle (2004)",
+                "image": "https://imdb-api.com/images/original/MV5BMjE0NTI2ODgyNl5BMl5BanBnXkFtZTcwNDA4ODE3OQ@@._V1_Ratio1.0000_AL_.jpg"
+            },
+            {
+                "title": "Howl's Moving Castle (2004)",
+                "image": "https://imdb-api.com/images/original/MV5BMTY1OTg0MjE3MV5BMl5BanBnXkFtZTcwNTUxMTkyMQ@@._V1_Ratio1.0000_AL_.jpg"
+            },
+            {
+                "title": "Howl's Moving Castle (2004)",
+                "image": "https://imdb-api.com/images/original/MV5BMTI2NDMyMjg2NF5BMl5BanBnXkFtZTcwOTk4MTI2MQ@@._V1_Ratio1.0000_AL_.jpg"
+            },
+            {
+                "title": "Howl's Moving Castle (2004)",
+                "image": "https://imdb-api.com/images/original/MV5BMTQ3NzQ0NzY0NV5BMl5BanBnXkFtZTcwNzc3MzE2MQ@@._V1_Ratio1.0000_AL_.jpg"
+            },
+            {
+                "title": "Howl's Moving Castle (2004)",
+                "image": "https://imdb-api.com/images/original/MV5BMTQxMDgxODUwNl5BMl5BanBnXkFtZTcwNzE2MzE2MQ@@._V1_Ratio1.0000_AL_.jpg"
+            },
+            {
+                "title": "Howl's Moving Castle (2004)",
+                "image": "https://imdb-api.com/images/original/MV5BMTcwNTkxMjczMl5BMl5BanBnXkFtZTcwMzUwMDIzMQ@@._V1_Ratio1.0000_AL_.jpg"
+            },
+            {
+                "title": "Can you guess which film this castle appeared in? See the next image to find out!",
+                "image": "https://imdb-api.com/images/original/MV5BZDNmYjMyNmEtMjlmNC00MGY3LTkzOGUtOTU2MmZjM2I2MGJiXkEyXkFqcGdeQXVyMTEyMjM2NDc2._V1_Ratio1.8400_AL_.jpg"
+            },
+            {
+                "title": "Chieko Baishô in Howl's Moving Castle (2004)",
+                "image": "https://imdb-api.com/images/original/MV5BZmFlZTFmNjMtNDdhYS00MjdiLTk3ODktNTczNDdiNGUwNGNiXkEyXkFqcGdeQXVyMDU5NDcxNw@@._V1_Ratio1.8400_AL_.jpg"
+            },
+            {
+                "title": "Howl's Moving Castle (2004)",
+                "image": "https://imdb-api.com/images/original/MV5BMzk4Mzc2NjctYzgwYi00NDQzLTllMzctMmU5ZTljOTkzYzc1XkEyXkFqcGdeQXVyMDU5NDcxNw@@._V1_Ratio1.8400_AL_.jpg"
+            },
+            {
+                "title": "Chieko Baishô in Howl's Moving Castle (2004)",
+                "image": "https://imdb-api.com/images/original/MV5BODQ5OWRlZTgtODBlOS00NDVhLTk3N2UtMjYwNGMyOTExOGI5XkEyXkFqcGdeQXVyMDU5NDcxNw@@._V1_Ratio1.8600_AL_.jpg"
+            },
+            {
+                "title": "Chieko Baishô in Howl's Moving Castle (2004)",
+                "image": "https://imdb-api.com/images/original/MV5BMGI5OTc2ODQtMDM4Yi00NWEzLTk5MjYtNDMzMjZlNDlkOWIwXkEyXkFqcGdeQXVyMDU5NDcxNw@@._V1_Ratio1.8600_AL_.jpg"
+            },
+            {
+                "title": "Howl's Moving Castle (2004)",
+                "image": "https://imdb-api.com/images/original/MV5BZDMxNThlZDMtMWRlMi00ODFkLWJjYTUtOGY5MWNkNmMzOGQ2XkEyXkFqcGdeQXVyOTc5MDI5NjE@._V1_Ratio1.8400_AL_.jpg"
+            },
+            {
+                "title": "Howl's Moving Castle (2004)",
+                "image": "https://imdb-api.com/images/original/MV5BNTk4NTQ2ODAtOTJjNC00MGRjLWJmNGMtZWI5NWE3MjdiZDNjXkEyXkFqcGdeQXVyOTc5MDI5NjE@._V1_Ratio1.8400_AL_.jpg"
+            },
+            {
+                "title": "Howl's Moving Castle (2004)",
+                "image": "https://imdb-api.com/images/original/MV5BNDRkZGFlYzktMzU0MS00N2QzLWIxZmUtNzY4NjU2NThkMzU5XkEyXkFqcGdeQXVyOTc5MDI5NjE@._V1_Ratio1.8400_AL_.jpg"
+            },
+            {
+                "title": "Howl's Moving Castle (2004)",
+                "image": "https://imdb-api.com/images/original/MV5BNWMzOTI3NzItYTlhNy00N2E5LWJhZDQtMWM3ZmU0ZmRhNjg2XkEyXkFqcGdeQXVyOTc5MDI5NjE@._V1_Ratio1.8400_AL_.jpg"
+            },
+            {
+                "title": "Howl's Moving Castle (2004)",
+                "image": "https://imdb-api.com/images/original/MV5BNWYwZjBjNTEtY2RkNC00N2IwLWIyNjAtYzc2OTg1Y2NiYTAwXkEyXkFqcGdeQXVyOTc5MDI5NjE@._V1_Ratio1.8400_AL_.jpg"
+            },
+            {
+                "title": "Howl's Moving Castle (2004)",
+                "image": "https://imdb-api.com/images/original/MV5BNGI2MTkzZGYtNDViOC00MWM5LTgxNmMtN2FmNzNlZmU4OWYzXkEyXkFqcGdeQXVyOTc5MDI5NjE@._V1_Ratio1.8400_AL_.jpg"
+            },
+            {
+                "title": "Howl's Moving Castle (2004)",
+                "image": "https://imdb-api.com/images/original/MV5BYTA4YmNmZjYtNjczZS00YTkzLTgzMzYtZjJhODJmMGE0YTI1XkEyXkFqcGdeQXVyOTc5MDI5NjE@._V1_Ratio1.8400_AL_.jpg"
+            },
+            {
+                "title": "Howl's Moving Castle (2004)",
+                "image": "https://imdb-api.com/images/original/MV5BMTM1MGUyMTctMGIwMC00YTU3LWI0MGEtZDdhZGM0OTAxMTM4XkEyXkFqcGdeQXVyOTc5MDI5NjE@._V1_Ratio1.8400_AL_.jpg"
+            },
+            {
+                "title": "Howl's Moving Castle (2004)",
+                "image": "https://imdb-api.com/images/original/MV5BOWVkNTFiMWEtMTliYS00YjIyLTllOGMtNmQzODE4NGY3ZTQ0XkEyXkFqcGdeQXVyOTc5MDI5NjE@._V1_Ratio1.8400_AL_.jpg"
+            },
+            {
+                "title": "Howl's Moving Castle (2004)",
+                "image": "https://imdb-api.com/images/original/MV5BOGNlMjlmZTktYTU1MS00YWI2LWE4MTgtYTFkMzA0YjExYjNlXkEyXkFqcGdeQXVyOTc5MDI5NjE@._V1_Ratio1.8400_AL_.jpg"
+            },
+            {
+                "title": "Howl's Moving Castle (2004)",
+                "image": "https://imdb-api.com/images/original/MV5BZmRhMzk2ZjQtZjdiZS00MzAxLWI3ZGUtODg3MDU1YmZmN2NiXkEyXkFqcGdeQXVyOTc5MDI5NjE@._V1_Ratio1.8400_AL_.jpg"
+            },
+            {
+                "title": "Howl's Moving Castle (2004)",
+                "image": "https://imdb-api.com/images/original/MV5BZTYwYjliMGYtY2UzNC00YTc5LThlZDMtNDQxNTEzMTkyNTE4XkEyXkFqcGdeQXVyOTc5MDI5NjE@._V1_Ratio1.8400_AL_.jpg"
+            },
+            {
+                "title": "Howl's Moving Castle (2004)",
+                "image": "https://imdb-api.com/images/original/MV5BMzY1MTFiOTktZmQ1Mi00NTg3LWI0MjgtNmJkOGJkMTUzNDgyXkEyXkFqcGdeQXVyOTc5MDI5NjE@._V1_Ratio1.8400_AL_.jpg"
+            }
+        ],
+        "errorMessage": ""
+    },
+    "trailer": {
+        "imDbId": "tt0347149",
+        "title": "Howl's Moving Castle",
+        "fullTitle": "Howl's Moving Castle (2004)",
+        "type": "Movie",
+        "year": "2004",
+        "videoId": "vi3502817561",
+        "videoTitle": "Official Trailer",
+        "videoDescription": null,
+        "thumbnailUrl": "https://m.media-amazon.com/images/M/MV5BM2YwMDUwOTQtOGViMS00NDRiLTk4YWQtMzdjNzk0MTQyY2M4XkEyXkFqcGdeQXN3aWZ0dw@@._V1_.jpg",
+        "uploadDate": "11/18/2020 13:26:53",
+        "link": "https://www.imdb.com/video/vi3502817561",
+        "linkEmbed": "https://www.imdb.com/video/imdb/vi3502817561/imdb/embed",
+        "errorMessage": ""
+    },
+    "boxOffice": {
+        "budget": "$24,000,000 (estimated)",
+        "openingWeekendUSA": "$427,987, 12 June 2005",
+        "grossUSA": "$5,576,743",
+        "cumulativeWorldwideGross": "$236,214,446"
+    },
+    "tagline": "",
+    "keywords": "anime,studio ghibli,steampunk,milliner,millinery",
+    "keywordList": [
+        "anime",
+        "studio ghibli",
+        "steampunk",
+        "milliner",
+        "millinery"
+    ],
+    "similars": [
+        {
+            "id": "tt0096283",
+            "title": "My Neighbor Totoro",
+            "fullTitle": "My Neighbor Totoro (1988)",
+            "year": "1988",
+            "image": "https://imdb-api.com/images/original/MV5BYzJjMTYyMjQtZDI0My00ZjE2LTkyNGYtOTllNGQxNDMyZjE0XkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_Ratio0.7158_AL_.jpg",
+            "plot": "When two girls move to the country to be near their ailing mother, they have adventures with the wondrous forest spirits who live nearby.",
+            "directors": "Hayao Miyazaki",
+            "stars": "Hitoshi Takagi, Noriko Hidaka, Chika Sakamoto",
+            "genres": "Animation, Family, Fantasy",
+            "imDbRating": "8.2"
+        },
+        {
+            "id": "tt0245429",
+            "title": "Spirited Away",
+            "fullTitle": "Spirited Away (2001)",
+            "year": "2001",
+            "image": "https://imdb-api.com/images/original/MV5BMjlmZmI5MDctNDE2YS00YWE0LWE5ZWItZDBhYWQ0NTcxNWRhXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_Ratio0.6737_AL_.jpg",
+            "plot": "During her family's move to the suburbs, a sullen 10-year-old girl wanders into a world ruled by gods, witches, and spirits, and where humans are changed into beasts.",
+            "directors": "Hayao Miyazaki",
+            "stars": "Daveigh Chase, Suzanne Pleshette, Miyu Irino",
+            "genres": "Animation, Adventure, Family",
+            "imDbRating": "8.6"
+        },
+        {
+            "id": "tt0092067",
+            "title": "Castle in the Sky",
+            "fullTitle": "Castle in the Sky (1986)",
+            "year": "1986",
+            "image": "https://imdb-api.com/images/original/MV5BNTg0NmI1ZGQtZTUxNC00NTgxLThjMDUtZmRlYmEzM2MwOWYwXkEyXkFqcGdeQXVyMzM4MjM0Nzg@._V1_Ratio0.6947_AL_.jpg",
+            "plot": "A young boy and a girl with a magic crystal must race against pirates and foreign agents in a search for a legendary floating castle.",
+            "directors": "Hayao Miyazaki",
+            "stars": "Mayumi Tanaka, Keiko Yokozawa, Kotoe Hatsui",
+            "genres": "Animation, Adventure, Drama",
+            "imDbRating": "8"
+        },
+        {
+            "id": "tt0097814",
+            "title": "Kiki's Delivery Service",
+            "fullTitle": "Kiki's Delivery Service (1989)",
+            "year": "1989",
+            "image": "https://imdb-api.com/images/original/MV5BOTc0ODM1Njk1NF5BMl5BanBnXkFtZTcwMDI5OTEyNw@@._V1_Ratio0.7053_AL_.jpg",
+            "plot": "A young witch, on her mandatory year of independent life, finds fitting into a new community difficult while she supports herself by running an air courier service.",
+            "directors": "Hayao Miyazaki",
+            "stars": "Kirsten Dunst, Minami Takayama, Rei Sakuma",
+            "genres": "Animation, Adventure, Drama",
+            "imDbRating": "7.8"
+        },
+        {
+            "id": "tt0876563",
+            "title": "Ponyo",
+            "fullTitle": "Ponyo (2008)",
+            "year": "2008",
+            "image": "https://imdb-api.com/images/original/MV5BOTc3YmM3N2QtODZkMC00ZDE5LThjMTQtYTljN2Y1YTYwYWJkXkEyXkFqcGdeQXVyODEzNjM5OTQ@._V1_Ratio0.6737_AL_.jpg",
+            "plot": "A five-year-old boy develops a relationship with Ponyo, a young goldfish princess who longs to become a human after falling in love with him.",
+            "directors": "Hayao Miyazaki",
+            "stars": "Cate Blanchett, Matt Damon, Liam Neeson",
+            "genres": "Animation, Adventure, Comedy",
+            "imDbRating": "7.7"
+        },
+        {
+            "id": "tt1568921",
+            "title": "The Secret World of Arrietty",
+            "fullTitle": "The Secret World of Arrietty (2010)",
+            "year": "2010",
+            "image": "https://imdb-api.com/images/original/MV5BZDY3ZGI0ZDAtMThlNy00MzAxLTg4YjAtNjkwYTkxNmQ4MjdlXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_Ratio0.6737_AL_.jpg",
+            "plot": "The Clock family are four-inch-tall people who live anonymously in another family's residence, borrowing simple items to make their home. Life changes for the Clocks when their teenage daughter, Arrietty, is discovered.",
+            "directors": "Hiromasa Yonebayashi",
+            "stars": "Amy Poehler, Will Arnett, Mirai Shida",
+            "genres": "Animation, Adventure, Family",
+            "imDbRating": "7.6"
+        },
+        {
+            "id": "tt0266543",
+            "title": "Finding Nemo",
+            "fullTitle": "Finding Nemo (2003)",
+            "year": "2003",
+            "image": "https://imdb-api.com/images/original/MV5BZTAzNWZlNmUtZDEzYi00ZjA5LWIwYjEtZGM1NWE1MjE4YWRhXkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_Ratio0.6737_AL_.jpg",
+            "plot": "After his son is captured in the Great Barrier Reef and taken to Sydney, a timid clownfish sets out on a journey to bring him home.",
+            "directors": "Directors: Andrew Stanton, Lee Unkrich",
+            "stars": "Albert Brooks, Ellen DeGeneres, Alexander Gould",
+            "genres": "Animation, Adventure, Comedy",
+            "imDbRating": "8.1"
+        },
+        {
+            "id": "tt1049413",
+            "title": "Up",
+            "fullTitle": "Up (2009)",
+            "year": "2009",
+            "image": "https://imdb-api.com/images/original/MV5BMTk3NDE2NzI4NF5BMl5BanBnXkFtZTgwNzE1MzEyMTE@._V1_Ratio0.6737_AL_.jpg",
+            "plot": "78-year-old Carl Fredricksen travels to Paradise Falls in his house equipped with balloons, inadvertently taking a young stowaway.",
+            "directors": "Directors: Pete Docter, Bob Peterson",
+            "stars": "Edward Asner, Jordan Nagai, John Ratzenberger",
+            "genres": "Animation, Adventure, Comedy",
+            "imDbRating": "8.2"
+        },
+        {
+            "id": "tt0910970",
+            "title": "WALL·E",
+            "fullTitle": "WALL·E (2008)",
+            "year": "2008",
+            "image": "https://imdb-api.com/images/original/MV5BMjExMTg5OTU0NF5BMl5BanBnXkFtZTcwMjMxMzMzMw@@._V1_Ratio0.6737_AL_.jpg",
+            "plot": "In the distant future, a small waste-collecting robot inadvertently embarks on a space journey that will ultimately decide the fate of mankind.",
+            "directors": "Andrew Stanton",
+            "stars": "Ben Burtt, Elissa Knight, Jeff Garlin",
+            "genres": "Animation, Adventure, Family",
+            "imDbRating": "8.4"
+        },
+        {
+            "id": "tt0113824",
+            "title": "Whisper of the Heart",
+            "fullTitle": "Whisper of the Heart (1995)",
+            "year": "1995",
+            "image": "https://imdb-api.com/images/original/MV5BZDg0MWNmNjktMGEwZC00ZDlmLWI1MTUtMDBmNjQzMWM2NjBjXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_Ratio0.6737_AL_.jpg",
+            "plot": "A love story between a girl who loves reading books, and a boy who has previously checked out all of the library books she chooses.",
+            "directors": "Yoshifumi Kondô",
+            "stars": "Yoko Honna, Issey Takahashi, Takashi Tachibana",
+            "genres": "Animation, Drama, Family",
+            "imDbRating": "7.9"
+        },
+        {
+            "id": "tt1798188",
+            "title": "From Up on Poppy Hill",
+            "fullTitle": "From Up on Poppy Hill (2011)",
+            "year": "2011",
+            "image": "https://imdb-api.com/images/original/MV5BZmFjMTYwODAtMTUzZi00NWUzLWIzMjUtYTNiZTE2MzNlMjNiXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_Ratio0.6737_AL_.jpg",
+            "plot": "A group of Yokohama teens look to save their school's clubhouse from the wrecking ball in preparations for the 1964 Tokyo Olympics.",
+            "directors": "Gorô Miyazaki",
+            "stars": "Sarah Bolger, Chris Noth, Anton Yelchin",
+            "genres": "Animation, Drama, Family",
+            "imDbRating": "7.4"
+        },
+        {
+            "id": "tt0198781",
+            "title": "Monsters, Inc.",
+            "fullTitle": "Monsters, Inc. (2001)",
+            "year": "2001",
+            "image": "https://imdb-api.com/images/original/MV5BMTY1NTI0ODUyOF5BMl5BanBnXkFtZTgwNTEyNjQ0MDE@._V1_Ratio0.6737_AL_.jpg",
+            "plot": "In order to power the city, monsters have to scare children so that they scream. However, the children are toxic to the monsters, and after a child gets through, 2 monsters realize things may not be what they think.",
+            "directors": "Directors: Pete Docter, David Silverman, and 1 more credit »",
+            "stars": "Billy Crystal, John Goodman, Mary Gibbs",
+            "genres": "Animation, Adventure, Comedy",
+            "imDbRating": "8.1"
+        }
+    ],
+    "tvSeriesInfo": null,
+    "tvEpisodeInfo": null,
+    "errorMessage": ""
+}

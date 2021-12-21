@@ -1,0 +1,690 @@
+{
+    "id": "tt1895587",
+    "title": "Spotlight",
+    "originalTitle": "",
+    "fullTitle": "Spotlight (2015)",
+    "type": "Movie",
+    "year": "2015",
+    "image": "https://imdb-api.com/images/original/MV5BMjIyOTM5OTIzNV5BMl5BanBnXkFtZTgwMDkzODE2NjE@._V1_Ratio0.6791_AL_.jpg",
+    "releaseDate": "2015-11-20",
+    "runtimeMins": "129",
+    "runtimeStr": "2h 9mins",
+    "plot": "When the Boston Globe's tenacious \"Spotlight\" team of reporters delves into allegations of abuse in the Catholic Church, their year-long investigation uncovers a decades-long cover-up at the highest levels of Boston's religious, legal, and government establishment, touching off a wave of revelations around the world.",
+    "plotLocal": "",
+    "plotLocalIsRtl": false,
+    "awards": "Top Rated Movies #226 | Won 2 Oscars. Another 122 wins & 143 nominations.",
+    "directors": "Tom McCarthy",
+    "directorList": [{ "id": "nm0565336", "name": "Tom McCarthy" }],
+    "writers": "Josh Singer, Tom McCarthy",
+    "writerList": [
+        { "id": "nm1802857", "name": "Josh Singer" },
+        { "id": "nm0565336", "name": "Tom McCarthy" }
+    ],
+    "stars": "Mark Ruffalo, Michael Keaton, Rachel McAdams, Liev Schreiber",
+    "starList": [
+        { "id": "nm0749263", "name": "Mark Ruffalo" },
+        { "id": "nm0000474", "name": "Michael Keaton" },
+        { "id": "nm1046097", "name": "Rachel McAdams" },
+        { "id": "nm0000630", "name": "Liev Schreiber" }
+    ],
+    "actorList": [
+        {
+            "id": "nm0749263",
+            "image": "https://imdb-api.com/images/original/MV5BNWIzZTI1ODUtZTUzMC00NTdiLWFlOTYtZTg4MGZkYmU4YzNlXkEyXkFqcGdeQXVyNTExOTk5Nzg@._V1_Ratio0.7273_AL_.jpg",
+            "name": "Mark Ruffalo",
+            "asCharacter": "Mike Rezendes"
+        },
+        {
+            "id": "nm0000474",
+            "image": "https://imdb-api.com/images/original/MV5BZmNiZmMzN2MtOTNkMy00YjA1LTg4NzktMWI4Njg1NzI3ODAyXkEyXkFqcGdeQXVyNzg5MzIyOA@@._V1_Ratio0.7273_AL_.jpg",
+            "name": "Michael Keaton",
+            "asCharacter": "Walter 'Robby' Robinson"
+        },
+        {
+            "id": "nm1046097",
+            "image": "https://imdb-api.com/images/original/MV5BMTY5ODcxMDU4NV5BMl5BanBnXkFtZTcwMjAzNjQyNQ@@._V1_Ratio0.7273_AL_.jpg",
+            "name": "Rachel McAdams",
+            "asCharacter": "Sacha Pfeiffer"
+        },
+        {
+            "id": "nm0000630",
+            "image": "https://imdb-api.com/images/original/MV5BMjM5NjI1NzA1Ml5BMl5BanBnXkFtZTgwNDc0ODM3ODE@._V1_Ratio0.7727_AL_.jpg",
+            "name": "Liev Schreiber",
+            "asCharacter": "Marty Baron"
+        },
+        {
+            "id": "nm0805476",
+            "image": "https://imdb-api.com/images/original/MV5BMTc4OTIyNDY5MV5BMl5BanBnXkFtZTgwODM2OTQyMjE@._V1_Ratio0.7273_AL_.jpg",
+            "name": "John Slattery",
+            "asCharacter": "Ben Bradlee Jr."
+        },
+        {
+            "id": "nm0195421",
+            "image": "https://imdb-api.com/images/original/MV5BNTQ2MDY4MTU1OF5BMl5BanBnXkFtZTcwMDU2NTI4Nw@@._V1_Ratio0.7273_AL_.jpg",
+            "name": "Brian d'Arcy James",
+            "asCharacter": "Matt Carroll"
+        },
+        {
+            "id": "nm0001804",
+            "image": "https://imdb-api.com/images/original/MV5BMTU1MzE4MjAzMV5BMl5BanBnXkFtZTcwMjA2MTMyMw@@._V1_Ratio0.7273_AL_.jpg",
+            "name": "Stanley Tucci",
+            "asCharacter": "Mitchell Garabedian"
+        },
+        {
+            "id": "nm0830588",
+            "image": "https://imdb-api.com/images/original/MV5BZTJiY2U0YzAtMTMwOS00MGI2LTg2OTYtNzdhNDdmNjk4YmEyXkEyXkFqcGdeQXVyMzYxMjEzMDE@._V1_Ratio0.7273_AL_.jpg",
+            "name": "Elena Wohl",
+            "asCharacter": "Barbara"
+        },
+        {
+            "id": "nm0025255",
+            "image": "https://imdb-api.com/images/original/MV5BMTQ1OTI5NDkzNV5BMl5BanBnXkFtZTgwNTUwMTcxNzE@._V1_Ratio0.7727_AL_.jpg",
+            "name": "Gene Amoroso",
+            "asCharacter": "Steve Kurkjian"
+        },
+        {
+            "id": "nm0614921",
+            "image": "https://imdb-api.com/images/original/MV5BMWJiM2U0MzAtZTM3OC00YzQ5LTliNDktMDc2NTU5NGNjN2NiXkEyXkFqcGdeQXVyMTI1MDEzNzU@._V1_Ratio1.3182_AL_.jpg",
+            "name": "Doug Murray",
+            "asCharacter": "Peter Canellos"
+        },
+        {
+            "id": "nm0568823",
+            "image": "https://imdb-api.com/images/original/MV5BYmQzMDU1OTgtZWI4NC00OTBhLTg4MmItNWI3ZjI5ZmJmZjE2XkEyXkFqcGdeQXVyNTkyNTUyNTQ@._V1_Ratio1.4091_AL_.jpg",
+            "name": "Sharon McFarlane",
+            "asCharacter": "Helen Donovan"
+        },
+        {
+            "id": "nm0792177",
+            "image": "https://imdb-api.com/images/original/MV5BMTg1NjY3ODU1MF5BMl5BanBnXkFtZTYwNjU5MzYz._V1_Ratio0.7273_AL_.jpg",
+            "name": "Jamey Sheridan",
+            "asCharacter": "Jim Sullivan"
+        },
+        {
+            "id": "nm0400223",
+            "image": "https://imdb-api.com/images/original/MV5BODI1OTYyMDgyNV5BMl5BanBnXkFtZTcwOTI2MDA1NA@@._V1_Ratio0.7727_AL_.jpg",
+            "name": "Neal Huff",
+            "asCharacter": "Phil Saviano"
+        },
+        {
+            "id": "nm0001082",
+            "image": "https://imdb-api.com/images/original/MV5BMTQ5MzM5NzUzMF5BMl5BanBnXkFtZTcwNjEyMDY5Mg@@._V1_Ratio0.7273_AL_.jpg",
+            "name": "Billy Crudup",
+            "asCharacter": "Eric Macleish"
+        },
+        {
+            "id": "nm0448302",
+            "image": "https://imdb-api.com/images/original/MV5BNzEwMTI1NzkxNl5BMl5BanBnXkFtZTgwODg4ODAxNDE@._V1_Ratio1.0000_AL_.jpg",
+            "name": "Robert B. Kennedy",
+            "asCharacter": "Court Clerk Mark"
+        }
+    ],
+    "fullCast": null,
+    "genres": "Biography, Crime, Drama",
+    "genreList": [
+        { "key": "Biography", "value": "Biography" },
+        { "key": "Crime", "value": "Crime" },
+        { "key": "Drama", "value": "Drama" }
+    ],
+    "companies": "Participant, First Look Media, Anonymous Content",
+    "companyList": [
+        { "id": "co0132772", "name": "Participant" },
+        { "id": "co0732581", "name": "First Look Media" },
+        { "id": "co0017525", "name": "Anonymous Content" }
+    ],
+    "countries": "USA",
+    "countryList": [{ "key": "USA", "value": "USA" }],
+    "languages": "English",
+    "languageList": [{ "key": "English", "value": "English" }],
+    "contentRating": "R",
+    "imDbRating": "8.1",
+    "imDbRatingVotes": "427963",
+    "metacriticRating": "93",
+    "ratings": null,
+    "wikipedia": null,
+    "posters": {
+        "imDbId": "tt1895587",
+        "title": "Spotlight",
+        "fullTitle": "Spotlight (2015)",
+        "type": "Movie",
+        "year": "2015",
+        "posters": [
+            {
+                "id": "rBkptJyAMqCfoMwUGQfCpubroec.jpg",
+                "link": "https://imdb-api.com/posters/original/rBkptJyAMqCfoMwUGQfCpubroec.jpg",
+                "aspectRatio": 0.6666666666666666,
+                "language": "en",
+                "width": 1000,
+                "height": 1500
+            },
+            {
+                "id": "h45kCMzpkbSNO8ZlYtrLEjSkoYK.jpg",
+                "link": "https://imdb-api.com/posters/original/h45kCMzpkbSNO8ZlYtrLEjSkoYK.jpg",
+                "aspectRatio": 0.6666666666666666,
+                "language": "en",
+                "width": 950,
+                "height": 1425
+            },
+            {
+                "id": "yv5VV4b5X6oWhp0LgeSM2a3WbFp.jpg",
+                "link": "https://imdb-api.com/posters/original/yv5VV4b5X6oWhp0LgeSM2a3WbFp.jpg",
+                "aspectRatio": 0.7012622720897616,
+                "language": "en",
+                "width": 1000,
+                "height": 1426
+            },
+            {
+                "id": "28Vnvn1WI1wJtP1kDqeRCZ1GdYm.jpg",
+                "link": "https://imdb-api.com/posters/original/28Vnvn1WI1wJtP1kDqeRCZ1GdYm.jpg",
+                "aspectRatio": 0.7012622720897616,
+                "language": "en",
+                "width": 1000,
+                "height": 1426
+            },
+            {
+                "id": "gWkgMnIsd8Od7iyhEEKL5G4Qq6J.jpg",
+                "link": "https://imdb-api.com/posters/original/gWkgMnIsd8Od7iyhEEKL5G4Qq6J.jpg",
+                "aspectRatio": 0.6666666666666666,
+                "language": "en",
+                "width": 2000,
+                "height": 3000
+            },
+            {
+                "id": "qrUbieuJe1xZshnTHSJydc63EEW.jpg",
+                "link": "https://imdb-api.com/posters/original/qrUbieuJe1xZshnTHSJydc63EEW.jpg",
+                "aspectRatio": 0.6666666666666666,
+                "language": "en",
+                "width": 2000,
+                "height": 3000
+            },
+            {
+                "id": "pt7ZeF0RKJZgFe11YUxaO4J8GCc.jpg",
+                "link": "https://imdb-api.com/posters/original/pt7ZeF0RKJZgFe11YUxaO4J8GCc.jpg",
+                "aspectRatio": 0.6666666666666666,
+                "language": "en",
+                "width": 800,
+                "height": 1200
+            },
+            {
+                "id": "Ao9XSIsvfaxA3Kj6NyzbDcEdav.jpg",
+                "link": "https://imdb-api.com/posters/original/Ao9XSIsvfaxA3Kj6NyzbDcEdav.jpg",
+                "aspectRatio": 0.6666666666666666,
+                "language": "en",
+                "width": 2000,
+                "height": 3000
+            },
+            {
+                "id": "4ofjoFZt3wmZSFnE99QFZqbOqWW.jpg",
+                "link": "https://imdb-api.com/posters/original/4ofjoFZt3wmZSFnE99QFZqbOqWW.jpg",
+                "aspectRatio": 0.6666666666666666,
+                "language": "en",
+                "width": 1000,
+                "height": 1500
+            },
+            {
+                "id": "iDkoGX0t8mC58DIcjtJD8Is1kJ9.jpg",
+                "link": "https://imdb-api.com/posters/original/iDkoGX0t8mC58DIcjtJD8Is1kJ9.jpg",
+                "aspectRatio": 0.6666666666666666,
+                "language": "en",
+                "width": 2000,
+                "height": 3000
+            },
+            {
+                "id": "3kORJiW3z9zSuprqu9CG6dbCuMV.jpg",
+                "link": "https://imdb-api.com/posters/original/3kORJiW3z9zSuprqu9CG6dbCuMV.jpg",
+                "aspectRatio": 0.6746666666666666,
+                "language": "en",
+                "width": 506,
+                "height": 750
+            },
+            {
+                "id": "b8NYfDcyGGuroELRGeItZFwmFQ7.jpg",
+                "link": "https://imdb-api.com/posters/original/b8NYfDcyGGuroELRGeItZFwmFQ7.jpg",
+                "aspectRatio": 0.7093333333333334,
+                "language": "en",
+                "width": 532,
+                "height": 750
+            },
+            {
+                "id": "33MdZOsk9l5s3nQ4xsalXJ7m89I.jpg",
+                "link": "https://imdb-api.com/posters/original/33MdZOsk9l5s3nQ4xsalXJ7m89I.jpg",
+                "aspectRatio": 0.704,
+                "language": "en",
+                "width": 528,
+                "height": 750
+            }
+        ],
+        "backdrops": [
+            {
+                "id": "bF8GCJ3ZLlS5nLwDlL3CTljdXzN.jpg",
+                "link": "https://imdb-api.com/posters/original/bF8GCJ3ZLlS5nLwDlL3CTljdXzN.jpg",
+                "aspectRatio": 1.7777777777777777,
+                "language": "en",
+                "width": 1920,
+                "height": 1080
+            },
+            {
+                "id": "hTYZ9tPvRZrL3rSf0tB38r53IG.jpg",
+                "link": "https://imdb-api.com/posters/original/hTYZ9tPvRZrL3rSf0tB38r53IG.jpg",
+                "aspectRatio": 1.7777777777777777,
+                "language": "en",
+                "width": 1920,
+                "height": 1080
+            },
+            {
+                "id": "6Yua9IkPOGanQIX7HzZzwEO2LcJ.jpg",
+                "link": "https://imdb-api.com/posters/original/6Yua9IkPOGanQIX7HzZzwEO2LcJ.jpg",
+                "aspectRatio": 1.7777777777777777,
+                "language": "en",
+                "width": 1920,
+                "height": 1080
+            },
+            {
+                "id": "feCH1zdAeR7sFZDNa4w4sbPAo4v.jpg",
+                "link": "https://imdb-api.com/posters/original/feCH1zdAeR7sFZDNa4w4sbPAo4v.jpg",
+                "aspectRatio": 1.7777777777777777,
+                "language": "en",
+                "width": 1920,
+                "height": 1080
+            },
+            {
+                "id": "mUEhDIDlu0zeFslZImSHxJWjKXr.jpg",
+                "link": "https://imdb-api.com/posters/original/mUEhDIDlu0zeFslZImSHxJWjKXr.jpg",
+                "aspectRatio": 1.7777777777777777,
+                "language": "en",
+                "width": 1920,
+                "height": 1080
+            },
+            {
+                "id": "gpm8ly1slenk8eJsrCuoKMHVVDO.jpg",
+                "link": "https://imdb-api.com/posters/original/gpm8ly1slenk8eJsrCuoKMHVVDO.jpg",
+                "aspectRatio": 1.7777777777777777,
+                "language": "en",
+                "width": 1920,
+                "height": 1080
+            }
+        ],
+        "errorMessage": ""
+    },
+    "images": {
+        "imDbId": "tt1895587",
+        "title": "Spotlight",
+        "fullTitle": "Spotlight (2015)",
+        "type": "Movie",
+        "year": "2015",
+        "items": [
+            {
+                "title": "Rachel McAdams in Spotlight (2015)",
+                "image": "https://imdb-api.com/images/original/MV5BNTQyMjgxNTExM15BMl5BanBnXkFtZTgwMzg1ODAzMDI@._V1_Ratio1.8600_AL_.jpg"
+            },
+            {
+                "title": "Brian d'Arcy James in Spotlight (2015)",
+                "image": "https://imdb-api.com/images/original/MV5BMTcxODU0NTk1MV5BMl5BanBnXkFtZTgwNzMyMDEyNzE@._V1_Ratio1.5000_AL_.jpg"
+            },
+            {
+                "title": "Michael Keaton in Spotlight (2015)",
+                "image": "https://imdb-api.com/images/original/MV5BNDc4NDkyOTAzOF5BMl5BanBnXkFtZTgwODMyMDEyNzE@._V1_Ratio1.5000_AL_.jpg"
+            },
+            {
+                "title": "Michael Keaton and Rachel McAdams in Spotlight (2015)",
+                "image": "https://imdb-api.com/images/original/MV5BMTY5NzExMTMyM15BMl5BanBnXkFtZTgwOTMyMDEyNzE@._V1_Ratio1.5200_AL_.jpg"
+            },
+            {
+                "title": "Michael Keaton, Brian d'Arcy James, Mark Ruffalo, and Rachel McAdams in Spotlight (2015)",
+                "image": "https://imdb-api.com/images/original/MV5BMTYzNzI0MjA0M15BMl5BanBnXkFtZTgwMDQyMDEyNzE@._V1_Ratio1.5000_AL_.jpg"
+            },
+            {
+                "title": "Stanley Tucci and Mark Ruffalo in Spotlight (2015)",
+                "image": "https://imdb-api.com/images/original/MV5BMTQ5NjgyMDM4NV5BMl5BanBnXkFtZTgwMTQyMDEyNzE@._V1_Ratio1.5000_AL_.jpg"
+            },
+            {
+                "title": "Michael Keaton in Spotlight (2015)",
+                "image": "https://imdb-api.com/images/original/MV5BMTY2MTM4OTE3OF5BMl5BanBnXkFtZTgwNjMyMDEyNzE@._V1_Ratio1.0000_AL_.jpg"
+            },
+            {
+                "title": "Michael Keaton, Brian d'Arcy James, Mark Ruffalo, John Slattery, and Rachel McAdams in Spotlight (2015)",
+                "image": "https://imdb-api.com/images/original/MV5BMzY2ODgxNzQ5OV5BMl5BanBnXkFtZTgwODcwNjY1NjE@._V1_Ratio1.5000_AL_.jpg"
+            },
+            {
+                "title": "Michael Keaton and Mark Ruffalo in Spotlight (2015)",
+                "image": "https://imdb-api.com/images/original/MV5BMTUxNjI0ODIwMV5BMl5BanBnXkFtZTgwMzk1MzgzNjE@._V1_Ratio1.5000_AL_.jpg"
+            },
+            {
+                "title": "Michael Keaton, Liev Schreiber, Brian d'Arcy James, Mark Ruffalo, John Slattery, and Rachel McAdams in Spotlight (2015)",
+                "image": "https://imdb-api.com/images/original/MV5BMTY1NTE1Njg0Ml5BMl5BanBnXkFtZTgwOTg1MzgzNjE@._V1_Ratio1.5000_AL_.jpg"
+            },
+            {
+                "title": "Michael Sugar at an event for Spotlight (2015)",
+                "image": "https://imdb-api.com/images/original/MV5BMjIxNDMxMTMwMF5BMl5BanBnXkFtZTgwNjQyNzEyNzE@._V1_Ratio1.0000_AL_.jpg"
+            },
+            {
+                "title": "Rose Byrne at an event for Spotlight (2015)",
+                "image": "https://imdb-api.com/images/original/MV5BMTg5NTg1NzgyOV5BMl5BanBnXkFtZTgwNDQyNzEyNzE@._V1_Ratio1.0000_AL_.jpg"
+            },
+            {
+                "title": "Johnny Whitworth at an event for Spotlight (2015)",
+                "image": "https://imdb-api.com/images/original/MV5BOTMwMTY0ODE1N15BMl5BanBnXkFtZTgwMTQyNzEyNzE@._V1_Ratio1.0000_AL_.jpg"
+            },
+            {
+                "title": "Mark Ruffalo at an event for Spotlight (2015)",
+                "image": "https://imdb-api.com/images/original/MV5BMTQ4MDQyNDc3Ml5BMl5BanBnXkFtZTgwMjQyNzEyNzE@._V1_Ratio1.0000_AL_.jpg"
+            },
+            {
+                "title": "Michael Keaton, Jason Cassidy, Brian d'Arcy James, Tom McCarthy, Tom Ortenberg, and Mark Ruffalo at an event for Spotlight (2015)",
+                "image": "https://imdb-api.com/images/original/MV5BMTQ3MTU1ODE2OV5BMl5BanBnXkFtZTgwMDQyNzEyNzE@._V1_Ratio1.5000_AL_.jpg"
+            },
+            {
+                "title": "Brian d'Arcy James, Tom McCarthy, and Josh Gad at an event for Spotlight (2015)",
+                "image": "https://imdb-api.com/images/original/MV5BMjI1NjYzMjYwMF5BMl5BanBnXkFtZTgwODMyNzEyNzE@._V1_Ratio1.5000_AL_.jpg"
+            },
+            {
+                "title": "Mark Ruffalo at an event for Spotlight (2015)",
+                "image": "https://imdb-api.com/images/original/MV5BMTYxMjA1MDA4Ml5BMl5BanBnXkFtZTgwOTMyNzEyNzE@._V1_Ratio1.0000_AL_.jpg"
+            },
+            {
+                "title": "Steve Golin at an event for Spotlight (2015)",
+                "image": "https://imdb-api.com/images/original/MV5BMTQ2NjYwMjU2NV5BMl5BanBnXkFtZTgwNjMyNzEyNzE@._V1_Ratio1.0000_AL_.jpg"
+            },
+            {
+                "title": "Mark Ruffalo and Michael Rezendes at an event for Spotlight (2015)",
+                "image": "https://imdb-api.com/images/original/MV5BMTQ1MDQyODE3Nl5BMl5BanBnXkFtZTgwNzMyNzEyNzE@._V1_Ratio1.5000_AL_.jpg"
+            },
+            {
+                "title": "Billy Crudup at an event for Spotlight (2015)",
+                "image": "https://imdb-api.com/images/original/MV5BMTY2ODI3NzI2NV5BMl5BanBnXkFtZTgwNTMyNzEyNzE@._V1_Ratio1.5000_AL_.jpg"
+            },
+            {
+                "title": "Blye Pagon Faust and Nicole Rocklin at an event for Spotlight (2015)",
+                "image": "https://imdb-api.com/images/original/MV5BMTY2MzA2NDU0NV5BMl5BanBnXkFtZTgwMjMyNzEyNzE@._V1_Ratio1.0000_AL_.jpg"
+            },
+            {
+                "title": "Cory Hardrict and Tia Mowry-Hardrict at an event for Spotlight (2015)",
+                "image": "https://imdb-api.com/images/original/MV5BMTg2ODk3NDg0Nl5BMl5BanBnXkFtZTgwMzMyNzEyNzE@._V1_Ratio1.0000_AL_.jpg"
+            },
+            {
+                "title": "Billy Crudup at an event for Spotlight (2015)",
+                "image": "https://imdb-api.com/images/original/MV5BMTU0MDk0NTYzOF5BMl5BanBnXkFtZTgwNDMyNzEyNzE@._V1_Ratio1.0000_AL_.jpg"
+            },
+            {
+                "title": "Tom McCarthy and Wendy Merry at an event for Spotlight (2015)",
+                "image": "https://imdb-api.com/images/original/MV5BMzI3MTIxNDcyOF5BMl5BanBnXkFtZTgwMTMyNzEyNzE@._V1_Ratio1.0000_AL_.jpg"
+            },
+            {
+                "title": "Michael Keaton, Billy Crudup, and Mark Ruffalo at an event for Spotlight (2015)",
+                "image": "https://imdb-api.com/images/original/MV5BMjAyNDM2MTM0OF5BMl5BanBnXkFtZTgwOTIyNzEyNzE@._V1_Ratio1.5000_AL_.jpg"
+            },
+            {
+                "title": "Michael Keaton and Tom McCarthy at an event for Spotlight (2015)",
+                "image": "https://imdb-api.com/images/original/MV5BMTEwMTQ2MzIzNDheQTJeQWpwZ15BbWU4MDAzMjcxMjcx._V1_Ratio1.0000_AL_.jpg"
+            },
+            {
+                "title": "Michael Keaton and Josh Gad at an event for Spotlight (2015)",
+                "image": "https://imdb-api.com/images/original/MV5BMjM2NTMwOTc3MF5BMl5BanBnXkFtZTgwODIyNzEyNzE@._V1_Ratio1.5000_AL_.jpg"
+            },
+            {
+                "title": "Michael Keaton at an event for Spotlight (2015)",
+                "image": "https://imdb-api.com/images/original/MV5BMjM5MzE4NTkzM15BMl5BanBnXkFtZTgwNjIyNzEyNzE@._V1_Ratio1.0000_AL_.jpg"
+            },
+            {
+                "title": "Josh Singer at an event for Spotlight (2015)",
+                "image": "https://imdb-api.com/images/original/MV5BMjM3MjI3NTgxN15BMl5BanBnXkFtZTgwNzIyNzEyNzE@._V1_Ratio1.0000_AL_.jpg"
+            },
+            {
+                "title": "Billy Crudup and Mark Ruffalo at an event for Spotlight (2015)",
+                "image": "https://imdb-api.com/images/original/MV5BMTQ2NDUxNDAwMl5BMl5BanBnXkFtZTgwMTIyNzEyNzE@._V1_Ratio1.5000_AL_.jpg"
+            },
+            {
+                "title": "Michael Keaton and Mark Ruffalo at an event for Spotlight (2015)",
+                "image": "https://imdb-api.com/images/original/MV5BNjcwMjY2MTIzMl5BMl5BanBnXkFtZTgwNTIyNzEyNzE@._V1_Ratio1.0000_AL_.jpg"
+            },
+            {
+                "title": "Michael Keaton and Mark Ruffalo at an event for Spotlight (2015)",
+                "image": "https://imdb-api.com/images/original/MV5BOTMwODU5MTMyMV5BMl5BanBnXkFtZTgwNzEyNzEyNzE@._V1_Ratio1.0000_AL_.jpg"
+            },
+            {
+                "title": "Michael Keaton and Brian d'Arcy James at an event for Spotlight (2015)",
+                "image": "https://imdb-api.com/images/original/MV5BMTUyMTUwMjI0N15BMl5BanBnXkFtZTgwMDEyNzEyNzE@._V1_Ratio1.5000_AL_.jpg"
+            },
+            {
+                "title": "Kerris Dorsey at an event for Spotlight (2015)",
+                "image": "https://imdb-api.com/images/original/MV5BMTQ3NzA2NTkwOF5BMl5BanBnXkFtZTgwMTEyNzEyNzE@._V1_Ratio1.0000_AL_.jpg"
+            },
+            {
+                "title": "Michael Keaton, Jason Cassidy, Tom McCarthy, Tom Ortenberg, and Mark Ruffalo at an event for Spotlight (2015)",
+                "image": "https://imdb-api.com/images/original/MV5BMTQ5MDM0ODk5M15BMl5BanBnXkFtZTgwOTAyNzEyNzE@._V1_Ratio1.5000_AL_.jpg"
+            },
+            {
+                "title": "Billy Crudup at an event for Spotlight (2015)",
+                "image": "https://imdb-api.com/images/original/MV5BMjQzMDY2MTc4NF5BMl5BanBnXkFtZTgwODAyNzEyNzE@._V1_Ratio1.0000_AL_.jpg"
+            },
+            {
+                "title": "Billy Crudup and Mark Ruffalo at an event for Spotlight (2015)",
+                "image": "https://imdb-api.com/images/original/MV5BMTQ3MDI0OTc1MF5BMl5BanBnXkFtZTgwNTAyNzEyNzE@._V1_Ratio1.5000_AL_.jpg"
+            },
+            {
+                "title": "Steve Golin, Mark Ruffalo, Michael Sugar, Blye Pagon Faust, and Nicole Rocklin at an event for Spotlight (2015)",
+                "image": "https://imdb-api.com/images/original/MV5BMTYyNDIyMjAyOF5BMl5BanBnXkFtZTgwNjAyNzEyNzE@._V1_Ratio1.5000_AL_.jpg"
+            },
+            {
+                "title": "Tom McCarthy, Walter Robinson, Josh Singer, and Michael Rezendes at an event for Spotlight (2015)",
+                "image": "https://imdb-api.com/images/original/MV5BNjEyNTk3MzQxNF5BMl5BanBnXkFtZTgwNDAyNzEyNzE@._V1_Ratio1.5000_AL_.jpg"
+            },
+            {
+                "title": "Kerris Dorsey at an event for Spotlight (2015)",
+                "image": "https://imdb-api.com/images/original/MV5BMTQ2NjkxOTQyMl5BMl5BanBnXkFtZTgwMzAyNzEyNzE@._V1_Ratio1.0000_AL_.jpg"
+            },
+            {
+                "title": "Billy Crudup at an event for Spotlight (2015)",
+                "image": "https://imdb-api.com/images/original/MV5BMTcyODY2MDUwOV5BMl5BanBnXkFtZTgwMTAyNzEyNzE@._V1_Ratio1.5000_AL_.jpg"
+            },
+            {
+                "title": "Michael Keaton, Billy Crudup, and Mark Ruffalo at an event for Spotlight (2015)",
+                "image": "https://imdb-api.com/images/original/MV5BMTQ3NjAxMzk5N15BMl5BanBnXkFtZTgwMjAyNzEyNzE@._V1_Ratio1.5000_AL_.jpg"
+            },
+            {
+                "title": "Mark Ruffalo and Michael Rezendes at an event for Spotlight (2015)",
+                "image": "https://imdb-api.com/images/original/MV5BMTcyNTUwNzAyOF5BMl5BanBnXkFtZTgwMDAyNzEyNzE@._V1_Ratio1.5000_AL_.jpg"
+            },
+            {
+                "title": "Brian d'Arcy James at an event for Spotlight (2015)",
+                "image": "https://imdb-api.com/images/original/MV5BMTAzNzQ2MjgwMjleQTJeQWpwZ15BbWU4MDg5MTcxMjcx._V1_Ratio1.0000_AL_.jpg"
+            },
+            {
+                "title": "Spotlight (2015)",
+                "image": "https://imdb-api.com/images/original/MV5BMTA5NDcxMjcxMjleQTJeQWpwZ15BbWU4MDk5MTcxMjcx._V1_Ratio1.0000_AL_.jpg"
+            },
+            {
+                "title": "Michael Keaton, Tom McCarthy, and Mark Ruffalo at an event for Spotlight (2015)",
+                "image": "https://imdb-api.com/images/original/MV5BOTk4MDgwMDA5OV5BMl5BanBnXkFtZTgwNjkxNzEyNzE@._V1_Ratio1.5000_AL_.jpg"
+            },
+            {
+                "title": "Tom McCarthy and Wendy Merry at an event for Spotlight (2015)",
+                "image": "https://imdb-api.com/images/original/MV5BMTk3NDEzODE0MF5BMl5BanBnXkFtZTgwNzkxNzEyNzE@._V1_Ratio1.0000_AL_.jpg"
+            },
+            {
+                "title": "Michael Keaton at an event for Spotlight (2015)",
+                "image": "https://imdb-api.com/images/original/MV5BNzEzMjU1NjEwOV5BMl5BanBnXkFtZTgwNDkxNzEyNzE@._V1_Ratio1.0000_AL_.jpg"
+            }
+        ],
+        "errorMessage": ""
+    },
+    "trailer": {
+        "imDbId": "tt1895587",
+        "title": "Spotlight",
+        "fullTitle": "Spotlight (2015)",
+        "type": "Movie",
+        "year": "2015",
+        "videoId": "vi4025725465",
+        "videoTitle": "'Spotlight' Trailer",
+        "videoDescription": "Here's the true story of how the Boston Globe uncovered the massive scandal of child molestation and the subsequent cover-up within the local Catholic Archdiocese, shaking the entire Catholic Church to its core.",
+        "thumbnailUrl": "https://m.media-amazon.com/images/M/MV5BMTc2ODAxMzQzOV5BMl5BanBnXkFtZTgwNjA4NjkyNzE@._V1_.jpg",
+        "uploadDate": "11/19/2015 07:27:33",
+        "link": "https://www.imdb.com/video/vi4025725465",
+        "linkEmbed": "https://www.imdb.com/video/imdb/vi4025725465/imdb/embed",
+        "errorMessage": ""
+    },
+    "boxOffice": {
+        "budget": "$20,000,000 (estimated)",
+        "openingWeekendUSA": "$295,009, 8 November 2015",
+        "grossUSA": "$45,055,776",
+        "cumulativeWorldwideGross": "$98,690,254"
+    },
+    "tagline": "The true story behind the scandal that shook the world.",
+    "keywords": "investigation,child molestation,sexual abuse,catholic church,cover up",
+    "keywordList": [
+        "investigation",
+        "child molestation",
+        "sexual abuse",
+        "catholic church",
+        "cover up"
+    ],
+    "similars": [
+        {
+            "id": "tt2024544",
+            "title": "12 Years a Slave",
+            "fullTitle": "12 Years a Slave (2013)",
+            "year": "2013",
+            "image": "https://imdb-api.com/images/original/MV5BMjExMTEzODkyN15BMl5BanBnXkFtZTcwNTU4NTc4OQ@@._V1_Ratio0.6737_AL_.jpg",
+            "plot": "In the antebellum United States, Solomon Northup, a free black man from upstate New York, is abducted and sold into slavery.",
+            "directors": "Steve McQueen",
+            "stars": "Chiwetel Ejiofor, Michael Kenneth Williams, Michael Fassbender",
+            "genres": "Biography, Drama, History",
+            "imDbRating": "8.1"
+        },
+        {
+            "id": "tt5027774",
+            "title": "Three Billboards Outside Ebbing, Missouri",
+            "fullTitle": "Three Billboards Outside Ebbing, Missouri (2017)",
+            "year": "2017",
+            "image": "https://imdb-api.com/images/original/MV5BMjI0ODcxNzM1N15BMl5BanBnXkFtZTgwMzIwMTEwNDI@._V1_Ratio0.6737_AL_.jpg",
+            "plot": "A mother personally challenges the local authorities to solve her daughter's murder when they fail to catch the culprit.",
+            "directors": "Martin McDonagh",
+            "stars": "Frances McDormand, Woody Harrelson, Sam Rockwell",
+            "genres": "Comedy, Crime, Drama",
+            "imDbRating": "8.1"
+        },
+        {
+            "id": "tt2562232",
+            "title": "Birdman or (The Unexpected Virtue of Ignorance)",
+            "fullTitle": "Birdman or (The Unexpected Virtue of Ignorance) (2014)",
+            "year": "2014",
+            "image": "https://imdb-api.com/images/original/MV5BODAzNDMxMzAxOV5BMl5BanBnXkFtZTgwMDMxMjA4MjE@._V1_Ratio0.6737_AL_.jpg",
+            "plot": "A washed-up superhero actor attempts to revive his fading career by writing, directing, and starring in a Broadway production.",
+            "directors": "Alejandro G. Iñárritu",
+            "stars": "Michael Keaton, Zach Galifianakis, Edward Norton",
+            "genres": "Comedy, Drama",
+            "imDbRating": "7.7"
+        },
+        {
+            "id": "tt1504320",
+            "title": "The King's Speech",
+            "fullTitle": "The King's Speech (2010)",
+            "year": "2010",
+            "image": "https://imdb-api.com/images/original/MV5BMzU5MjEwMTg2Nl5BMl5BanBnXkFtZTcwNzM3MTYxNA@@._V1_Ratio0.6842_AL_.jpg",
+            "plot": "The story of King George VI, his impromptu ascension to the throne of the British Empire in 1936, and the speech therapist who helped the unsure monarch overcome his stammer.",
+            "directors": "Tom Hooper",
+            "stars": "Colin Firth, Geoffrey Rush, Helena Bonham Carter",
+            "genres": "Biography, Drama, History",
+            "imDbRating": "8"
+        },
+        {
+            "id": "tt3170832",
+            "title": "Room",
+            "fullTitle": "",
+            "year": "",
+            "image": "https://imdb-api.com/images/original/MV5BMjE4NzgzNzEwMl5BMl5BanBnXkFtZTgwMTMzMDE0NjE@._V1_Ratio0.6737_AL_.jpg",
+            "plot": "Held captive for 7 years in an enclosed space, a woman and her young son finally gain their freedom, allowing the boy to experience the outside world for the first time.",
+            "directors": "Lenny Abrahamson",
+            "stars": "Brie Larson, Jacob Tremblay, Sean Bridgers",
+            "genres": "Drama, Thriller",
+            "imDbRating": "8.1"
+        },
+        {
+            "id": "tt6966692",
+            "title": "Green Book",
+            "fullTitle": "Green Book (2018)",
+            "year": "2018",
+            "image": "https://imdb-api.com/images/original/MV5BYzIzYmJlYTYtNGNiYy00N2EwLTk4ZjItMGYyZTJiOTVkM2RlXkEyXkFqcGdeQXVyODY1NDk1NjE@._V1_Ratio0.6737_AL_.jpg",
+            "plot": "A working-class Italian-American bouncer becomes the driver of an African-American classical pianist on a tour of venues through the 1960s American South.",
+            "directors": "Peter Farrelly",
+            "stars": "Viggo Mortensen, Mahershala Ali, Linda Cardellini",
+            "genres": "Biography, Comedy, Drama",
+            "imDbRating": "8.2"
+        },
+        {
+            "id": "tt0405159",
+            "title": "Million Dollar Baby",
+            "fullTitle": "Million Dollar Baby (2004)",
+            "year": "2004",
+            "image": "https://imdb-api.com/images/original/MV5BMTkxNzA1NDQxOV5BMl5BanBnXkFtZTcwNTkyMTIzMw@@._V1_Ratio0.6737_AL_.jpg",
+            "plot": "A determined woman works with a hardened boxing trainer to become a professional.",
+            "directors": "Clint Eastwood",
+            "stars": "Hilary Swank, Clint Eastwood, Morgan Freeman",
+            "genres": "Drama, Sport",
+            "imDbRating": "8.1"
+        },
+        {
+            "id": "tt4975722",
+            "title": "Moonlight",
+            "fullTitle": "",
+            "year": "",
+            "image": "https://imdb-api.com/images/original/MV5BNzQxNTIyODAxMV5BMl5BanBnXkFtZTgwNzQyMDA3OTE@._V1_Ratio0.6737_AL_.jpg",
+            "plot": "A young African-American man grapples with his identity and sexuality while experiencing the everyday struggles of childhood, adolescence, and burgeoning adulthood.",
+            "directors": "Barry Jenkins",
+            "stars": "Mahershala Ali, Naomie Harris, Trevante Rhodes",
+            "genres": "Drama",
+            "imDbRating": "7.4"
+        },
+        {
+            "id": "tt2267998",
+            "title": "Gone Girl",
+            "fullTitle": "Gone Girl (2014)",
+            "year": "2014",
+            "image": "https://imdb-api.com/images/original/MV5BMTk0MDQ3MzAzOV5BMl5BanBnXkFtZTgwNzU1NzE3MjE@._V1_Ratio0.6737_AL_.jpg",
+            "plot": "With his wife's disappearance having become the focus of an intense media circus, a man sees the spotlight turned on him when it's suspected that he may not be innocent.",
+            "directors": "David Fincher",
+            "stars": "Ben Affleck, Rosamund Pike, Neil Patrick Harris",
+            "genres": "Drama, Mystery, Thriller",
+            "imDbRating": "8.1"
+        },
+        {
+            "id": "tt1024648",
+            "title": "Argo",
+            "fullTitle": "Argo (2012)",
+            "year": "2012",
+            "image": "https://imdb-api.com/images/original/MV5BNzljNjY3MDYtYzc0Ni00YjU0LWIyNDUtNTE0ZDRiMGExMjZlXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_Ratio0.6737_AL_.jpg",
+            "plot": "Acting under the cover of a Hollywood producer scouting a location for a science fiction film, a CIA agent launches a dangerous operation to rescue six Americans in Tehran during the U.S. hostage crisis in Iran in 1979.",
+            "directors": "Ben Affleck",
+            "stars": "Ben Affleck, Bryan Cranston, John Goodman",
+            "genres": "Biography, Drama, Thriller",
+            "imDbRating": "7.7"
+        },
+        {
+            "id": "tt5580390",
+            "title": "The Shape of Water",
+            "fullTitle": "The Shape of Water (2017)",
+            "year": "2017",
+            "image": "https://imdb-api.com/images/original/MV5BNGNiNWQ5M2MtNGI0OC00MDA2LWI5NzEtMmZiYjVjMDEyOWYzXkEyXkFqcGdeQXVyMjM4NTM5NDY@._V1_Ratio0.6737_AL_.jpg",
+            "plot": "At a top secret research facility in the 1960s, a lonely janitor forms a unique relationship with an amphibious creature that is being held in captivity.",
+            "directors": "Guillermo del Toro",
+            "stars": "Sally Hawkins, Octavia Spencer, Michael Shannon",
+            "genres": "Adventure, Drama, Fantasy",
+            "imDbRating": "7.3"
+        },
+        {
+            "id": "tt0268978",
+            "title": "A Beautiful Mind",
+            "fullTitle": "A Beautiful Mind (2001)",
+            "year": "2001",
+            "image": "https://imdb-api.com/images/original/MV5BMzcwYWFkYzktZjAzNC00OGY1LWI4YTgtNzc5MzVjMDVmNjY0XkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_Ratio0.6737_AL_.jpg",
+            "plot": "After John Nash, a brilliant but asocial mathematician, accepts secret work in cryptography, his life takes a turn for the nightmarish.",
+            "directors": "Ron Howard",
+            "stars": "Russell Crowe, Ed Harris, Jennifer Connelly",
+            "genres": "Biography, Drama",
+            "imDbRating": "8.2"
+        }
+    ],
+    "tvSeriesInfo": null,
+    "tvEpisodeInfo": null,
+    "errorMessage": ""
+}

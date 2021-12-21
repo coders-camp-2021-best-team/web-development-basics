@@ -1,0 +1,941 @@
+{
+    "id": "tt0066921",
+    "title": "A Clockwork Orange",
+    "originalTitle": "",
+    "fullTitle": "A Clockwork Orange (1971)",
+    "type": "Movie",
+    "year": "1971",
+    "image": "https://imdb-api.com/images/original/MV5BMTY3MjM1Mzc4N15BMl5BanBnXkFtZTgwODM0NzAxMDE@._V1_Ratio0.6791_AL_.jpg",
+    "releaseDate": "1972-01-13",
+    "runtimeMins": "136",
+    "runtimeStr": "2h 16mins",
+    "plot": "Protagonist Alex DeLarge is an \"ultraviolent\" youth in futuristic Britain. As with all luck, his eventually runs out and he's arrested and convicted of murder. While in prison, Alex learns of an experimental program in which convicts are programmed to detest violence. If he goes through the program, his sentence will be reduced and he will be back on the streets sooner than expected. But Alex's ordeals are far from over once he hits the streets of Britain..",
+    "plotLocal": "",
+    "plotLocalIsRtl": false,
+    "awards": "Top Rated Movies #107 | Nominated for 4 Oscars. Another 12 wins & 20 nominations.",
+    "directors": "Stanley Kubrick",
+    "directorList": [{ "id": "nm0000040", "name": "Stanley Kubrick" }],
+    "writers": "Stanley Kubrick, Anthony Burgess",
+    "writerList": [
+        { "id": "nm0000040", "name": "Stanley Kubrick" },
+        { "id": "nm0121256", "name": "Anthony Burgess" }
+    ],
+    "stars": "Malcolm McDowell, Patrick Magee, Michael Bates, Warren Clarke",
+    "starList": [
+        { "id": "nm0000532", "name": "Malcolm McDowell" },
+        { "id": "nm0535861", "name": "Patrick Magee" },
+        { "id": "nm0060988", "name": "Michael Bates" },
+        { "id": "nm0165049", "name": "Warren Clarke" }
+    ],
+    "actorList": [
+        {
+            "id": "nm0000532",
+            "image": "https://imdb-api.com/images/original/MV5BMTcxMjQxNzczM15BMl5BanBnXkFtZTcwMTg3MTMwNw@@._V1_Ratio0.7273_AL_.jpg",
+            "name": "Malcolm McDowell",
+            "asCharacter": "Alex"
+        },
+        {
+            "id": "nm0535861",
+            "image": "https://imdb-api.com/images/original/MV5BMTRhMzg2N2UtN2E5ZC00MDI2LTljNDMtZTFlNWJiZGQyOWNiXkEyXkFqcGdeQXVyMzAwOTU1MTk@._V1_Ratio0.8182_AL_.jpg",
+            "name": "Patrick Magee",
+            "asCharacter": "Mr Alexander"
+        },
+        {
+            "id": "nm0060988",
+            "image": "https://imdb-api.com/images/original/MV5BMTM5NDk3MDIxNF5BMl5BanBnXkFtZTcwNjc1Mzk5Nw@@._V1_Ratio0.7273_AL_.jpg",
+            "name": "Michael Bates",
+            "asCharacter": "Chief Guard"
+        },
+        {
+            "id": "nm0165049",
+            "image": "https://imdb-api.com/images/original/MV5BMTM1Mjc1MDAxM15BMl5BanBnXkFtZTcwMzYzMDgwOA@@._V1_Ratio0.7273_AL_.jpg",
+            "name": "Warren Clarke",
+            "asCharacter": "Dim"
+        },
+        {
+            "id": "nm0166979",
+            "image": "https://imdb-api.com/images/original/MV5BZGRmZmQxMjUtYmZlMS00MjllLTk5Y2ItMzZjMTU1OGY2OWEyXkEyXkFqcGdeQXVyMzI2MDEwNA@@._V1_Ratio0.7273_AL_.jpg",
+            "name": "John Clive",
+            "asCharacter": "Stage Actor"
+        },
+        {
+            "id": "nm0180920",
+            "image": "https://imdb-api.com/images/original/MV5BMTk5MDc0MjkxNl5BMl5BanBnXkFtZTcwMTg3MDgwOA@@._V1_Ratio0.7727_AL_.jpg",
+            "name": "Adrienne Corri",
+            "asCharacter": "Mrs. Alexander"
+        },
+        {
+            "id": "nm0240268",
+            "image": "https://imdb-api.com/images/original/MV5BOWI0ZTY5OWItZDE2OS00NzZkLWEwZjQtOTc3YmM0OThlZWI4XkEyXkFqcGdeQXVyNjUxMjc1OTM@._V1_Ratio1.3636_AL_.jpg",
+            "name": "Carl Duering",
+            "asCharacter": "Dr. Brodsky"
+        },
+        {
+            "id": "nm0268306",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Paul Farrell",
+            "asCharacter": "Tramp"
+        },
+        {
+            "id": "nm0290117",
+            "image": "https://imdb-api.com/images/original/MV5BMTQ0NDU2OTg4NF5BMl5BanBnXkFtZTgwNzM5ODEyMjE@._V1_Ratio1.3182_AL_.jpg",
+            "name": "Clive Francis",
+            "asCharacter": "Lodger"
+        },
+        {
+            "id": "nm0332842",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Michael Gover",
+            "asCharacter": "Prison Governor"
+        },
+        {
+            "id": "nm0439507",
+            "image": "https://imdb-api.com/images/original/MV5BYmE0NTZhNDYtY2YzMS00ZmUyLWFhMjUtNjZhYTk3YzdjM2E1XkEyXkFqcGdeQXVyNjg3MDMxNzU@._V1_Ratio0.7727_AL_.jpg",
+            "name": "Miriam Karlin",
+            "asCharacter": "Catlady"
+        },
+        {
+            "id": "nm0546118",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "James Marcus",
+            "asCharacter": "Georgie"
+        },
+        {
+            "id": "nm0606368",
+            "image": "https://imdb-api.com/images/original/MV5BMTYxNzQ4MjkxOF5BMl5BanBnXkFtZTYwMzk2NTky._V1_Ratio0.8182_AL_.jpg",
+            "name": "Aubrey Morris",
+            "asCharacter": "Deltoid"
+        },
+        {
+            "id": "nm0703501",
+            "image": "https://imdb-api.com/images/original/MV5BOWQ1ZDE1NjEtMjc3Ni00NDIxLTk1MWYtZTVjNzdlMzBhNmQ5XkEyXkFqcGdeQXVyMTQxMjk0Mg@@._V1_Ratio1.1818_AL_.jpg",
+            "name": "Godfrey Quigley",
+            "asCharacter": "Prison Chaplain"
+        },
+        {
+            "id": "nm0713520",
+            "image": "https://imdb-api.com/images/original/MV5BZDBkYjA1NGYtOWFhNy00ZGQ2LTkyMzAtNGM0Njc3MzZiNDc5XkEyXkFqcGdeQXVyMTQxMjk0Mg@@._V1_Ratio1.2273_AL_.jpg",
+            "name": "Sheila Raynor",
+            "asCharacter": "Mum"
+        }
+    ],
+    "fullCast": null,
+    "genres": "Crime, Drama, Sci-Fi",
+    "genreList": [
+        { "key": "Crime", "value": "Crime" },
+        { "key": "Drama", "value": "Drama" },
+        { "key": "Sci-Fi", "value": "Sci-Fi" }
+    ],
+    "companies": "Warner Bros., Polaris Productions, Hawk Films",
+    "companyList": [
+        { "id": "co0002663", "name": "Warner Bros." },
+        { "id": "co0734629", "name": "Polaris Productions" },
+        { "id": "co0113563", "name": "Hawk Films" }
+    ],
+    "countries": "UK, USA",
+    "countryList": [
+        { "key": "UK", "value": "UK" },
+        { "key": "USA", "value": "USA" }
+    ],
+    "languages": "English",
+    "languageList": [{ "key": "English", "value": "English" }],
+    "contentRating": "R",
+    "imDbRating": "8.3",
+    "imDbRatingVotes": "766683",
+    "metacriticRating": "77",
+    "ratings": null,
+    "wikipedia": null,
+    "posters": {
+        "imDbId": "tt0066921",
+        "title": "A Clockwork Orange",
+        "fullTitle": "A Clockwork Orange (1971)",
+        "type": "Movie",
+        "year": "1971",
+        "posters": [
+            {
+                "id": "4sHeTAp65WrSSuc05nRBKddhBxO.jpg",
+                "link": "https://imdb-api.com/posters/original/4sHeTAp65WrSSuc05nRBKddhBxO.jpg",
+                "aspectRatio": 0.6666666666666666,
+                "language": "en",
+                "width": 1000,
+                "height": 1500
+            },
+            {
+                "id": "sk6jCkPtwtEBT0ezwsdmbhTFnDW.jpg",
+                "link": "https://imdb-api.com/posters/original/sk6jCkPtwtEBT0ezwsdmbhTFnDW.jpg",
+                "aspectRatio": 0.6732117812061711,
+                "language": "en",
+                "width": 960,
+                "height": 1426
+            },
+            {
+                "id": "zg4z8o0czxYSGDrWS9yO4gwxrWU.jpg",
+                "link": "https://imdb-api.com/posters/original/zg4z8o0czxYSGDrWS9yO4gwxrWU.jpg",
+                "aspectRatio": 0.6666666666666666,
+                "language": "en",
+                "width": 1000,
+                "height": 1500
+            },
+            {
+                "id": "nZXpgnKQB6lqUtmRaZDhoqKnP7z.jpg",
+                "link": "https://imdb-api.com/posters/original/nZXpgnKQB6lqUtmRaZDhoqKnP7z.jpg",
+                "aspectRatio": 0.6666666666666666,
+                "language": "en",
+                "width": 800,
+                "height": 1200
+            },
+            {
+                "id": "70HMJYZ80m9ZX1MsNXj22GVwuv2.jpg",
+                "link": "https://imdb-api.com/posters/original/70HMJYZ80m9ZX1MsNXj22GVwuv2.jpg",
+                "aspectRatio": 0.6664249456127629,
+                "language": "en",
+                "width": 919,
+                "height": 1379
+            },
+            {
+                "id": "3buRvP4UhISRkna1YbAVC3Gzn6b.jpg",
+                "link": "https://imdb-api.com/posters/original/3buRvP4UhISRkna1YbAVC3Gzn6b.jpg",
+                "aspectRatio": 0.6664804469273743,
+                "language": "en",
+                "width": 1193,
+                "height": 1790
+            },
+            {
+                "id": "9RDbnKw2uErWAP2AFUPz35FhYUz.jpg",
+                "link": "https://imdb-api.com/posters/original/9RDbnKw2uErWAP2AFUPz35FhYUz.jpg",
+                "aspectRatio": 0.6665495432185523,
+                "language": "en",
+                "width": 1897,
+                "height": 2846
+            },
+            {
+                "id": "9RqijfEg97nUsM917ruhbYljSGT.jpg",
+                "link": "https://imdb-api.com/posters/original/9RqijfEg97nUsM917ruhbYljSGT.jpg",
+                "aspectRatio": 0.6666666666666666,
+                "language": "en",
+                "width": 600,
+                "height": 900
+            },
+            {
+                "id": "wrKFsDdUfD8Ua3IIbnrSXh9dZEk.jpg",
+                "link": "https://imdb-api.com/posters/original/wrKFsDdUfD8Ua3IIbnrSXh9dZEk.jpg",
+                "aspectRatio": 0.6666666666666666,
+                "language": "en",
+                "width": 500,
+                "height": 750
+            },
+            {
+                "id": "vv6eXPMSNcUcKMYKAC6DDuBrh5U.jpg",
+                "link": "https://imdb-api.com/posters/original/vv6eXPMSNcUcKMYKAC6DDuBrh5U.jpg",
+                "aspectRatio": 0.6666666666666666,
+                "language": "en",
+                "width": 500,
+                "height": 750
+            },
+            {
+                "id": "2vzlj2XvxxpxYPzkwEnDU1GztKA.jpg",
+                "link": "https://imdb-api.com/posters/original/2vzlj2XvxxpxYPzkwEnDU1GztKA.jpg",
+                "aspectRatio": 0.6670967741935484,
+                "language": "en",
+                "width": 517,
+                "height": 775
+            },
+            {
+                "id": "dzEv5tFY3W8ZlZLpMylnIKHRmGO.jpg",
+                "link": "https://imdb-api.com/posters/original/dzEv5tFY3W8ZlZLpMylnIKHRmGO.jpg",
+                "aspectRatio": 0.6818181818181818,
+                "language": "en",
+                "width": 1500,
+                "height": 2200
+            },
+            {
+                "id": "ccQhrKvLZjC0tyadwMXou371BaL.jpg",
+                "link": "https://imdb-api.com/posters/original/ccQhrKvLZjC0tyadwMXou371BaL.jpg",
+                "aspectRatio": 0.6666666666666666,
+                "language": "en",
+                "width": 800,
+                "height": 1200
+            },
+            {
+                "id": "qA7ehTVZ7H5066BCXvxDbqmZMk4.jpg",
+                "link": "https://imdb-api.com/posters/original/qA7ehTVZ7H5066BCXvxDbqmZMk4.jpg",
+                "aspectRatio": 0.6607287449392713,
+                "language": "en",
+                "width": 1632,
+                "height": 2470
+            },
+            {
+                "id": "h4lFaI1nr7GW99uFNTlgENj51ib.jpg",
+                "link": "https://imdb-api.com/posters/original/h4lFaI1nr7GW99uFNTlgENj51ib.jpg",
+                "aspectRatio": 0.6653333333333333,
+                "language": "en",
+                "width": 1996,
+                "height": 3000
+            },
+            {
+                "id": "nUHf13utZqLDOKy05c3ZHNoaqSD.jpg",
+                "link": "https://imdb-api.com/posters/original/nUHf13utZqLDOKy05c3ZHNoaqSD.jpg",
+                "aspectRatio": 0.6666666666666666,
+                "language": "en",
+                "width": 800,
+                "height": 1200
+            },
+            {
+                "id": "2pcYVU8Y9Xm2uHvyDYRSTFks5EO.jpg",
+                "link": "https://imdb-api.com/posters/original/2pcYVU8Y9Xm2uHvyDYRSTFks5EO.jpg",
+                "aspectRatio": 0.6666666666666666,
+                "language": "en",
+                "width": 2000,
+                "height": 3000
+            },
+            {
+                "id": "iLAgDS1KwPbDIs5WNGfUqN0sl3z.jpg",
+                "link": "https://imdb-api.com/posters/original/iLAgDS1KwPbDIs5WNGfUqN0sl3z.jpg",
+                "aspectRatio": 0.6666666666666666,
+                "language": "en",
+                "width": 2000,
+                "height": 3000
+            },
+            {
+                "id": "hm1RNprk6nQOcfMpbCpR3EVv5of.jpg",
+                "link": "https://imdb-api.com/posters/original/hm1RNprk6nQOcfMpbCpR3EVv5of.jpg",
+                "aspectRatio": 0.6666666666666666,
+                "language": "en",
+                "width": 1000,
+                "height": 1500
+            },
+            {
+                "id": "1ucv2KGxdTJaA1H8YjA5fTTkzVJ.jpg",
+                "link": "https://imdb-api.com/posters/original/1ucv2KGxdTJaA1H8YjA5fTTkzVJ.jpg",
+                "aspectRatio": 0.6666666666666666,
+                "language": "en",
+                "width": 1000,
+                "height": 1500
+            },
+            {
+                "id": "6tZynfVmRtzyAXjMhRRBLkDYU8f.jpg",
+                "link": "https://imdb-api.com/posters/original/6tZynfVmRtzyAXjMhRRBLkDYU8f.jpg",
+                "aspectRatio": 0.6666666666666666,
+                "language": "en",
+                "width": 1000,
+                "height": 1500
+            },
+            {
+                "id": "kIxGkhYfdjj1ebA1Qkm1Bt3uEj3.jpg",
+                "link": "https://imdb-api.com/posters/original/kIxGkhYfdjj1ebA1Qkm1Bt3uEj3.jpg",
+                "aspectRatio": 0.6666666666666666,
+                "language": "en",
+                "width": 1000,
+                "height": 1500
+            },
+            {
+                "id": "i12ZFaxbKBpizXjDGGFc9M1Ival.jpg",
+                "link": "https://imdb-api.com/posters/original/i12ZFaxbKBpizXjDGGFc9M1Ival.jpg",
+                "aspectRatio": 0.6666666666666666,
+                "language": "en",
+                "width": 1000,
+                "height": 1500
+            },
+            {
+                "id": "iA934hJtdbtpAzGuSdxqqV8wYmR.jpg",
+                "link": "https://imdb-api.com/posters/original/iA934hJtdbtpAzGuSdxqqV8wYmR.jpg",
+                "aspectRatio": 0.6666666666666666,
+                "language": "en",
+                "width": 2000,
+                "height": 3000
+            },
+            {
+                "id": "cyyUomi0PJxthb2CW3QJfztbn0D.jpg",
+                "link": "https://imdb-api.com/posters/original/cyyUomi0PJxthb2CW3QJfztbn0D.jpg",
+                "aspectRatio": 0.6666666666666666,
+                "language": "en",
+                "width": 1000,
+                "height": 1500
+            }
+        ],
+        "backdrops": [
+            {
+                "id": "3w2v0iNPPNeIKOV5wu1NU1DDHHy.jpg",
+                "link": "https://imdb-api.com/posters/original/3w2v0iNPPNeIKOV5wu1NU1DDHHy.jpg",
+                "aspectRatio": 1.7777777777777777,
+                "language": "en",
+                "width": 2560,
+                "height": 1440
+            },
+            {
+                "id": "keblhZFIZYiWflmURWNHEuS2jqL.jpg",
+                "link": "https://imdb-api.com/posters/original/keblhZFIZYiWflmURWNHEuS2jqL.jpg",
+                "aspectRatio": 1.7777777777777777,
+                "language": "en",
+                "width": 1920,
+                "height": 1080
+            },
+            {
+                "id": "a6r0DnAQdnR0758H1V4tbhHdB8Q.jpg",
+                "link": "https://imdb-api.com/posters/original/a6r0DnAQdnR0758H1V4tbhHdB8Q.jpg",
+                "aspectRatio": 1.7777777777777777,
+                "language": "en",
+                "width": 1920,
+                "height": 1080
+            },
+            {
+                "id": "hDwa3jBbrmsXC0shq5nGaKxDqRy.jpg",
+                "link": "https://imdb-api.com/posters/original/hDwa3jBbrmsXC0shq5nGaKxDqRy.jpg",
+                "aspectRatio": 1.7777777777777777,
+                "language": "en",
+                "width": 1920,
+                "height": 1080
+            },
+            {
+                "id": "bR4U9n9YnZOvBUhOUNl316UNEyh.jpg",
+                "link": "https://imdb-api.com/posters/original/bR4U9n9YnZOvBUhOUNl316UNEyh.jpg",
+                "aspectRatio": 1.7777777777777777,
+                "language": "en",
+                "width": 1920,
+                "height": 1080
+            },
+            {
+                "id": "w4YWDR3VHYPZuLnJMAJQd22eMv3.jpg",
+                "link": "https://imdb-api.com/posters/original/w4YWDR3VHYPZuLnJMAJQd22eMv3.jpg",
+                "aspectRatio": 1.7777777777777777,
+                "language": "en",
+                "width": 1920,
+                "height": 1080
+            },
+            {
+                "id": "3hwKS7e21hzEnXZaOs2FE6e97bc.jpg",
+                "link": "https://imdb-api.com/posters/original/3hwKS7e21hzEnXZaOs2FE6e97bc.jpg",
+                "aspectRatio": 1.7777777777777777,
+                "language": "en",
+                "width": 1920,
+                "height": 1080
+            },
+            {
+                "id": "yIonSXf1jdNihhK8PssxO6KCIfz.jpg",
+                "link": "https://imdb-api.com/posters/original/yIonSXf1jdNihhK8PssxO6KCIfz.jpg",
+                "aspectRatio": 1.7777777777777777,
+                "language": "en",
+                "width": 1920,
+                "height": 1080
+            },
+            {
+                "id": "6OYgy7n9Iadoq83g9jb2Wdid0dw.jpg",
+                "link": "https://imdb-api.com/posters/original/6OYgy7n9Iadoq83g9jb2Wdid0dw.jpg",
+                "aspectRatio": 1.7777777777777777,
+                "language": "en",
+                "width": 1920,
+                "height": 1080
+            },
+            {
+                "id": "8mi1VZHX970plgXZSOwEYDZISdD.jpg",
+                "link": "https://imdb-api.com/posters/original/8mi1VZHX970plgXZSOwEYDZISdD.jpg",
+                "aspectRatio": 1.7777777777777777,
+                "language": "en",
+                "width": 2000,
+                "height": 1125
+            },
+            {
+                "id": "qhlt4mZR68VG9C1Hlwlq10D8KHJ.jpg",
+                "link": "https://imdb-api.com/posters/original/qhlt4mZR68VG9C1Hlwlq10D8KHJ.jpg",
+                "aspectRatio": 1.7777777777777777,
+                "language": "en",
+                "width": 2000,
+                "height": 1125
+            },
+            {
+                "id": "PdOlrT3TyQDMDgYkyhkktqn7dP.jpg",
+                "link": "https://imdb-api.com/posters/original/PdOlrT3TyQDMDgYkyhkktqn7dP.jpg",
+                "aspectRatio": 1.7777777777777777,
+                "language": "en",
+                "width": 2000,
+                "height": 1125
+            },
+            {
+                "id": "A1GuoxReAlasXGrtNXo0qHjPtfP.jpg",
+                "link": "https://imdb-api.com/posters/original/A1GuoxReAlasXGrtNXo0qHjPtfP.jpg",
+                "aspectRatio": 1.7804444444444445,
+                "language": "en",
+                "width": 2003,
+                "height": 1125
+            },
+            {
+                "id": "ati1zridIt3buNFDV0eUhHqp97J.jpg",
+                "link": "https://imdb-api.com/posters/original/ati1zridIt3buNFDV0eUhHqp97J.jpg",
+                "aspectRatio": 1.7777777777777777,
+                "language": "en",
+                "width": 1920,
+                "height": 1080
+            },
+            {
+                "id": "qt5mWjzck5dds1HFXv2Y0v7WfX7.jpg",
+                "link": "https://imdb-api.com/posters/original/qt5mWjzck5dds1HFXv2Y0v7WfX7.jpg",
+                "aspectRatio": 1.7777777777777777,
+                "language": "en",
+                "width": 1920,
+                "height": 1080
+            },
+            {
+                "id": "x88aox17Wdxyc74MkgAiNgijHAJ.jpg",
+                "link": "https://imdb-api.com/posters/original/x88aox17Wdxyc74MkgAiNgijHAJ.jpg",
+                "aspectRatio": 1.7777777777777777,
+                "language": "en",
+                "width": 1920,
+                "height": 1080
+            },
+            {
+                "id": "xEHSB380u9hV0AXmRRO1kgPhO9C.jpg",
+                "link": "https://imdb-api.com/posters/original/xEHSB380u9hV0AXmRRO1kgPhO9C.jpg",
+                "aspectRatio": 1.7777777777777777,
+                "language": "en",
+                "width": 1920,
+                "height": 1080
+            },
+            {
+                "id": "rCzIkO93CHULAUbRyGShvActNua.jpg",
+                "link": "https://imdb-api.com/posters/original/rCzIkO93CHULAUbRyGShvActNua.jpg",
+                "aspectRatio": 1.7777777777777777,
+                "language": "en",
+                "width": 1920,
+                "height": 1080
+            },
+            {
+                "id": "rTPkSA1N8AMUiLQgq7sVjAzL2V3.jpg",
+                "link": "https://imdb-api.com/posters/original/rTPkSA1N8AMUiLQgq7sVjAzL2V3.jpg",
+                "aspectRatio": 1.7777777777777777,
+                "language": "en",
+                "width": 1776,
+                "height": 999
+            },
+            {
+                "id": "A1khwK9vTXlD4hiHD3UVN9vcEy5.jpg",
+                "link": "https://imdb-api.com/posters/original/A1khwK9vTXlD4hiHD3UVN9vcEy5.jpg",
+                "aspectRatio": 1.7777777777777777,
+                "language": "en",
+                "width": 1776,
+                "height": 999
+            },
+            {
+                "id": "x89PctlkFIwEdNegTX1ciHfAfDY.jpg",
+                "link": "https://imdb-api.com/posters/original/x89PctlkFIwEdNegTX1ciHfAfDY.jpg",
+                "aspectRatio": 1.7777777777777777,
+                "language": "en",
+                "width": 1776,
+                "height": 999
+            },
+            {
+                "id": "nLdMmbhZ6ChHQ28mrXgSyjuVAlX.jpg",
+                "link": "https://imdb-api.com/posters/original/nLdMmbhZ6ChHQ28mrXgSyjuVAlX.jpg",
+                "aspectRatio": 1.7777777777777777,
+                "language": "en",
+                "width": 1776,
+                "height": 999
+            },
+            {
+                "id": "8bIXCeIeP8tMFSk7skYwKWdv4ia.jpg",
+                "link": "https://imdb-api.com/posters/original/8bIXCeIeP8tMFSk7skYwKWdv4ia.jpg",
+                "aspectRatio": 1.7777777777777777,
+                "language": "en",
+                "width": 1776,
+                "height": 999
+            },
+            {
+                "id": "saVD6OJmNEr5YlOGIEeZd8LxViK.jpg",
+                "link": "https://imdb-api.com/posters/original/saVD6OJmNEr5YlOGIEeZd8LxViK.jpg",
+                "aspectRatio": 1.7777777777777777,
+                "language": "en",
+                "width": 1776,
+                "height": 999
+            },
+            {
+                "id": "ggNQsAZhMRCHNwEvDP0OoENCvGq.jpg",
+                "link": "https://imdb-api.com/posters/original/ggNQsAZhMRCHNwEvDP0OoENCvGq.jpg",
+                "aspectRatio": 1.7777777777777777,
+                "language": "en",
+                "width": 1920,
+                "height": 1080
+            }
+        ],
+        "errorMessage": ""
+    },
+    "images": {
+        "imDbId": "tt0066921",
+        "title": "A Clockwork Orange",
+        "fullTitle": "A Clockwork Orange (1971)",
+        "type": "Movie",
+        "year": "1971",
+        "items": [
+            {
+                "title": "Stanley Kubrick in A Clockwork Orange (1971)",
+                "image": "https://imdb-api.com/images/original/MV5BMTU4NzY4NjE0MF5BMl5BanBnXkFtZTgwMTE0NTU5MTE@._V1_Ratio1.0000_AL_.jpg"
+            },
+            {
+                "title": "Stanley Kubrick and Malcolm McDowell in A Clockwork Orange (1971)",
+                "image": "https://imdb-api.com/images/original/MV5BMTM2NjQwMjE0MF5BMl5BanBnXkFtZTcwMzA3MTY2Ng@@._V1_Ratio1.0000_AL_.jpg"
+            },
+            {
+                "title": "Malcolm McDowell, Warren Clarke, and James Marcus in A Clockwork Orange (1971)",
+                "image": "https://imdb-api.com/images/original/MV5BMTgwODY2Nzk4M15BMl5BanBnXkFtZTcwMjE3MTY2Ng@@._V1_Ratio1.5200_AL_.jpg"
+            },
+            {
+                "title": "Malcolm McDowell in A Clockwork Orange (1971)",
+                "image": "https://imdb-api.com/images/original/MV5BMTAxOTM4NDk4MDReQTJeQWpwZ15BbWU3MDYxNzE2NjY@._V1_Ratio1.6600_AL_.jpg"
+            },
+            {
+                "title": "Malcolm McDowell in A Clockwork Orange (1971)",
+                "image": "https://imdb-api.com/images/original/MV5BMjE5MTM5OTEzM15BMl5BanBnXkFtZTcwNzE3MTY2Ng@@._V1_Ratio1.7000_AL_.jpg"
+            },
+            {
+                "title": "Malcolm McDowell in A Clockwork Orange (1971)",
+                "image": "https://imdb-api.com/images/original/MV5BMTk2OTkwNDU5MV5BMl5BanBnXkFtZTcwMDEzNDMzNQ@@._V1_Ratio1.6000_AL_.jpg"
+            },
+            {
+                "title": "Malcolm McDowell, Warren Clarke, and James Marcus in A Clockwork Orange (1971)",
+                "image": "https://imdb-api.com/images/original/MV5BNzU1NTA1MTg1Ml5BMl5BanBnXkFtZTcwNDEzNDMzNQ@@._V1_Ratio1.5800_AL_.jpg"
+            },
+            {
+                "title": "Malcolm McDowell in A Clockwork Orange (1971)",
+                "image": "https://imdb-api.com/images/original/MV5BMjI2Mjk4NzA4M15BMl5BanBnXkFtZTcwOTEzNDMzNQ@@._V1_Ratio1.4600_AL_.jpg"
+            },
+            {
+                "title": "Malcolm McDowell in A Clockwork Orange (1971)",
+                "image": "https://imdb-api.com/images/original/MV5BMjI2MTU0OTkyOF5BMl5BanBnXkFtZTcwOTA4NzMyNQ@@._V1_Ratio1.3800_AL_.jpg"
+            },
+            {
+                "title": "Malcolm McDowell, Warren Clarke, Paul Farrell, James Marcus, and Michael Tarn in A Clockwork Orange (1971)",
+                "image": "https://imdb-api.com/images/original/MV5BMTYxNjQ5MDM5NF5BMl5BanBnXkFtZTcwMjE4NzMyNQ@@._V1_Ratio1.4800_AL_.jpg"
+            },
+            {
+                "title": "Malcolm McDowell in A Clockwork Orange (1971)",
+                "image": "https://imdb-api.com/images/original/MV5BMjE0NTk2NDkzNl5BMl5BanBnXkFtZTcwMzE4NzMyNQ@@._V1_Ratio1.6600_AL_.jpg"
+            },
+            {
+                "title": "Malcolm McDowell, Warren Clarke, James Marcus, and Michael Tarn in A Clockwork Orange (1971)",
+                "image": "https://imdb-api.com/images/original/MV5BMjE5MTI3MzAxM15BMl5BanBnXkFtZTcwNDE4NzMyNQ@@._V1_Ratio1.4400_AL_.jpg"
+            },
+            {
+                "title": "Malcolm McDowell, Warren Clarke, James Marcus, and Pat Roach in A Clockwork Orange (1971)",
+                "image": "https://imdb-api.com/images/original/MV5BMTkxMTk2OTg5Ml5BMl5BanBnXkFtZTcwNTE4NzMyNQ@@._V1_Ratio1.3800_AL_.jpg"
+            },
+            {
+                "title": "\"A Clockwork Orange\" Malcolm McDowell 1971 Warner",
+                "image": "https://imdb-api.com/images/original/MV5BMjAxODIxMDQwNl5BMl5BanBnXkFtZTcwNTA0MTk4Mw@@._V1_Ratio1.5800_AL_.jpg"
+            },
+            {
+                "title": "\"A Clockwork Orange\" Malcolm McDowell 1971 Warner",
+                "image": "https://imdb-api.com/images/original/MV5BMTMxODQxNjk4OV5BMl5BanBnXkFtZTcwNjA0MTk4Mw@@._V1_Ratio1.6000_AL_.jpg"
+            },
+            {
+                "title": "\"A Clockwork Orange\" Malcolm McDowell 1971 Warner",
+                "image": "https://imdb-api.com/images/original/MV5BMTM4MzQ4OTM3Ml5BMl5BanBnXkFtZTcwNzA0MTk4Mw@@._V1_Ratio1.0000_AL_.jpg"
+            },
+            {
+                "title": "\"A Clockwork Orange\" Malcolm McDowell 1971 Warner",
+                "image": "https://imdb-api.com/images/original/MV5BNjg2MzIxNjk5MV5BMl5BanBnXkFtZTcwOTA0MTk4Mw@@._V1_Ratio1.7000_AL_.jpg"
+            },
+            {
+                "title": "\"A Clockwork Orange\" Director Stanley Kubrick 1971 Warner",
+                "image": "https://imdb-api.com/images/original/MV5BMjE0MzU1Nzc5Nl5BMl5BanBnXkFtZTcwMDE0MTk4Mw@@._V1_Ratio1.0000_AL_.jpg"
+            },
+            {
+                "title": "\"A Clockwork Orange\" Malcolm McDowell 1971 Warner",
+                "image": "https://imdb-api.com/images/original/MV5BMjE5MTE4MTUxMl5BMl5BanBnXkFtZTcwMjE0MTk4Mw@@._V1_Ratio1.7200_AL_.jpg"
+            },
+            {
+                "title": "\"A Clockwork Orange\" Malcolm McDowell 1971 Warner",
+                "image": "https://imdb-api.com/images/original/MV5BMTI4Njg3MTkzMV5BMl5BanBnXkFtZTcwMzE0MTk4Mw@@._V1_Ratio1.4800_AL_.jpg"
+            },
+            {
+                "title": "\"A Clockwork Orange\" Malcolm McDowell 1971 Warner",
+                "image": "https://imdb-api.com/images/original/MV5BMTUyNzM3NTU0MV5BMl5BanBnXkFtZTcwNDE0MTk4Mw@@._V1_Ratio1.6400_AL_.jpg"
+            },
+            {
+                "title": "\"A Clockwork Orange\" Malcolm McDowell 1971 Warner",
+                "image": "https://imdb-api.com/images/original/MV5BMjI3ODYzNzk0NV5BMl5BanBnXkFtZTcwNTE0MTk4Mw@@._V1_Ratio1.5200_AL_.jpg"
+            },
+            {
+                "title": "Malcolm McDowell in A Clockwork Orange (1971)",
+                "image": "https://imdb-api.com/images/original/MV5BMTYyNTMzNTc1OV5BMl5BanBnXkFtZTcwNjY0NDAxMw@@._V1_Ratio1.5600_AL_.jpg"
+            },
+            {
+                "title": "Stanley Kubrick in A Clockwork Orange (1971)",
+                "image": "https://imdb-api.com/images/original/MV5BMTYwNTE5ODgyM15BMl5BanBnXkFtZTcwMDE4NzMyNQ@@._V1_Ratio1.0000_AL_.jpg"
+            },
+            {
+                "title": "Stanley Kubrick in A Clockwork Orange (1971)",
+                "image": "https://imdb-api.com/images/original/MV5BMTkwOTU3NTM4M15BMl5BanBnXkFtZTcwMTE4NzMyNQ@@._V1_Ratio1.5000_AL_.jpg"
+            },
+            {
+                "title": "A Clockwork Orange (1971)",
+                "image": "https://imdb-api.com/images/original/MV5BNWNmMTE2OTctNWQxZC00MDY3LTlmZDQtOTBjZTJmNDk1MTI4XkEyXkFqcGdeQXVyMTAyOTE2ODg0._V1_Ratio1.0000_AL_.jpg"
+            },
+            {
+                "title": "Malcolm McDowell in A Clockwork Orange (1971)",
+                "image": "https://imdb-api.com/images/original/MV5BYzE3NGNlNjctNThhOC00N2MwLWIxYzUtZGQwNzZkZjUxODg1XkEyXkFqcGdeQXVyODIyOTEyMzY@._V1_Ratio1.0000_AL_.jpg"
+            },
+            {
+                "title": "A Clockwork Orange (1971)",
+                "image": "https://imdb-api.com/images/original/MV5BMjEzODI0MDgzNl5BMl5BanBnXkFtZTgwNjcyNDM2MTI@._V1_Ratio1.0000_AL_.jpg"
+            },
+            {
+                "title": "Malcolm McDowell in A Clockwork Orange (1971)",
+                "image": "https://imdb-api.com/images/original/MV5BMTY3MjM1Mzc4N15BMl5BanBnXkFtZTgwODM0NzAxMDE@._V1_Ratio1.0000_AL_.jpg"
+            },
+            {
+                "title": "Malcolm McDowell in A Clockwork Orange (1971)",
+                "image": "https://imdb-api.com/images/original/MV5BMjQ0NjU5NTkyNl5BMl5BanBnXkFtZTgwNTM2NzAxMDE@._V1_Ratio1.0000_AL_.jpg"
+            },
+            {
+                "title": "Malcolm McDowell in A Clockwork Orange (1971)",
+                "image": "https://imdb-api.com/images/original/MV5BOTY1MzUxODAwN15BMl5BanBnXkFtZTgwNjM2NzAxMDE@._V1_Ratio1.0000_AL_.jpg"
+            },
+            {
+                "title": "Malcolm McDowell in A Clockwork Orange (1971)",
+                "image": "https://imdb-api.com/images/original/MV5BMTAwMTM5MzkxMjheQTJeQWpwZ15BbWU4MDczNjcwMTAx._V1_Ratio1.0000_AL_.jpg"
+            },
+            {
+                "title": "Malcolm McDowell in A Clockwork Orange (1971)",
+                "image": "https://imdb-api.com/images/original/MV5BODEzMzkzODYyN15BMl5BanBnXkFtZTgwODM2NzAxMDE@._V1_Ratio1.0000_AL_.jpg"
+            },
+            {
+                "title": "Malcolm McDowell in A Clockwork Orange (1971)",
+                "image": "https://imdb-api.com/images/original/MV5BMTc4NzY4NDkyMF5BMl5BanBnXkFtZTgwOTM2NzAxMDE@._V1_Ratio1.0000_AL_.jpg"
+            },
+            {
+                "title": "A Clockwork Orange (1971)",
+                "image": "https://imdb-api.com/images/original/MV5BMTk4MTM2NjcwMV5BMl5BanBnXkFtZTgwMDQ2NzAxMDE@._V1_Ratio1.0000_AL_.jpg"
+            },
+            {
+                "title": "Malcolm McDowell in A Clockwork Orange (1971)",
+                "image": "https://imdb-api.com/images/original/MV5BMTQzOTE5MDQ5OV5BMl5BanBnXkFtZTgwMTQ2NzAxMDE@._V1_Ratio1.4200_AL_.jpg"
+            },
+            {
+                "title": "A Clockwork Orange (1971)",
+                "image": "https://imdb-api.com/images/original/MV5BMzQxODE3MjkzMl5BMl5BanBnXkFtZTgwMjQ2NzAxMDE@._V1_Ratio1.0000_AL_.jpg"
+            },
+            {
+                "title": "Malcolm McDowell in A Clockwork Orange (1971)",
+                "image": "https://imdb-api.com/images/original/MV5BMTQ0OTEyNTUzM15BMl5BanBnXkFtZTgwMzQ2NzAxMDE@._V1_Ratio2.2600_AL_.jpg"
+            },
+            {
+                "title": "Malcolm McDowell in A Clockwork Orange (1971)",
+                "image": "https://imdb-api.com/images/original/MV5BMzgxNDkwNzgzMV5BMl5BanBnXkFtZTgwNDQ2NzAxMDE@._V1_Ratio1.0000_AL_.jpg"
+            },
+            {
+                "title": "Malcolm McDowell in A Clockwork Orange (1971)",
+                "image": "https://imdb-api.com/images/original/MV5BMTc2ODczMzkzM15BMl5BanBnXkFtZTgwNTQ2NzAxMDE@._V1_Ratio1.0000_AL_.jpg"
+            },
+            {
+                "title": "Malcolm McDowell in A Clockwork Orange (1971)",
+                "image": "https://imdb-api.com/images/original/MV5BMjE1NjcwMTYxM15BMl5BanBnXkFtZTcwMjcxNDg3OA@@._V1_Ratio1.0000_AL_.jpg"
+            },
+            {
+                "title": "A Clockwork Orange (1971)",
+                "image": "https://imdb-api.com/images/original/MV5BODYxMzgyODkzM15BMl5BanBnXkFtZTcwNjkwMzkyMQ@@._V1_Ratio1.0000_AL_.jpg"
+            },
+            {
+                "title": "Malcolm McDowell in A Clockwork Orange (1971)",
+                "image": "https://imdb-api.com/images/original/MV5BOTQ1MzY2NjA0OV5BMl5BanBnXkFtZTcwNTc3NDkyMQ@@._V1_Ratio1.0000_AL_.jpg"
+            },
+            {
+                "title": "Malcolm McDowell in A Clockwork Orange (1971)",
+                "image": "https://imdb-api.com/images/original/MV5BZjYyNWZlM2EtYjg1MS00MDUyLTg1MTItMTYzMmY1Mjk2NjJkXkEyXkFqcGdeQXVyMTE4MDg3NTIz._V1_Ratio1.7800_AL_.jpg"
+            },
+            {
+                "title": "Malcolm McDowell and Adrienne Corri in A Clockwork Orange (1971)",
+                "image": "https://imdb-api.com/images/original/MV5BOGVkZTYxOGEtYjYyNy00Mzg1LTg3N2UtYWZjYWNkMDljNGI3XkEyXkFqcGdeQXVyMTE4MDg3NTIz._V1_Ratio1.7800_AL_.jpg"
+            },
+            {
+                "title": "Malcolm McDowell and Anthony Sharp in A Clockwork Orange (1971)",
+                "image": "https://imdb-api.com/images/original/MV5BN2Q3ZTcyZDktOGNmNS00MmEyLTg2YzEtZWVhNTI4NjNjNWIyXkEyXkFqcGdeQXVyMjMzMDI4MjQ@._V1_Ratio1.6600_AL_.jpg"
+            },
+            {
+                "title": "Malcolm McDowell and Patrick Magee in A Clockwork Orange (1971)",
+                "image": "https://imdb-api.com/images/original/MV5BYmFhYzdjZGYtNWEyZS00MTc4LTg1OTQtZjRjZTZmMzhkNjg1XkEyXkFqcGdeQXVyMjMzMDI4MjQ@._V1_Ratio1.6600_AL_.jpg"
+            },
+            {
+                "title": "Malcolm McDowell, David Prowse, and Patrick Magee in A Clockwork Orange (1971)",
+                "image": "https://imdb-api.com/images/original/MV5BMGJiYTJjMTktZmVjMC00Y2Q0LWJlOGUtODE0MDNhOWQ1ZWM0XkEyXkFqcGdeQXVyMjMzMDI4MjQ@._V1_Ratio1.6600_AL_.jpg"
+            }
+        ],
+        "errorMessage": ""
+    },
+    "trailer": {
+        "imDbId": "tt0066921",
+        "title": "A Clockwork Orange",
+        "fullTitle": "A Clockwork Orange (1971)",
+        "type": "Movie",
+        "year": "1971",
+        "videoId": "vi4030506521",
+        "videoTitle": "A Clockwork Orange",
+        "videoDescription": "Trailer for A Clockwork Orange - Two-Disc Anniversary Edition Blu-ray Book Packaging",
+        "thumbnailUrl": "https://m.media-amazon.com/images/M/MV5BMTI1OTgxOWQtYjFiMS00MDkxLWI4ZGItN2Q0ZWM3ZTNhZmIxXkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg",
+        "uploadDate": "05/01/2013 04:01:21",
+        "link": "https://www.imdb.com/video/vi4030506521",
+        "linkEmbed": "https://www.imdb.com/video/imdb/vi4030506521/imdb/embed",
+        "errorMessage": ""
+    },
+    "boxOffice": {
+        "budget": "$2,200,000 (estimated)",
+        "openingWeekendUSA": "",
+        "grossUSA": "$26,589,355",
+        "cumulativeWorldwideGross": "$26,904,636"
+    },
+    "tagline": "Being the adventures of a young man whose principal interests are rape, ultra-violence and Beethoven.",
+    "keywords": "gang,dystopia,future,beating,unprovoked violence",
+    "keywordList": [
+        "gang",
+        "dystopia",
+        "future",
+        "beating",
+        "unprovoked violence"
+    ],
+    "similars": [
+        {
+            "id": "tt0062622",
+            "title": "2001: A Space Odyssey",
+            "fullTitle": "2001: A Space Odyssey (1968)",
+            "year": "1968",
+            "image": "https://imdb-api.com/images/original/MV5BMmNlYzRiNDctZWNhMi00MzI4LThkZTctMTUzMmZkMmFmNThmXkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_Ratio0.6737_AL_.jpg",
+            "plot": "After discovering a mysterious artifact buried beneath the Lunar surface, mankind sets off on a quest to find its origins with help from intelligent supercomputer H.A.L. 9000.",
+            "directors": "Stanley Kubrick",
+            "stars": "Keir Dullea, Gary Lockwood, William Sylvester",
+            "genres": "Adventure, Sci-Fi",
+            "imDbRating": "8.3"
+        },
+        {
+            "id": "tt0093058",
+            "title": "Full Metal Jacket",
+            "fullTitle": "Full Metal Jacket (1987)",
+            "year": "1987",
+            "image": "https://imdb-api.com/images/original/MV5BNzkxODk0NjEtYjc4Mi00ZDI0LTgyYjEtYzc1NDkxY2YzYTgyXkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_Ratio0.6737_AL_.jpg",
+            "plot": "A pragmatic U.S. Marine observes the dehumanizing effects the Vietnam War has on his fellow recruits from their brutal boot camp training to the bloody street fighting in Hue.",
+            "directors": "Stanley Kubrick",
+            "stars": "Matthew Modine, R. Lee Ermey, Vincent D'Onofrio",
+            "genres": "Drama, War",
+            "imDbRating": "8.3"
+        },
+        {
+            "id": "tt0081505",
+            "title": "The Shining",
+            "fullTitle": "The Shining (1980)",
+            "year": "1980",
+            "image": "https://imdb-api.com/images/original/MV5BZWFlYmY2MGEtZjVkYS00YzU4LTg0YjQtYzY1ZGE3NTA5NGQxXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_Ratio0.6737_AL_.jpg",
+            "plot": "A family heads to an isolated hotel for the winter where a sinister presence influences the father into violence, while his psychic son sees horrific forebodings from both past and future.",
+            "directors": "Stanley Kubrick",
+            "stars": "Jack Nicholson, Shelley Duvall, Danny Lloyd",
+            "genres": "Drama, Horror",
+            "imDbRating": "8.4"
+        },
+        {
+            "id": "tt0075314",
+            "title": "Taxi Driver",
+            "fullTitle": "Taxi Driver (1976)",
+            "year": "1976",
+            "image": "https://imdb-api.com/images/original/MV5BM2M1MmVhNDgtNmI0YS00ZDNmLTkyNjctNTJiYTQ2N2NmYzc2XkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_Ratio0.6737_AL_.jpg",
+            "plot": "A mentally unstable veteran works as a nighttime taxi driver in New York City, where the perceived decadence and sleaze fuels his urge for violent action by attempting to liberate a presidential campaign worker and an underage prostitute.",
+            "directors": "Martin Scorsese",
+            "stars": "Robert De Niro, Jodie Foster, Cybill Shepherd",
+            "genres": "Crime, Drama",
+            "imDbRating": "8.2"
+        },
+        {
+            "id": "tt0105236",
+            "title": "Reservoir Dogs",
+            "fullTitle": "Reservoir Dogs (1992)",
+            "year": "1992",
+            "image": "https://imdb-api.com/images/original/MV5BZmExNmEwYWItYmQzOS00YjA5LTk2MjktZjEyZDE1Y2QxNjA1XkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_Ratio0.6737_AL_.jpg",
+            "plot": "When a simple jewelry heist goes horribly wrong, the surviving criminals begin to suspect that one of them is a police informant.",
+            "directors": "Quentin Tarantino",
+            "stars": "Harvey Keitel, Tim Roth, Michael Madsen",
+            "genres": "Crime, Drama, Thriller",
+            "imDbRating": "8.3"
+        },
+        {
+            "id": "tt0057012",
+            "title": "Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb",
+            "fullTitle": "Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb (1964)",
+            "year": "1964",
+            "image": "https://imdb-api.com/images/original/MV5BZWI3ZTMxNjctMjdlNS00NmUwLWFiM2YtZDUyY2I3N2MxYTE0XkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_Ratio0.6737_AL_.jpg",
+            "plot": "An insane general triggers a path to nuclear holocaust that a War Room full of politicians and generals frantically tries to stop.",
+            "directors": "Stanley Kubrick",
+            "stars": "Peter Sellers, George C. Scott, Sterling Hayden",
+            "genres": "Comedy",
+            "imDbRating": "8.4"
+        },
+        {
+            "id": "tt0086250",
+            "title": "Scarface",
+            "fullTitle": "Scarface (1983)",
+            "year": "1983",
+            "image": "https://imdb-api.com/images/original/MV5BNjdjNGQ4NDEtNTEwYS00MTgxLTliYzQtYzE2ZDRiZjFhZmNlXkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_Ratio0.6737_AL_.jpg",
+            "plot": "In 1980 Miami, a determined Cuban immigrant takes over a drug cartel and succumbs to greed.",
+            "directors": "Brian De Palma",
+            "stars": "Al Pacino, Michelle Pfeiffer, Steven Bauer",
+            "genres": "Crime, Drama",
+            "imDbRating": "8.3"
+        },
+        {
+            "id": "tt0054215",
+            "title": "Psycho",
+            "fullTitle": "Psycho (1960)",
+            "year": "1960",
+            "image": "https://imdb-api.com/images/original/MV5BNTQwNDM1YzItNDAxZC00NWY2LTk0M2UtNDIwNWI5OGUyNWUxXkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_Ratio0.6737_AL_.jpg",
+            "plot": "A Phoenix secretary embezzles $40,000 from her employer's client, goes on the run, and checks into a remote motel run by a young man under the domination of his mother.",
+            "directors": "Alfred Hitchcock",
+            "stars": "Anthony Perkins, Janet Leigh, Vera Miles",
+            "genres": "Horror, Mystery, Thriller",
+            "imDbRating": "8.5"
+        },
+        {
+            "id": "tt0072684",
+            "title": "Barry Lyndon",
+            "fullTitle": "Barry Lyndon (1975)",
+            "year": "1975",
+            "image": "https://imdb-api.com/images/original/MV5BNmY0MWY2NDctZDdmMi00MjA1LTk0ZTQtZDMyZTQ1NTNlYzVjXkEyXkFqcGdeQXVyMjUzOTY1NTc@._V1_Ratio0.6737_AL_.jpg",
+            "plot": "An Irish rogue wins the heart of a rich widow and assumes her dead husband's aristocratic position in 18th-century England.",
+            "directors": "Stanley Kubrick",
+            "stars": "Ryan O'Neal, Marisa Berenson, Patrick Magee",
+            "genres": "Adventure, Drama, History",
+            "imDbRating": "8.1"
+        },
+        {
+            "id": "tt0180093",
+            "title": "Requiem for a Dream",
+            "fullTitle": "Requiem for a Dream (2000)",
+            "year": "2000",
+            "image": "https://imdb-api.com/images/original/MV5BOTdiNzJlOWUtNWMwNS00NmFlLWI0YTEtZmI3YjIzZWUyY2Y3XkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_Ratio0.6737_AL_.jpg",
+            "plot": "The drug-induced utopias of four Coney Island people are shattered when their addictions run deep.",
+            "directors": "Darren Aronofsky",
+            "stars": "Ellen Burstyn, Jared Leto, Jennifer Connelly",
+            "genres": "Drama",
+            "imDbRating": "8.3"
+        },
+        {
+            "id": "tt0073486",
+            "title": "One Flew Over the Cuckoo's Nest",
+            "fullTitle": "One Flew Over the Cuckoo's Nest (1975)",
+            "year": "1975",
+            "image": "https://imdb-api.com/images/original/MV5BZjA0OWVhOTAtYWQxNi00YzNhLWI4ZjYtNjFjZTEyYjJlNDVlL2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_Ratio0.6737_AL_.jpg",
+            "plot": "A criminal pleads insanity and is admitted to a mental institution, where he rebels against the oppressive nurse and rallies up the scared patients.",
+            "directors": "Milos Forman",
+            "stars": "Jack Nicholson, Louise Fletcher, Michael Berryman",
+            "genres": "Drama",
+            "imDbRating": "8.7"
+        },
+        {
+            "id": "tt0120663",
+            "title": "Eyes Wide Shut",
+            "fullTitle": "Eyes Wide Shut (1999)",
+            "year": "1999",
+            "image": "https://imdb-api.com/images/original/MV5BN2ZhNjI5MGItMzMwZS00N2VhLWE2NTEtNjFmZmRiYzZlNGVmXkEyXkFqcGdeQXVyMTYzMDM0NTU@._V1_Ratio0.6947_AL_.jpg",
+            "plot": "A New York City doctor embarks on a harrowing, night-long odyssey of sexual and moral discovery after his wife reveals a painful secret to him.",
+            "directors": "Stanley Kubrick",
+            "stars": "Tom Cruise, Nicole Kidman, Todd Field",
+            "genres": "Drama, Mystery, Thriller",
+            "imDbRating": "7.4"
+        }
+    ],
+    "tvSeriesInfo": null,
+    "tvEpisodeInfo": null,
+    "errorMessage": ""
+}

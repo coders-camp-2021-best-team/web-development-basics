@@ -1,0 +1,646 @@
+{
+    "id": "tt0056058",
+    "title": "Hara-Kiri",
+    "originalTitle": "Seppuku",
+    "fullTitle": "Hara-Kiri (1962)",
+    "type": "Movie",
+    "year": "1962",
+    "image": "https://imdb-api.com/images/original/MV5BYjBmYTQ1NjItZWU5MS00YjI0LTg2OTYtYmFkN2JkMmNiNWVkXkEyXkFqcGdeQXVyMTMxMTY0OTQ@._V1_Ratio0.7313_AL_.jpg",
+    "releaseDate": "1962-09-16",
+    "runtimeMins": "133",
+    "runtimeStr": "2h 13mins",
+    "plot": "Peace in 17th-century Japan causes the Shogunate's breakup of warrior clans, throwing thousands of samurai out of work and into poverty. An honorable end to such fate under the samurai code is ritual suicide, or hara-kiri (self-inflicted disembowelment). An elder warrior, Hanshiro Tsugumo (Tatsuya Nakadai) seeks admittance to the house of a feudal lord to commit the act. There, he learns of the fate of his son-in-law, a young samurai who sought work at the house but was instead barbarically forced to commit traditional hara-kiri in an excruciating manner with a dull bamboo blade. In flashbacks the samurai tells the tragic story of his son-in-law, and how he was forced to sell his real sword to support his sick wife and child. Tsugumo thus sets in motion a tense showdown of revenge against the house.",
+    "plotLocal": "",
+    "plotLocalIsRtl": false,
+    "awards": "Top Rated Movies #32 | 8 wins & 2 nominations.",
+    "directors": "Masaki Kobayashi",
+    "directorList": [{ "id": "nm0462030", "name": "Masaki Kobayashi" }],
+    "writers": "Yasuhiko Takiguchi, Shinobu Hashimoto",
+    "writerList": [
+        { "id": "nm0847668", "name": "Yasuhiko Takiguchi" },
+        { "id": "nm0368074", "name": "Shinobu Hashimoto" }
+    ],
+    "stars": "Tatsuya Nakadai, Akira Ishihama, Shima Iwashita, Tetsurô Tanba",
+    "starList": [
+        { "id": "nm0619938", "name": "Tatsuya Nakadai" },
+        { "id": "nm0410968", "name": "Akira Ishihama" },
+        { "id": "nm0412615", "name": "Shima Iwashita" },
+        { "id": "nm0848533", "name": "Tetsurô Tanba" }
+    ],
+    "actorList": [
+        {
+            "id": "nm0619938",
+            "image": "https://imdb-api.com/images/original/MV5BMTM5MzYwNDA3NV5BMl5BanBnXkFtZTcwNDExMTMwNw@@._V1_Ratio1.4091_AL_.jpg",
+            "name": "Tatsuya Nakadai",
+            "asCharacter": "Hanshiro Tsugumo"
+        },
+        {
+            "id": "nm0410968",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Akira Ishihama",
+            "asCharacter": "Motome Chijiiwa"
+        },
+        {
+            "id": "nm0412615",
+            "image": "https://imdb-api.com/images/original/MV5BNTY4ODkzNjI1M15BMl5BanBnXkFtZTcwMjk5MDUwNw@@._V1_Ratio1.4545_AL_.jpg",
+            "name": "Shima Iwashita",
+            "asCharacter": "Miho Tsugumo"
+        },
+        {
+            "id": "nm0848533",
+            "image": "https://imdb-api.com/images/original/MV5BYmI0NDUxMDgtNzNmYy00ZGRhLWJlZWQtMTQyNmU3YTJmMzY3XkEyXkFqcGdeQXVyMDMxMjQwMw@@._V1_Ratio0.7727_AL_.jpg",
+            "name": "Tetsurô Tanba",
+            "asCharacter": "Hikokuro Omodaka"
+        },
+        {
+            "id": "nm0592756",
+            "image": "https://imdb-api.com/images/original/MV5BZGEzNjZkMjQtNDkxOS00ZmM4LTkyZTctYzc3NTdhYjc0NjU1XkEyXkFqcGdeQXVyMTI3MDk3MzQ@._V1_Ratio2.3182_AL_.jpg",
+            "name": "Masao Mishima",
+            "asCharacter": "Tango Inaba"
+        },
+        {
+            "id": "nm0368049",
+            "image": "https://imdb-api.com/images/original/MV5BNWY2NTY1OGMtZTcxOS00M2JjLTk5OWQtY2IxNzY4ZDVjNzE0XkEyXkFqcGdeQXVyMTE2NzA0Ng@@._V1_Ratio1.7727_AL_.jpg",
+            "name": "Ichirô Nakatani",
+            "asCharacter": "Hayato Yazaki"
+        },
+        {
+            "id": "nm0766225",
+            "image": "https://imdb-api.com/images/original/MV5BZDg1ZGFiZWUtNzc5ZC00NDdkLWFlYWUtNzExZDNhZDEzNTk0XkEyXkFqcGdeQXVyMTI3MDk3MzQ@._V1_Ratio2.3182_AL_.jpg",
+            "name": "Kei Satô",
+            "asCharacter": "Masakazu"
+        },
+        {
+            "id": "nm0408343",
+            "image": "https://imdb-api.com/images/original/MV5BNTZkNzA5YzctNGJhMy00M2ExLWI4ZjAtODI2M2Y2MWJhNjU1XkEyXkFqcGdeQXVyMTI3MDk3MzQ@._V1_Ratio2.4091_AL_.jpg",
+            "name": "Yoshio Inaba",
+            "asCharacter": "Jinai Chijiiwa"
+        },
+        {
+            "id": "nm0407030",
+            "image": "https://imdb-api.com/images/original/MV5BMjMwNDUzODUyNF5BMl5BanBnXkFtZTcwNzc0MTEwNw@@._V1_Ratio1.4091_AL_.jpg",
+            "name": "Hisashi Igawa",
+            "asCharacter": "Retainer"
+        },
+        {
+            "id": "nm1372205",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Tôru Takeuchi",
+            "asCharacter": "Retainer"
+        },
+        {
+            "id": "nm0031837",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Yoshirô Aoki",
+            "asCharacter": "Umenosuke Kawabe"
+        },
+        {
+            "id": "nm0559581",
+            "image": "https://imdb-api.com/images/original/MV5BMTgwMTkwNTI2MV5BMl5BanBnXkFtZTcwNjA0NDUwNw@@._V1_Ratio1.4545_AL_.jpg",
+            "name": "Tatsuo Matsumura",
+            "asCharacter": "Seibei"
+        },
+        {
+            "id": "nm0461983",
+            "image": "https://imdb-api.com/images/original/MV5BMTg0NjI1MTY0OF5BMl5BanBnXkFtZTgwMTgwNjU2MjE@._V1_Ratio1.3182_AL_.jpg",
+            "name": "Akiji Kobayashi",
+            "asCharacter": "Ii Clan Retainer"
+        },
+        {
+            "id": "nm1082958",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Kôichi Hayashi",
+            "asCharacter": ""
+        },
+        {
+            "id": "nm0327104",
+            "image": "https://imdb-api.com/images/original/MV5BYWFkMTA1ZGQtZDRjMy00YmQyLWFmZmItNmZhNjVkMzAxMGVlXkEyXkFqcGdeQXVyMTI3MDk3MzQ@._V1_Ratio2.3182_AL_.jpg",
+            "name": "Ryûtarô Gomi",
+            "asCharacter": "General"
+        }
+    ],
+    "fullCast": null,
+    "genres": "Action, Drama, Mystery",
+    "genreList": [
+        { "key": "Action", "value": "Action" },
+        { "key": "Drama", "value": "Drama" },
+        { "key": "Mystery", "value": "Mystery" }
+    ],
+    "companies": "Shochiku",
+    "companyList": [{ "id": "co0007001", "name": "Shochiku" }],
+    "countries": "Japan",
+    "countryList": [{ "key": "Japan", "value": "Japan" }],
+    "languages": "Japanese",
+    "languageList": [{ "key": "Japanese", "value": "Japanese" }],
+    "contentRating": "Not Rated",
+    "imDbRating": "8.6",
+    "imDbRatingVotes": "44227",
+    "metacriticRating": "85",
+    "ratings": null,
+    "wikipedia": null,
+    "posters": {
+        "imDbId": "tt0056058",
+        "title": "Hara-Kiri",
+        "fullTitle": "Hara-Kiri (1962)",
+        "type": "Movie",
+        "year": "1962",
+        "posters": [
+            {
+                "id": "fRqVjso3rdEcxZHXWE2xazDAtjI.jpg",
+                "link": "https://imdb-api.com/posters/original/fRqVjso3rdEcxZHXWE2xazDAtjI.jpg",
+                "aspectRatio": 0.7012622720897616,
+                "language": "en",
+                "width": 1000,
+                "height": 1426
+            },
+            {
+                "id": "mTqwKKH4BN4505t5GdagdV8Kv9A.jpg",
+                "link": "https://imdb-api.com/posters/original/mTqwKKH4BN4505t5GdagdV8Kv9A.jpg",
+                "aspectRatio": 0.6666666666666666,
+                "language": "en",
+                "width": 500,
+                "height": 750
+            },
+            {
+                "id": "5konZnIbcAxZjP616Cz5o9bKEfW.jpg",
+                "link": "https://imdb-api.com/posters/original/5konZnIbcAxZjP616Cz5o9bKEfW.jpg",
+                "aspectRatio": 0.6666666666666666,
+                "language": "en",
+                "width": 1400,
+                "height": 2100
+            },
+            {
+                "id": "eIF1EDYbR7Uf3qUdzy1JV8KGp6S.jpg",
+                "link": "https://imdb-api.com/posters/original/eIF1EDYbR7Uf3qUdzy1JV8KGp6S.jpg",
+                "aspectRatio": 0.6666666666666666,
+                "language": "en",
+                "width": 1220,
+                "height": 1830
+            },
+            {
+                "id": "UOoqdnNIa3fF9K1ZdFkBXvVlTM.jpg",
+                "link": "https://imdb-api.com/posters/original/UOoqdnNIa3fF9K1ZdFkBXvVlTM.jpg",
+                "aspectRatio": 0.6666666666666666,
+                "language": "en",
+                "width": 780,
+                "height": 1170
+            },
+            {
+                "id": "bvM5l4AhIUtZpZJkvpab0CPKG7k.jpg",
+                "link": "https://imdb-api.com/posters/original/bvM5l4AhIUtZpZJkvpab0CPKG7k.jpg",
+                "aspectRatio": 0.6666666666666666,
+                "language": "en",
+                "width": 780,
+                "height": 1170
+            },
+            {
+                "id": "yoopC7bhZgM5ps7PL42o7mgGjZD.jpg",
+                "link": "https://imdb-api.com/posters/original/yoopC7bhZgM5ps7PL42o7mgGjZD.jpg",
+                "aspectRatio": 0.6666666666666666,
+                "language": "en",
+                "width": 780,
+                "height": 1170
+            },
+            {
+                "id": "fbmH7TzdxF3xbq3YL8SOv0R6G8t.jpg",
+                "link": "https://imdb-api.com/posters/original/fbmH7TzdxF3xbq3YL8SOv0R6G8t.jpg",
+                "aspectRatio": 0.6666666666666666,
+                "language": "en",
+                "width": 2000,
+                "height": 3000
+            },
+            {
+                "id": "axR5yDtIVov79MdmpS7yJz6THKl.jpg",
+                "link": "https://imdb-api.com/posters/original/axR5yDtIVov79MdmpS7yJz6THKl.jpg",
+                "aspectRatio": 0.6666666666666666,
+                "language": "en",
+                "width": 1000,
+                "height": 1500
+            },
+            {
+                "id": "wzRl4MTiMrp2LVbDsuoS0Vr1mAz.jpg",
+                "link": "https://imdb-api.com/posters/original/wzRl4MTiMrp2LVbDsuoS0Vr1mAz.jpg",
+                "aspectRatio": 0.6666666666666666,
+                "language": "en",
+                "width": 1000,
+                "height": 1500
+            }
+        ],
+        "backdrops": [
+            {
+                "id": "23XAzEpKuKUFLW2aWANbuNmqSvL.jpg",
+                "link": "https://imdb-api.com/posters/original/23XAzEpKuKUFLW2aWANbuNmqSvL.jpg",
+                "aspectRatio": 1.7777777777777777,
+                "language": "en",
+                "width": 1920,
+                "height": 1080
+            },
+            {
+                "id": "e3hG3uadtcP0pYdRa5ch4ysQW76.jpg",
+                "link": "https://imdb-api.com/posters/original/e3hG3uadtcP0pYdRa5ch4ysQW76.jpg",
+                "aspectRatio": 1.7777777777777777,
+                "language": "en",
+                "width": 1920,
+                "height": 1080
+            },
+            {
+                "id": "wen5hK2dMgBtFcCrtcn85mDcVAS.jpg",
+                "link": "https://imdb-api.com/posters/original/wen5hK2dMgBtFcCrtcn85mDcVAS.jpg",
+                "aspectRatio": 1.7777777777777777,
+                "language": "en",
+                "width": 1920,
+                "height": 1080
+            },
+            {
+                "id": "nC3IjYhUgZWgfKfFX0ygMigFwgc.jpg",
+                "link": "https://imdb-api.com/posters/original/nC3IjYhUgZWgfKfFX0ygMigFwgc.jpg",
+                "aspectRatio": 1.7777777777777777,
+                "language": "en",
+                "width": 1920,
+                "height": 1080
+            }
+        ],
+        "errorMessage": ""
+    },
+    "images": {
+        "imDbId": "tt0056058",
+        "title": "Hara-Kiri",
+        "fullTitle": "Hara-Kiri (1962)",
+        "type": "Movie",
+        "year": "1962",
+        "items": [
+            {
+                "title": "Tatsuya Nakadai in Hara-Kiri (1962)",
+                "image": "https://imdb-api.com/images/original/MV5BMTY1NjE0MzIwOF5BMl5BanBnXkFtZTcwNDE5NjM5Ng@@._V1_Ratio1.0000_AL_.jpg"
+            },
+            {
+                "title": "Tatsuya Nakadai in Hara-Kiri (1962)",
+                "image": "https://imdb-api.com/images/original/MV5BMTUwMDc1MjY4MF5BMl5BanBnXkFtZTcwNTE5NjM5Ng@@._V1_Ratio1.4200_AL_.jpg"
+            },
+            {
+                "title": "Hara-Kiri (1962)",
+                "image": "https://imdb-api.com/images/original/MV5BMTY5MTcxMjg0OF5BMl5BanBnXkFtZTcwNjE5NjM5Ng@@._V1_Ratio1.4000_AL_.jpg"
+            },
+            {
+                "title": "Tatsuya Nakadai in Hara-Kiri (1962)",
+                "image": "https://imdb-api.com/images/original/MV5BMjI1NzA3NTg3MF5BMl5BanBnXkFtZTcwNzE5NjM5Ng@@._V1_Ratio1.4200_AL_.jpg"
+            },
+            {
+                "title": "Tatsuya Nakadai in Hara-Kiri (1962)",
+                "image": "https://imdb-api.com/images/original/MV5BMTc4NjgzNjg5M15BMl5BanBnXkFtZTcwODE5NjM5Ng@@._V1_Ratio1.0000_AL_.jpg"
+            },
+            {
+                "title": "Tatsuya Nakadai in Hara-Kiri (1962)",
+                "image": "https://imdb-api.com/images/original/MV5BOTA3Njg0NDA5MF5BMl5BanBnXkFtZTcwOTE5NjM5Ng@@._V1_Ratio1.2800_AL_.jpg"
+            },
+            {
+                "title": "Tatsuya Nakadai in Hara-Kiri (1962)",
+                "image": "https://imdb-api.com/images/original/MV5BMTkwMDk3NDM3M15BMl5BanBnXkFtZTcwMDI5NjM5Ng@@._V1_Ratio1.0000_AL_.jpg"
+            },
+            {
+                "title": "Tatsuya Nakadai in Hara-Kiri (1962)",
+                "image": "https://imdb-api.com/images/original/MV5BMTMyNjQ5NDIzM15BMl5BanBnXkFtZTcwMTI5NjM5Ng@@._V1_Ratio1.4000_AL_.jpg"
+            },
+            {
+                "title": "Hara-Kiri (1962)",
+                "image": "https://imdb-api.com/images/original/MV5BNzBkNGE4YTItNTA3ZC00NmUwLWFkMmItN2I5ZTJhYjcyNjUwXkEyXkFqcGdeQXVyMTExNzQzMDE0._V1_Ratio1.0000_AL_.jpg"
+            },
+            {
+                "title": "Hara-Kiri (1962)",
+                "image": "https://imdb-api.com/images/original/MV5BYmJkYWFiMWMtMDc3Yi00NDQxLWIxNmEtMTBjYWViN2M3MzEyXkEyXkFqcGdeQXVyMTM2ODk1OTQ@._V1_Ratio1.0000_AL_.jpg"
+            },
+            {
+                "title": "Hara-Kiri (1962)",
+                "image": "https://imdb-api.com/images/original/MV5BMTg2MzMwNjk5Ml5BMl5BanBnXkFtZTgwNTQwOTkxMTE@._V1_Ratio1.0000_AL_.jpg"
+            },
+            {
+                "title": "Hara-Kiri (1962)",
+                "image": "https://imdb-api.com/images/original/MV5BMTIyMTE5NjU1NF5BMl5BanBnXkFtZTYwODg2NjA5._V1_Ratio1.0000_AL_.jpg"
+            },
+            {
+                "title": "Hara-Kiri (1962)",
+                "image": "https://imdb-api.com/images/original/MV5BMTI2MjgzOTYyNF5BMl5BanBnXkFtZTcwOTA4MzAzMQ@@._V1_Ratio1.0000_AL_.jpg"
+            },
+            {
+                "title": "Tatsuya Nakadai in Hara-Kiri (1962)",
+                "image": "https://imdb-api.com/images/original/MV5BNWRjYzVkMTYtNjIwOC00MWE1LTlmNjEtN2RkMzNhNzkxYmZmXkEyXkFqcGdeQXVyNzYyOTcwNjk@._V1_Ratio2.3400_AL_.jpg"
+            },
+            {
+                "title": "Tatsuya Nakadai in Hara-Kiri (1962)",
+                "image": "https://imdb-api.com/images/original/MV5BZjI2NWJhNzgtNzM4Mi00YjJhLTliOTYtYmEwZWRlYzU5ZjI2XkEyXkFqcGdeQXVyNzYyOTcwNjk@._V1_Ratio2.3400_AL_.jpg"
+            },
+            {
+                "title": "Tatsuya Nakadai in Hara-Kiri (1962)",
+                "image": "https://imdb-api.com/images/original/MV5BZjYwNDljYTAtOWM5OC00ZDJjLThhZTYtMTYxMWI4OTM3MTIxXkEyXkFqcGdeQXVyNzYyOTcwNjk@._V1_Ratio2.3600_AL_.jpg"
+            },
+            {
+                "title": "Tatsuya Nakadai in Hara-Kiri (1962)",
+                "image": "https://imdb-api.com/images/original/MV5BOTdlZGU4OTAtOTA2Mi00OWJiLTgxY2ItYmY0MTRlYWZhYTMxXkEyXkFqcGdeQXVyNzYyOTcwNjk@._V1_Ratio2.3800_AL_.jpg"
+            },
+            {
+                "title": "Tatsuya Nakadai in Hara-Kiri (1962)",
+                "image": "https://imdb-api.com/images/original/MV5BN2ZhNjNhOWMtYTUwYS00YWNmLWI4NmYtMDA0ZjZjOGEyMDcxXkEyXkFqcGdeQXVyNzYyOTcwNjk@._V1_Ratio2.3600_AL_.jpg"
+            },
+            {
+                "title": "Akira Ishihama and Tatsuya Nakadai in Hara-Kiri (1962)",
+                "image": "https://imdb-api.com/images/original/MV5BMWYzN2FiNDgtMmQ0Zi00ZDNjLWExM2EtMTg4Mjk1MjEyMGU5XkEyXkFqcGdeQXVyNzYyOTcwNjk@._V1_Ratio2.3600_AL_.jpg"
+            },
+            {
+                "title": "Tatsuya Nakadai in Hara-Kiri (1962)",
+                "image": "https://imdb-api.com/images/original/MV5BNjYwNzhiYzYtYTdkMy00NTQyLWFiZTAtMDQ3YzkzYmU0Mzk3XkEyXkFqcGdeQXVyNzYyOTcwNjk@._V1_Ratio2.3400_AL_.jpg"
+            },
+            {
+                "title": "Hara-Kiri (1962)",
+                "image": "https://imdb-api.com/images/original/MV5BOGQxYThiMTQtMjllZS00OTg0LWE2MWYtMTEwZTUzNTg5ZWEwXkEyXkFqcGdeQXVyNzYyOTcwNjk@._V1_Ratio2.3200_AL_.jpg"
+            },
+            {
+                "title": "Akira Ishihama in Hara-Kiri (1962)",
+                "image": "https://imdb-api.com/images/original/MV5BYTBlYjlkNjAtMzVjMC00MzExLWEzZDktZTYzMTliMmE4ZTQyXkEyXkFqcGdeQXVyNzYyOTcwNjk@._V1_Ratio2.3400_AL_.jpg"
+            },
+            {
+                "title": "Akira Ishihama in Hara-Kiri (1962)",
+                "image": "https://imdb-api.com/images/original/MV5BNjMwMWNhNmYtYTFjNS00ZDE1LTkyMTEtNWMzN2Q1ZWI1ZWRkXkEyXkFqcGdeQXVyNzYyOTcwNjk@._V1_Ratio2.3400_AL_.jpg"
+            },
+            {
+                "title": "Tatsuya Nakadai and Tetsurô Tanba in Hara-Kiri (1962)",
+                "image": "https://imdb-api.com/images/original/MV5BMGRhNTdkMWYtYzQzZC00YzhiLTkxOTEtMGRhY2JlNmQxZDI1XkEyXkFqcGdeQXVyNjgxMDA4OTI@._V1_Ratio1.4200_AL_.jpg"
+            },
+            {
+                "title": "Akira Ishihama in Hara-Kiri (1962)",
+                "image": "https://imdb-api.com/images/original/MV5BOTAxZDNmNmUtY2MzNS00ODVkLThlOWQtZDQzZDVmZWFiMzJmXkEyXkFqcGdeQXVyMTQ5ODkzMDk@._V1_Ratio2.3600_AL_.jpg"
+            },
+            {
+                "title": "Tatsuya Nakadai in Hara-Kiri (1962)",
+                "image": "https://imdb-api.com/images/original/MV5BOTgzNTIxMzktMjVkNy00ZTBhLWFjNGYtNTYxNjkyM2ZiNjAwXkEyXkFqcGdeQXVyMTQ5ODkzMDk@._V1_Ratio2.4000_AL_.jpg"
+            },
+            {
+                "title": "Hara-Kiri (1962)",
+                "image": "https://imdb-api.com/images/original/MV5BOTAwMDFkMTYtYTJkOS00NzEyLTk3NTgtMzAwZDg4Yzg4MWFlXkEyXkFqcGdeQXVyMTQ5ODkzMDk@._V1_Ratio2.3400_AL_.jpg"
+            },
+            {
+                "title": "Tatsuya Nakadai in Hara-Kiri (1962)",
+                "image": "https://imdb-api.com/images/original/MV5BZmNjMDIzZDUtNzVjYi00NGM2LWI5ODUtMTM5YzE4MzFlMTNhXkEyXkFqcGdeQXVyMTQ5ODkzMDk@._V1_Ratio2.1600_AL_.jpg"
+            },
+            {
+                "title": "Akira Ishihama in Hara-Kiri (1962)",
+                "image": "https://imdb-api.com/images/original/MV5BMWUyNDhiMTMtZWU5Zi00NzY2LWI0NjItOTA4NzgzNzIyOTYxXkEyXkFqcGdeQXVyMTQ5ODkzMDk@._V1_Ratio2.1800_AL_.jpg"
+            },
+            {
+                "title": "Tatsuya Nakadai in Hara-Kiri (1962)",
+                "image": "https://imdb-api.com/images/original/MV5BOGZmMTNhNzctNzUwZi00ZTBjLThhOGYtZmJhMGQ5MTc2NjhkXkEyXkFqcGdeQXVyMTQ5ODkzMDk@._V1_Ratio1.0000_AL_.jpg"
+            },
+            {
+                "title": "Shima Iwashita in Hara-Kiri (1962)",
+                "image": "https://imdb-api.com/images/original/MV5BODQyOGQzZTktNzI5Ni00NGNmLTljMTYtMzZkMTgyMGNlMGUyXkEyXkFqcGdeQXVyMTQ5ODkzMDk@._V1_Ratio2.4000_AL_.jpg"
+            },
+            {
+                "title": "Akira Ishihama in Hara-Kiri (1962)",
+                "image": "https://imdb-api.com/images/original/MV5BYzQ2MTE2ZWMtN2E5ZC00ZGI3LTk4NmItMTgyZDVlODRmMzczXkEyXkFqcGdeQXVyMTQ5ODkzMDk@._V1_Ratio1.7800_AL_.jpg"
+            },
+            {
+                "title": "Shima Iwashita in Hara-Kiri (1962)",
+                "image": "https://imdb-api.com/images/original/MV5BYWJhNjk5NjktOTcwYS00Zjc1LTk2ZjMtZmY2ODkzODZjNmIwXkEyXkFqcGdeQXVyMTQ5ODkzMDk@._V1_Ratio2.1600_AL_.jpg"
+            },
+            {
+                "title": "Rentarô Mikuni in Hara-Kiri (1962)",
+                "image": "https://imdb-api.com/images/original/MV5BMmRlZDVkMzgtYjZlZC00NDFlLTlmYzAtOGFiOTQ5ZTIwOTEyXkEyXkFqcGdeQXVyMTQ5ODkzMDk@._V1_Ratio2.3400_AL_.jpg"
+            },
+            {
+                "title": "Tatsuya Nakadai in Hara-Kiri (1962)",
+                "image": "https://imdb-api.com/images/original/MV5BNTRlMGY3NDgtZTEyNy00ODBhLTgzNmItYjcyODlmMjVjNzNmXkEyXkFqcGdeQXVyMTQ5ODkzMDk@._V1_Ratio2.3600_AL_.jpg"
+            },
+            {
+                "title": "Tatsuya Nakadai and Kei Satô in Hara-Kiri (1962)",
+                "image": "https://imdb-api.com/images/original/MV5BYTk5Y2FiNDYtNmQwNi00MmRiLTg4YTAtNTU1N2E5YzU0YmI0XkEyXkFqcGdeQXVyMTQ5ODkzMDk@._V1_Ratio2.3400_AL_.jpg"
+            },
+            {
+                "title": "Hara-Kiri (1962)",
+                "image": "https://imdb-api.com/images/original/MV5BNWZjZTg5MzQtMGQzMC00ZTZjLTk1YzItYjA4YjBhOTcyOGE2XkEyXkFqcGdeQXVyMTQ5ODkzMDk@._V1_Ratio2.1600_AL_.jpg"
+            },
+            {
+                "title": "Tatsuya Nakadai in Hara-Kiri (1962)",
+                "image": "https://imdb-api.com/images/original/MV5BNjQ3Y2FiZTQtMTU4NC00NDk0LThhN2UtMGY4ZjYyYmJmZTVkXkEyXkFqcGdeQXVyMTQ5ODkzMDk@._V1_Ratio2.4000_AL_.jpg"
+            },
+            {
+                "title": "Tatsuya Nakadai in Hara-Kiri (1962)",
+                "image": "https://imdb-api.com/images/original/MV5BMGE3YTMwMjgtNjc0Ni00YjdjLTk5ZjktNzQ5MmFkY2FjNzczXkEyXkFqcGdeQXVyMTQ5ODkzMDk@._V1_Ratio2.3400_AL_.jpg"
+            },
+            {
+                "title": "Tatsuya Nakadai in Hara-Kiri (1962)",
+                "image": "https://imdb-api.com/images/original/MV5BZjdjMGYyZDktNTY3Mi00Nzg4LWI2NDYtMWIxNmNlYWI4NGNhXkEyXkFqcGdeQXVyMTQ5ODkzMDk@._V1_Ratio2.3400_AL_.jpg"
+            },
+            {
+                "title": "Tatsuya Nakadai and Tetsurô Tanba in Hara-Kiri (1962)",
+                "image": "https://imdb-api.com/images/original/MV5BYWRmZmQ3YTYtNmVkMS00YjllLTg3ZjctZjdkMmI1MDhlZTM5XkEyXkFqcGdeQXVyMTQ5ODkzMDk@._V1_Ratio1.4000_AL_.jpg"
+            },
+            {
+                "title": "Tatsuya Nakadai and Tetsurô Tanba in Hara-Kiri (1962)",
+                "image": "https://imdb-api.com/images/original/MV5BMzcxMTdhYTEtOTY0Yy00NGU5LWI4NjctYzU3NjkyNzc5MmU4XkEyXkFqcGdeQXVyMTQ5ODkzMDk@._V1_Ratio2.4000_AL_.jpg"
+            },
+            {
+                "title": "Tatsuya Nakadai in Hara-Kiri (1962)",
+                "image": "https://imdb-api.com/images/original/MV5BOTE3YzJmY2QtMTIyYi00ZGJkLTg4YTUtNzBlYWFlNDMyYWM0XkEyXkFqcGdeQXVyMTQ5ODkzMDk@._V1_Ratio2.4200_AL_.jpg"
+            },
+            {
+                "title": "Tatsuya Nakadai in Hara-Kiri (1962)",
+                "image": "https://imdb-api.com/images/original/MV5BMjc4YzQ3MjktN2Q1Mi00MzY3LWJjZWEtMDI4ZGIyYjk4ZWEwXkEyXkFqcGdeQXVyMTAzMDg2MjMx._V1_Ratio1.0000_AL_.jpg"
+            },
+            {
+                "title": "Hara-Kiri (1962)",
+                "image": "https://imdb-api.com/images/original/MV5BODAxNTBhZjktZWFmYS00NzI0LWE1ZWItYmJiNDc0ODRmNTk0XkEyXkFqcGdeQXVyMTA1NTM1NDI2._V1_Ratio1.0000_AL_.jpg"
+            },
+            {
+                "title": "Hara-Kiri (1962)",
+                "image": "https://imdb-api.com/images/original/MV5BYjBmYTQ1NjItZWU5MS00YjI0LTg2OTYtYmFkN2JkMmNiNWVkXkEyXkFqcGdeQXVyMTMxMTY0OTQ@._V1_Ratio1.0000_AL_.jpg"
+            },
+            {
+                "title": "Tatsuya Nakadai in Hara-Kiri (1962)",
+                "image": "https://imdb-api.com/images/original/MV5BNGJkYzFmNTUtMjc2Yy00OTk0LWJkYjAtMTM1YTQzYzdmYzE1XkEyXkFqcGdeQXVyMjcxNjI4NTk@._V1_Ratio1.0000_AL_.jpg"
+            },
+            {
+                "title": "Tatsuya Nakadai in Hara-Kiri (1962)",
+                "image": "https://imdb-api.com/images/original/MV5BN2FiYTY3MjEtMzFjYS00YmQ2LTgzNTQtM2Q5YTdkNzYyMjFiXkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_Ratio1.0000_AL_.jpg"
+            }
+        ],
+        "errorMessage": ""
+    },
+    "trailer": {
+        "imDbId": "tt0056058",
+        "title": "Hara-Kiri",
+        "fullTitle": "Hara-Kiri (1962)",
+        "type": "Movie",
+        "year": "1962",
+        "videoId": null,
+        "videoTitle": null,
+        "videoDescription": null,
+        "thumbnailUrl": null,
+        "uploadDate": null,
+        "link": null,
+        "linkEmbed": null,
+        "errorMessage": "404 Not Founded Error"
+    },
+    "boxOffice": {
+        "budget": "",
+        "openingWeekendUSA": "",
+        "grossUSA": "",
+        "cumulativeWorldwideGross": "$15,222"
+    },
+    "tagline": "There are two sides to every blade... One for the enemy... One for suicide by... [HARAKIRI]",
+    "keywords": "samurai,suicide,poverty,revenge,one against many",
+    "keywordList": [
+        "samurai",
+        "suicide",
+        "poverty",
+        "revenge",
+        "one against many"
+    ],
+    "similars": [
+        {
+            "id": "tt0047478",
+            "title": "Seven Samurai",
+            "fullTitle": "Seven Samurai (1954)",
+            "year": "1954",
+            "image": "https://imdb-api.com/images/original/MV5BOWE4ZDdhNmMtNzE5ZC00NzExLTlhNGMtY2ZhYjYzODEzODA1XkEyXkFqcGdeQXVyNTAyODkwOQ@@._V1_Ratio0.7053_AL_.jpg",
+            "plot": "A poor village under attack by bandits recruits seven unemployed samurai to help them defend themselves.",
+            "directors": "Akira Kurosawa",
+            "stars": "Toshirô Mifune, Takashi Shimura, Keiko Tsushima",
+            "genres": "Action, Adventure, Drama",
+            "imDbRating": "8.6"
+        },
+        {
+            "id": "tt0057565",
+            "title": "High and Low",
+            "fullTitle": "High and Low (1963)",
+            "year": "1963",
+            "image": "https://imdb-api.com/images/original/MV5BOTI4NTNhZDMtMWNkZi00MTRmLWJmZDQtMmJkMGVmZTEzODlhXkEyXkFqcGdeQXVyNjc1NTYyMjg@._V1_Ratio0.6737_AL_.jpg",
+            "plot": "An executive of a shoe company becomes a victim of extortion when his chauffeur's son is kidnapped and held for ransom.",
+            "directors": "Akira Kurosawa",
+            "stars": "Toshirô Mifune, Yutaka Sada, Tatsuya Nakadai",
+            "genres": "Crime, Drama, Mystery",
+            "imDbRating": "8.4"
+        },
+        {
+            "id": "tt0055630",
+            "title": "Yojimbo",
+            "fullTitle": "Yojimbo (1961)",
+            "year": "1961",
+            "image": "https://imdb-api.com/images/original/MV5BZThiZjAzZjgtNDU3MC00YThhLThjYWUtZGRkYjc2ZWZlOTVjXkEyXkFqcGdeQXVyNTA4NzY1MzY@._V1_Ratio0.6737_AL_.jpg",
+            "plot": "A crafty ronin comes to a town divided by two criminal gangs and decides to play them against each other to free the town.",
+            "directors": "Akira Kurosawa",
+            "stars": "Toshirô Mifune, Eijirô Tôno, Tatsuya Nakadai",
+            "genres": "Action, Drama, Thriller",
+            "imDbRating": "8.2"
+        },
+        {
+            "id": "tt0021749",
+            "title": "City Lights",
+            "fullTitle": "City Lights (1931)",
+            "year": "1931",
+            "image": "https://imdb-api.com/images/original/MV5BY2I4MmM1N2EtM2YzOS00OWUzLTkzYzctNDc5NDg2N2IyODJmXkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_Ratio0.6737_AL_.jpg",
+            "plot": "With the aid of a wealthy erratic tippler, a dewy-eyed tramp who has fallen in love with a sightless flower girl accumulates money to be able to help her medically.",
+            "directors": "Charles Chaplin",
+            "stars": "Charles Chaplin, Virginia Cherrill, Florence Lee",
+            "genres": "Comedy, Drama, Romance",
+            "imDbRating": "8.5"
+        },
+        {
+            "id": "tt0061847",
+            "title": "Samurai Rebellion",
+            "fullTitle": "Samurai Rebellion (1967)",
+            "year": "1967",
+            "image": "https://imdb-api.com/images/original/MV5BZTgyZDM1ZDctNzQzZS00NzBjLWI2ZTYtNjY2YzJjNTBkNTg2XkEyXkFqcGdeQXVyNjgxMDA4OTI@._V1_Ratio0.6737_AL_.jpg",
+            "plot": "The mother of a feudal lord's only heir is kidnapped away from her husband by the lord. The husband and his samurai father must decide whether to accept the unjust decision, or risk death to get her back.",
+            "directors": "Masaki Kobayashi",
+            "stars": "Toshirô Mifune, Yôko Tsukasa, Gô Katô",
+            "genres": "Drama",
+            "imDbRating": "8.4"
+        },
+        {
+            "id": "tt0089881",
+            "title": "Ran",
+            "fullTitle": "Ran (1985)",
+            "year": "1985",
+            "image": "https://imdb-api.com/images/original/MV5BZDBjZTM4ZmEtOTA5ZC00NTQzLTkyNzYtMmUxNGU2YjI5YjU5L2ltYWdlXkEyXkFqcGdeQXVyNTAyODkwOQ@@._V1_Ratio0.7053_AL_.jpg",
+            "plot": "In Medieval Japan, an elderly warlord retires, handing over his empire to his three sons. However, he vastly underestimates how the new-found power will corrupt them and cause them to turn on each other...and him.",
+            "directors": "Akira Kurosawa",
+            "stars": "Tatsuya Nakadai, Akira Terao, Jinpachi Nezu",
+            "genres": "Action, Drama, War",
+            "imDbRating": "8.2"
+        },
+        {
+            "id": "tt0042876",
+            "title": "Rashomon",
+            "fullTitle": "Rashomon (1950)",
+            "year": "1950",
+            "image": "https://imdb-api.com/images/original/MV5BMjEzMzA4NDE2OF5BMl5BanBnXkFtZTcwNTc5MDI2NQ@@._V1_Ratio0.6737_AL_.jpg",
+            "plot": "The rape of a bride and the murder of her samurai husband are recalled from the perspectives of a bandit, the bride, the samurai's ghost and a woodcutter.",
+            "directors": "Akira Kurosawa",
+            "stars": "Toshirô Mifune, Machiko Kyô, Masayuki Mori",
+            "genres": "Crime, Drama, Mystery",
+            "imDbRating": "8.2"
+        },
+        {
+            "id": "tt0044741",
+            "title": "Ikiru",
+            "fullTitle": "Ikiru (1952)",
+            "year": "1952",
+            "image": "https://imdb-api.com/images/original/MV5BZmM0NGY3Y2MtMTA1YS00YmQzLTk2YTctYWFhMDkzMDRjZWQzXkEyXkFqcGdeQXVyNTA4NzY1MzY@._V1_Ratio0.6737_AL_.jpg",
+            "plot": "A bureaucrat tries to find a meaning in his life after he discovers he has terminal cancer.",
+            "directors": "Akira Kurosawa",
+            "stars": "Takashi Shimura, Nobuo Kaneko, Shin'ichi Himori",
+            "genres": "Drama",
+            "imDbRating": "8.3"
+        },
+        {
+            "id": "tt0064116",
+            "title": "Once Upon a Time in the West",
+            "fullTitle": "Once Upon a Time in the West (1968)",
+            "year": "1968",
+            "image": "https://imdb-api.com/images/original/MV5BZGI5MjBmYzYtMzJhZi00NGI1LTk3MzItYjBjMzcxM2U3MDdiXkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_Ratio0.6737_AL_.jpg",
+            "plot": "A mysterious stranger with a harmonica joins forces with a notorious desperado to protect a beautiful widow from a ruthless assassin working for the railroad.",
+            "directors": "Sergio Leone",
+            "stars": "Henry Fonda, Charles Bronson, Claudia Cardinale",
+            "genres": "Western",
+            "imDbRating": "8.5"
+        },
+        {
+            "id": "tt0050825",
+            "title": "Paths of Glory",
+            "fullTitle": "Paths of Glory (1957)",
+            "year": "1957",
+            "image": "https://imdb-api.com/images/original/MV5BNjViMmRkOTEtM2ViOS00ODg0LWJhYWEtNTBlOGQxNDczOGY3XkEyXkFqcGdeQXVyMDI2NDg0NQ@@._V1_Ratio0.7158_AL_.jpg",
+            "plot": "After refusing to attack an enemy position, a general accuses the soldiers of cowardice and their commanding officer must defend them.",
+            "directors": "Stanley Kubrick",
+            "stars": "Kirk Douglas, Ralph Meeker, Adolphe Menjou",
+            "genres": "Drama, War",
+            "imDbRating": "8.4"
+        },
+        {
+            "id": "tt0095327",
+            "title": "Grave of the Fireflies",
+            "fullTitle": "Grave of the Fireflies (1988)",
+            "year": "1988",
+            "image": "https://imdb-api.com/images/original/MV5BZmY2NjUzNDQtNTgxNC00M2Q4LTljOWQtMjNjNDBjNWUxNmJlXkEyXkFqcGdeQXVyNTA4NzY1MzY@._V1_Ratio0.6737_AL_.jpg",
+            "plot": "A young boy and his little sister struggle to survive in Japan during World War II.",
+            "directors": "Isao Takahata",
+            "stars": "Tsutomu Tatsumi, Ayano Shiraishi, Akemi Yamaguchi",
+            "genres": "Animation, Drama, War",
+            "imDbRating": "8.5"
+        },
+        {
+            "id": "tt0095765",
+            "title": "Cinema Paradiso",
+            "fullTitle": "Cinema Paradiso (1988)",
+            "year": "1988",
+            "image": "https://imdb-api.com/images/original/MV5BM2FhYjEyYmYtMDI1Yy00YTdlLWI2NWQtYmEzNzAxOGY1NjY2XkEyXkFqcGdeQXVyNTA3NTIyNDg@._V1_Ratio0.6737_AL_.jpg",
+            "plot": "A filmmaker recalls his childhood when falling in love with the pictures at the cinema of his home village and forms a deep friendship with the cinema's projectionist.",
+            "directors": "Giuseppe Tornatore",
+            "stars": "Philippe Noiret, Enzo Cannavale, Antonella Attili",
+            "genres": "Drama, Romance",
+            "imDbRating": "8.5"
+        }
+    ],
+    "tvSeriesInfo": null,
+    "tvEpisodeInfo": null,
+    "errorMessage": ""
+}

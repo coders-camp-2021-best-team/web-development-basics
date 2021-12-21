@@ -1,0 +1,726 @@
+{
+    "id": "tt0031679",
+    "title": "Mr. Smith Goes to Washington",
+    "originalTitle": "",
+    "fullTitle": "Mr. Smith Goes to Washington (1939)",
+    "type": "Movie",
+    "year": "1939",
+    "image": "https://imdb-api.com/images/original/MV5BZTYwYjYxYzgtMDE1Ni00NzU4LWJlMTEtODQ5YmJmMGJhZjI5L2ltYWdlXkEyXkFqcGdeQXVyMDI2NDg0NQ@@._V1_Ratio0.6791_AL_.jpg",
+    "releaseDate": "1939-10-19",
+    "runtimeMins": "129",
+    "runtimeStr": "2h 9mins",
+    "plot": "Naive and idealistic Jefferson Smith, leader of the Boy Rangers, is appointed on a lark by the spineless governor of his state. He is reunited with the state's senior senator--presidential hopeful and childhood hero, Senator Joseph Paine. In Washington, however, Smith discovers many of the shortcomings of the political process as his earnest goal of a national boys' camp leads to a conflict with the state political boss, Jim Taylor. Taylor first tries to corrupt Smith and then later attempts to destroy Smith through a scandal.",
+    "plotLocal": "",
+    "plotLocalIsRtl": false,
+    "awards": "Top Rated Movies #204 | Won 1 Oscar. Another 5 wins & 16 nominations.",
+    "directors": "Frank Capra",
+    "directorList": [{ "id": "nm0001008", "name": "Frank Capra" }],
+    "writers": "Sidney Buchman, Lewis R. Foster, Myles Connolly",
+    "writerList": [
+        { "id": "nm0118227", "name": "Sidney Buchman" },
+        { "id": "nm0287931", "name": "Lewis R. Foster" },
+        { "id": "nm0175333", "name": "Myles Connolly" }
+    ],
+    "stars": "James Stewart, Jean Arthur, Claude Rains, Edward Arnold",
+    "starList": [
+        { "id": "nm0000071", "name": "James Stewart" },
+        { "id": "nm0000795", "name": "Jean Arthur" },
+        { "id": "nm0001647", "name": "Claude Rains" },
+        { "id": "nm0036427", "name": "Edward Arnold" }
+    ],
+    "actorList": [
+        {
+            "id": "nm0000795",
+            "image": "https://imdb-api.com/images/original/MV5BMTQ2NDczNTA1N15BMl5BanBnXkFtZTYwNjk2MjI2._V1_Ratio0.7727_AL_.jpg",
+            "name": "Jean Arthur",
+            "asCharacter": "Saunders"
+        },
+        {
+            "id": "nm0000071",
+            "image": "https://imdb-api.com/images/original/MV5BMjIwNzMzODY0NV5BMl5BanBnXkFtZTcwMDk3NDQyOA@@._V1_Ratio0.7727_AL_.jpg",
+            "name": "James Stewart",
+            "asCharacter": "Jefferson Smith"
+        },
+        {
+            "id": "nm0001647",
+            "image": "https://imdb-api.com/images/original/MV5BMTQwNDc3NjQ1OF5BMl5BanBnXkFtZTcwMjQ0NjI5Nw@@._V1_Ratio0.7273_AL_.jpg",
+            "name": "Claude Rains",
+            "asCharacter": "Senator Joseph Paine"
+        },
+        {
+            "id": "nm0036427",
+            "image": "https://imdb-api.com/images/original/MV5BMjE2NjY2NDQ5OV5BMl5BanBnXkFtZTcwNTQ4MjYwOA@@._V1_Ratio0.7727_AL_.jpg",
+            "name": "Edward Arnold",
+            "asCharacter": "Jim Taylor"
+        },
+        {
+            "id": "nm0452128",
+            "image": "https://imdb-api.com/images/original/MV5BYTZkNjAzZjItMzkyNC00NjFhLTlmNWItYmNhYTI4ODIyNDQ2XkEyXkFqcGdeQXVyMzI5NDcxNzI@._V1_Ratio0.8636_AL_.jpg",
+            "name": "Guy Kibbee",
+            "asCharacter": "Governor Hopper"
+        },
+        {
+            "id": "nm0593775",
+            "image": "https://imdb-api.com/images/original/MV5BOTcwNjAwMDI2M15BMl5BanBnXkFtZTcwNDMyNTUwOA@@._V1_Ratio0.7273_AL_.jpg",
+            "name": "Thomas Mitchell",
+            "asCharacter": "Diz Moore"
+        },
+        {
+            "id": "nm0657874",
+            "image": "https://imdb-api.com/images/original/MV5BMTM5Nzk5NzA2NF5BMl5BanBnXkFtZTcwNTI1MDQxOA@@._V1_Ratio0.7273_AL_.jpg",
+            "name": "Eugene Pallette",
+            "asCharacter": "Chick McGann"
+        },
+        {
+            "id": "nm0094135",
+            "image": "https://imdb-api.com/images/original/MV5BMjAyODAzNTIyOF5BMl5BanBnXkFtZTcwMzEwNjk5Nw@@._V1_Ratio0.7273_AL_.jpg",
+            "name": "Beulah Bondi",
+            "asCharacter": "Ma Smith"
+        },
+        {
+            "id": "nm0912478",
+            "image": "https://imdb-api.com/images/original/MV5BMTM1Mjc2NjgwMl5BMl5BanBnXkFtZTcwNTM4NDYwOA@@._V1_Ratio0.7727_AL_.jpg",
+            "name": "H.B. Warner",
+            "asCharacter": "Senate Majority Leader"
+        },
+        {
+            "id": "nm0002503",
+            "image": "https://imdb-api.com/images/original/MV5BODI2MDY3OTExNV5BMl5BanBnXkFtZTcwNjM2NDg5Nw@@._V1_Ratio0.7727_AL_.jpg",
+            "name": "Harry Carey",
+            "asCharacter": "President of the Senate"
+        },
+        {
+            "id": "nm0021667",
+            "image": "https://imdb-api.com/images/original/MV5BYzcyZThmZDUtOTJhNS00MzUzLWI3YTAtNWI5NmQ1MjI4OGFjL2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyMzI5NDcxNzI@._V1_Ratio0.8636_AL_.jpg",
+            "name": "Astrid Allwyn",
+            "asCharacter": "Susan Paine"
+        },
+        {
+            "id": "nm0232766",
+            "image": "https://imdb-api.com/images/original/MV5BYzc3ZmE0YzAtNmQ1Yi00MTExLWFiNjEtZGY5NjkyNzZiYmU4XkEyXkFqcGdeQXVyMzI5NDcxNzI@._V1_Ratio0.7727_AL_.jpg",
+            "name": "Ruth Donnelly",
+            "asCharacter": "Mrs. Hopper"
+        },
+        {
+            "id": "nm0593372",
+            "image": "https://imdb-api.com/images/original/MV5BMjE4MjYzODAyOV5BMl5BanBnXkFtZTcwNDAxNDMxOA@@._V1_Ratio0.7273_AL_.jpg",
+            "name": "Grant Mitchell",
+            "asCharacter": "Senator MacPherson"
+        },
+        {
+            "id": "nm0356004",
+            "image": "https://imdb-api.com/images/original/MV5BMTUxOTQ4YTktN2YxNS00NjJmLWFlZWItOTBlMjEzZmM3MzdjXkEyXkFqcGdeQXVyMjUxODE0MDY@._V1_Ratio0.8182_AL_.jpg",
+            "name": "Porter Hall",
+            "asCharacter": "Senator Monroe"
+        },
+        {
+            "id": "nm0436225",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "H.V. Kaltenborn",
+            "asCharacter": "H.V. Kaltenborn"
+        }
+    ],
+    "fullCast": null,
+    "genres": "Comedy, Drama",
+    "genreList": [
+        { "key": "Comedy", "value": "Comedy" },
+        { "key": "Drama", "value": "Drama" }
+    ],
+    "companies": "Columbia Pictures",
+    "companyList": [{ "id": "co0050868", "name": "Columbia Pictures" }],
+    "countries": "USA",
+    "countryList": [{ "key": "USA", "value": "USA" }],
+    "languages": "English",
+    "languageList": [{ "key": "English", "value": "English" }],
+    "contentRating": "Passed",
+    "imDbRating": "8.1",
+    "imDbRatingVotes": "108169",
+    "metacriticRating": "73",
+    "ratings": null,
+    "wikipedia": null,
+    "posters": {
+        "imDbId": "tt0031679",
+        "title": "Mr. Smith Goes to Washington",
+        "fullTitle": "Mr. Smith Goes to Washington (1939)",
+        "type": "Movie",
+        "year": "1939",
+        "posters": [
+            {
+                "id": "994cgAiauYUkkwsikMOjnvaLhxk.jpg",
+                "link": "https://imdb-api.com/posters/original/994cgAiauYUkkwsikMOjnvaLhxk.jpg",
+                "aspectRatio": 0.6666666666666666,
+                "language": "en",
+                "width": 2000,
+                "height": 3000
+            },
+            {
+                "id": "fLKV2I29ujduadRaeXZxnXOxorh.jpg",
+                "link": "https://imdb-api.com/posters/original/fLKV2I29ujduadRaeXZxnXOxorh.jpg",
+                "aspectRatio": 0.6666666666666666,
+                "language": "en",
+                "width": 1000,
+                "height": 1500
+            },
+            {
+                "id": "cCKNvWulg77VyQku68bBnC2Jixs.jpg",
+                "link": "https://imdb-api.com/posters/original/cCKNvWulg77VyQku68bBnC2Jixs.jpg",
+                "aspectRatio": 0.6666666666666666,
+                "language": "en",
+                "width": 1616,
+                "height": 2424
+            },
+            {
+                "id": "kc2fCxZxohcx5TxMQl9y2PuwQY5.jpg",
+                "link": "https://imdb-api.com/posters/original/kc2fCxZxohcx5TxMQl9y2PuwQY5.jpg",
+                "aspectRatio": 0.6666666666666666,
+                "language": "en",
+                "width": 1000,
+                "height": 1500
+            },
+            {
+                "id": "7uCGwdfHyzGP1AN0NiKdIeH3eNa.jpg",
+                "link": "https://imdb-api.com/posters/original/7uCGwdfHyzGP1AN0NiKdIeH3eNa.jpg",
+                "aspectRatio": 0.6591606960081884,
+                "language": "en",
+                "width": 644,
+                "height": 977
+            },
+            {
+                "id": "j56EMJ3oZA3jMRjYGW2AZRE8B6h.jpg",
+                "link": "https://imdb-api.com/posters/original/j56EMJ3oZA3jMRjYGW2AZRE8B6h.jpg",
+                "aspectRatio": 0.65125,
+                "language": "en",
+                "width": 521,
+                "height": 800
+            },
+            {
+                "id": "lt4ErJg8FIEZte6Z2pPTf5PG4vy.jpg",
+                "link": "https://imdb-api.com/posters/original/lt4ErJg8FIEZte6Z2pPTf5PG4vy.jpg",
+                "aspectRatio": 0.64375,
+                "language": "en",
+                "width": 515,
+                "height": 800
+            },
+            {
+                "id": "qZfL7UDj6KtkvAAQ5sv0v8ITKyM.jpg",
+                "link": "https://imdb-api.com/posters/original/qZfL7UDj6KtkvAAQ5sv0v8ITKyM.jpg",
+                "aspectRatio": 0.6809815950920245,
+                "language": "en",
+                "width": 666,
+                "height": 978
+            },
+            {
+                "id": "f8wHwscANxMJmMtanBrnOHceQrW.jpg",
+                "link": "https://imdb-api.com/posters/original/f8wHwscANxMJmMtanBrnOHceQrW.jpg",
+                "aspectRatio": 0.6665430267062314,
+                "language": "en",
+                "width": 1797,
+                "height": 2696
+            },
+            {
+                "id": "32qqy7sbHZcYCaaH5u7uLzwNw9w.jpg",
+                "link": "https://imdb-api.com/posters/original/32qqy7sbHZcYCaaH5u7uLzwNw9w.jpg",
+                "aspectRatio": 0.6665410700828938,
+                "language": "en",
+                "width": 1769,
+                "height": 2654
+            },
+            {
+                "id": "nDjg1fbNyq15excNDl3acd2IqAk.jpg",
+                "link": "https://imdb-api.com/posters/original/nDjg1fbNyq15excNDl3acd2IqAk.jpg",
+                "aspectRatio": 0.6666666666666666,
+                "language": "en",
+                "width": 1000,
+                "height": 1500
+            },
+            {
+                "id": "2gJLSn3ipt3gDRfwOxXRraH6YtM.jpg",
+                "link": "https://imdb-api.com/posters/original/2gJLSn3ipt3gDRfwOxXRraH6YtM.jpg",
+                "aspectRatio": 0.6666666666666666,
+                "language": "en",
+                "width": 2000,
+                "height": 3000
+            },
+            {
+                "id": "vH7bPSZatGNhk0h53gs7rqTuBQF.jpg",
+                "link": "https://imdb-api.com/posters/original/vH7bPSZatGNhk0h53gs7rqTuBQF.jpg",
+                "aspectRatio": 0.6666666666666666,
+                "language": "en",
+                "width": 1718,
+                "height": 2577
+            },
+            {
+                "id": "uRwpLLbNqqlOkjRSdDdLDithSNU.jpg",
+                "link": "https://imdb-api.com/posters/original/uRwpLLbNqqlOkjRSdDdLDithSNU.jpg",
+                "aspectRatio": 0.6666666666666666,
+                "language": "en",
+                "width": 1000,
+                "height": 1500
+            },
+            {
+                "id": "3n6e9FxbvaMzdJXh95GTG0Y66iO.jpg",
+                "link": "https://imdb-api.com/posters/original/3n6e9FxbvaMzdJXh95GTG0Y66iO.jpg",
+                "aspectRatio": 0.7190721649484536,
+                "language": "en",
+                "width": 837,
+                "height": 1164
+            },
+            {
+                "id": "nY3kpXn547z6mg9ETAlIzE3hCFn.jpg",
+                "link": "https://imdb-api.com/posters/original/nY3kpXn547z6mg9ETAlIzE3hCFn.jpg",
+                "aspectRatio": 0.6666666666666666,
+                "language": "en",
+                "width": 1000,
+                "height": 1500
+            }
+        ],
+        "backdrops": [
+            {
+                "id": "1uOpPfARvbEf1TQfRGadWHhQqJH.jpg",
+                "link": "https://imdb-api.com/posters/original/1uOpPfARvbEf1TQfRGadWHhQqJH.jpg",
+                "aspectRatio": 1.776731674512441,
+                "language": "en",
+                "width": 2642,
+                "height": 1487
+            },
+            {
+                "id": "t5u38K9NDS9Rri0NDhr9ZgAjShd.jpg",
+                "link": "https://imdb-api.com/posters/original/t5u38K9NDS9Rri0NDhr9ZgAjShd.jpg",
+                "aspectRatio": 1.7776510832383123,
+                "language": "en",
+                "width": 1559,
+                "height": 877
+            },
+            {
+                "id": "qCAcpQiuREBc3cSxKRjMgGggHG8.jpg",
+                "link": "https://imdb-api.com/posters/original/qCAcpQiuREBc3cSxKRjMgGggHG8.jpg",
+                "aspectRatio": 1.7777049180327869,
+                "language": "en",
+                "width": 2711,
+                "height": 1525
+            },
+            {
+                "id": "kfTZdHpmNPvhbN8wZ1prWZ9vCWK.jpg",
+                "link": "https://imdb-api.com/posters/original/kfTZdHpmNPvhbN8wZ1prWZ9vCWK.jpg",
+                "aspectRatio": 1.7768871075484303,
+                "language": "en",
+                "width": 2660,
+                "height": 1497
+            },
+            {
+                "id": "ymgCnPxic0dFagzsK4RX1tIPjE5.jpg",
+                "link": "https://imdb-api.com/posters/original/ymgCnPxic0dFagzsK4RX1tIPjE5.jpg",
+                "aspectRatio": 1.776797829036635,
+                "language": "en",
+                "width": 2619,
+                "height": 1474
+            },
+            {
+                "id": "LsRyTQBvthanJcGJABh3va5E2A.jpg",
+                "link": "https://imdb-api.com/posters/original/LsRyTQBvthanJcGJABh3va5E2A.jpg",
+                "aspectRatio": 1.7766599597585513,
+                "language": "en",
+                "width": 2649,
+                "height": 1491
+            },
+            {
+                "id": "9AjG0YJLgDUtHl5KgrThHPhNNwZ.jpg",
+                "link": "https://imdb-api.com/posters/original/9AjG0YJLgDUtHl5KgrThHPhNNwZ.jpg",
+                "aspectRatio": 1.7769541778975741,
+                "language": "en",
+                "width": 2637,
+                "height": 1484
+            },
+            {
+                "id": "pVrjlemfUGXUuUuX90L2PoH4bAJ.jpg",
+                "link": "https://imdb-api.com/posters/original/pVrjlemfUGXUuUuX90L2PoH4bAJ.jpg",
+                "aspectRatio": 1.7761529808773904,
+                "language": "en",
+                "width": 1579,
+                "height": 889
+            }
+        ],
+        "errorMessage": ""
+    },
+    "images": {
+        "imDbId": "tt0031679",
+        "title": "Mr. Smith Goes to Washington",
+        "fullTitle": "Mr. Smith Goes to Washington (1939)",
+        "type": "Movie",
+        "year": "1939",
+        "items": [
+            {
+                "title": "James Stewart in Mr. Smith Goes to Washington (1939)",
+                "image": "https://imdb-api.com/images/original/MV5BMzU4ZTY4N2ItZDM3MS00YTc0LWJhNmItYzEzZmEyNjk4ZDFkXkEyXkFqcGdeQXVyMDM2NDM2MQ@@._V1_Ratio1.2400_AL_.jpg"
+            },
+            {
+                "title": "James Stewart in Mr. Smith Goes to Washington (1939)",
+                "image": "https://imdb-api.com/images/original/MV5BMjQwMTU5NzA5Ml5BMl5BanBnXkFtZTgwNjk4Nzc5MTE@._V1_Ratio1.3600_AL_.jpg"
+            },
+            {
+                "title": "James Stewart and Jean Arthur in Mr. Smith Goes to Washington (1939)",
+                "image": "https://imdb-api.com/images/original/MV5BODEyMDE5MzQ4OV5BMl5BanBnXkFtZTgwNTk4Nzc5MTE@._V1_Ratio1.1800_AL_.jpg"
+            },
+            {
+                "title": "James Stewart, Beulah Bondi, Ruth Donnelly, and Guy Kibbee in Mr. Smith Goes to Washington (1939)",
+                "image": "https://imdb-api.com/images/original/MV5BMTkxMzMxNzY1MV5BMl5BanBnXkFtZTcwMjEwNjk5Nw@@._V1_Ratio1.2400_AL_.jpg"
+            },
+            {
+                "title": "\"Mr. Smith Goes to Washington\" Frank Capra, James Stewart 1939 Columbia",
+                "image": "https://imdb-api.com/images/original/MV5BOTU5ODEwODY1NV5BMl5BanBnXkFtZTcwNDgzNDU3NQ@@._V1_Ratio1.3200_AL_.jpg"
+            },
+            {
+                "title": "\"Mr. Smith Goes to Washington\" Beulah Bondi, Guy Kibbee, James Stewart 1939 Columbia",
+                "image": "https://imdb-api.com/images/original/MV5BMTMxMTI5MTUyOV5BMl5BanBnXkFtZTcwNTgzNDU3NQ@@._V1_Ratio1.3000_AL_.jpg"
+            },
+            {
+                "title": "\"Mr. Smith Goes to Washington\" James Stewart, Jean Arthur 1939 Columbia",
+                "image": "https://imdb-api.com/images/original/MV5BMTA1NDMzMTc5NTNeQTJeQWpwZ15BbWU3MDc4MzQ1NzU@._V1_Ratio1.3200_AL_.jpg"
+            },
+            {
+                "title": "\"Mr. Smith Goes to Washington\" Jean Arthur, James Stewart, Thomas Mitchell 1939 Columbia",
+                "image": "https://imdb-api.com/images/original/MV5BMTQ1MDA4MzY0OF5BMl5BanBnXkFtZTcwODgzNDU3NQ@@._V1_Ratio1.3400_AL_.jpg"
+            },
+            {
+                "title": "\"Mr. Smith Goes to Washington\" James Stewart 1939 Columbia",
+                "image": "https://imdb-api.com/images/original/MV5BMTg0MTAwMDU0OV5BMl5BanBnXkFtZTcwOTgzNDU3NQ@@._V1_Ratio1.3200_AL_.jpg"
+            },
+            {
+                "title": "\"Mr. Smith Goes to Washington\" Claude Rains, James Stewart, 1939 Columbia",
+                "image": "https://imdb-api.com/images/original/MV5BMTMyNDExNTU1NF5BMl5BanBnXkFtZTcwMTkzNDU3NQ@@._V1_Ratio1.2800_AL_.jpg"
+            },
+            {
+                "title": "\"Mr. Smith Goes to Washington\" James Stewart, Claude Rains and Cast 1939 Columbia",
+                "image": "https://imdb-api.com/images/original/MV5BMTk5ODU0ODQ4MF5BMl5BanBnXkFtZTcwNDkzNDU3NQ@@._V1_Ratio1.3200_AL_.jpg"
+            },
+            {
+                "title": "\"Mr. Smith Goes to Washington\" James Stewart, Jean Arthur, Frank Capra 1939 Columbia",
+                "image": "https://imdb-api.com/images/original/MV5BMTUxNDk5MzI1OF5BMl5BanBnXkFtZTcwNTkzNDU3NQ@@._V1_Ratio1.3400_AL_.jpg"
+            },
+            {
+                "title": "\"Mr. Smith Goes to Washington\" Claude Rains, James Stewart 1939 Columbia",
+                "image": "https://imdb-api.com/images/original/MV5BMTQxMjc3MzQ1NF5BMl5BanBnXkFtZTcwNjkzNDU3NQ@@._V1_Ratio1.3000_AL_.jpg"
+            },
+            {
+                "title": "\"Mr. Smith Goes to Washington\" James Stewart 1939 Columbia",
+                "image": "https://imdb-api.com/images/original/MV5BMTMwOTcwNTgxOV5BMl5BanBnXkFtZTcwNzkzNDU3NQ@@._V1_Ratio1.3200_AL_.jpg"
+            },
+            {
+                "title": "Jean Arthur, Jack Carson, and Thomas Mitchell in Mr. Smith Goes to Washington (1939)",
+                "image": "https://imdb-api.com/images/original/MV5BMTU3NDAxODY3N15BMl5BanBnXkFtZTcwMzIyNTUwOA@@._V1_Ratio1.3400_AL_.jpg"
+            },
+            {
+                "title": "Mr. Smith Goes to Washington (1939)",
+                "image": "https://imdb-api.com/images/original/MV5BYWE1MGM3NTMtZmRmZi00NjY3LWFkNjktYWRkM2EwZTkxZDRiXkEyXkFqcGdeQXVyMTYzMDM0NTU@._V1_Ratio1.0000_AL_.jpg"
+            },
+            {
+                "title": "James Stewart in Mr. Smith Goes to Washington (1939)",
+                "image": "https://imdb-api.com/images/original/MV5BMTM0MDQ5NjM2MF5BMl5BanBnXkFtZTcwMDY0MzQ2Mw@@._V1_Ratio1.0000_AL_.jpg"
+            },
+            {
+                "title": "Mr. Smith Goes to Washington (1939)",
+                "image": "https://imdb-api.com/images/original/MV5BNzkyNjM2NTkxMF5BMl5BanBnXkFtZTYwOTU3MjI5._V1_Ratio1.0000_AL_.jpg"
+            },
+            {
+                "title": "Mr. Smith Goes to Washington (1939)",
+                "image": "https://imdb-api.com/images/original/MV5BOTA5NjMwOTg0OV5BMl5BanBnXkFtZTYwMjQ1MjY5._V1_Ratio1.0000_AL_.jpg"
+            },
+            {
+                "title": "Mr. Smith Goes to Washington (1939)",
+                "image": "https://imdb-api.com/images/original/MV5BMTI1MTQzMjQxN15BMl5BanBnXkFtZTYwMjg1MDc5._V1_Ratio1.0000_AL_.jpg"
+            },
+            {
+                "title": "Mr. Smith Goes to Washington (1939)",
+                "image": "https://imdb-api.com/images/original/MV5BMTIzNzA3MTcwNl5BMl5BanBnXkFtZTYwNTY1Mzc5._V1_Ratio1.0000_AL_.jpg"
+            },
+            {
+                "title": "Mr. Smith Goes to Washington (1939)",
+                "image": "https://imdb-api.com/images/original/MV5BMTU2NjQzNTM4N15BMl5BanBnXkFtZTYwOTAzNDc5._V1_Ratio1.0000_AL_.jpg"
+            },
+            {
+                "title": "Mr. Smith Goes to Washington (1939)",
+                "image": "https://imdb-api.com/images/original/MV5BMTIxOTc3OTQ2Ml5BMl5BanBnXkFtZTcwNTIwNjUyMQ@@._V1_Ratio1.0000_AL_.jpg"
+            },
+            {
+                "title": "Jean Arthur in Mr. Smith Goes to Washington (1939)",
+                "image": "https://imdb-api.com/images/original/MV5BNjNmMzQ2M2EtMmZiNy00ZWE3LWIxODUtN2UzODA0NmJkY2E1XkEyXkFqcGdeQXVyMTE4MDg3NTIz._V1_Ratio1.3600_AL_.jpg"
+            },
+            {
+                "title": "Claude Rains in Mr. Smith Goes to Washington (1939)",
+                "image": "https://imdb-api.com/images/original/MV5BMWRlNmQwOTctOTIwOS00ODJiLWFiNTItY2E3NDYyM2YzYzU4XkEyXkFqcGdeQXVyMTE4MDg3NTIz._V1_Ratio1.3600_AL_.jpg"
+            },
+            {
+                "title": "James Stewart in Mr. Smith Goes to Washington (1939)",
+                "image": "https://imdb-api.com/images/original/MV5BMTI0ZTA1ODItODliNy00NDEzLWExZmUtYmRjOWQzYTVlZTBhXkEyXkFqcGdeQXVyMTE4MDg3NTIz._V1_Ratio1.3600_AL_.jpg"
+            },
+            {
+                "title": "Mr. Smith Goes to Washington (1939)",
+                "image": "https://imdb-api.com/images/original/MV5BYjI5Njc5NGEtODY4NC00MjZjLWI5ZGEtNDVhMTg1YTJkYmE3XkEyXkFqcGdeQXVyMTE4MDg3NTIz._V1_Ratio1.3600_AL_.jpg"
+            },
+            {
+                "title": "Georgia Caine in Mr. Smith Goes to Washington (1939)",
+                "image": "https://imdb-api.com/images/original/MV5BMTlkYzVhZTItNmU2MS00N2Q1LTlhODktZTU4ZDRiYmQ1YzgyXkEyXkFqcGdeQXVyMTAwNTQ4ODU3._V1_Ratio1.3600_AL_.jpg"
+            },
+            {
+                "title": "James Stewart and Beulah Bondi in Mr. Smith Goes to Washington (1939)",
+                "image": "https://imdb-api.com/images/original/MV5BYTAwNGNkMGMtYzY1Mi00NTI2LTgxMjMtZDA0MjI4Yzg5OGZmXkEyXkFqcGdeQXVyNTU1OTUzNDg@._V1_Ratio1.3800_AL_.jpg"
+            },
+            {
+                "title": "James Stewart and Astrid Allwyn in Mr. Smith Goes to Washington (1939)",
+                "image": "https://imdb-api.com/images/original/MV5BNDVjMzdmYzktMWMwNC00YmJiLTk2MTYtYzU1ZGFmNjdlMzcxXkEyXkFqcGdeQXVyNTU1OTUzNDg@._V1_Ratio1.3800_AL_.jpg"
+            },
+            {
+                "title": "James Stewart and Jean Arthur in Mr. Smith Goes to Washington (1939)",
+                "image": "https://imdb-api.com/images/original/MV5BNDI3NzMwZDQtNDVkNC00ZTk1LWEzZDQtNzk4NWU1ZTYxNzhlXkEyXkFqcGdeQXVyNTU1OTUzNDg@._V1_Ratio1.3800_AL_.jpg"
+            },
+            {
+                "title": "James Stewart in Mr. Smith Goes to Washington (1939)",
+                "image": "https://imdb-api.com/images/original/MV5BYjA1YWZmNjEtOTYxMC00ZTFkLWE3MTAtNGQ3ODJhODZjNmMzXkEyXkFqcGdeQXVyNTU1OTUzNDg@._V1_Ratio1.3800_AL_.jpg"
+            },
+            {
+                "title": "James Stewart in Mr. Smith Goes to Washington (1939)",
+                "image": "https://imdb-api.com/images/original/MV5BMTY3OGU4YzktOThmZS00ZDA5LTg3ZmItZDMwNTA4OTU1Y2MzXkEyXkFqcGdeQXVyNTU1OTUzNDg@._V1_Ratio1.3800_AL_.jpg"
+            },
+            {
+                "title": "James Stewart and Jean Arthur in Mr. Smith Goes to Washington (1939)",
+                "image": "https://imdb-api.com/images/original/MV5BZjZiNjAzOTYtMjk2Yy00ODE3LWE0MWMtZDMzZjJiMDVkYzA1XkEyXkFqcGdeQXVyNTU1OTUzNDg@._V1_Ratio1.3800_AL_.jpg"
+            },
+            {
+                "title": "Jean Arthur in Mr. Smith Goes to Washington (1939)",
+                "image": "https://imdb-api.com/images/original/MV5BZWJkNjg2YWQtMWRjZi00OWRiLThkMWItOGIwNjRkNjJkZGJhXkEyXkFqcGdeQXVyNTU1OTUzNDg@._V1_Ratio1.3800_AL_.jpg"
+            },
+            {
+                "title": "James Stewart in Mr. Smith Goes to Washington (1939)",
+                "image": "https://imdb-api.com/images/original/MV5BMDkxNjU0NDYtMTExYS00ODRlLWI1MTQtYWM2NjY0Y2UwMDBhXkEyXkFqcGdeQXVyNTU1OTUzNDg@._V1_Ratio1.3800_AL_.jpg"
+            },
+            {
+                "title": "James Stewart in Mr. Smith Goes to Washington (1939)",
+                "image": "https://imdb-api.com/images/original/MV5BMTlmNThiMjUtNmQ3NS00OWNkLWFjYTYtNzUzNTUyZTJiNGRlXkEyXkFqcGdeQXVyNTU1OTUzNDg@._V1_Ratio1.3800_AL_.jpg"
+            },
+            {
+                "title": "James Stewart and Jean Arthur in Mr. Smith Goes to Washington (1939)",
+                "image": "https://imdb-api.com/images/original/MV5BNDJiODI2MDQtZjFjOS00ZjRhLTgyYzQtMWNkNWQ5ZWQ3ZjRmXkEyXkFqcGdeQXVyNTU1OTUzNDg@._V1_Ratio1.3800_AL_.jpg"
+            },
+            {
+                "title": "Astrid Allwyn in Mr. Smith Goes to Washington (1939)",
+                "image": "https://imdb-api.com/images/original/MV5BOTQ1MWJiMzAtNWE4ZS00MWRkLWJlZjctNjJkYzNjYWU1ZWVmXkEyXkFqcGdeQXVyNTU1OTUzNDg@._V1_Ratio1.3800_AL_.jpg"
+            },
+            {
+                "title": "James Stewart in Mr. Smith Goes to Washington (1939)",
+                "image": "https://imdb-api.com/images/original/MV5BMTliMmY4MDQtMWVkZS00ODFkLTliZGItNGI5MmFjMGQ3ZTZkXkEyXkFqcGdeQXVyNTU1OTUzNDg@._V1_Ratio1.3800_AL_.jpg"
+            },
+            {
+                "title": "James Stewart and Astrid Allwyn in Mr. Smith Goes to Washington (1939)",
+                "image": "https://imdb-api.com/images/original/MV5BZGZlMWNlNGYtN2FjMS00OTdlLTlmNjUtZWVlODRkMmJkZjE2XkEyXkFqcGdeQXVyNTU1OTUzNDg@._V1_Ratio1.3800_AL_.jpg"
+            },
+            {
+                "title": "James Stewart in Mr. Smith Goes to Washington (1939)",
+                "image": "https://imdb-api.com/images/original/MV5BOGMzZGVhNjktZjllOS00YWM5LTlkZWUtNGY0OTIwYmExYzFkXkEyXkFqcGdeQXVyNTU1OTUzNDg@._V1_Ratio1.3800_AL_.jpg"
+            },
+            {
+                "title": "James Stewart and Claude Rains in Mr. Smith Goes to Washington (1939)",
+                "image": "https://imdb-api.com/images/original/MV5BZWY1YTIzM2ItMTcwOC00MDdlLTg3M2MtYTYyZTdmMjk5NWQ1XkEyXkFqcGdeQXVyNTU1OTUzNDg@._V1_Ratio1.3800_AL_.jpg"
+            },
+            {
+                "title": "Jean Arthur and Thomas Mitchell in Mr. Smith Goes to Washington (1939)",
+                "image": "https://imdb-api.com/images/original/MV5BNDI3NDljMDAtYWIzZi00YjFkLWJlMGUtZGIwOThlNGRhYjJjXkEyXkFqcGdeQXVyNTU1OTUzNDg@._V1_Ratio1.3800_AL_.jpg"
+            },
+            {
+                "title": "James Stewart in Mr. Smith Goes to Washington (1939)",
+                "image": "https://imdb-api.com/images/original/MV5BY2FiMTA1MmItNzQ3Yy00MzllLTlhMzYtYWMwZWQ2YjZiNjc3XkEyXkFqcGdeQXVyNTU1OTUzNDg@._V1_Ratio1.3800_AL_.jpg"
+            },
+            {
+                "title": "Jean Arthur in Mr. Smith Goes to Washington (1939)",
+                "image": "https://imdb-api.com/images/original/MV5BNDJjNmQyZGQtODZiNi00YjIzLTg1NjItMzcwOTIyZDRkMzllXkEyXkFqcGdeQXVyNTU1OTUzNDg@._V1_Ratio1.3800_AL_.jpg"
+            },
+            {
+                "title": "Harry Carey in Mr. Smith Goes to Washington (1939)",
+                "image": "https://imdb-api.com/images/original/MV5BYTE0NGY4MzctYTA4OC00ZTMxLTk5YmMtMDZkNzVjMmM2NWJlXkEyXkFqcGdeQXVyNTU1OTUzNDg@._V1_Ratio1.3800_AL_.jpg"
+            },
+            {
+                "title": "James Stewart and Beulah Bondi in Mr. Smith Goes to Washington (1939)",
+                "image": "https://imdb-api.com/images/original/MV5BODVlOGNhOTYtNmM4MC00YmY3LWEwYjQtNWQ3OTU1NjE5MWVlXkEyXkFqcGdeQXVyMTA1NTgxOTY0._V1_Ratio1.7800_AL_.jpg"
+            }
+        ],
+        "errorMessage": ""
+    },
+    "trailer": {
+        "imDbId": "tt0031679",
+        "title": "Mr. Smith Goes to Washington",
+        "fullTitle": "Mr. Smith Goes to Washington (1939)",
+        "type": "Movie",
+        "year": "1939",
+        "videoId": "vi1789722905",
+        "videoTitle": "Mr. Smith Goes To Washington",
+        "videoDescription": "Home Video Trailer from Columbia Tristar",
+        "thumbnailUrl": "https://m.media-amazon.com/images/M/MV5BODk2OWM4YmQtNmU1Ny00N2ZkLThjMzctYTI0Mzc1M2UyYTUyXkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg",
+        "uploadDate": "04/11/2008 14:26:47",
+        "link": "https://www.imdb.com/video/vi1789722905",
+        "linkEmbed": "https://www.imdb.com/video/imdb/vi1789722905/imdb/embed",
+        "errorMessage": ""
+    },
+    "boxOffice": {
+        "budget": "$1,900,000 (estimated)",
+        "openingWeekendUSA": "$83,205, 14 October 2018",
+        "grossUSA": "$144,738",
+        "cumulativeWorldwideGross": "$144,738"
+    },
+    "tagline": "Capra at his greatest!",
+    "keywords": "u.s. senator,filibuster,national film registry,afi,children",
+    "keywordList": [
+        "u.s. senator",
+        "filibuster",
+        "national film registry",
+        "afi",
+        "children"
+    ],
+    "similars": [
+        {
+            "id": "tt0025316",
+            "title": "It Happened One Night",
+            "fullTitle": "It Happened One Night (1934)",
+            "year": "1934",
+            "image": "https://imdb-api.com/images/original/MV5BYzJmMWE5NjAtNWMyZS00NmFiLWIwMDgtZDE2NzczYWFhNzIzXkEyXkFqcGdeQXVyNjc1NTYyMjg@._V1_Ratio0.6737_AL_.jpg",
+            "plot": "A renegade reporter and a crazy young heiress meet on a bus heading for New York, and end up stuck with each other when the bus leaves them behind at one of the stops.",
+            "directors": "Frank Capra",
+            "stars": "Clark Gable, Claudette Colbert, Walter Connolly",
+            "genres": "Comedy, Romance",
+            "imDbRating": "8.1"
+        },
+        {
+            "id": "tt0032904",
+            "title": "The Philadelphia Story",
+            "fullTitle": "The Philadelphia Story (1940)",
+            "year": "1940",
+            "image": "https://imdb-api.com/images/original/MV5BYjQ4ZDA4NGMtMTkwYi00NThiLThhZDUtZTEzNTAxOWYyY2E4XkEyXkFqcGdeQXVyMjUxODE0MDY@._V1_Ratio0.6737_AL_.jpg",
+            "plot": "When a rich woman's ex-husband and a tabloid-type reporter turn up just before her planned remarriage, she begins to learn the truth about herself.",
+            "directors": "George Cukor",
+            "stars": "Cary Grant, Katharine Hepburn, James Stewart",
+            "genres": "Comedy, Romance",
+            "imDbRating": "7.9"
+        },
+        {
+            "id": "tt0040897",
+            "title": "The Treasure of the Sierra Madre",
+            "fullTitle": "The Treasure of the Sierra Madre (1948)",
+            "year": "1948",
+            "image": "https://imdb-api.com/images/original/MV5BOTJlZWMxYzEtMjlkMS00ODE0LThlM2ItMDI3NGQ2YjhmMzkxXkEyXkFqcGdeQXVyMDI2NDg0NQ@@._V1_Ratio0.6737_AL_.jpg",
+            "plot": "Two Americans searching for work in Mexico convince an old prospector to help them mine for gold in the Sierra Madre Mountains.",
+            "directors": "John Huston",
+            "stars": "Humphrey Bogart, Walter Huston, Tim Holt",
+            "genres": "Certificate: Passed Adventure, Drama, Western",
+            "imDbRating": "8.2"
+        },
+        {
+            "id": "tt0027996",
+            "title": "Mr. Deeds Goes to Town",
+            "fullTitle": "Mr. Deeds Goes to Town (1936)",
+            "year": "1936",
+            "image": "https://imdb-api.com/images/original/MV5BNzdiMDVkNmMtNDI0Ny00MTQ5LWEwNjAtODQxOGNjOTZmMGVmL2ltYWdlXkEyXkFqcGdeQXVyMDI2NDg0NQ@@._V1_Ratio0.6737_AL_.jpg",
+            "plot": "A simple small-town man inherits a massive fortune and is immediately hounded by those who wish to take advantage of him.",
+            "directors": "Frank Capra",
+            "stars": "Gary Cooper, Jean Arthur, George Bancroft",
+            "genres": "Comedy, Drama, Romance",
+            "imDbRating": "7.9"
+        },
+        {
+            "id": "tt0036775",
+            "title": "Double Indemnity",
+            "fullTitle": "Double Indemnity (1944)",
+            "year": "1944",
+            "image": "https://imdb-api.com/images/original/MV5BOTdlNjgyZGUtOTczYi00MDdhLTljZmMtYTEwZmRiOWFkYjRhXkEyXkFqcGdeQXVyNDY2MTk1ODk@._V1_Ratio0.6737_AL_.jpg",
+            "plot": "An insurance representative lets himself be talked by a seductive housewife into a murder/insurance fraud scheme that arouses the suspicion of an insurance investigator.",
+            "directors": "Billy Wilder",
+            "stars": "Fred MacMurray, Barbara Stanwyck, Edward G. Robinson",
+            "genres": "Certificate: Passed Crime, Drama, Film-Noir",
+            "imDbRating": "8.3"
+        },
+        {
+            "id": "tt0032976",
+            "title": "Rebecca",
+            "fullTitle": "Rebecca (1940)",
+            "year": "1940",
+            "image": "https://imdb-api.com/images/original/MV5BYTcxYWExOTMtMWFmYy00ZjgzLWI0YjktNWEzYzJkZTg0NDdmL2ltYWdlXkEyXkFqcGdeQXVyNjc1NTYyMjg@._V1_Ratio0.6947_AL_.jpg",
+            "plot": "A self-conscious woman juggles adjusting to her new role as an aristocrat's wife and avoiding being intimidated by his first wife's spectral presence.",
+            "directors": "Alfred Hitchcock",
+            "stars": "Laurence Olivier, Joan Fontaine, George Sanders",
+            "genres": "Drama, Mystery, Romance",
+            "imDbRating": "8.1"
+        },
+        {
+            "id": "tt0042192",
+            "title": "All About Eve",
+            "fullTitle": "All About Eve (1950)",
+            "year": "1950",
+            "image": "https://imdb-api.com/images/original/MV5BMTY2MTAzODI5NV5BMl5BanBnXkFtZTgwMjM4NzQ0MjE@._V1_Ratio0.6737_AL_.jpg",
+            "plot": "A seemingly timid but secretly ruthless ingénue insinuates herself into the lives of an aging Broadway star and her circle of theater friends.",
+            "directors": "Joseph L. Mankiewicz",
+            "stars": "Bette Davis, Anne Baxter, George Sanders",
+            "genres": "Certificate: Passed Drama",
+            "imDbRating": "8.2"
+        },
+        {
+            "id": "tt0035446",
+            "title": "To Be or Not to Be",
+            "fullTitle": "To Be or Not to Be (1942)",
+            "year": "1942",
+            "image": "https://imdb-api.com/images/original/MV5BYTIwNDcyMjktMTczMy00NDM5LTlhNDEtMmE3NGVjOTM2YjQ3XkEyXkFqcGdeQXVyNjc0MzMzNjA@._V1_Ratio0.6737_AL_.jpg",
+            "plot": "During the Nazi occupation of Poland, an acting troupe becomes embroiled in a Polish soldier's efforts to track down a German spy.",
+            "directors": "Ernst Lubitsch",
+            "stars": "Carole Lombard, Jack Benny, Robert Stack",
+            "genres": "Certificate: Passed Comedy, War",
+            "imDbRating": "8.2"
+        },
+        {
+            "id": "tt0041959",
+            "title": "The Third Man",
+            "fullTitle": "The Third Man (1949)",
+            "year": "1949",
+            "image": "https://imdb-api.com/images/original/MV5BYjE2OTdhMWUtOGJlMy00ZDViLWIzZjgtYjZkZGZmMDZjYmEyXkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_Ratio0.6737_AL_.jpg",
+            "plot": "Pulp novelist Holly Martins travels to shadowy, postwar Vienna, only to find himself investigating the mysterious death of an old friend, Harry Lime.",
+            "directors": "Carol Reed",
+            "stars": "Orson Welles, Joseph Cotten, Alida Valli",
+            "genres": "Film-Noir, Mystery, Thriller",
+            "imDbRating": "8.1"
+        },
+        {
+            "id": "tt0047296",
+            "title": "On the Waterfront",
+            "fullTitle": "On the Waterfront (1954)",
+            "year": "1954",
+            "image": "https://imdb-api.com/images/original/MV5BY2I0MWFiZDMtNWQyYy00Njk5LTk3MDktZjZjNTNmZmVkYjkxXkEyXkFqcGdeQXVyNjc1NTYyMjg@._V1_Ratio0.6737_AL_.jpg",
+            "plot": "An ex-prize fighter turned longshoreman struggles to stand up to his corrupt union bosses.",
+            "directors": "Elia Kazan",
+            "stars": "Marlon Brando, Karl Malden, Lee J. Cobb",
+            "genres": "Crime, Drama, Thriller",
+            "imDbRating": "8.1"
+        },
+        {
+            "id": "tt0050212",
+            "title": "The Bridge on the River Kwai",
+            "fullTitle": "The Bridge on the River Kwai (1957)",
+            "year": "1957",
+            "image": "https://imdb-api.com/images/original/MV5BOGY5NmNlMmQtYzRlYy00NGQ5LWFkYjYtNzExZmQyMTg0ZDA0XkEyXkFqcGdeQXVyNDIzMzcwNjc@._V1_Ratio0.6737_AL_.jpg",
+            "plot": "British POWs are forced to build a railway bridge across the river Kwai for their Japanese captors, not knowing that the allied forces are planning to destroy it.",
+            "directors": "David Lean",
+            "stars": "William Holden, Alec Guinness, Jack Hawkins",
+            "genres": "Adventure, Drama, War",
+            "imDbRating": "8.1"
+        },
+        {
+            "id": "tt0030993",
+            "title": "You Can't Take It with You",
+            "fullTitle": "You Can't Take It with You (1938)",
+            "year": "1938",
+            "image": "https://imdb-api.com/images/original/MV5BMTYzYzY0YzgtN2ZhNy00MjNiLTk1NTYtYTQ2M2E3NjJiOWYxXkEyXkFqcGdeQXVyNjc1NTYyMjg@._V1_Ratio0.6737_AL_.jpg",
+            "plot": "A man from a family of rich snobs becomes engaged to a woman from a good-natured but decidedly eccentric family.",
+            "directors": "Frank Capra",
+            "stars": "Jean Arthur, James Stewart, Lionel Barrymore",
+            "genres": "Certificate: Passed Comedy, Drama, Romance",
+            "imDbRating": "7.9"
+        }
+    ],
+    "tvSeriesInfo": null,
+    "tvEpisodeInfo": null,
+    "errorMessage": ""
+}

@@ -1,0 +1,793 @@
+{
+    "id": "tt0050976",
+    "title": "The Seventh Seal",
+    "originalTitle": "Det sjunde inseglet",
+    "fullTitle": "The Seventh Seal (1957)",
+    "type": "Movie",
+    "year": "1957",
+    "image": "https://imdb-api.com/images/original/MV5BM2I1ZWU4YjMtYzU0My00YmMzLWFmNTAtZDJhZGYwMmI3YWQ5XkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_Ratio0.6791_AL_.jpg",
+    "releaseDate": "1957-02-16",
+    "runtimeMins": "96",
+    "runtimeStr": "1h 36mins",
+    "plot": "A Knight and his squire are home from the crusades. Black Death is sweeping their country. As they approach home, Death appears to the knight and tells him it is his time. The knight challenges Death to a chess game for his life. The Knight and Death play as the cultural turmoil envelopes the people around them as they try, in different ways, to deal with the upheaval the plague has caused.",
+    "plotLocal": "",
+    "plotLocalIsRtl": false,
+    "awards": "Top Rated Movies #162 | 9 wins & 2 nominations.",
+    "directors": "Ingmar Bergman",
+    "directorList": [{ "id": "nm0000005", "name": "Ingmar Bergman" }],
+    "writers": "Ingmar Bergman",
+    "writerList": [{ "id": "nm0000005", "name": "Ingmar Bergman" }],
+    "stars": "Max von Sydow, Gunnar Björnstrand, Bengt Ekerot, Nils Poppe",
+    "starList": [
+        { "id": "nm0001884", "name": "Max von Sydow" },
+        { "id": "nm0085038", "name": "Gunnar Björnstrand" },
+        { "id": "nm0252345", "name": "Bengt Ekerot" },
+        { "id": "nm0691555", "name": "Nils Poppe" }
+    ],
+    "actorList": [
+        {
+            "id": "nm0085038",
+            "image": "https://imdb-api.com/images/original/MV5BMTUzODQ4NjI3M15BMl5BanBnXkFtZTcwMTUyMDEyOA@@._V1_Ratio1.4091_AL_.jpg",
+            "name": "Gunnar Björnstrand",
+            "asCharacter": "Jöns, squire"
+        },
+        {
+            "id": "nm0252345",
+            "image": "https://imdb-api.com/images/original/MV5BMTczOTY5MTU3MF5BMl5BanBnXkFtZTYwNzE0OTM2._V1_Ratio1.3636_AL_.jpg",
+            "name": "Bengt Ekerot",
+            "asCharacter": "Death"
+        },
+        {
+            "id": "nm0691555",
+            "image": "https://imdb-api.com/images/original/MV5BMWI4ZTUxNWYtNjhiMC00MzlmLWE4NjEtNGJkYjA5YzYyNjM3XkEyXkFqcGdeQXVyMjUyNDk2ODc@._V1_Ratio0.7273_AL_.jpg",
+            "name": "Nils Poppe",
+            "asCharacter": "Jof / Joseph"
+        },
+        {
+            "id": "nm0001884",
+            "image": "https://imdb-api.com/images/original/MV5BMTI3MDQzOTMwN15BMl5BanBnXkFtZTYwMDgyMjM1._V1_Ratio0.7273_AL_.jpg",
+            "name": "Max von Sydow",
+            "asCharacter": "Antonius Block"
+        },
+        {
+            "id": "nm0000761",
+            "image": "https://imdb-api.com/images/original/MV5BY2ZhNGIzNzgtMGU0MC00YjQ2LWJkMWUtZmExZTU5MmRhZjA4XkEyXkFqcGdeQXVyNTk5NzQ5Ng@@._V1_Ratio0.7273_AL_.jpg",
+            "name": "Bibi Andersson",
+            "asCharacter": "Mia / Mary - Jof's wife"
+        },
+        {
+            "id": "nm0318676",
+            "image": "https://imdb-api.com/images/original/MV5BY2Q0ZGIxMDktNmZlYy00NGQxLWExNmUtNWJlNWU1NjZlMWY4XkEyXkFqcGdeQXVyMjUyNDk2ODc@._V1_Ratio1.0000_AL_.jpg",
+            "name": "Inga Gill",
+            "asCharacter": "Lisa, Blacksmith's Wife"
+        },
+        {
+            "id": "nm0361458",
+            "image": "https://imdb-api.com/images/original/MV5BZjg4YjhjZGYtZjJiYy00ODZiLWExMDAtMDI0NTkwZDA5MGIyXkEyXkFqcGdeQXVyMjUyNDk2ODc@._V1_Ratio0.7273_AL_.jpg",
+            "name": "Maud Hansson",
+            "asCharacter": "Witch"
+        },
+        {
+            "id": "nm0484736",
+            "image": "https://imdb-api.com/images/original/MV5BNTQxZDVkYTktMzVhMS00MTI4LWJjYjQtYjAxOTYwNzA5NWQ2XkEyXkFqcGdeQXVyMjUyNDk2ODc@._V1_Ratio0.7273_AL_.jpg",
+            "name": "Inga Landgré",
+            "asCharacter": "Karin, Block's Wife"
+        },
+        {
+            "id": "nm0511458",
+            "image": "https://imdb-api.com/images/original/MV5BNWZkZDkxMzItOWUyMS00OGUwLWFlZTUtZDQ2MGMwMzc5ZGQzXkEyXkFqcGdeQXVyMTc4MzI2NQ@@._V1_Ratio0.7273_AL_.jpg",
+            "name": "Gunnel Lindblom",
+            "asCharacter": "Girl"
+        },
+        {
+            "id": "nm0025940",
+            "image": "https://imdb-api.com/images/original/MV5BNzNiOTRmYmYtZGM4Zi00YjM1LWI2ZjAtYTdmMjg3YjBmZDA0XkEyXkFqcGdeQXVyNjUxMjc1OTM@._V1_Ratio1.3182_AL_.jpg",
+            "name": "Bertil Anderberg",
+            "asCharacter": "Raval"
+        },
+        {
+            "id": "nm0252244",
+            "image": "https://imdb-api.com/images/original/MV5BMTM0NzYyNTcwMV5BMl5BanBnXkFtZTcwNjI0MjE5Ng@@._V1_Ratio1.2727_AL_.jpg",
+            "name": "Anders Ek",
+            "asCharacter": "The Monk"
+        },
+        {
+            "id": "nm0294882",
+            "image": "https://imdb-api.com/images/original/MV5BNTRkMmEwYWYtZTU2OS00OTE2LWIxMDEtMWE2NzNjMjU3NTE3XkEyXkFqcGdeQXVyMjUyNDk2ODc@._V1_Ratio0.9545_AL_.jpg",
+            "name": "Åke Fridell",
+            "asCharacter": "Blacksmith Plog"
+        },
+        {
+            "id": "nm0648056",
+            "image": "https://imdb-api.com/images/original/MV5BNDRlMjEzNmQtOTJkOS00NTdhLWJkODItODdjOWUzMjBlNjFlXkEyXkFqcGdeQXVyMjUyNDk2ODc@._V1_Ratio0.7273_AL_.jpg",
+            "name": "Gunnar Olsson",
+            "asCharacter": "Albertus Pictor, Church Painter"
+        },
+        {
+            "id": "nm0833324",
+            "image": "https://imdb-api.com/images/original/MV5BOGFiNzA1YjQtZWM5Ny00Mzc3LWI5M2QtOGM2ZDViMGYzYzhlXkEyXkFqcGdeQXVyMTI3MDk3MzQ@._V1_Ratio1.3182_AL_.jpg",
+            "name": "Erik Strandmark",
+            "asCharacter": "Jonas Skat"
+        }
+    ],
+    "fullCast": null,
+    "genres": "Drama, Fantasy, History, Thriller",
+    "genreList": [
+        { "key": "Drama", "value": "Drama" },
+        { "key": "Fantasy", "value": "Fantasy" },
+        { "key": "History", "value": "History" },
+        { "key": "Thriller", "value": "Thriller" }
+    ],
+    "companies": "Svensk Filmindustri (SF)",
+    "companyList": [{ "id": "co0050989", "name": "Svensk Filmindustri (SF)" }],
+    "countries": "Sweden",
+    "countryList": [{ "key": "Sweden", "value": "Sweden" }],
+    "languages": "Swedish, Latin",
+    "languageList": [
+        { "key": "Swedish", "value": "Swedish" },
+        { "key": "Latin", "value": "Latin" }
+    ],
+    "contentRating": "Not Rated",
+    "imDbRating": "8.2",
+    "imDbRatingVotes": "168047",
+    "metacriticRating": "88",
+    "ratings": null,
+    "wikipedia": null,
+    "posters": {
+        "imDbId": "tt0050976",
+        "title": "The Seventh Seal",
+        "fullTitle": "The Seventh Seal (1957)",
+        "type": "Movie",
+        "year": "1957",
+        "posters": [
+            {
+                "id": "wcZ21zrOsy0b52AfAF50XpTiv75.jpg",
+                "link": "https://imdb-api.com/posters/original/wcZ21zrOsy0b52AfAF50XpTiv75.jpg",
+                "aspectRatio": 0.6666666666666666,
+                "language": "en",
+                "width": 1000,
+                "height": 1500
+            },
+            {
+                "id": "44UfPyJexFYSSWEwd6dEQuVpSAE.jpg",
+                "link": "https://imdb-api.com/posters/original/44UfPyJexFYSSWEwd6dEQuVpSAE.jpg",
+                "aspectRatio": 0.6666666666666666,
+                "language": "en",
+                "width": 2000,
+                "height": 3000
+            },
+            {
+                "id": "khbyQUFTYIIltrC1yYvLXP85Lh8.jpg",
+                "link": "https://imdb-api.com/posters/original/khbyQUFTYIIltrC1yYvLXP85Lh8.jpg",
+                "aspectRatio": 0.6666666666666666,
+                "language": "en",
+                "width": 1000,
+                "height": 1500
+            },
+            {
+                "id": "lZN29NJB22ZPoZvHdOFEKSbfWbl.jpg",
+                "link": "https://imdb-api.com/posters/original/lZN29NJB22ZPoZvHdOFEKSbfWbl.jpg",
+                "aspectRatio": 0.6666666666666666,
+                "language": "en",
+                "width": 1000,
+                "height": 1500
+            },
+            {
+                "id": "heXpM3tb8KGF2Sch6OCbXd7fnN7.jpg",
+                "link": "https://imdb-api.com/posters/original/heXpM3tb8KGF2Sch6OCbXd7fnN7.jpg",
+                "aspectRatio": 0.6666666666666666,
+                "language": "en",
+                "width": 1000,
+                "height": 1500
+            },
+            {
+                "id": "gOIVE53CEGdKRNrrdR3I6rsb8lM.jpg",
+                "link": "https://imdb-api.com/posters/original/gOIVE53CEGdKRNrrdR3I6rsb8lM.jpg",
+                "aspectRatio": 0.6684491978609626,
+                "language": "en",
+                "width": 750,
+                "height": 1122
+            },
+            {
+                "id": "piU0AQWwPzMwPC5MXhQTv4xfnug.jpg",
+                "link": "https://imdb-api.com/posters/original/piU0AQWwPzMwPC5MXhQTv4xfnug.jpg",
+                "aspectRatio": 0.6673618352450469,
+                "language": "en",
+                "width": 640,
+                "height": 959
+            },
+            {
+                "id": "qXccllVX06srox8WLp58rVA9Szr.jpg",
+                "link": "https://imdb-api.com/posters/original/qXccllVX06srox8WLp58rVA9Szr.jpg",
+                "aspectRatio": 0.6666666666666666,
+                "language": "en",
+                "width": 1600,
+                "height": 2400
+            },
+            {
+                "id": "ds9KkjTcQT5jFMl1KUv9uNz8AkZ.jpg",
+                "link": "https://imdb-api.com/posters/original/ds9KkjTcQT5jFMl1KUv9uNz8AkZ.jpg",
+                "aspectRatio": 0.6666666666666666,
+                "language": "en",
+                "width": 1000,
+                "height": 1500
+            }
+        ],
+        "backdrops": [
+            {
+                "id": "d9VUlRTovsGbwkUjNR2OGOGrQuO.jpg",
+                "link": "https://imdb-api.com/posters/original/d9VUlRTovsGbwkUjNR2OGOGrQuO.jpg",
+                "aspectRatio": 1.7777777777777777,
+                "language": "en",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "id": "59OpGDeNcHYMgX0ELfTNlgjtZzO.jpg",
+                "link": "https://imdb-api.com/posters/original/59OpGDeNcHYMgX0ELfTNlgjtZzO.jpg",
+                "aspectRatio": 1.7777777777777777,
+                "language": "en",
+                "width": 1600,
+                "height": 900
+            },
+            {
+                "id": "6kS29AFe5qSHHwtnkyhUKXxPNqP.jpg",
+                "link": "https://imdb-api.com/posters/original/6kS29AFe5qSHHwtnkyhUKXxPNqP.jpg",
+                "aspectRatio": 1.7777777777777777,
+                "language": "en",
+                "width": 1600,
+                "height": 900
+            },
+            {
+                "id": "knffsVBOHDcO9VYDLntN72vakSA.jpg",
+                "link": "https://imdb-api.com/posters/original/knffsVBOHDcO9VYDLntN72vakSA.jpg",
+                "aspectRatio": 1.7777777777777777,
+                "language": "en",
+                "width": 1600,
+                "height": 900
+            },
+            {
+                "id": "d9hWzWeRYg7sIy3PeQgenL32qoV.jpg",
+                "link": "https://imdb-api.com/posters/original/d9hWzWeRYg7sIy3PeQgenL32qoV.jpg",
+                "aspectRatio": 1.7777777777777777,
+                "language": "en",
+                "width": 1600,
+                "height": 900
+            },
+            {
+                "id": "4nACQr6vjf6nTun8TsWsR2nKmmC.jpg",
+                "link": "https://imdb-api.com/posters/original/4nACQr6vjf6nTun8TsWsR2nKmmC.jpg",
+                "aspectRatio": 1.7777777777777777,
+                "language": "en",
+                "width": 1600,
+                "height": 900
+            },
+            {
+                "id": "jP98rzqxKZOEVI5kSi9iAcLVdJm.jpg",
+                "link": "https://imdb-api.com/posters/original/jP98rzqxKZOEVI5kSi9iAcLVdJm.jpg",
+                "aspectRatio": 1.7777777777777777,
+                "language": "en",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "id": "x35Ud0vPxqozszRTMb2RPHCDOmX.jpg",
+                "link": "https://imdb-api.com/posters/original/x35Ud0vPxqozszRTMb2RPHCDOmX.jpg",
+                "aspectRatio": 1.7772277227722773,
+                "language": "en",
+                "width": 1436,
+                "height": 808
+            },
+            {
+                "id": "x9teNCopDpOjsLy2ygAecuOKQpz.jpg",
+                "link": "https://imdb-api.com/posters/original/x9teNCopDpOjsLy2ygAecuOKQpz.jpg",
+                "aspectRatio": 1.7772277227722773,
+                "language": "en",
+                "width": 1436,
+                "height": 808
+            },
+            {
+                "id": "7tBfYcZH4P4AA1oFzjflUTSDZgx.jpg",
+                "link": "https://imdb-api.com/posters/original/7tBfYcZH4P4AA1oFzjflUTSDZgx.jpg",
+                "aspectRatio": 1.7777777777777777,
+                "language": "en",
+                "width": 1920,
+                "height": 1080
+            },
+            {
+                "id": "82Mh8PMzhcjv3wSd4VvKTizq0wv.jpg",
+                "link": "https://imdb-api.com/posters/original/82Mh8PMzhcjv3wSd4VvKTizq0wv.jpg",
+                "aspectRatio": 1.7777777777777777,
+                "language": "en",
+                "width": 1920,
+                "height": 1080
+            },
+            {
+                "id": "wv4YXxi4XsxNCzkilGhdm1xdBqs.jpg",
+                "link": "https://imdb-api.com/posters/original/wv4YXxi4XsxNCzkilGhdm1xdBqs.jpg",
+                "aspectRatio": 1.7777777777777777,
+                "language": "en",
+                "width": 1920,
+                "height": 1080
+            },
+            {
+                "id": "swXsefh3MeNfvrHtjQvK7VEIY06.jpg",
+                "link": "https://imdb-api.com/posters/original/swXsefh3MeNfvrHtjQvK7VEIY06.jpg",
+                "aspectRatio": 1.7777777777777777,
+                "language": "en",
+                "width": 1920,
+                "height": 1080
+            },
+            {
+                "id": "7Q2c1CEgwfmgU4qUd6Bz8ypC2oj.jpg",
+                "link": "https://imdb-api.com/posters/original/7Q2c1CEgwfmgU4qUd6Bz8ypC2oj.jpg",
+                "aspectRatio": 1.7777777777777777,
+                "language": "en",
+                "width": 1920,
+                "height": 1080
+            },
+            {
+                "id": "5t1deDfXDU2dKZ7PVNZyKHOBCNU.jpg",
+                "link": "https://imdb-api.com/posters/original/5t1deDfXDU2dKZ7PVNZyKHOBCNU.jpg",
+                "aspectRatio": 1.7777777777777777,
+                "language": "en",
+                "width": 1920,
+                "height": 1080
+            },
+            {
+                "id": "hnWJPFzXdvmQ8ebZyRttxiDmP9R.jpg",
+                "link": "https://imdb-api.com/posters/original/hnWJPFzXdvmQ8ebZyRttxiDmP9R.jpg",
+                "aspectRatio": 1.7777777777777777,
+                "language": "en",
+                "width": 1920,
+                "height": 1080
+            },
+            {
+                "id": "s1prp3jxIRo72DlL9OY2D3ckOuP.jpg",
+                "link": "https://imdb-api.com/posters/original/s1prp3jxIRo72DlL9OY2D3ckOuP.jpg",
+                "aspectRatio": 1.7777777777777777,
+                "language": "en",
+                "width": 1920,
+                "height": 1080
+            },
+            {
+                "id": "zjzTqsImhgdJw1xSjBhrUMpnMMI.jpg",
+                "link": "https://imdb-api.com/posters/original/zjzTqsImhgdJw1xSjBhrUMpnMMI.jpg",
+                "aspectRatio": 1.7777777777777777,
+                "language": "en",
+                "width": 1920,
+                "height": 1080
+            },
+            {
+                "id": "v3amBPpc3RQtEAjj7Dz9MDGKvGm.jpg",
+                "link": "https://imdb-api.com/posters/original/v3amBPpc3RQtEAjj7Dz9MDGKvGm.jpg",
+                "aspectRatio": 1.7777777777777777,
+                "language": "en",
+                "width": 1920,
+                "height": 1080
+            },
+            {
+                "id": "btFVH9q3hnlvVriG95vRJKbhBzr.jpg",
+                "link": "https://imdb-api.com/posters/original/btFVH9q3hnlvVriG95vRJKbhBzr.jpg",
+                "aspectRatio": 1.7777777777777777,
+                "language": "en",
+                "width": 1920,
+                "height": 1080
+            },
+            {
+                "id": "cBIe5KRjNOba5Fntciu42Fu6w6L.jpg",
+                "link": "https://imdb-api.com/posters/original/cBIe5KRjNOba5Fntciu42Fu6w6L.jpg",
+                "aspectRatio": 1.7777777777777777,
+                "language": "en",
+                "width": 1920,
+                "height": 1080
+            },
+            {
+                "id": "m5OUrtZS0m5nejeBGawXSNS1cfT.jpg",
+                "link": "https://imdb-api.com/posters/original/m5OUrtZS0m5nejeBGawXSNS1cfT.jpg",
+                "aspectRatio": 1.7777777777777777,
+                "language": "en",
+                "width": 1920,
+                "height": 1080
+            },
+            {
+                "id": "pJh4Km0Yf5oe4u4TrGZpavFBqG8.jpg",
+                "link": "https://imdb-api.com/posters/original/pJh4Km0Yf5oe4u4TrGZpavFBqG8.jpg",
+                "aspectRatio": 1.7777777777777777,
+                "language": "en",
+                "width": 1920,
+                "height": 1080
+            },
+            {
+                "id": "bzEHme3NdQNL6u6TbcghZkHVgQK.jpg",
+                "link": "https://imdb-api.com/posters/original/bzEHme3NdQNL6u6TbcghZkHVgQK.jpg",
+                "aspectRatio": 1.7777777777777777,
+                "language": "en",
+                "width": 1920,
+                "height": 1080
+            }
+        ],
+        "errorMessage": ""
+    },
+    "images": {
+        "imDbId": "tt0050976",
+        "title": "The Seventh Seal",
+        "fullTitle": "The Seventh Seal (1957)",
+        "type": "Movie",
+        "year": "1957",
+        "items": [
+            {
+                "title": "Max von Sydow in The Seventh Seal (1957)",
+                "image": "https://imdb-api.com/images/original/MV5BYTZkMTVhOGEtY2U5MS00ZjI1LTlmYTctNTI2Mzc4NTg4OWJlXkEyXkFqcGdeQXVyMDc2NTEzMw@@._V1_Ratio1.0000_AL_.jpg"
+            },
+            {
+                "title": "Max von Sydow and Bengt Ekerot in The Seventh Seal (1957)",
+                "image": "https://imdb-api.com/images/original/MV5BNTkyMjg0NmItOTIzMS00YzVjLTkzZDQtNTQ0M2Y5OTdkMDkyXkEyXkFqcGdeQXVyMDc2NTEzMw@@._V1_Ratio1.0000_AL_.jpg"
+            },
+            {
+                "title": "Max von Sydow and Bengt Ekerot in The Seventh Seal (1957)",
+                "image": "https://imdb-api.com/images/original/MV5BMzY3YWM4MTctOTBlOC00NTgzLWEwOTUtMjNjZDRiNWY1OTFlXkEyXkFqcGdeQXVyMDc2NTEzMw@@._V1_Ratio1.3200_AL_.jpg"
+            },
+            {
+                "title": "Bengt Ekerot in The Seventh Seal (1957)",
+                "image": "https://imdb-api.com/images/original/MV5BMTQxNDIxOTE4Ml5BMl5BanBnXkFtZTcwMTY4MjE5Ng@@._V1_Ratio1.3800_AL_.jpg"
+            },
+            {
+                "title": "Max von Sydow and Bengt Ekerot in The Seventh Seal (1957)",
+                "image": "https://imdb-api.com/images/original/MV5BNjQ1MjgwNDY1N15BMl5BanBnXkFtZTcwMjY4MjE5Ng@@._V1_Ratio1.3800_AL_.jpg"
+            },
+            {
+                "title": "\"Sjunde inseglet, Det\" (aka \"The Seventh Seal\") Gunnar Bjornstrand 1957 SF",
+                "image": "https://imdb-api.com/images/original/MV5BMjYwMDc1ODcxN15BMl5BanBnXkFtZTYwOTA0OTM2._V1_Ratio1.3800_AL_.jpg"
+            },
+            {
+                "title": "\"Sjunde inseglet, Det\" (aka \"The Seventh Seal\") Gunnar Bjornstrand 1957 SF",
+                "image": "https://imdb-api.com/images/original/MV5BMTM4NTY5NzU1OV5BMl5BanBnXkFtZTYwMzE0OTM2._V1_Ratio1.3600_AL_.jpg"
+            },
+            {
+                "title": "\"Sjunde inseglet, Det\" (aka \"The Seventh Seal\") Bengt Ekerot 1957 SF",
+                "image": "https://imdb-api.com/images/original/MV5BMTczOTY5MTU3MF5BMl5BanBnXkFtZTYwNzE0OTM2._V1_Ratio1.3800_AL_.jpg"
+            },
+            {
+                "title": "\"Sjunde inseglet, Det\" (aka \"The Seventh Seal\") Bengt Ekerot, Max von Sydow 1957 SF",
+                "image": "https://imdb-api.com/images/original/MV5BMjA1MTQyODQ1MF5BMl5BanBnXkFtZTYwOTE0OTM2._V1_Ratio1.3400_AL_.jpg"
+            },
+            {
+                "title": "The Seventh Seal (1957)",
+                "image": "https://imdb-api.com/images/original/MV5BMzM1ZTRlYjEtZTM4NS00YjQ1LWE2NTEtZGRkM2EzODEzOTVmXkEyXkFqcGdeQXVyMTAyOTE2ODg0._V1_Ratio1.0000_AL_.jpg"
+            },
+            {
+                "title": "The Seventh Seal (1957)",
+                "image": "https://imdb-api.com/images/original/MV5BYzlkN2E4NzktMDYzNC00ZjFhLTg1MWUtZWM1NjVlZjY4MTFiXkEyXkFqcGdeQXVyODIyOTEyMzY@._V1_Ratio1.0000_AL_.jpg"
+            },
+            {
+                "title": "The Seventh Seal (1957)",
+                "image": "https://imdb-api.com/images/original/MV5BMTY0MDA3MDgzMV5BMl5BanBnXkFtZTgwMjE5ODcyMjE@._V1_Ratio1.0000_AL_.jpg"
+            },
+            {
+                "title": "Max von Sydow and Bengt Ekerot in The Seventh Seal (1957)",
+                "image": "https://imdb-api.com/images/original/MV5BMTIzODM4NzcwMV5BMl5BanBnXkFtZTYwOTQzNDg4._V1_Ratio1.0000_AL_.jpg"
+            },
+            {
+                "title": "Ingmar Bergman, Max von Sydow, and Bengt Ekerot in The Seventh Seal (1957)",
+                "image": "https://imdb-api.com/images/original/MV5BMTI5NTU3MjY0OV5BMl5BanBnXkFtZTYwNTAwMzk4._V1_Ratio1.0000_AL_.jpg"
+            },
+            {
+                "title": "Bengt Ekerot in The Seventh Seal (1957)",
+                "image": "https://imdb-api.com/images/original/MV5BMTM3OTMwMTYxN15BMl5BanBnXkFtZTYwNzA0NjE5._V1_Ratio1.0000_AL_.jpg"
+            },
+            {
+                "title": "Max von Sydow and Bengt Ekerot in The Seventh Seal (1957)",
+                "image": "https://imdb-api.com/images/original/MV5BMTgxNzIzMzcwN15BMl5BanBnXkFtZTYwMzE5MTY5._V1_Ratio1.0000_AL_.jpg"
+            },
+            {
+                "title": "Bengt Ekerot in The Seventh Seal (1957)",
+                "image": "https://imdb-api.com/images/original/MV5BMTc0OTE0NjYxNl5BMl5BanBnXkFtZTYwMDcyOTY5._V1_Ratio1.0000_AL_.jpg"
+            },
+            {
+                "title": "Ingmar Bergman in Smiles of a Summer Night (1955)",
+                "image": "https://imdb-api.com/images/original/MV5BMjE1NjQ5MDk1NV5BMl5BanBnXkFtZTcwOTUxMDU1MQ@@._V1_Ratio1.0000_AL_.jpg"
+            },
+            {
+                "title": "Bengt Ekerot in The Seventh Seal (1957)",
+                "image": "https://imdb-api.com/images/original/MV5BZjg4ZjA2MDgtZmVkMi00NzVlLWE4Y2ItYjRhYWFiYWFmNTdmXkEyXkFqcGdeQXVyMTIwODk1NTQ@._V1_Ratio1.3800_AL_.jpg"
+            },
+            {
+                "title": "Max von Sydow in The Seventh Seal (1957)",
+                "image": "https://imdb-api.com/images/original/MV5BYzZjOWE2YzUtZGRjNi00YjJlLTljYzYtODRjMDVjOWUxNmMxXkEyXkFqcGdeQXVyMTIwODk1NTQ@._V1_Ratio1.3800_AL_.jpg"
+            },
+            {
+                "title": "Max von Sydow and Bengt Ekerot in The Seventh Seal (1957)",
+                "image": "https://imdb-api.com/images/original/MV5BZTM3ZTE1MjEtZjgyNC00N2I2LWFiYTgtMGUxNzg3NWE0ZDk0XkEyXkFqcGdeQXVyMTIwODk1NTQ@._V1_Ratio1.3800_AL_.jpg"
+            },
+            {
+                "title": "Max von Sydow and Bengt Ekerot in The Seventh Seal (1957)",
+                "image": "https://imdb-api.com/images/original/MV5BOTQ2OTQ1MTgtN2VkMy00YTVlLWIzZWUtNzVkMGI1MmQ5MDkwXkEyXkFqcGdeQXVyMTIwODk1NTQ@._V1_Ratio1.3800_AL_.jpg"
+            },
+            {
+                "title": "Bengt Ekerot in The Seventh Seal (1957)",
+                "image": "https://imdb-api.com/images/original/MV5BZTgxYTQ4YmYtNWZhZC00MDNhLTg2NTgtOTM2YjBjZTNhNzM3XkEyXkFqcGdeQXVyMTIwODk1NTQ@._V1_Ratio1.3800_AL_.jpg"
+            },
+            {
+                "title": "The Seventh Seal (1957)",
+                "image": "https://imdb-api.com/images/original/MV5BYWRmOTZjZTUtMGJhMS00MGNmLWI2OGQtZWE2YTdhNGE4OTljXkEyXkFqcGdeQXVyMTIwODk1NTQ@._V1_Ratio1.3800_AL_.jpg"
+            },
+            {
+                "title": "The Seventh Seal (1957)",
+                "image": "https://imdb-api.com/images/original/MV5BZWYzM2U3MTEtZGFiMS00MzFlLTk4ODAtMTBiZDExZDRlY2Q1XkEyXkFqcGdeQXVyMTIwODk1NTQ@._V1_Ratio1.3800_AL_.jpg"
+            },
+            {
+                "title": "The Seventh Seal (1957)",
+                "image": "https://imdb-api.com/images/original/MV5BOWI1ZTNkZmEtOWQ3OS00ZTFjLWIyZDQtYjliY2UwYmMxMjg5XkEyXkFqcGdeQXVyMTIwODk1NTQ@._V1_Ratio1.3800_AL_.jpg"
+            },
+            {
+                "title": "The Seventh Seal (1957)",
+                "image": "https://imdb-api.com/images/original/MV5BMmFjMjZmZWYtODUyNy00MzEwLTg4N2ItYWM1ZjNlYzA2M2I2XkEyXkFqcGdeQXVyMTIwODk1NTQ@._V1_Ratio1.3800_AL_.jpg"
+            },
+            {
+                "title": "The Seventh Seal (1957)",
+                "image": "https://imdb-api.com/images/original/MV5BZTY4ZDgxMmYtZWFkMC00MzcyLTk2YjUtNDJiY2E4ZjYxMmI3XkEyXkFqcGdeQXVyMTIwODk1NTQ@._V1_Ratio1.3800_AL_.jpg"
+            },
+            {
+                "title": "The Seventh Seal (1957)",
+                "image": "https://imdb-api.com/images/original/MV5BZjQwZmU1YzYtN2QyNS00NzJkLTk4ZmQtZmYxMGIyMTEwMzc5XkEyXkFqcGdeQXVyMTIwODk1NTQ@._V1_Ratio1.3800_AL_.jpg"
+            },
+            {
+                "title": "The Seventh Seal (1957)",
+                "image": "https://imdb-api.com/images/original/MV5BY2I3NTUyOTgtZWViZS00ZDdkLWJmZTYtNTMyODk5NjE1ZGFlXkEyXkFqcGdeQXVyMTIwODk1NTQ@._V1_Ratio1.3800_AL_.jpg"
+            },
+            {
+                "title": "The Seventh Seal (1957)",
+                "image": "https://imdb-api.com/images/original/MV5BYjE0OThkMDItZGZiZC00MzU4LWJhNzUtYTQ4MWExNzdiMWI3XkEyXkFqcGdeQXVyMTIwODk1NTQ@._V1_Ratio1.3800_AL_.jpg"
+            },
+            {
+                "title": "The Seventh Seal (1957)",
+                "image": "https://imdb-api.com/images/original/MV5BODZlYzBhZTUtMTZhMS00ZmFlLTgwODItZjEwMTA1YjhkMWY4XkEyXkFqcGdeQXVyMTIwODk1NTQ@._V1_Ratio1.3800_AL_.jpg"
+            },
+            {
+                "title": "The Seventh Seal (1957)",
+                "image": "https://imdb-api.com/images/original/MV5BYmE1OTYyZjUtYWUzYi00ZTM0LWIzYmItODhkOTYwOTFkOTc1XkEyXkFqcGdeQXVyMTIwODk1NTQ@._V1_Ratio1.3800_AL_.jpg"
+            },
+            {
+                "title": "The Seventh Seal (1957)",
+                "image": "https://imdb-api.com/images/original/MV5BZTIwMTRmM2MtYzcwMi00YWIwLWJmNzAtYzliYjMxN2U2MWQxXkEyXkFqcGdeQXVyMTIwODk1NTQ@._V1_Ratio1.3800_AL_.jpg"
+            },
+            {
+                "title": "Bibi Andersson and Nils Poppe in The Seventh Seal (1957)",
+                "image": "https://imdb-api.com/images/original/MV5BYzkwMWU4YTEtN2YzZS00OWEzLTk0ODgtNzE1YWIyNDc2OTJjXkEyXkFqcGdeQXVyMzI4Nzk0NjY@._V1_Ratio1.3800_AL_.jpg"
+            },
+            {
+                "title": "Bibi Andersson and Nils Poppe in The Seventh Seal (1957)",
+                "image": "https://imdb-api.com/images/original/MV5BZjIzYmUxM2EtMzUyMS00YTIyLWJlYmYtYzVlOTA2ZjcyZmNjXkEyXkFqcGdeQXVyMzI4Nzk0NjY@._V1_Ratio1.3800_AL_.jpg"
+            },
+            {
+                "title": "Bibi Andersson and Nils Poppe in The Seventh Seal (1957)",
+                "image": "https://imdb-api.com/images/original/MV5BOWQ3YjkyOTktMTQ1Yy00NTU4LTk1ZDQtMTQ4ZDcxMjk3MDljXkEyXkFqcGdeQXVyMzI4Nzk0NjY@._V1_Ratio1.3800_AL_.jpg"
+            },
+            {
+                "title": "Bibi Andersson and Nils Poppe in The Seventh Seal (1957)",
+                "image": "https://imdb-api.com/images/original/MV5BMWI1N2Q3ZTgtY2FhNy00YTY5LWIyYjQtMDBmY2UzODVjMjlhXkEyXkFqcGdeQXVyMzI4Nzk0NjY@._V1_Ratio1.3800_AL_.jpg"
+            },
+            {
+                "title": "Bibi Andersson and Nils Poppe in The Seventh Seal (1957)",
+                "image": "https://imdb-api.com/images/original/MV5BYzUwMmYyNDktOWZiNC00M2YyLTlhYmItMzRiMDBhNGI3NTVhXkEyXkFqcGdeQXVyMzI4Nzk0NjY@._V1_Ratio1.3800_AL_.jpg"
+            },
+            {
+                "title": "Bibi Andersson and Nils Poppe in The Seventh Seal (1957)",
+                "image": "https://imdb-api.com/images/original/MV5BYTIzY2JjNjMtMWFiNi00NGE0LTg0MWYtMjM1MDA1MGEyZWQ2XkEyXkFqcGdeQXVyMzI4Nzk0NjY@._V1_Ratio1.3800_AL_.jpg"
+            },
+            {
+                "title": "Bibi Andersson and Nils Poppe in The Seventh Seal (1957)",
+                "image": "https://imdb-api.com/images/original/MV5BMjk1OTM0MGItYzVkYi00YWQ2LWFiZWEtYzJhZWIwNjA0NjI5XkEyXkFqcGdeQXVyMzI4Nzk0NjY@._V1_Ratio1.3800_AL_.jpg"
+            },
+            {
+                "title": "Bibi Andersson and Nils Poppe in The Seventh Seal (1957)",
+                "image": "https://imdb-api.com/images/original/MV5BMWE0ZmI2MmMtNzI4My00Y2YwLWE4MzctNTdiNDg1NzdhM2MzXkEyXkFqcGdeQXVyMzI4Nzk0NjY@._V1_Ratio1.3800_AL_.jpg"
+            },
+            {
+                "title": "Bibi Andersson and Nils Poppe in The Seventh Seal (1957)",
+                "image": "https://imdb-api.com/images/original/MV5BMjE1MDJkZDctOGM2OC00NWIzLWIwNGMtMmQ0YzcwZWI2MWE0XkEyXkFqcGdeQXVyMzI4Nzk0NjY@._V1_Ratio1.3800_AL_.jpg"
+            },
+            {
+                "title": "Bibi Andersson and Nils Poppe in The Seventh Seal (1957)",
+                "image": "https://imdb-api.com/images/original/MV5BZjE4MzVkYTUtMjRkOC00NTc4LWJiNmItMzA3NTg4OWQ1ZjExXkEyXkFqcGdeQXVyMzI4Nzk0NjY@._V1_Ratio1.3800_AL_.jpg"
+            },
+            {
+                "title": "Bibi Andersson and Nils Poppe in The Seventh Seal (1957)",
+                "image": "https://imdb-api.com/images/original/MV5BNDVlZmZlMDQtYTY0MC00MmIyLWJkYTktNDQ1ZDc1YmJiNzNiXkEyXkFqcGdeQXVyMzI4Nzk0NjY@._V1_Ratio1.3800_AL_.jpg"
+            },
+            {
+                "title": "Bibi Andersson and Nils Poppe in The Seventh Seal (1957)",
+                "image": "https://imdb-api.com/images/original/MV5BM2NhYTFhYzQtOTJiYS00NDQ3LTlhYjQtZDEwMmIzMWRmZmE0XkEyXkFqcGdeQXVyMzI4Nzk0NjY@._V1_Ratio1.3800_AL_.jpg"
+            },
+            {
+                "title": "Bibi Andersson and Nils Poppe in The Seventh Seal (1957)",
+                "image": "https://imdb-api.com/images/original/MV5BMmViNGJiNzgtY2FjMS00NWU5LTk2ZDEtM2NhNGE5ZTQ3ZTA1XkEyXkFqcGdeQXVyMzI4Nzk0NjY@._V1_Ratio1.3800_AL_.jpg"
+            },
+            {
+                "title": "Bibi Andersson and Nils Poppe in The Seventh Seal (1957)",
+                "image": "https://imdb-api.com/images/original/MV5BNzE1YTJkNTgtNDkxNy00ZWRiLThiNTEtY2I1ZTNkNDI5ZDM0XkEyXkFqcGdeQXVyMzI4Nzk0NjY@._V1_Ratio1.3800_AL_.jpg"
+            }
+        ],
+        "errorMessage": ""
+    },
+    "trailer": {
+        "imDbId": "tt0050976",
+        "title": "The Seventh Seal",
+        "fullTitle": "The Seventh Seal (1957)",
+        "type": "Movie",
+        "year": "1957",
+        "videoId": null,
+        "videoTitle": null,
+        "videoDescription": null,
+        "thumbnailUrl": null,
+        "uploadDate": null,
+        "link": null,
+        "linkEmbed": null,
+        "errorMessage": "404 Not Founded Error"
+    },
+    "boxOffice": {
+        "budget": "$150,000 (estimated)",
+        "openingWeekendUSA": "",
+        "grossUSA": "",
+        "cumulativeWorldwideGross": "$230,571"
+    },
+    "tagline": "A film of visual scope, of imaginative concept, of powerful content, written and directed by Ingmar Bergman, twice honored by the Interational Jury at the Cannes Film Festival 1956,1957",
+    "keywords": "knight,death personified,death,chess,medieval times",
+    "keywordList": [
+        "knight",
+        "death personified",
+        "death",
+        "chess",
+        "medieval times"
+    ],
+    "similars": [
+        {
+            "id": "tt0050986",
+            "title": "Wild Strawberries",
+            "fullTitle": "Wild Strawberries (1957)",
+            "year": "1957",
+            "image": "https://imdb-api.com/images/original/MV5BZjJhNTBmNTgtMDViOC00NDY2LWE4N2ItMDJiM2ZiYmQzYzliXkEyXkFqcGdeQXVyMzg1ODEwNQ@@._V1_Ratio0.6947_AL_.jpg",
+            "plot": "After living a life marked by coldness, an aging professor is forced to confront the emptiness of his existence.",
+            "directors": "Ingmar Bergman",
+            "stars": "Victor Sjöström, Bibi Andersson, Ingrid Thulin",
+            "genres": "Drama, Romance",
+            "imDbRating": "8.2"
+        },
+        {
+            "id": "tt0060827",
+            "title": "Persona",
+            "fullTitle": "Persona (1966)",
+            "year": "1966",
+            "image": "https://imdb-api.com/images/original/MV5BMTM0YzExY2EtMjUyZi00ZmIwLWFkYTktNjY5NmVkYTdkMjI5XkEyXkFqcGdeQXVyNzQxNDExNTU@._V1_Ratio0.6947_AL_.jpg",
+            "plot": "A nurse is put in charge of a mute actress and finds that their personae are melding together.",
+            "directors": "Ingmar Bergman",
+            "stars": "Bibi Andersson, Liv Ullmann, Margaretha Krook",
+            "genres": "Drama, Thriller",
+            "imDbRating": "8.1"
+        },
+        {
+            "id": "tt0079944",
+            "title": "Stalker",
+            "fullTitle": "Stalker (1979)",
+            "year": "1979",
+            "image": "https://imdb-api.com/images/original/MV5BMDgwODNmMGItMDcwYi00OWZjLTgyZjAtMGYwMmI4N2Q0NmJmXkEyXkFqcGdeQXVyNzY1MTU0Njk@._V1_Ratio0.7053_AL_.jpg",
+            "plot": "A guide leads two men through an area known as the Zone to find a room that grants wishes.",
+            "directors": "Andrei Tarkovsky",
+            "stars": "Alisa Freyndlikh, Aleksandr Kaydanovskiy, Anatoliy Solonitsyn",
+            "genres": "Drama, Sci-Fi",
+            "imDbRating": "8.2"
+        },
+        {
+            "id": "tt0077711",
+            "title": "Autumn Sonata",
+            "fullTitle": "Autumn Sonata (1978)",
+            "year": "1978",
+            "image": "https://imdb-api.com/images/original/MV5BNGIyMWRlYTctMWNlMi00ZGIzLThjOTgtZjQzZjRjNmRhMDdlXkEyXkFqcGdeQXVyMTAwMzUyOTc@._V1_Ratio0.6737_AL_.jpg",
+            "plot": "A married daughter who longs for her mother's love is visited by the latter, a successful concert pianist.",
+            "directors": "Ingmar Bergman",
+            "stars": "Ingrid Bergman, Liv Ullmann, Lena Nyman",
+            "genres": "Drama, Music",
+            "imDbRating": "8.2"
+        },
+        {
+            "id": "tt0080678",
+            "title": "The Elephant Man",
+            "fullTitle": "The Elephant Man (1980)",
+            "year": "1980",
+            "image": "https://imdb-api.com/images/original/MV5BMDVjNjIwOGItNDE3Ny00OThjLWE0NzQtZTU3YjMzZTZjMzhkXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_Ratio0.6737_AL_.jpg",
+            "plot": "A Victorian surgeon rescues a heavily disfigured man who is mistreated while scraping a living as a side-show freak. Behind his monstrous façade, there is revealed a person of kindness, intelligence and sophistication.",
+            "directors": "David Lynch",
+            "stars": "Anthony Hopkins, John Hurt, Anne Bancroft",
+            "genres": "Biography, Drama",
+            "imDbRating": "8.1"
+        },
+        {
+            "id": "tt0083922",
+            "title": "Fanny and Alexander",
+            "fullTitle": "Fanny and Alexander (1982)",
+            "year": "1982",
+            "image": "https://imdb-api.com/images/original/MV5BZmQzMDE5ZWQtOTU3ZS00ZjdhLWI0OTctZDNkODk4YThmOTRhL2ltYWdlXkEyXkFqcGdeQXVyNjc1NTYyMjg@._V1_Ratio0.6737_AL_.jpg",
+            "plot": "Two young Swedish children experience the many comedies and tragedies of their family, the Ekdahls.",
+            "directors": "Ingmar Bergman",
+            "stars": "Bertil Guve, Pernilla Allwin, Kristina Adolphson",
+            "genres": "Drama",
+            "imDbRating": "8.1"
+        },
+        {
+            "id": "tt0069467",
+            "title": "Cries &amp; Whispers",
+            "fullTitle": "Cries &amp; Whispers (1972)",
+            "year": "1972",
+            "image": "https://imdb-api.com/images/original/MV5BMTg3NzYzOTEtNmE2Ni00M2EyLWJhMjctNjMyMTk4ZTViOGUzXkEyXkFqcGdeQXVyNzQxNDExNTU@._V1_Ratio0.6947_AL_.jpg",
+            "plot": "When a woman dying of cancer in early twentieth-century Sweden is visited by her two sisters, long-repressed feelings between the siblings rise to the surface.",
+            "directors": "Ingmar Bergman",
+            "stars": "Harriet Andersson, Liv Ullmann, Kari Sylwan",
+            "genres": "Drama",
+            "imDbRating": "8.1"
+        },
+        {
+            "id": "tt0040522",
+            "title": "Bicycle Thieves",
+            "fullTitle": "Bicycle Thieves (1948)",
+            "year": "1948",
+            "image": "https://imdb-api.com/images/original/MV5BNmI1ODdjODctMDlmMC00ZWViLWI5MzYtYzRhNDdjYmM3MzFjXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_Ratio0.6947_AL_.jpg",
+            "plot": "In post-war Italy, a working-class man's bicycle is stolen. He and his son set out to find it.",
+            "directors": "Vittorio De Sica",
+            "stars": "Lamberto Maggiorani, Enzo Staiola, Lianella Carell",
+            "genres": "Drama",
+            "imDbRating": "8.3"
+        },
+        {
+            "id": "tt0017136",
+            "title": "Metropolis",
+            "fullTitle": "Metropolis (1927)",
+            "year": "1927",
+            "image": "https://imdb-api.com/images/original/MV5BMTg5YWIyMWUtZDY5My00Zjc1LTljOTctYmI0MWRmY2M2NmRkXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_Ratio0.6737_AL_.jpg",
+            "plot": "In a futuristic city sharply divided between the working class and the city planners, the son of the city's mastermind falls in love with a working-class prophet who predicts the coming of a savior to mediate their differences.",
+            "directors": "Fritz Lang",
+            "stars": "Brigitte Helm, Alfred Abel, Gustav Fröhlich",
+            "genres": "Drama, Sci-Fi",
+            "imDbRating": "8.3"
+        },
+        {
+            "id": "tt0042876",
+            "title": "Rashomon",
+            "fullTitle": "Rashomon (1950)",
+            "year": "1950",
+            "image": "https://imdb-api.com/images/original/MV5BMjEzMzA4NDE2OF5BMl5BanBnXkFtZTcwNTc5MDI2NQ@@._V1_Ratio0.6737_AL_.jpg",
+            "plot": "The rape of a bride and the murder of her samurai husband are recalled from the perspectives of a bandit, the bride, the samurai's ghost and a woodcutter.",
+            "directors": "Akira Kurosawa",
+            "stars": "Toshirô Mifune, Machiko Kyô, Masayuki Mori",
+            "genres": "Crime, Drama, Mystery",
+            "imDbRating": "8.2"
+        },
+        {
+            "id": "tt0062622",
+            "title": "2001: A Space Odyssey",
+            "fullTitle": "2001: A Space Odyssey (1968)",
+            "year": "1968",
+            "image": "https://imdb-api.com/images/original/MV5BMmNlYzRiNDctZWNhMi00MzI4LThkZTctMTUzMmZkMmFmNThmXkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_Ratio0.6737_AL_.jpg",
+            "plot": "After discovering a mysterious artifact buried beneath the Lunar surface, mankind sets off on a quest to find its origins with help from intelligent supercomputer H.A.L. 9000.",
+            "directors": "Stanley Kubrick",
+            "stars": "Keir Dullea, Gary Lockwood, William Sylvester",
+            "genres": "Adventure, Sci-Fi",
+            "imDbRating": "8.3"
+        },
+        {
+            "id": "tt0052357",
+            "title": "Vertigo",
+            "fullTitle": "Vertigo (1958)",
+            "year": "1958",
+            "image": "https://imdb-api.com/images/original/MV5BYTE4ODEwZDUtNDFjOC00NjAxLWEzYTQtYTI1NGVmZmFlNjdiL2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyNjc1NTYyMjg@._V1_Ratio0.6737_AL_.jpg",
+            "plot": "A former police detective juggles wrestling with his personal demons and becoming obsessed with a hauntingly beautiful woman.",
+            "directors": "Alfred Hitchcock",
+            "stars": "James Stewart, Kim Novak, Barbara Bel Geddes",
+            "genres": "Mystery, Romance, Thriller",
+            "imDbRating": "8.3"
+        }
+    ],
+    "tvSeriesInfo": null,
+    "tvEpisodeInfo": null,
+    "errorMessage": ""
+}

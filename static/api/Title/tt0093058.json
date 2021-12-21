@@ -1,0 +1,768 @@
+{
+    "id": "tt0093058",
+    "title": "Full Metal Jacket",
+    "originalTitle": "",
+    "fullTitle": "Full Metal Jacket (1987)",
+    "type": "Movie",
+    "year": "1987",
+    "image": "https://imdb-api.com/images/original/MV5BNzkxODk0NjEtYjc4Mi00ZDI0LTgyYjEtYzc1NDkxY2YzYTgyXkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_Ratio0.6791_AL_.jpg",
+    "releaseDate": "1987-06-26",
+    "runtimeMins": "116",
+    "runtimeStr": "1h 56mins",
+    "plot": "A two-segment look at the effect of the military mindset and war itself on Vietnam era Marines. The first half follows a group of recruits in boot camp under the command of the punishing Gunnery Sergeant Hartman. The second half shows one of those recruits, Joker, covering the war as a correspondent for Stars and Stripes, focusing on the Tet offensive.",
+    "plotLocal": "",
+    "plotLocalIsRtl": false,
+    "awards": "Top Rated Movies #102 | Nominated for 1 Oscar. Another 8 wins & 14 nominations.",
+    "directors": "Stanley Kubrick",
+    "directorList": [{ "id": "nm0000040", "name": "Stanley Kubrick" }],
+    "writers": "Stanley Kubrick, Michael Herr, Gustav Hasford",
+    "writerList": [
+        { "id": "nm0000040", "name": "Stanley Kubrick" },
+        { "id": "nm0380282", "name": "Michael Herr" },
+        { "id": "nm0368007", "name": "Gustav Hasford" }
+    ],
+    "stars": "Matthew Modine, R. Lee Ermey, Vincent D'Onofrio, Adam Baldwin",
+    "starList": [
+        { "id": "nm0000546", "name": "Matthew Modine" },
+        { "id": "nm0000388", "name": "R. Lee Ermey" },
+        { "id": "nm0000352", "name": "Vincent D'Onofrio" },
+        { "id": "nm0000284", "name": "Adam Baldwin" }
+    ],
+    "actorList": [
+        {
+            "id": "nm0000546",
+            "image": "https://imdb-api.com/images/original/MV5BMjE3NTE4NjQxOF5BMl5BanBnXkFtZTgwMTI3MzQwNDI@._V1_Ratio0.7273_AL_.jpg",
+            "name": "Matthew Modine",
+            "asCharacter": "Pvt. Joker"
+        },
+        {
+            "id": "nm0000284",
+            "image": "https://imdb-api.com/images/original/MV5BMTY4MzUyNzE5Nl5BMl5BanBnXkFtZTYwMzAxODg1._V1_Ratio0.7273_AL_.jpg",
+            "name": "Adam Baldwin",
+            "asCharacter": "Animal Mother"
+        },
+        {
+            "id": "nm0000352",
+            "image": "https://imdb-api.com/images/original/MV5BMTk0NTE2MDkzNF5BMl5BanBnXkFtZTYwODUzMjcz._V1_Ratio0.7273_AL_.jpg",
+            "name": "Vincent D'Onofrio",
+            "asCharacter": "Pvt. Pyle"
+        },
+        {
+            "id": "nm0000388",
+            "image": "https://imdb-api.com/images/original/MV5BMTA4Mzg5MjgzODleQTJeQWpwZ15BbWU3MDY4MDA5MDM@._V1_Ratio0.9091_AL_.jpg",
+            "name": "R. Lee Ermey",
+            "asCharacter": "Gny. Sgt. Hartman (as Lee Ermey)"
+        },
+        {
+            "id": "nm0002126",
+            "image": "https://imdb-api.com/images/original/MV5BMjI2MjQzNzcxNV5BMl5BanBnXkFtZTcwMTU1NDg5Nw@@._V1_Ratio0.7273_AL_.jpg",
+            "name": "Dorian Harewood",
+            "asCharacter": "Eightball"
+        },
+        {
+            "id": "nm0397441",
+            "image": "https://imdb-api.com/images/original/MV5BMTY2OTM3NzQ3MF5BMl5BanBnXkFtZTcwMTM0MzQzMQ@@._V1_Ratio0.9091_AL_.jpg",
+            "name": "Kevyn Major Howard",
+            "asCharacter": "Rafterman (as Kevyn Major-Howard)"
+        },
+        {
+            "id": "nm0397124",
+            "image": "https://imdb-api.com/images/original/MV5BMjIwODkwNjU5Ml5BMl5BanBnXkFtZTcwNTE5MDYzOA@@._V1_Ratio0.7273_AL_.jpg",
+            "name": "Arliss Howard",
+            "asCharacter": "Pvt. Cowboy"
+        },
+        {
+            "id": "nm0642522",
+            "image": "https://imdb-api.com/images/original/MV5BMTkxOTkwNDEyNF5BMl5BanBnXkFtZTcwMDc5OTgwMw@@._V1_Ratio1.5000_AL_.jpg",
+            "name": "Ed O'Ross",
+            "asCharacter": "Lt. Touchdown"
+        },
+        {
+            "id": "nm0856012",
+            "image": "https://imdb-api.com/images/original/MV5BMjA2MjQ3MDQ1OF5BMl5BanBnXkFtZTcwMjQxNDk4OQ@@._V1_Ratio0.8182_AL_.jpg",
+            "name": "John Terry",
+            "asCharacter": "Lt. Lockhart"
+        },
+        {
+            "id": "nm0420029",
+            "image": "https://imdb-api.com/images/original/MV5BMGM0MDBhMzktMGEwMC00NTcyLThlZTEtYzg3ODBjNjhjM2IwXkEyXkFqcGdeQXVyNjUxMjc1OTM@._V1_Ratio1.7727_AL_.jpg",
+            "name": "Kieron Jecchinis",
+            "asCharacter": "Crazy Earl"
+        },
+        {
+            "id": "nm0852722",
+            "image": "https://imdb-api.com/images/original/MV5BMTgxOTcwNDcxMV5BMl5BanBnXkFtZTgwMzE5MzQ5MDE@._V1_Ratio0.7273_AL_.jpg",
+            "name": "Kirk Taylor",
+            "asCharacter": "Payback"
+        },
+        {
+            "id": "nm0170381",
+            "image": "https://imdb-api.com/images/original/MV5BZTM5Y2I1MDItOTVkYy00ZTE0LTk2MzgtM2IyYTIzMTY3NjNhXkEyXkFqcGdeQXVyNjUxMjc1OTM@._V1_Ratio1.7727_AL_.jpg",
+            "name": "Tim Colceri",
+            "asCharacter": "Doorgunner"
+        },
+        {
+            "id": "nm0821305",
+            "image": "https://imdb-api.com/images/original/MV5BYjBmMjg5MDEtMzIxYS00NGU2LTliMzQtZGEwMmI0YWMxMmViXkEyXkFqcGdeQXVyNjUxMjc1OTM@._V1_Ratio1.7727_AL_.jpg",
+            "name": "Jon Stafford",
+            "asCharacter": "Doc Jay (as John Stafford)"
+        },
+        {
+            "id": "nm0090124",
+            "image": "https://imdb-api.com/images/original/MV5BNjY1NGVlNjUtYjBiZC00NTZiLThmNDUtN2UxOGJlYmM0NzRmL2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyMjk3NTUyOTc@._V1_Ratio2.1818_AL_.jpg",
+            "name": "Bruce Boa",
+            "asCharacter": "Poge Colonel"
+        },
+        {
+            "id": "nm0878829",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Ian Tyler",
+            "asCharacter": "Lt. Cleves"
+        }
+    ],
+    "fullCast": null,
+    "genres": "Drama, War",
+    "genreList": [
+        { "key": "Drama", "value": "Drama" },
+        { "key": "War", "value": "War" }
+    ],
+    "companies": "Natant, Stanley Kubrick Productions, Warner Bros.",
+    "companyList": [
+        { "id": "co0001865", "name": "Natant" },
+        { "id": "co0038089", "name": "Stanley Kubrick Productions" },
+        { "id": "co0002663", "name": "Warner Bros." }
+    ],
+    "countries": "UK, USA",
+    "countryList": [
+        { "key": "UK", "value": "UK" },
+        { "key": "USA", "value": "USA" }
+    ],
+    "languages": "English, Vietnamese",
+    "languageList": [
+        { "key": "English", "value": "English" },
+        { "key": "Vietnamese", "value": "Vietnamese" }
+    ],
+    "contentRating": "R",
+    "imDbRating": "8.3",
+    "imDbRatingVotes": "683339",
+    "metacriticRating": "76",
+    "ratings": null,
+    "wikipedia": null,
+    "posters": {
+        "imDbId": "tt0093058",
+        "title": "Full Metal Jacket",
+        "fullTitle": "Full Metal Jacket (1987)",
+        "type": "Movie",
+        "year": "1987",
+        "posters": [
+            {
+                "id": "kMKyx1k8hWWscYFnPbnxxN4Eqo4.jpg",
+                "link": "https://imdb-api.com/posters/original/kMKyx1k8hWWscYFnPbnxxN4Eqo4.jpg",
+                "aspectRatio": 0.6666666666666666,
+                "language": "en",
+                "width": 2000,
+                "height": 3000
+            },
+            {
+                "id": "q2F9UZNXvu9cuLWigL0HfiA54Lm.jpg",
+                "link": "https://imdb-api.com/posters/original/q2F9UZNXvu9cuLWigL0HfiA54Lm.jpg",
+                "aspectRatio": 0.6666666666666666,
+                "language": "en",
+                "width": 1000,
+                "height": 1500
+            },
+            {
+                "id": "oTDSLgzAlFHZeyOJdGrtSLv1cSQ.jpg",
+                "link": "https://imdb-api.com/posters/original/oTDSLgzAlFHZeyOJdGrtSLv1cSQ.jpg",
+                "aspectRatio": 0.6666666666666666,
+                "language": "en",
+                "width": 1000,
+                "height": 1500
+            },
+            {
+                "id": "zoiGcNlYBR0r2fO2uP44XQF6S1W.jpg",
+                "link": "https://imdb-api.com/posters/original/zoiGcNlYBR0r2fO2uP44XQF6S1W.jpg",
+                "aspectRatio": 0.6666666666666666,
+                "language": "en",
+                "width": 1000,
+                "height": 1500
+            },
+            {
+                "id": "dZZoJwXkATGEcsDLJLnPd2Qg4Eo.jpg",
+                "link": "https://imdb-api.com/posters/original/dZZoJwXkATGEcsDLJLnPd2Qg4Eo.jpg",
+                "aspectRatio": 0.6666666666666666,
+                "language": "en",
+                "width": 2000,
+                "height": 3000
+            },
+            {
+                "id": "viZZ8FkUDexKYv1ZtR5IZQjHCCz.jpg",
+                "link": "https://imdb-api.com/posters/original/viZZ8FkUDexKYv1ZtR5IZQjHCCz.jpg",
+                "aspectRatio": 0.6666666666666666,
+                "language": "en",
+                "width": 2000,
+                "height": 3000
+            },
+            {
+                "id": "9zHOajuyB3AF9vp88TksSBcBkxE.jpg",
+                "link": "https://imdb-api.com/posters/original/9zHOajuyB3AF9vp88TksSBcBkxE.jpg",
+                "aspectRatio": 0.6666666666666666,
+                "language": "en",
+                "width": 2000,
+                "height": 3000
+            },
+            {
+                "id": "w1tuytoFzQy9byLFJymmc4xXGRk.jpg",
+                "link": "https://imdb-api.com/posters/original/w1tuytoFzQy9byLFJymmc4xXGRk.jpg",
+                "aspectRatio": 0.6666666666666666,
+                "language": "en",
+                "width": 2000,
+                "height": 3000
+            },
+            {
+                "id": "vL6ykTdn1MG8kIYJbkjiQzua15t.jpg",
+                "link": "https://imdb-api.com/posters/original/vL6ykTdn1MG8kIYJbkjiQzua15t.jpg",
+                "aspectRatio": 0.6666666666666666,
+                "language": "en",
+                "width": 2000,
+                "height": 3000
+            },
+            {
+                "id": "spT3h6Mm2jz6zyvkRHBtnj2GlaF.jpg",
+                "link": "https://imdb-api.com/posters/original/spT3h6Mm2jz6zyvkRHBtnj2GlaF.jpg",
+                "aspectRatio": 0.6666666666666666,
+                "language": "en",
+                "width": 2000,
+                "height": 3000
+            },
+            {
+                "id": "g6coe4MDgdxhIQgkI5ZIvJ1tH52.jpg",
+                "link": "https://imdb-api.com/posters/original/g6coe4MDgdxhIQgkI5ZIvJ1tH52.jpg",
+                "aspectRatio": 0.6666666666666666,
+                "language": "en",
+                "width": 2000,
+                "height": 3000
+            },
+            {
+                "id": "7nRS3PpKppKeSfoqfk3s8bczJ6w.jpg",
+                "link": "https://imdb-api.com/posters/original/7nRS3PpKppKeSfoqfk3s8bczJ6w.jpg",
+                "aspectRatio": 0.6666666666666666,
+                "language": "en",
+                "width": 2000,
+                "height": 3000
+            },
+            {
+                "id": "toig5J6l3BefOhG8PIVg8D6zhNC.jpg",
+                "link": "https://imdb-api.com/posters/original/toig5J6l3BefOhG8PIVg8D6zhNC.jpg",
+                "aspectRatio": 0.6666666666666666,
+                "language": "en",
+                "width": 1000,
+                "height": 1500
+            },
+            {
+                "id": "kqNchL4ftLbjO2zGC4cDCzZ3HVZ.jpg",
+                "link": "https://imdb-api.com/posters/original/kqNchL4ftLbjO2zGC4cDCzZ3HVZ.jpg",
+                "aspectRatio": 0.6666666666666666,
+                "language": "en",
+                "width": 1000,
+                "height": 1500
+            },
+            {
+                "id": "vzDimpscrHce6dLHVc1jWoA7Tva.jpg",
+                "link": "https://imdb-api.com/posters/original/vzDimpscrHce6dLHVc1jWoA7Tva.jpg",
+                "aspectRatio": 0.6666666666666666,
+                "language": "en",
+                "width": 1000,
+                "height": 1500
+            },
+            {
+                "id": "bsB08eAt9mUTraZ1Q0k3lcQlgUm.jpg",
+                "link": "https://imdb-api.com/posters/original/bsB08eAt9mUTraZ1Q0k3lcQlgUm.jpg",
+                "aspectRatio": 0.6666666666666666,
+                "language": "en",
+                "width": 1000,
+                "height": 1500
+            },
+            {
+                "id": "xyI832GK7xSbIdxmRXAcBMQRP4q.jpg",
+                "link": "https://imdb-api.com/posters/original/xyI832GK7xSbIdxmRXAcBMQRP4q.jpg",
+                "aspectRatio": 0.6666666666666666,
+                "language": "en",
+                "width": 1000,
+                "height": 1500
+            },
+            {
+                "id": "tEoKo4l3jbroCNcU8XOU4gWEscH.jpg",
+                "link": "https://imdb-api.com/posters/original/tEoKo4l3jbroCNcU8XOU4gWEscH.jpg",
+                "aspectRatio": 0.6666666666666666,
+                "language": "en",
+                "width": 1000,
+                "height": 1500
+            },
+            {
+                "id": "zIp8mlZirNOgwaj9CqJ3NJGGq5p.jpg",
+                "link": "https://imdb-api.com/posters/original/zIp8mlZirNOgwaj9CqJ3NJGGq5p.jpg",
+                "aspectRatio": 0.7504504504504504,
+                "language": "en",
+                "width": 1666,
+                "height": 2220
+            },
+            {
+                "id": "923PPiw95jE04knGsdQjDaFCQrU.jpg",
+                "link": "https://imdb-api.com/posters/original/923PPiw95jE04knGsdQjDaFCQrU.jpg",
+                "aspectRatio": 0.75,
+                "language": "en",
+                "width": 1665,
+                "height": 2220
+            }
+        ],
+        "backdrops": [
+            {
+                "id": "jqfCHNmjJVo5nJnLPM3ww7yqfNm.jpg",
+                "link": "https://imdb-api.com/posters/original/jqfCHNmjJVo5nJnLPM3ww7yqfNm.jpg",
+                "aspectRatio": 1.7775,
+                "language": "en",
+                "width": 2844,
+                "height": 1600
+            },
+            {
+                "id": "yozBWKbyeXtPGN75PlHurOaVvEz.jpg",
+                "link": "https://imdb-api.com/posters/original/yozBWKbyeXtPGN75PlHurOaVvEz.jpg",
+                "aspectRatio": 1.7777777777777777,
+                "language": "en",
+                "width": 1920,
+                "height": 1080
+            },
+            {
+                "id": "yYderAvjtKnYLBxKujVpmKTVlOM.jpg",
+                "link": "https://imdb-api.com/posters/original/yYderAvjtKnYLBxKujVpmKTVlOM.jpg",
+                "aspectRatio": 1.7777777777777777,
+                "language": "en",
+                "width": 1920,
+                "height": 1080
+            },
+            {
+                "id": "7GdKMuiypkhQqOOGtlj9l6NFD0N.jpg",
+                "link": "https://imdb-api.com/posters/original/7GdKMuiypkhQqOOGtlj9l6NFD0N.jpg",
+                "aspectRatio": 1.7777777777777777,
+                "language": "en",
+                "width": 1920,
+                "height": 1080
+            },
+            {
+                "id": "dPDqM0TvhfGYOMa4QaVnizjfaH9.jpg",
+                "link": "https://imdb-api.com/posters/original/dPDqM0TvhfGYOMa4QaVnizjfaH9.jpg",
+                "aspectRatio": 1.7777777777777777,
+                "language": "en",
+                "width": 1920,
+                "height": 1080
+            },
+            {
+                "id": "v6JAlrwRLCnIujs9NFIViursbhg.jpg",
+                "link": "https://imdb-api.com/posters/original/v6JAlrwRLCnIujs9NFIViursbhg.jpg",
+                "aspectRatio": 1.7777777777777777,
+                "language": "en",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "id": "mRhwriJCGeTOtlMo5jaqNZQ2tyl.jpg",
+                "link": "https://imdb-api.com/posters/original/mRhwriJCGeTOtlMo5jaqNZQ2tyl.jpg",
+                "aspectRatio": 1.7777777777777777,
+                "language": "en",
+                "width": 1920,
+                "height": 1080
+            },
+            {
+                "id": "goi6uHd7BUstJwLQyUm0QwINcwD.jpg",
+                "link": "https://imdb-api.com/posters/original/goi6uHd7BUstJwLQyUm0QwINcwD.jpg",
+                "aspectRatio": 1.7774327122153208,
+                "language": "en",
+                "width": 1717,
+                "height": 966
+            }
+        ],
+        "errorMessage": ""
+    },
+    "images": {
+        "imDbId": "tt0093058",
+        "title": "Full Metal Jacket",
+        "fullTitle": "Full Metal Jacket (1987)",
+        "type": "Movie",
+        "year": "1987",
+        "items": [
+            {
+                "title": "Vincent D'Onofrio, R. Lee Ermey, Matthew Modine, and Arliss Howard in Full Metal Jacket (1987)",
+                "image": "https://imdb-api.com/images/original/MV5BYzgwNGY5ZTQtODIwYy00ZmNlLTkyMmUtMmQ0ODkwZmE0OWFhXkEyXkFqcGdeQXVyMDc2NTEzMw@@._V1_Ratio1.7800_AL_.jpg"
+            },
+            {
+                "title": "R. Lee Ermey in Full Metal Jacket (1987)",
+                "image": "https://imdb-api.com/images/original/MV5BZjRiYzhhODAtYzg2Ny00YTE3LTkzNmMtMGVjN2ExOTlmN2M0XkEyXkFqcGdeQXVyMDc2NTEzMw@@._V1_Ratio1.7800_AL_.jpg"
+            },
+            {
+                "title": "Matthew Modine in Full Metal Jacket (1987)",
+                "image": "https://imdb-api.com/images/original/MV5BMzU4MDMzNTMwNl5BMl5BanBnXkFtZTgwOTk2OTEwMjE@._V1_Ratio1.5200_AL_.jpg"
+            },
+            {
+                "title": "Adam Baldwin in Full Metal Jacket (1987)",
+                "image": "https://imdb-api.com/images/original/MV5BMTM5NzQ1NDQ3OF5BMl5BanBnXkFtZTcwNzMxMTQyNw@@._V1_Ratio1.4600_AL_.jpg"
+            },
+            {
+                "title": "Vincent D'Onofrio in Full Metal Jacket (1987)",
+                "image": "https://imdb-api.com/images/original/MV5BMTUzODYyNjQ5OF5BMl5BanBnXkFtZTcwODg4NDIwNA@@._V1_Ratio1.5200_AL_.jpg"
+            },
+            {
+                "title": "Adam Baldwin and Matthew Modine in Full Metal Jacket (1987)",
+                "image": "https://imdb-api.com/images/original/MV5BNDIxNzcwOTEyM15BMl5BanBnXkFtZTcwOTg4NDIwNA@@._V1_Ratio1.4600_AL_.jpg"
+            },
+            {
+                "title": "Vincent D'Onofrio in Full Metal Jacket (1987)",
+                "image": "https://imdb-api.com/images/original/MV5BMjMxNjA4NTQwNV5BMl5BanBnXkFtZTcwMTk4NDIwNA@@._V1_Ratio1.5200_AL_.jpg"
+            },
+            {
+                "title": "Matthew Modine and Arliss Howard in Full Metal Jacket (1987)",
+                "image": "https://imdb-api.com/images/original/MV5BMTQxMTIwNzIzMF5BMl5BanBnXkFtZTcwMjk4NDIwNA@@._V1_Ratio1.5000_AL_.jpg"
+            },
+            {
+                "title": "Vincent D'Onofrio, R. Lee Ermey, and Matthew Modine in Full Metal Jacket (1987)",
+                "image": "https://imdb-api.com/images/original/MV5BMTM5OTI2MTk1NV5BMl5BanBnXkFtZTcwMzk4NDIwNA@@._V1_Ratio1.4800_AL_.jpg"
+            },
+            {
+                "title": "Full Metal Jacket (1987)",
+                "image": "https://imdb-api.com/images/original/MV5BYTlmZDQwYTAtYWZkNC00MDcwLTlhMTUtMWVmYmIwZWU5MzAxXkEyXkFqcGdeQXVyMTAyOTE2ODg0._V1_Ratio1.0000_AL_.jpg"
+            },
+            {
+                "title": "Full Metal Jacket (1987)",
+                "image": "https://imdb-api.com/images/original/MV5BNDAzMjU3NzE0Nl5BMl5BanBnXkFtZTcwNTk1ODg3OA@@._V1_Ratio1.0000_AL_.jpg"
+            },
+            {
+                "title": "A1",
+                "image": "https://imdb-api.com/images/original/MV5BMjEwNjI2MDM5M15BMl5BanBnXkFtZTYwODQzMDc4._V1_Ratio1.0000_AL_.jpg"
+            },
+            {
+                "title": "Full Metal Jacket (1987)",
+                "image": "https://imdb-api.com/images/original/MV5BODc4MTgwODU2OV5BMl5BanBnXkFtZTcwMzkyMjAwMQ@@._V1_Ratio1.0000_AL_.jpg"
+            },
+            {
+                "title": "Full Metal Jacket (1987)",
+                "image": "https://imdb-api.com/images/original/MV5BMTI5MTc0NDI4OF5BMl5BanBnXkFtZTcwNDgxMTYyMQ@@._V1_Ratio1.0000_AL_.jpg"
+            },
+            {
+                "title": "Full Metal Jacket (1987)",
+                "image": "https://imdb-api.com/images/original/MV5BMTI2NTE2NzExN15BMl5BanBnXkFtZTYwNDAzODk4._V1_Ratio1.0000_AL_.jpg"
+            },
+            {
+                "title": "Full Metal Jacket (1987)",
+                "image": "https://imdb-api.com/images/original/MV5BMTkzNTUwMDgxMV5BMl5BanBnXkFtZTcwMDkzNjU4MQ@@._V1_Ratio1.0000_AL_.jpg"
+            },
+            {
+                "title": "Full Metal Jacket (1987)",
+                "image": "https://imdb-api.com/images/original/MV5BMjE1MzE4NDA1MF5BMl5BanBnXkFtZTcwNzgzNjU4MQ@@._V1_Ratio1.0000_AL_.jpg"
+            },
+            {
+                "title": "Full Metal Jacket (1987)",
+                "image": "https://imdb-api.com/images/original/MV5BMTIxODcxMTU1OV5BMl5BanBnXkFtZTcwMjQzNjU4MQ@@._V1_Ratio1.0000_AL_.jpg"
+            },
+            {
+                "title": "Full Metal Jacket (1987)",
+                "image": "https://imdb-api.com/images/original/MV5BMjIwMTE1NTUyMV5BMl5BanBnXkFtZTcwNTMzNjU4MQ@@._V1_Ratio1.0000_AL_.jpg"
+            },
+            {
+                "title": "Full Metal Jacket (1987)",
+                "image": "https://imdb-api.com/images/original/MV5BMTQ2OTY0OTYzMl5BMl5BanBnXkFtZTcwMTMzNjU4MQ@@._V1_Ratio1.0000_AL_.jpg"
+            },
+            {
+                "title": "Full Metal Jacket (1987)",
+                "image": "https://imdb-api.com/images/original/MV5BMzk1MDA3MjE3MV5BMl5BanBnXkFtZTcwNDMzNjU4MQ@@._V1_Ratio1.0000_AL_.jpg"
+            },
+            {
+                "title": "Full Metal Jacket (1987)",
+                "image": "https://imdb-api.com/images/original/MV5BMTY3MzYxMjE1M15BMl5BanBnXkFtZTcwMDcyNjU4MQ@@._V1_Ratio1.0000_AL_.jpg"
+            },
+            {
+                "title": "Full Metal Jacket (1987)",
+                "image": "https://imdb-api.com/images/original/MV5BMTc4MzMxMTg2MV5BMl5BanBnXkFtZTYwMzE3Mjk4._V1_Ratio1.0000_AL_.jpg"
+            },
+            {
+                "title": "Full Metal Jacket (1987)",
+                "image": "https://imdb-api.com/images/original/MV5BMTExOTU1NTk0MjZeQTJeQWpwZ15BbWU2MDQxNzI5OA@@._V1_Ratio1.0000_AL_.jpg"
+            },
+            {
+                "title": "Full Metal Jacket (1987)",
+                "image": "https://imdb-api.com/images/original/MV5BMTkxMDQ0ODc4OF5BMl5BanBnXkFtZTYwMTY0NTk4._V1_Ratio1.0000_AL_.jpg"
+            },
+            {
+                "title": "Full Metal Jacket (1987)",
+                "image": "https://imdb-api.com/images/original/MV5BMTYwNjc4ODIzOV5BMl5BanBnXkFtZTYwMDU0MjE5._V1_Ratio1.0000_AL_.jpg"
+            },
+            {
+                "title": "Full Metal Jacket (1987)",
+                "image": "https://imdb-api.com/images/original/MV5BMTQ5MDA4Mzg0MV5BMl5BanBnXkFtZTYwMTM4MTY5._V1_Ratio1.0000_AL_.jpg"
+            },
+            {
+                "title": "Full Metal Jacket (1987)",
+                "image": "https://imdb-api.com/images/original/MV5BODE3NTQwMzcxNV5BMl5BanBnXkFtZTYwODk3ODY5._V1_Ratio1.0000_AL_.jpg"
+            },
+            {
+                "title": "Full Metal Jacket (1987)",
+                "image": "https://imdb-api.com/images/original/MV5BMTgwOTc3NzMzOV5BMl5BanBnXkFtZTYwNDU1MTc5._V1_Ratio1.0000_AL_.jpg"
+            },
+            {
+                "title": "Full Metal Jacket (1987)",
+                "image": "https://imdb-api.com/images/original/MV5BODY5MDY4NjE0MV5BMl5BanBnXkFtZTYwNTQ0NDg5._V1_Ratio1.0000_AL_.jpg"
+            },
+            {
+                "title": "Full Metal Jacket (1987)",
+                "image": "https://imdb-api.com/images/original/MV5BMjE1MDY1NTUzMl5BMl5BanBnXkFtZTYwOTA2NDg5._V1_Ratio1.0000_AL_.jpg"
+            },
+            {
+                "title": "Full Metal Jacket (1987)",
+                "image": "https://imdb-api.com/images/original/MV5BMTk0MjgxMjM5N15BMl5BanBnXkFtZTcwMDg3ODgxMQ@@._V1_Ratio1.3800_AL_.jpg"
+            },
+            {
+                "title": "Full Metal Jacket (1987)",
+                "image": "https://imdb-api.com/images/original/MV5BMTIxNDQwMjU1NF5BMl5BanBnXkFtZTcwMDUzNzUxMQ@@._V1_Ratio1.0000_AL_.jpg"
+            },
+            {
+                "title": "Full Metal Jacket (1987)",
+                "image": "https://imdb-api.com/images/original/MV5BMTk3NDEzNjg3MF5BMl5BanBnXkFtZTcwNzAxNDgyMQ@@._V1_Ratio1.0000_AL_.jpg"
+            },
+            {
+                "title": "Full Metal Jacket (1987)",
+                "image": "https://imdb-api.com/images/original/MV5BMjExOTM5MDI2MF5BMl5BanBnXkFtZTcwMTI2NDkyMQ@@._V1_Ratio1.0000_AL_.jpg"
+            },
+            {
+                "title": "Full Metal Jacket (1987)",
+                "image": "https://imdb-api.com/images/original/MV5BMTI3NjIwNTc1NF5BMl5BanBnXkFtZTcwMDQxNDkzMQ@@._V1_Ratio1.0000_AL_.jpg"
+            },
+            {
+                "title": "Full Metal Jacket (1987)",
+                "image": "https://imdb-api.com/images/original/MV5BMTg3MjY2MDE0M15BMl5BanBnXkFtZTcwODMxMDU1MQ@@._V1_Ratio1.0000_AL_.jpg"
+            },
+            {
+                "title": "Full Metal Jacket (1987)",
+                "image": "https://imdb-api.com/images/original/MV5BMTQ4NzUzNDE5Ml5BMl5BanBnXkFtZTcwOTMxMDU1MQ@@._V1_Ratio1.0000_AL_.jpg"
+            },
+            {
+                "title": "Arliss Howard in Full Metal Jacket (1987)",
+                "image": "https://imdb-api.com/images/original/MV5BMDhmY2Q3MjctMDZmMy00MjljLTgyYzItNGYyNjVmMTM4ZjZlXkEyXkFqcGdeQXVyNDY2NzgwOTE@._V1_Ratio1.3200_AL_.jpg"
+            },
+            {
+                "title": "Full Metal Jacket (1987)",
+                "image": "https://imdb-api.com/images/original/MV5BOGVmMWM1YjQtMWIxMC00ZTA4LWFiNzMtMGFkYTIzNzJjNzk2XkEyXkFqcGdeQXVyNDY2NzgwOTE@._V1_Ratio1.7800_AL_.jpg"
+            },
+            {
+                "title": "Tan Hung Francione and Leanne Hong in Full Metal Jacket (1987)",
+                "image": "https://imdb-api.com/images/original/MV5BMmY4YmMyMWItZGFjYS00OGQ2LThkMTUtNTM5ODkxZGQ5MTgzXkEyXkFqcGdeQXVyMjI0Mjg2NzE@._V1_Ratio1.8200_AL_.jpg"
+            },
+            {
+                "title": "Matthew Modine in Full Metal Jacket (1987)",
+                "image": "https://imdb-api.com/images/original/MV5BYzZhN2UwOWQtZDk2ZS00YzM2LTkwMTctNDViYzg0NTBkYmZmXkEyXkFqcGdeQXVyMjI0Mjg2NzE@._V1_Ratio1.7800_AL_.jpg"
+            },
+            {
+                "title": "Adam Baldwin, Tan Hung Francione, Leanne Hong, and Kevyn Major Howard in Full Metal Jacket (1987)",
+                "image": "https://imdb-api.com/images/original/MV5BOTFkZjZhOTYtMmY0MC00MGMwLWIxYjAtMjA1ZTIwMTQxNzA0XkEyXkFqcGdeQXVyMjI0Mjg2NzE@._V1_Ratio1.7800_AL_.jpg"
+            },
+            {
+                "title": "Full Metal Jacket (1987)",
+                "image": "https://imdb-api.com/images/original/MV5BYzRmMDg4NjktYjRhYi00MmNjLWE5YjMtMmUxOWI2MDU3ZjBlXkEyXkFqcGdeQXVyMjI0Mjg2NzE@._V1_Ratio1.7800_AL_.jpg"
+            },
+            {
+                "title": "Vincent D'Onofrio in Full Metal Jacket (1987)",
+                "image": "https://imdb-api.com/images/original/MV5BYjk3NTQwN2ItMDNhOC00OGFiLTlhMTgtYTMyMTlmZTYwOWYyXkEyXkFqcGdeQXVyNTY0MDIzNzM@._V1_Ratio1.3200_AL_.jpg"
+            },
+            {
+                "title": "Matthew Modine in Full Metal Jacket (1987)",
+                "image": "https://imdb-api.com/images/original/MV5BMjI3ZWUxYmQtNDhhZi00MWQzLTlhNzgtMWRhYzQ5NWJkMGFjXkEyXkFqcGdeQXVyNDY2NzgwOTE@._V1_Ratio1.7800_AL_.jpg"
+            },
+            {
+                "title": "Full Metal Jacket (1987)",
+                "image": "https://imdb-api.com/images/original/MV5BZGVlNDgzZDEtNTYyYy00YWNmLThlNzYtMWZhY2Y2OTE2NWY5XkEyXkFqcGdeQXVyNDY2NzgwOTE@._V1_Ratio1.7800_AL_.jpg"
+            },
+            {
+                "title": "Full Metal Jacket (1987)",
+                "image": "https://imdb-api.com/images/original/MV5BMzhiYzdkMjgtM2ViZi00YmY4LTk5YTEtMTZhM2U4MGM1MjVjXkEyXkFqcGdeQXVyNDY2NzgwOTE@._V1_Ratio1.7800_AL_.jpg"
+            }
+        ],
+        "errorMessage": ""
+    },
+    "trailer": {
+        "imDbId": "tt0093058",
+        "title": "Full Metal Jacket",
+        "fullTitle": "Full Metal Jacket (1987)",
+        "type": "Movie",
+        "year": "1987",
+        "videoId": "vi3225663513",
+        "videoTitle": "Full Metal Jacket - Trailer",
+        "videoDescription": null,
+        "thumbnailUrl": "https://m.media-amazon.com/images/M/MV5BNGU0ZmYwNmUtMzc2Mi00ZjYxLWE2MjctY2Q1NjE1NmZiOTJiXkEyXkFqcGdeQXRodW1ibmFpbC1pbml0aWFsaXplcg@@._V1_.jpg",
+        "uploadDate": "05/03/2018 21:46:01",
+        "link": "https://www.imdb.com/video/vi3225663513",
+        "linkEmbed": "https://www.imdb.com/video/imdb/vi3225663513/imdb/embed",
+        "errorMessage": ""
+    },
+    "boxOffice": {
+        "budget": "$30,000,000 (estimated)",
+        "openingWeekendUSA": "$2,217,307, 28 June 1987",
+        "grossUSA": "$46,357,676",
+        "cumulativeWorldwideGross": "$46,357,676"
+    },
+    "tagline": "An Epic Story of the Vietnam War [Australia Theatrical]",
+    "keywords": "military,vietnam war,drill instructor,u.s. marine,boot camp",
+    "keywordList": [
+        "military",
+        "vietnam war",
+        "drill instructor",
+        "u.s. marine",
+        "boot camp"
+    ],
+    "similars": [
+        {
+            "id": "tt0066921",
+            "title": "A Clockwork Orange",
+            "fullTitle": "A Clockwork Orange (1971)",
+            "year": "1971",
+            "image": "https://imdb-api.com/images/original/MV5BMTY3MjM1Mzc4N15BMl5BanBnXkFtZTgwODM0NzAxMDE@._V1_Ratio0.6737_AL_.jpg",
+            "plot": "In the future, a sadistic gang leader is imprisoned and volunteers for a conduct-aversion experiment, but it doesn't go as planned.",
+            "directors": "Stanley Kubrick",
+            "stars": "Malcolm McDowell, Patrick Magee, Michael Bates",
+            "genres": "Crime, Drama, Sci-Fi",
+            "imDbRating": "8.3"
+        },
+        {
+            "id": "tt0062622",
+            "title": "2001: A Space Odyssey",
+            "fullTitle": "2001: A Space Odyssey (1968)",
+            "year": "1968",
+            "image": "https://imdb-api.com/images/original/MV5BMmNlYzRiNDctZWNhMi00MzI4LThkZTctMTUzMmZkMmFmNThmXkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_Ratio0.6737_AL_.jpg",
+            "plot": "After discovering a mysterious artifact buried beneath the Lunar surface, mankind sets off on a quest to find its origins with help from intelligent supercomputer H.A.L. 9000.",
+            "directors": "Stanley Kubrick",
+            "stars": "Keir Dullea, Gary Lockwood, William Sylvester",
+            "genres": "Adventure, Sci-Fi",
+            "imDbRating": "8.3"
+        },
+        {
+            "id": "tt0081505",
+            "title": "The Shining",
+            "fullTitle": "The Shining (1980)",
+            "year": "1980",
+            "image": "https://imdb-api.com/images/original/MV5BZWFlYmY2MGEtZjVkYS00YzU4LTg0YjQtYzY1ZGE3NTA5NGQxXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_Ratio0.6737_AL_.jpg",
+            "plot": "A family heads to an isolated hotel for the winter where a sinister presence influences the father into violence, while his psychic son sees horrific forebodings from both past and future.",
+            "directors": "Stanley Kubrick",
+            "stars": "Jack Nicholson, Shelley Duvall, Danny Lloyd",
+            "genres": "Drama, Horror",
+            "imDbRating": "8.4"
+        },
+        {
+            "id": "tt0078788",
+            "title": "Apocalypse Now",
+            "fullTitle": "Apocalypse Now (1979)",
+            "year": "1979",
+            "image": "https://imdb-api.com/images/original/MV5BMDdhODg0MjYtYzBiOS00ZmI5LWEwZGYtZDEyNDU4MmQyNzFkXkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_Ratio0.6737_AL_.jpg",
+            "plot": "A U.S. Army officer serving in Vietnam is tasked with assassinating a renegade Special Forces Colonel who sees himself as a god.",
+            "directors": "Francis Ford Coppola",
+            "stars": "Martin Sheen, Marlon Brando, Robert Duvall",
+            "genres": "Drama, Mystery, War",
+            "imDbRating": "8.4"
+        },
+        {
+            "id": "tt0105236",
+            "title": "Reservoir Dogs",
+            "fullTitle": "Reservoir Dogs (1992)",
+            "year": "1992",
+            "image": "https://imdb-api.com/images/original/MV5BZmExNmEwYWItYmQzOS00YjA5LTk2MjktZjEyZDE1Y2QxNjA1XkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_Ratio0.6737_AL_.jpg",
+            "plot": "When a simple jewelry heist goes horribly wrong, the surviving criminals begin to suspect that one of them is a police informant.",
+            "directors": "Quentin Tarantino",
+            "stars": "Harvey Keitel, Tim Roth, Michael Madsen",
+            "genres": "Crime, Drama, Thriller",
+            "imDbRating": "8.3"
+        },
+        {
+            "id": "tt0057012",
+            "title": "Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb",
+            "fullTitle": "Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb (1964)",
+            "year": "1964",
+            "image": "https://imdb-api.com/images/original/MV5BZWI3ZTMxNjctMjdlNS00NmUwLWFiM2YtZDUyY2I3N2MxYTE0XkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_Ratio0.6737_AL_.jpg",
+            "plot": "An insane general triggers a path to nuclear holocaust that a War Room full of politicians and generals frantically tries to stop.",
+            "directors": "Stanley Kubrick",
+            "stars": "Peter Sellers, George C. Scott, Sterling Hayden",
+            "genres": "Comedy",
+            "imDbRating": "8.4"
+        },
+        {
+            "id": "tt0075314",
+            "title": "Taxi Driver",
+            "fullTitle": "Taxi Driver (1976)",
+            "year": "1976",
+            "image": "https://imdb-api.com/images/original/MV5BM2M1MmVhNDgtNmI0YS00ZDNmLTkyNjctNTJiYTQ2N2NmYzc2XkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_Ratio0.6737_AL_.jpg",
+            "plot": "A mentally unstable veteran works as a nighttime taxi driver in New York City, where the perceived decadence and sleaze fuels his urge for violent action by attempting to liberate a presidential campaign worker and an underage prostitute.",
+            "directors": "Martin Scorsese",
+            "stars": "Robert De Niro, Jodie Foster, Cybill Shepherd",
+            "genres": "Crime, Drama",
+            "imDbRating": "8.2"
+        },
+        {
+            "id": "tt0072684",
+            "title": "Barry Lyndon",
+            "fullTitle": "Barry Lyndon (1975)",
+            "year": "1975",
+            "image": "https://imdb-api.com/images/original/MV5BNmY0MWY2NDctZDdmMi00MjA1LTk0ZTQtZDMyZTQ1NTNlYzVjXkEyXkFqcGdeQXVyMjUzOTY1NTc@._V1_Ratio0.6737_AL_.jpg",
+            "plot": "An Irish rogue wins the heart of a rich widow and assumes her dead husband's aristocratic position in 18th-century England.",
+            "directors": "Stanley Kubrick",
+            "stars": "Ryan O'Neal, Marisa Berenson, Patrick Magee",
+            "genres": "Adventure, Drama, History",
+            "imDbRating": "8.1"
+        },
+        {
+            "id": "tt0120663",
+            "title": "Eyes Wide Shut",
+            "fullTitle": "Eyes Wide Shut (1999)",
+            "year": "1999",
+            "image": "https://imdb-api.com/images/original/MV5BN2ZhNjI5MGItMzMwZS00N2VhLWE2NTEtNjFmZmRiYzZlNGVmXkEyXkFqcGdeQXVyMTYzMDM0NTU@._V1_Ratio0.6947_AL_.jpg",
+            "plot": "A New York City doctor embarks on a harrowing, night-long odyssey of sexual and moral discovery after his wife reveals a painful secret to him.",
+            "directors": "Stanley Kubrick",
+            "stars": "Tom Cruise, Nicole Kidman, Todd Field",
+            "genres": "Drama, Mystery, Thriller",
+            "imDbRating": "7.4"
+        },
+        {
+            "id": "tt0086250",
+            "title": "Scarface",
+            "fullTitle": "Scarface (1983)",
+            "year": "1983",
+            "image": "https://imdb-api.com/images/original/MV5BNjdjNGQ4NDEtNTEwYS00MTgxLTliYzQtYzE2ZDRiZjFhZmNlXkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_Ratio0.6737_AL_.jpg",
+            "plot": "In 1980 Miami, a determined Cuban immigrant takes over a drug cartel and succumbs to greed.",
+            "directors": "Brian De Palma",
+            "stars": "Al Pacino, Michelle Pfeiffer, Steven Bauer",
+            "genres": "Crime, Drama",
+            "imDbRating": "8.3"
+        },
+        {
+            "id": "tt0091763",
+            "title": "Platoon",
+            "fullTitle": "Platoon (1986)",
+            "year": "1986",
+            "image": "https://imdb-api.com/images/original/MV5BMzRjZjdlMjQtODVkYS00N2YzLWJlYWYtMGVlN2E5MWEwMWQzXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_Ratio0.6737_AL_.jpg",
+            "plot": "Chris Taylor, a neophyte recruit in Vietnam, finds himself caught in a battle of wills between two sergeants, one good and the other evil. A shrewd examination of the brutality of war and the duality of man in conflict.",
+            "directors": "Oliver Stone",
+            "stars": "Charlie Sheen, Tom Berenger, Willem Dafoe",
+            "genres": "Drama, War",
+            "imDbRating": "8.1"
+        },
+        {
+            "id": "tt0056193",
+            "title": "Lolita",
+            "fullTitle": "Lolita (1962)",
+            "year": "1962",
+            "image": "https://imdb-api.com/images/original/MV5BZTlmODM0ZTgtY2NkZS00Y2ZmLTkxMzktMTE4ZDg2NzNmNDkwXkEyXkFqcGdeQXVyMjUzOTY1NTc@._V1_Ratio0.6737_AL_.jpg",
+            "plot": "A middle-aged college professor becomes infatuated with a fourteen-year-old nymphet.",
+            "directors": "Stanley Kubrick",
+            "stars": "James Mason, Shelley Winters, Sue Lyon",
+            "genres": "Crime, Drama, Romance",
+            "imDbRating": "7.6"
+        }
+    ],
+    "tvSeriesInfo": null,
+    "tvEpisodeInfo": null,
+    "errorMessage": ""
+}

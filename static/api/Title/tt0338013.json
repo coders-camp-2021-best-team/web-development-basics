@@ -1,0 +1,739 @@
+{
+    "id": "tt0338013",
+    "title": "Eternal Sunshine of the Spotless Mind",
+    "originalTitle": "",
+    "fullTitle": "Eternal Sunshine of the Spotless Mind (2004)",
+    "type": "Movie",
+    "year": "2004",
+    "image": "https://imdb-api.com/images/original/MV5BMTY4NzcwODg3Nl5BMl5BanBnXkFtZTcwNTEwOTMyMw@@._V1_Ratio0.6791_AL_.jpg",
+    "releaseDate": "2004-03-19",
+    "runtimeMins": "108",
+    "runtimeStr": "1h 48mins",
+    "plot": "Much to his surprise, timid Joel Barish is shocked to discover that the love of his life, sparky Clementine, has had him erased from her memory. To pay her back in the same coin, poor Joel summons up the courage to undergo a painless but intricate medical procedure to do the same, utterly unaware that darkness is an essential part of the light. Now, as hurt and angry Joel's ugly recollections of Clementine gradually fade away, giving way to a soulless black void, suddenly, he begins having second thoughts, toying with the idea of stopping the irreversible process. In the end, is ignorance really bliss?",
+    "plotLocal": "",
+    "plotLocalIsRtl": false,
+    "awards": "Top Rated Movies #95 | Won 1 Oscar. Another 72 wins & 111 nominations.",
+    "directors": "Michel Gondry",
+    "directorList": [{ "id": "nm0327273", "name": "Michel Gondry" }],
+    "writers": "Charlie Kaufman, Michel Gondry, Pierre Bismuth",
+    "writerList": [
+        { "id": "nm0442109", "name": "Charlie Kaufman" },
+        { "id": "nm0327273", "name": "Michel Gondry" },
+        { "id": "nm1410028", "name": "Pierre Bismuth" }
+    ],
+    "stars": "Jim Carrey, Kate Winslet, Tom Wilkinson, Gerry Robert Byrne",
+    "starList": [
+        { "id": "nm0000120", "name": "Jim Carrey" },
+        { "id": "nm0000701", "name": "Kate Winslet" },
+        { "id": "nm0929489", "name": "Tom Wilkinson" },
+        { "id": "nm0004423", "name": "Gerry Robert Byrne" }
+    ],
+    "actorList": [
+        {
+            "id": "nm0000120",
+            "image": "https://imdb-api.com/images/original/MV5BMTQwMjAwNzI0M15BMl5BanBnXkFtZTcwOTY1MTMyOQ@@._V1_Ratio0.8182_AL_.jpg",
+            "name": "Jim Carrey",
+            "asCharacter": "Joel Barish"
+        },
+        {
+            "id": "nm0000701",
+            "image": "https://imdb-api.com/images/original/MV5BODgzMzM2NTE0Ml5BMl5BanBnXkFtZTcwMTcyMTkyOQ@@._V1_Ratio0.7273_AL_.jpg",
+            "name": "Kate Winslet",
+            "asCharacter": "Clementine Kruczynski"
+        },
+        {
+            "id": "nm0004423",
+            "image": "https://imdb-api.com/images/original/MV5BYThkOTc4NGUtYTc4Ni00YTAyLTgyNjQtZGQ4NTVmY2U4MTI5XkEyXkFqcGdeQXVyMjQwMDg0Ng@@._V1_Ratio1.3182_AL_.jpg",
+            "name": "Gerry Robert Byrne",
+            "asCharacter": "Train Conductor"
+        },
+        {
+            "id": "nm0000704",
+            "image": "https://imdb-api.com/images/original/MV5BMTM0NDIxMzQ5OF5BMl5BanBnXkFtZTcwNzAyNTA4Nw@@._V1_Ratio0.7273_AL_.jpg",
+            "name": "Elijah Wood",
+            "asCharacter": "Patrick"
+        },
+        {
+            "id": "nm0752876",
+            "image": "https://imdb-api.com/images/original/MV5BNjNiYzE2YTItMjBmNi00NjJkLTlmOGQtYWU1YTQ5NWI5NzAzL2ltYWdlXkEyXkFqcGdeQXVyNTIxNTYyMDQ@._V1_Ratio0.7273_AL_.jpg",
+            "name": "Thomas Jay Ryan",
+            "asCharacter": "Frank"
+        },
+        {
+            "id": "nm0749263",
+            "image": "https://imdb-api.com/images/original/MV5BNWIzZTI1ODUtZTUzMC00NTdiLWFlOTYtZTg4MGZkYmU4YzNlXkEyXkFqcGdeQXVyNTExOTk5Nzg@._V1_Ratio0.7273_AL_.jpg",
+            "name": "Mark Ruffalo",
+            "asCharacter": "Stan"
+        },
+        {
+            "id": "nm0011038",
+            "image": "https://imdb-api.com/images/original/MV5BMTM1NDg5NzQ3MF5BMl5BanBnXkFtZTcwNTUyMzcyOA@@._V1_Ratio0.7273_AL_.jpg",
+            "name": "Jane Adams",
+            "asCharacter": "Carrie"
+        },
+        {
+            "id": "nm0189144",
+            "image": "https://imdb-api.com/images/original/MV5BMTMzMzgwOTI1N15BMl5BanBnXkFtZTcwNTg5ODk2Mw@@._V1_Ratio0.7273_AL_.jpg",
+            "name": "David Cross",
+            "asCharacter": "Rob"
+        },
+        {
+            "id": "nm0000379",
+            "image": "https://imdb-api.com/images/original/MV5BMTQ3NzkwNzM1MV5BMl5BanBnXkFtZTgwMzE2MTQ3MjE@._V1_Ratio0.7273_AL_.jpg",
+            "name": "Kirsten Dunst",
+            "asCharacter": "Mary"
+        },
+        {
+            "id": "nm0929489",
+            "image": "https://imdb-api.com/images/original/MV5BMTcxNzc0NzQyN15BMl5BanBnXkFtZTcwNjI1NDA2MQ@@._V1_Ratio0.7273_AL_.jpg",
+            "name": "Tom Wilkinson",
+            "asCharacter": "Dr. Mierzwiak"
+        },
+        {
+            "id": "nm1439297",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Ryan Whitney",
+            "asCharacter": "Young Joel"
+        },
+        {
+            "id": "nm0043743",
+            "image": "https://imdb-api.com/images/original/MV5BMTkyNTAwNjY2NV5BMl5BanBnXkFtZTgwNTg4NTE2ODE@._V1_Ratio0.7273_AL_.jpg",
+            "name": "Debbon Ayer",
+            "asCharacter": "Joel's Mother"
+        },
+        {
+            "id": "nm1552908",
+            "image": "https://imdb-api.com/images/original/MV5BMmE3OTE0ZTMtYTM4OS00ZGNiLThkNWQtZmI3YzAwYzc4Y2U4XkEyXkFqcGdeQXVyMjQwMDg0Ng@@._V1_Ratio1.0000_AL_.jpg",
+            "name": "Amir Ali Said",
+            "asCharacter": "Young Bully"
+        },
+        {
+            "id": "nm1552903",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Brian Price",
+            "asCharacter": "Young Bully"
+        },
+        {
+            "id": "nm1445789",
+            "image": "https://imdb-api.com/images/original/MV5BMTQwMDI4MDI4M15BMl5BanBnXkFtZTcwNTU0NjMzOA@@._V1_Ratio0.7273_AL_.jpg",
+            "name": "Paulie Litt",
+            "asCharacter": "Young Bully (as Paul Litowski)"
+        }
+    ],
+    "fullCast": null,
+    "genres": "Drama, Romance, Sci-Fi",
+    "genreList": [
+        { "key": "Drama", "value": "Drama" },
+        { "key": "Romance", "value": "Romance" },
+        { "key": "Sci-Fi", "value": "Sci-Fi" }
+    ],
+    "companies": "Focus Features, Anonymous Content, This Is That Productions",
+    "companyList": [
+        { "id": "co0042399", "name": "Focus Features" },
+        { "id": "co0017525", "name": "Anonymous Content" },
+        { "id": "co0017713", "name": "This Is That Productions" }
+    ],
+    "countries": "USA",
+    "countryList": [{ "key": "USA", "value": "USA" }],
+    "languages": "English",
+    "languageList": [{ "key": "English", "value": "English" }],
+    "contentRating": "R",
+    "imDbRating": "8.3",
+    "imDbRatingVotes": "922772",
+    "metacriticRating": "89",
+    "ratings": null,
+    "wikipedia": null,
+    "posters": {
+        "imDbId": "tt0338013",
+        "title": "Eternal Sunshine of the Spotless Mind",
+        "fullTitle": "Eternal Sunshine of the Spotless Mind (2004)",
+        "type": "Movie",
+        "year": "2004",
+        "posters": [
+            {
+                "id": "5MwkWH9tYHv3mV9OdYTMR5qreIz.jpg",
+                "link": "https://imdb-api.com/posters/original/5MwkWH9tYHv3mV9OdYTMR5qreIz.jpg",
+                "aspectRatio": 0.6666666666666666,
+                "language": "en",
+                "width": 2000,
+                "height": 3000
+            },
+            {
+                "id": "5Usvr9gugSBYPoDGlpuKoSzyk0g.jpg",
+                "link": "https://imdb-api.com/posters/original/5Usvr9gugSBYPoDGlpuKoSzyk0g.jpg",
+                "aspectRatio": 0.6666666666666666,
+                "language": "en",
+                "width": 1500,
+                "height": 2250
+            },
+            {
+                "id": "gzyZoAN3QxhaeHvHzq1a67zHCAP.jpg",
+                "link": "https://imdb-api.com/posters/original/gzyZoAN3QxhaeHvHzq1a67zHCAP.jpg",
+                "aspectRatio": 0.6666666666666666,
+                "language": "en",
+                "width": 2000,
+                "height": 3000
+            },
+            {
+                "id": "w9Ct6sLEK3Ph4bA2Oeqfg8rT8uP.jpg",
+                "link": "https://imdb-api.com/posters/original/w9Ct6sLEK3Ph4bA2Oeqfg8rT8uP.jpg",
+                "aspectRatio": 0.7063572149344097,
+                "language": "en",
+                "width": 700,
+                "height": 991
+            },
+            {
+                "id": "xFuIVB1aPb29vq0G0X9E5p7LuhN.jpg",
+                "link": "https://imdb-api.com/posters/original/xFuIVB1aPb29vq0G0X9E5p7LuhN.jpg",
+                "aspectRatio": 0.6666666666666666,
+                "language": "en",
+                "width": 1000,
+                "height": 1500
+            },
+            {
+                "id": "5VwDe3FE46fWhOfjQ5aC4ryELF8.jpg",
+                "link": "https://imdb-api.com/posters/original/5VwDe3FE46fWhOfjQ5aC4ryELF8.jpg",
+                "aspectRatio": 0.6666666666666666,
+                "language": "en",
+                "width": 1000,
+                "height": 1500
+            },
+            {
+                "id": "svBZGL7ZwQDoTGLZTn73xeUwQVC.jpg",
+                "link": "https://imdb-api.com/posters/original/svBZGL7ZwQDoTGLZTn73xeUwQVC.jpg",
+                "aspectRatio": 0.6666666666666666,
+                "language": "en",
+                "width": 1000,
+                "height": 1500
+            },
+            {
+                "id": "6at9dM9tg1TTE5DDWWKzGDINQJj.jpg",
+                "link": "https://imdb-api.com/posters/original/6at9dM9tg1TTE5DDWWKzGDINQJj.jpg",
+                "aspectRatio": 0.6670588235294118,
+                "language": "en",
+                "width": 567,
+                "height": 850
+            },
+            {
+                "id": "tvxWdfAqmrnMw0I6fqu9tXr8xZS.jpg",
+                "link": "https://imdb-api.com/posters/original/tvxWdfAqmrnMw0I6fqu9tXr8xZS.jpg",
+                "aspectRatio": 0.7071990320629159,
+                "language": "en",
+                "width": 1169,
+                "height": 1653
+            },
+            {
+                "id": "w1Q3o9AOf49e8vBfpywJ4CuQgkz.jpg",
+                "link": "https://imdb-api.com/posters/original/w1Q3o9AOf49e8vBfpywJ4CuQgkz.jpg",
+                "aspectRatio": 0.6666666666666666,
+                "language": "en",
+                "width": 1000,
+                "height": 1500
+            },
+            {
+                "id": "chUdF3vUfjdz4sdsMFd8ejgt52f.jpg",
+                "link": "https://imdb-api.com/posters/original/chUdF3vUfjdz4sdsMFd8ejgt52f.jpg",
+                "aspectRatio": 0.6666666666666666,
+                "language": "en",
+                "width": 1080,
+                "height": 1620
+            },
+            {
+                "id": "AaL33Ai0Ofq4iAd8yMVSsbsCPZA.jpg",
+                "link": "https://imdb-api.com/posters/original/AaL33Ai0Ofq4iAd8yMVSsbsCPZA.jpg",
+                "aspectRatio": 0.6586169045005489,
+                "language": "en",
+                "width": 600,
+                "height": 911
+            },
+            {
+                "id": "9r9BO1Lzyqr5CfvhxnFou3BH7zY.jpg",
+                "link": "https://imdb-api.com/posters/original/9r9BO1Lzyqr5CfvhxnFou3BH7zY.jpg",
+                "aspectRatio": 0.7512019230769231,
+                "language": "en",
+                "width": 625,
+                "height": 832
+            }
+        ],
+        "backdrops": [
+            {
+                "id": "jz9Kep0xWjiA6QDHSsd43ASxNfj.jpg",
+                "link": "https://imdb-api.com/posters/original/jz9Kep0xWjiA6QDHSsd43ASxNfj.jpg",
+                "aspectRatio": 1.7777777777777777,
+                "language": "en",
+                "width": 1920,
+                "height": 1080
+            },
+            {
+                "id": "jzZcW65MZQfAgvbEoX8EWCvlxpk.jpg",
+                "link": "https://imdb-api.com/posters/original/jzZcW65MZQfAgvbEoX8EWCvlxpk.jpg",
+                "aspectRatio": 1.7777777777777777,
+                "language": "en",
+                "width": 3840,
+                "height": 2160
+            },
+            {
+                "id": "W1ffLQGHoxfAOq0ZYdPtJlvAdb.jpg",
+                "link": "https://imdb-api.com/posters/original/W1ffLQGHoxfAOq0ZYdPtJlvAdb.jpg",
+                "aspectRatio": 1.7777777777777777,
+                "language": "en",
+                "width": 1920,
+                "height": 1080
+            },
+            {
+                "id": "bpT0ledIzTa1iPcI8CrxMQJKIvi.jpg",
+                "link": "https://imdb-api.com/posters/original/bpT0ledIzTa1iPcI8CrxMQJKIvi.jpg",
+                "aspectRatio": 1.7777777777777777,
+                "language": "en",
+                "width": 3840,
+                "height": 2160
+            },
+            {
+                "id": "8AE7M2lMsyvowfT36porzGtmOtI.jpg",
+                "link": "https://imdb-api.com/posters/original/8AE7M2lMsyvowfT36porzGtmOtI.jpg",
+                "aspectRatio": 1.7777777777777777,
+                "language": "en",
+                "width": 1920,
+                "height": 1080
+            },
+            {
+                "id": "nh6YJdN7C66IMckrAM5WJ6Ycrhf.jpg",
+                "link": "https://imdb-api.com/posters/original/nh6YJdN7C66IMckrAM5WJ6Ycrhf.jpg",
+                "aspectRatio": 1.7777777777777777,
+                "language": "en",
+                "width": 1920,
+                "height": 1080
+            },
+            {
+                "id": "wPFxLtbVz2NYsm9CQWqJ2qCPLGj.jpg",
+                "link": "https://imdb-api.com/posters/original/wPFxLtbVz2NYsm9CQWqJ2qCPLGj.jpg",
+                "aspectRatio": 1.7777777777777777,
+                "language": "en",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "id": "j6rZkE9ksbMsRhBvk9Az5uBc8LT.jpg",
+                "link": "https://imdb-api.com/posters/original/j6rZkE9ksbMsRhBvk9Az5uBc8LT.jpg",
+                "aspectRatio": 1.7777777777777777,
+                "language": "en",
+                "width": 3840,
+                "height": 2160
+            },
+            {
+                "id": "87sjcuatBJnM6jJPPnu3n626kI2.jpg",
+                "link": "https://imdb-api.com/posters/original/87sjcuatBJnM6jJPPnu3n626kI2.jpg",
+                "aspectRatio": 1.7777777777777777,
+                "language": "en",
+                "width": 3840,
+                "height": 2160
+            },
+            {
+                "id": "j2KHAnTgLzJr6WhMQ5aWsDuUJ5V.jpg",
+                "link": "https://imdb-api.com/posters/original/j2KHAnTgLzJr6WhMQ5aWsDuUJ5V.jpg",
+                "aspectRatio": 1.7777777777777777,
+                "language": "en",
+                "width": 3840,
+                "height": 2160
+            },
+            {
+                "id": "lWCYD0lRR2zSrCHc9HiHfIgI4n.jpg",
+                "link": "https://imdb-api.com/posters/original/lWCYD0lRR2zSrCHc9HiHfIgI4n.jpg",
+                "aspectRatio": 1.7777777777777777,
+                "language": "en",
+                "width": 1920,
+                "height": 1080
+            },
+            {
+                "id": "12imOn96zRI2EMHOjOxm2qNY2BA.jpg",
+                "link": "https://imdb-api.com/posters/original/12imOn96zRI2EMHOjOxm2qNY2BA.jpg",
+                "aspectRatio": 1.7777777777777777,
+                "language": "en",
+                "width": 1920,
+                "height": 1080
+            }
+        ],
+        "errorMessage": ""
+    },
+    "images": {
+        "imDbId": "tt0338013",
+        "title": "Eternal Sunshine of the Spotless Mind",
+        "fullTitle": "Eternal Sunshine of the Spotless Mind (2004)",
+        "type": "Movie",
+        "year": "2004",
+        "items": [
+            {
+                "title": "Jim Carrey and Kate Winslet in Eternal Sunshine of the Spotless Mind (2004)",
+                "image": "https://imdb-api.com/images/original/MV5BODkyMTYzNDExNl5BMl5BanBnXkFtZTcwNTAwOTMyMw@@._V1_Ratio1.5400_AL_.jpg"
+            },
+            {
+                "title": "Jim Carrey and Kate Winslet in Eternal Sunshine of the Spotless Mind (2004)",
+                "image": "https://imdb-api.com/images/original/MV5BNTQwODU1MjcwM15BMl5BanBnXkFtZTcwNjAwOTMyMw@@._V1_Ratio1.5400_AL_.jpg"
+            },
+            {
+                "title": "Jim Carrey and Kate Winslet in Eternal Sunshine of the Spotless Mind (2004)",
+                "image": "https://imdb-api.com/images/original/MV5BMTUyODk3MDA0N15BMl5BanBnXkFtZTcwODAwOTMyMw@@._V1_Ratio1.0000_AL_.jpg"
+            },
+            {
+                "title": "Kate Winslet in Eternal Sunshine of the Spotless Mind (2004)",
+                "image": "https://imdb-api.com/images/original/MV5BMTMyODk4NDM2Ml5BMl5BanBnXkFtZTcwOTAwOTMyMw@@._V1_Ratio1.0000_AL_.jpg"
+            },
+            {
+                "title": "Jim Carrey and Michel Gondry in Eternal Sunshine of the Spotless Mind (2004)",
+                "image": "https://imdb-api.com/images/original/MV5BMTM2NTMwOTE0OF5BMl5BanBnXkFtZTcwMDEwOTMyMw@@._V1_Ratio1.5000_AL_.jpg"
+            },
+            {
+                "title": "Jim Carrey and Kate Winslet in Eternal Sunshine of the Spotless Mind (2004)",
+                "image": "https://imdb-api.com/images/original/MV5BMTA1MzAzNTc5MDleQTJeQWpwZ15BbWU3MDExMDkzMjM@._V1_Ratio1.5200_AL_.jpg"
+            },
+            {
+                "title": "Jim Carrey and Kate Winslet in Eternal Sunshine of the Spotless Mind (2004)",
+                "image": "https://imdb-api.com/images/original/MV5BMjIxODcxMTYzNV5BMl5BanBnXkFtZTcwMzEwOTMyMw@@._V1_Ratio1.5400_AL_.jpg"
+            },
+            {
+                "title": "Jim Carrey and Kate Winslet in Eternal Sunshine of the Spotless Mind (2004)",
+                "image": "https://imdb-api.com/images/original/MV5BMTYzMjE1MzEwMl5BMl5BanBnXkFtZTcwNDEwOTMyMw@@._V1_Ratio1.5400_AL_.jpg"
+            },
+            {
+                "title": "Jim Carrey and Kate Winslet in Eternal Sunshine of the Spotless Mind (2004)",
+                "image": "https://imdb-api.com/images/original/MV5BMTY4NzcwODg3Nl5BMl5BanBnXkFtZTcwNTEwOTMyMw@@._V1_Ratio1.0000_AL_.jpg"
+            },
+            {
+                "title": "Jim Carrey, Kate Winslet, and Michel Gondry in Eternal Sunshine of the Spotless Mind (2004)",
+                "image": "https://imdb-api.com/images/original/MV5BMTA2MDEyOTU0ODVeQTJeQWpwZ15BbWU3MDY4OTgzMjM@._V1_Ratio1.5400_AL_.jpg"
+            },
+            {
+                "title": "Jim Carrey and Kate Winslet in Eternal Sunshine of the Spotless Mind (2004)",
+                "image": "https://imdb-api.com/images/original/MV5BMTc0OTU2NjE5NF5BMl5BanBnXkFtZTcwODg5ODMyMw@@._V1_Ratio1.5200_AL_.jpg"
+            },
+            {
+                "title": "Jim Carrey and Kate Winslet in Eternal Sunshine of the Spotless Mind (2004)",
+                "image": "https://imdb-api.com/images/original/MV5BMTk3MDAwMzcyOF5BMl5BanBnXkFtZTcwOTg5ODMyMw@@._V1_Ratio1.5200_AL_.jpg"
+            },
+            {
+                "title": "Jim Carrey and Kate Winslet in Eternal Sunshine of the Spotless Mind (2004)",
+                "image": "https://imdb-api.com/images/original/MV5BMjA2OTg3MDMxN15BMl5BanBnXkFtZTcwMTk5ODMyMw@@._V1_Ratio1.0000_AL_.jpg"
+            },
+            {
+                "title": "Kate Winslet, Michel Gondry, and Charlie Kaufman in Eternal Sunshine of the Spotless Mind (2004)",
+                "image": "https://imdb-api.com/images/original/MV5BMjE4NDU3OTQ5M15BMl5BanBnXkFtZTcwMjk5ODMyMw@@._V1_Ratio1.5600_AL_.jpg"
+            },
+            {
+                "title": "Kirsten Dunst and Tom Wilkinson in Eternal Sunshine of the Spotless Mind (2004)",
+                "image": "https://imdb-api.com/images/original/MV5BNzUzMDYxNjAwN15BMl5BanBnXkFtZTcwMzk5ODMyMw@@._V1_Ratio1.5200_AL_.jpg"
+            },
+            {
+                "title": "Jim Carrey and Tom Wilkinson in Eternal Sunshine of the Spotless Mind (2004)",
+                "image": "https://imdb-api.com/images/original/MV5BMTQxNjUwNjA3Ml5BMl5BanBnXkFtZTcwNDk5ODMyMw@@._V1_Ratio1.5200_AL_.jpg"
+            },
+            {
+                "title": "Kirsten Dunst, Mark Ruffalo, and Tom Wilkinson in Eternal Sunshine of the Spotless Mind (2004)",
+                "image": "https://imdb-api.com/images/original/MV5BMTMyNzg2NjQxOV5BMl5BanBnXkFtZTcwNTk5ODMyMw@@._V1_Ratio1.5400_AL_.jpg"
+            },
+            {
+                "title": "Elijah Wood and Mark Ruffalo in Eternal Sunshine of the Spotless Mind (2004)",
+                "image": "https://imdb-api.com/images/original/MV5BODQ0MTI1NzQwOV5BMl5BanBnXkFtZTcwNjk5ODMyMw@@._V1_Ratio1.5000_AL_.jpg"
+            },
+            {
+                "title": "Jim Carrey in Eternal Sunshine of the Spotless Mind (2004)",
+                "image": "https://imdb-api.com/images/original/MV5BMTg0MjgxMzA1OF5BMl5BanBnXkFtZTcwMjU5ODMyMw@@._V1_Ratio1.8800_AL_.jpg"
+            },
+            {
+                "title": "Michel Gondry in Eternal Sunshine of the Spotless Mind (2004)",
+                "image": "https://imdb-api.com/images/original/MV5BMTI4NTU4NDQzN15BMl5BanBnXkFtZTcwMzU5ODMyMw@@._V1_Ratio1.4800_AL_.jpg"
+            },
+            {
+                "title": "Jim Carrey in Eternal Sunshine of the Spotless Mind (2004)",
+                "image": "https://imdb-api.com/images/original/MV5BMTQ4Mjk0Nzk2M15BMl5BanBnXkFtZTcwNDU5ODMyMw@@._V1_Ratio1.8800_AL_.jpg"
+            },
+            {
+                "title": "Jim Carrey in Eternal Sunshine of the Spotless Mind (2004)",
+                "image": "https://imdb-api.com/images/original/MV5BNDE2OTExMjk0M15BMl5BanBnXkFtZTcwNTU5ODMyMw@@._V1_Ratio1.5000_AL_.jpg"
+            },
+            {
+                "title": "Kirsten Dunst in Eternal Sunshine of the Spotless Mind (2004)",
+                "image": "https://imdb-api.com/images/original/MV5BMTc3NjQwNTQ5OV5BMl5BanBnXkFtZTcwNjU5ODMyMw@@._V1_Ratio1.0000_AL_.jpg"
+            },
+            {
+                "title": "Jim Carrey and Tom Wilkinson in Eternal Sunshine of the Spotless Mind (2004)",
+                "image": "https://imdb-api.com/images/original/MV5BMTQ2ODM3Mjc0OF5BMl5BanBnXkFtZTcwNzU5ODMyMw@@._V1_Ratio1.4800_AL_.jpg"
+            },
+            {
+                "title": "Kate Winslet in Eternal Sunshine of the Spotless Mind (2004)",
+                "image": "https://imdb-api.com/images/original/MV5BMTM1NTU3MzA5MV5BMl5BanBnXkFtZTcwODU5ODMyMw@@._V1_Ratio1.8600_AL_.jpg"
+            },
+            {
+                "title": "Elijah Wood in Eternal Sunshine of the Spotless Mind (2004)",
+                "image": "https://imdb-api.com/images/original/MV5BMTQ5ODAwMDA2Nl5BMl5BanBnXkFtZTcwOTU5ODMyMw@@._V1_Ratio1.8800_AL_.jpg"
+            },
+            {
+                "title": "Mark Ruffalo in Eternal Sunshine of the Spotless Mind (2004)",
+                "image": "https://imdb-api.com/images/original/MV5BMTg4MjYxNzE3Nl5BMl5BanBnXkFtZTcwMDY5ODMyMw@@._V1_Ratio1.8600_AL_.jpg"
+            },
+            {
+                "title": "Jim Carrey, Kate Winslet, and Michel Gondry in Eternal Sunshine of the Spotless Mind (2004)",
+                "image": "https://imdb-api.com/images/original/MV5BMTMwNjA2MTM2NV5BMl5BanBnXkFtZTcwMTY5ODMyMw@@._V1_Ratio1.5400_AL_.jpg"
+            },
+            {
+                "title": "Eternal Sunshine of the Spotless Mind (2004)",
+                "image": "https://imdb-api.com/images/original/MV5BZTg3ODg2MzMtZmRmYy00ZWUwLTk5Y2QtOThmOTY1ZWZjZmJlXkEyXkFqcGdeQXVyODIyOTEyMzY@._V1_Ratio1.0000_AL_.jpg"
+            },
+            {
+                "title": "Eternal Sunshine of the Spotless Mind (2004)",
+                "image": "https://imdb-api.com/images/original/MV5BNGFlMWFlYjAtMjY5ZC00YzRiLWFiN2EtYTQ3ZjE0MWI0YWUxXkEyXkFqcGdeQXVyMTAyOTE2ODg0._V1_Ratio1.0000_AL_.jpg"
+            },
+            {
+                "title": "Eternal Sunshine of the Spotless Mind (2004)",
+                "image": "https://imdb-api.com/images/original/MV5BMjg0ZmVmZjYtNWVjZC00MjM5LThkYTItMmVjOGE3Mjc3ZGNjXkEyXkFqcGdeQXVyMTAyOTE2ODg0._V1_Ratio1.0000_AL_.jpg"
+            },
+            {
+                "title": "Jim Carrey in Eternal Sunshine of the Spotless Mind (2004)",
+                "image": "https://imdb-api.com/images/original/MV5BMGI1ODczNDctZmQxNC00YzUxLTk3MzYtNTNlMmNjMDAyNTRmXkEyXkFqcGdeQXVyMTYzMDM0NTU@._V1_Ratio1.0000_AL_.jpg"
+            },
+            {
+                "title": "Jim Carrey and Kate Winslet in Eternal Sunshine of the Spotless Mind (2004)",
+                "image": "https://imdb-api.com/images/original/MV5BNTlkNjE5Y2EtZDE2Yi00MzM3LWJlMTctZTQxZTE0MjU5YWU1XkEyXkFqcGdeQXVyMTYzMDM0NTU@._V1_Ratio1.0000_AL_.jpg"
+            },
+            {
+                "title": "Jim Carrey in Eternal Sunshine of the Spotless Mind (2004)",
+                "image": "https://imdb-api.com/images/original/MV5BZmNhZTJiNTYtNjkzMi00ZDdlLTllMzYtZTYzZGUxZmVmYjY0XkEyXkFqcGdeQXVyMTYzMDM0NTU@._V1_Ratio1.0000_AL_.jpg"
+            },
+            {
+                "title": "Jim Carrey in Eternal Sunshine of the Spotless Mind (2004)",
+                "image": "https://imdb-api.com/images/original/MV5BMjE4NjgyODg1M15BMl5BanBnXkFtZTcwNjk0NjQyMQ@@._V1_Ratio1.0000_AL_.jpg"
+            },
+            {
+                "title": "Kirsten Dunst in Eternal Sunshine of the Spotless Mind (2004)",
+                "image": "https://imdb-api.com/images/original/MV5BMTI3MzAwMTE3OF5BMl5BanBnXkFtZTcwODk0NjQyMQ@@._V1_Ratio1.0000_AL_.jpg"
+            },
+            {
+                "title": "Kate Winslet in Eternal Sunshine of the Spotless Mind (2004)",
+                "image": "https://imdb-api.com/images/original/MV5BMTMyNzI5NzE2NF5BMl5BanBnXkFtZTcwOTk0NjQyMQ@@._V1_Ratio1.0000_AL_.jpg"
+            },
+            {
+                "title": "Jim Carrey in Eternal Sunshine of the Spotless Mind (2004)",
+                "image": "https://imdb-api.com/images/original/MV5BMTIyOTk5MTA3MF5BMl5BanBnXkFtZTcwNTIxMTYyMQ@@._V1_Ratio1.0000_AL_.jpg"
+            },
+            {
+                "title": "Jim Carrey in Eternal Sunshine of the Spotless Mind (2004)",
+                "image": "https://imdb-api.com/images/original/MV5BMTY5MjU2OTYxOF5BMl5BanBnXkFtZTcwNjIxMTYyMQ@@._V1_Ratio1.3600_AL_.jpg"
+            },
+            {
+                "title": "Eternal Sunshine of the Spotless Mind (2004)",
+                "image": "https://imdb-api.com/images/original/MV5BMTc2MDcyOTc2OF5BMl5BanBnXkFtZTcwMTc0MTkwOA@@._V1_Ratio1.0000_AL_.jpg"
+            },
+            {
+                "title": "Jim Carrey, Julianne Moore, Mark Wahlberg, Don Cheadle, John C. Reilly, Burt Reynolds, Kate Winslet, and Heather Graham in Boogie Nights (1997)",
+                "image": "https://imdb-api.com/images/original/MV5BMjI2OTg4OTcwMl5BMl5BanBnXkFtZTcwOTc0MTkwOA@@._V1_Ratio1.0000_AL_.jpg"
+            },
+            {
+                "title": "Jim Carrey and Bill Murray in Lost in Translation (2003)",
+                "image": "https://imdb-api.com/images/original/MV5BMTg3NDQwMjk3OV5BMl5BanBnXkFtZTcwMTQ0MTkwOA@@._V1_Ratio1.0000_AL_.jpg"
+            },
+            {
+                "title": "Jim Carrey and Bill Murray in Lost in Translation (2003)",
+                "image": "https://imdb-api.com/images/original/MV5BMjI0MDY4OTM3NF5BMl5BanBnXkFtZTcwMzQ0MTkwOA@@._V1_Ratio1.0000_AL_.jpg"
+            },
+            {
+                "title": "Jim Carrey in Eternal Sunshine of the Spotless Mind (2004)",
+                "image": "https://imdb-api.com/images/original/MV5BMTUzMzE1NzMzMV5BMl5BanBnXkFtZTcwMTMzNjYyMQ@@._V1_Ratio1.0000_AL_.jpg"
+            },
+            {
+                "title": "Eternal Sunshine of the Spotless Mind (2004)",
+                "image": "https://imdb-api.com/images/original/MV5BMTgwNTQ5MDIyNl5BMl5BanBnXkFtZTcwMDQzNjYyMQ@@._V1_Ratio1.0000_AL_.jpg"
+            },
+            {
+                "title": "Eternal Sunshine of the Spotless Mind (2004)",
+                "image": "https://imdb-api.com/images/original/MV5BMTQ2OTYzMDIwMV5BMl5BanBnXkFtZTcwNDgyMzcyMQ@@._V1_Ratio1.0000_AL_.jpg"
+            },
+            {
+                "title": "Eternal Sunshine of the Spotless Mind (2004)",
+                "image": "https://imdb-api.com/images/original/MV5BMTc2OTE0OTA0MF5BMl5BanBnXkFtZTcwOTQ1NDcyMQ@@._V1_Ratio1.0000_AL_.jpg"
+            },
+            {
+                "title": "Jim Carrey in Eternal Sunshine of the Spotless Mind (2004)",
+                "image": "https://imdb-api.com/images/original/MV5BMTExNDIwMjE0NzdeQTJeQWpwZ15BbWU3MDkyNjQ5MjE@._V1_Ratio1.0000_AL_.jpg"
+            }
+        ],
+        "errorMessage": ""
+    },
+    "trailer": {
+        "imDbId": "tt0338013",
+        "title": "Eternal Sunshine of the Spotless Mind",
+        "fullTitle": "Eternal Sunshine of the Spotless Mind (2004)",
+        "type": "Movie",
+        "year": "2004",
+        "videoId": "vi2292515097",
+        "videoTitle": "Eternal Sunshine of the Spotless Mind",
+        "videoDescription": "Trailer",
+        "thumbnailUrl": "https://m.media-amazon.com/images/M/MV5BYTA4YjQ5ZjEtMGQ4Mi00NWExLTkxMGQtNzAwYzVmNTU1ODJjXkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg",
+        "uploadDate": "04/11/2008 14:01:47",
+        "link": "https://www.imdb.com/video/vi2292515097",
+        "linkEmbed": "https://www.imdb.com/video/imdb/vi2292515097/imdb/embed",
+        "errorMessage": ""
+    },
+    "boxOffice": {
+        "budget": "$20,000,000 (estimated)",
+        "openingWeekendUSA": "$8,175,198, 21 March 2004",
+        "grossUSA": "$34,400,301",
+        "cumulativeWorldwideGross": "$74,036,715"
+    },
+    "tagline": "I already forget how I used to feel about you.",
+    "keywords": "memory,loneliness,valentine's day,beach,flashback",
+    "keywordList": [
+        "memory",
+        "loneliness",
+        "valentine's day",
+        "beach",
+        "flashback"
+    ],
+    "similars": [
+        {
+            "id": "tt0120382",
+            "title": "The Truman Show",
+            "fullTitle": "The Truman Show (1998)",
+            "year": "1998",
+            "image": "https://imdb-api.com/images/original/MV5BMDIzODcyY2EtMmY2MC00ZWVlLTgwMzAtMjQwOWUyNmJjNTYyXkEyXkFqcGdeQXVyNDk3NzU2MTQ@._V1_Ratio0.6737_AL_.jpg",
+            "plot": "An insurance salesman discovers his whole life is actually a reality TV show.",
+            "directors": "Peter Weir",
+            "stars": "Jim Carrey, Ed Harris, Laura Linney",
+            "genres": "Comedy, Drama",
+            "imDbRating": "8.1"
+        },
+        {
+            "id": "tt0180093",
+            "title": "Requiem for a Dream",
+            "fullTitle": "Requiem for a Dream (2000)",
+            "year": "2000",
+            "image": "https://imdb-api.com/images/original/MV5BOTdiNzJlOWUtNWMwNS00NmFlLWI0YTEtZmI3YjIzZWUyY2Y3XkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_Ratio0.6737_AL_.jpg",
+            "plot": "The drug-induced utopias of four Coney Island people are shattered when their addictions run deep.",
+            "directors": "Darren Aronofsky",
+            "stars": "Ellen Burstyn, Jared Leto, Jennifer Connelly",
+            "genres": "Drama",
+            "imDbRating": "8.3"
+        },
+        {
+            "id": "tt0119217",
+            "title": "Good Will Hunting",
+            "fullTitle": "Good Will Hunting (1997)",
+            "year": "1997",
+            "image": "https://imdb-api.com/images/original/MV5BOTI0MzcxMTYtZDVkMy00NjY1LTgyMTYtZmUxN2M3NmQ2NWJhXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_Ratio0.6737_AL_.jpg",
+            "plot": "Will Hunting, a janitor at M.I.T., has a gift for mathematics, but needs help from a psychologist to find direction in his life.",
+            "directors": "Gus Van Sant",
+            "stars": "Robin Williams, Matt Damon, Ben Affleck",
+            "genres": "Drama, Romance",
+            "imDbRating": "8.3"
+        },
+        {
+            "id": "tt0169547",
+            "title": "American Beauty",
+            "fullTitle": "American Beauty (1999)",
+            "year": "1999",
+            "image": "https://imdb-api.com/images/original/MV5BNTBmZWJkNjctNDhiNC00MGE2LWEwOTctZTk5OGVhMWMyNmVhXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_Ratio0.6737_AL_.jpg",
+            "plot": "A sexually frustrated suburban father has a mid-life crisis after becoming infatuated with his daughter's best friend.",
+            "directors": "Sam Mendes",
+            "stars": "Kevin Spacey, Annette Bening, Thora Birch",
+            "genres": "Drama",
+            "imDbRating": "8.3"
+        },
+        {
+            "id": "tt0211915",
+            "title": "Amélie",
+            "fullTitle": "Amélie (2001)",
+            "year": "2001",
+            "image": "https://imdb-api.com/images/original/MV5BNDg4NjM1YjMtYmNhZC00MjM0LWFiZmYtNGY1YjA3MzZmODc5XkEyXkFqcGdeQXVyNDk3NzU2MTQ@._V1_Ratio0.6737_AL_.jpg",
+            "plot": "Amélie is an innocent and naive girl in Paris with her own sense of justice. She decides to help those around her and, along the way, discovers love.",
+            "directors": "Jean-Pierre Jeunet",
+            "stars": "Audrey Tautou, Mathieu Kassovitz, Rufus",
+            "genres": "Comedy, Romance",
+            "imDbRating": "8.3"
+        },
+        {
+            "id": "tt0209144",
+            "title": "Memento",
+            "fullTitle": "Memento (2000)",
+            "year": "2000",
+            "image": "https://imdb-api.com/images/original/MV5BZTcyNjk1MjgtOWI3Mi00YzQwLWI5MTktMzY4ZmI2NDAyNzYzXkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_Ratio0.6737_AL_.jpg",
+            "plot": "A man with short-term memory loss attempts to track down his wife's murderer.",
+            "directors": "Christopher Nolan",
+            "stars": "Guy Pearce, Carrie-Anne Moss, Joe Pantoliano",
+            "genres": "Mystery, Thriller",
+            "imDbRating": "8.4"
+        },
+        {
+            "id": "tt0110413",
+            "title": "Léon: The Professional",
+            "fullTitle": "Léon: The Professional (1994)",
+            "year": "1994",
+            "image": "https://imdb-api.com/images/original/MV5BODllNWE0MmEtYjUwZi00ZjY3LThmNmQtZjZlMjI2YTZjYmQ0XkEyXkFqcGdeQXVyNTc1NTQxODI@._V1_Ratio0.6737_AL_.jpg",
+            "plot": "Mathilda, a 12-year-old girl, is reluctantly taken in by Léon, a professional assassin, after her family is murdered. An unusual relationship forms as she becomes his protégée and learns the assassin's trade.",
+            "directors": "Luc Besson",
+            "stars": "Jean Reno, Gary Oldman, Natalie Portman",
+            "genres": "Action, Crime, Drama",
+            "imDbRating": "8.5"
+        },
+        {
+            "id": "tt0081505",
+            "title": "The Shining",
+            "fullTitle": "The Shining (1980)",
+            "year": "1980",
+            "image": "https://imdb-api.com/images/original/MV5BZWFlYmY2MGEtZjVkYS00YzU4LTg0YjQtYzY1ZGE3NTA5NGQxXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_Ratio0.6737_AL_.jpg",
+            "plot": "A family heads to an isolated hotel for the winter where a sinister presence influences the father into violence, while his psychic son sees horrific forebodings from both past and future.",
+            "directors": "Stanley Kubrick",
+            "stars": "Jack Nicholson, Shelley Duvall, Danny Lloyd",
+            "genres": "Drama, Horror",
+            "imDbRating": "8.4"
+        },
+        {
+            "id": "tt0137523",
+            "title": "Fight Club",
+            "fullTitle": "Fight Club (1999)",
+            "year": "1999",
+            "image": "https://imdb-api.com/images/original/MV5BMmEzNTkxYjQtZTc0MC00YTVjLTg5ZTEtZWMwOWVlYzY0NWIwXkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_Ratio0.6737_AL_.jpg",
+            "plot": "A nameless first person narrator (Edward Norton) attends support groups in attempt to subdue his emotional state and relieve his insomniac state. When he meets Marla (Helena Bonham Carter),... See full summary »",
+            "directors": "David Fincher",
+            "stars": "Brad Pitt, Edward Norton, Meat Loaf",
+            "genres": "Drama",
+            "imDbRating": "8.8"
+        },
+        {
+            "id": "tt0066921",
+            "title": "A Clockwork Orange",
+            "fullTitle": "A Clockwork Orange (1971)",
+            "year": "1971",
+            "image": "https://imdb-api.com/images/original/MV5BMTY3MjM1Mzc4N15BMl5BanBnXkFtZTgwODM0NzAxMDE@._V1_Ratio0.6737_AL_.jpg",
+            "plot": "In the future, a sadistic gang leader is imprisoned and volunteers for a conduct-aversion experiment, but it doesn't go as planned.",
+            "directors": "Stanley Kubrick",
+            "stars": "Malcolm McDowell, Patrick Magee, Michael Bates",
+            "genres": "Crime, Drama, Sci-Fi",
+            "imDbRating": "8.3"
+        },
+        {
+            "id": "tt2582802",
+            "title": "Whiplash",
+            "fullTitle": "Whiplash (2014)",
+            "year": "2014",
+            "image": "https://imdb-api.com/images/original/MV5BOTA5NDZlZGUtMjAxOS00YTRkLTkwYmMtYWQ0NWEwZDZiNjEzXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_Ratio0.6737_AL_.jpg",
+            "plot": "A promising young drummer enrolls at a cut-throat music conservatory where his dreams of greatness are mentored by an instructor who will stop at nothing to realize a student's potential.",
+            "directors": "Damien Chazelle",
+            "stars": "Miles Teller, J.K. Simmons, Melissa Benoist",
+            "genres": "Drama, Music",
+            "imDbRating": "8.5"
+        },
+        {
+            "id": "tt0434409",
+            "title": "V for Vendetta",
+            "fullTitle": "V for Vendetta (2005)",
+            "year": "2005",
+            "image": "https://imdb-api.com/images/original/MV5BOTI5ODc3NzExNV5BMl5BanBnXkFtZTcwNzYxNzQzMw@@._V1_Ratio0.6737_AL_.jpg",
+            "plot": "In a future British tyranny, a shadowy freedom fighter, known only by the alias of \"V\", plots to overthrow it with the help of a young woman.",
+            "directors": "James McTeigue",
+            "stars": "Hugo Weaving, Natalie Portman, Rupert Graves",
+            "genres": "Action, Drama, Sci-Fi",
+            "imDbRating": "8.2"
+        }
+    ],
+    "tvSeriesInfo": null,
+    "tvEpisodeInfo": null,
+    "errorMessage": ""
+}

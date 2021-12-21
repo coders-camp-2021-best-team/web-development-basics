@@ -1,0 +1,658 @@
+{
+    "id": "tt2293640",
+    "title": "Minions",
+    "originalTitle": "",
+    "fullTitle": "Minions (2015)",
+    "type": "Movie",
+    "year": "2015",
+    "image": "https://imdb-api.com/images/original/MV5BMTg2MTMyMzU0M15BMl5BanBnXkFtZTgwOTU3ODk4NTE@._V1_Ratio0.6791_AL_.jpg",
+    "releaseDate": "2015-06-17",
+    "runtimeMins": "91",
+    "runtimeStr": "1h 31mins",
+    "plot": "Ever since the dawn of time, the Minions have lived to serve the most despicable of masters. From the T-Rex to Napoleon, the easily distracted tribe has helped the biggest and the baddest of villains. Now, join protective leader Kevin, teenage rebel Stuart, and lovable little Bob on a global road trip. They'll earn a shot to work for a new boss, the world's first female supervillain, and try to save all of Minionkind from annihilation.",
+    "plotLocal": "",
+    "plotLocalIsRtl": false,
+    "awards": "Nominated for 1 BAFTA Film Award. Another 4 wins & 26 nominations.",
+    "directors": "Kyle Balda, Pierre Coffin",
+    "directorList": [
+        { "id": "nm0049633", "name": "Kyle Balda" },
+        { "id": "nm1853544", "name": "Pierre Coffin" }
+    ],
+    "writers": "Brian Lynch",
+    "writerList": [{ "id": "nm0528244", "name": "Brian Lynch" }],
+    "stars": "Sandra Bullock, Jon Hamm, Michael Keaton, Pierre Coffin",
+    "starList": [
+        { "id": "nm0000113", "name": "Sandra Bullock" },
+        { "id": "nm0358316", "name": "Jon Hamm" },
+        { "id": "nm0000474", "name": "Michael Keaton" },
+        { "id": "nm1853544", "name": "Pierre Coffin" }
+    ],
+    "actorList": [
+        {
+            "id": "nm0000113",
+            "image": "https://imdb-api.com/images/original/MV5BMTI5NDY5NjU3NF5BMl5BanBnXkFtZTcwMzQ0MTMyMw@@._V1_Ratio0.7273_AL_.jpg",
+            "name": "Sandra Bullock",
+            "asCharacter": "Scarlet Overkill (voice)"
+        },
+        {
+            "id": "nm0358316",
+            "image": "https://imdb-api.com/images/original/MV5BNzg0MzA4MTY5M15BMl5BanBnXkFtZTcwODg2MTIwOQ@@._V1_Ratio0.7273_AL_.jpg",
+            "name": "Jon Hamm",
+            "asCharacter": "Herb Overkill (voice)"
+        },
+        {
+            "id": "nm0000474",
+            "image": "https://imdb-api.com/images/original/MV5BZmNiZmMzN2MtOTNkMy00YjA1LTg4NzktMWI4Njg1NzI3ODAyXkEyXkFqcGdeQXVyNzg5MzIyOA@@._V1_Ratio0.7273_AL_.jpg",
+            "name": "Michael Keaton",
+            "asCharacter": "Walter Nelson (voice)"
+        },
+        {
+            "id": "nm0005049",
+            "image": "https://imdb-api.com/images/original/MV5BMjAyNjc2NzgxM15BMl5BanBnXkFtZTgwODQyMjM1MjE@._V1_Ratio0.7273_AL_.jpg",
+            "name": "Allison Janney",
+            "asCharacter": "Madge Nelson (voice)"
+        },
+        {
+            "id": "nm0176869",
+            "image": "https://imdb-api.com/images/original/MV5BMTIzMTU2NjcwOF5BMl5BanBnXkFtZTcwNjczMzU4MQ@@._V1_Ratio0.7273_AL_.jpg",
+            "name": "Steve Coogan",
+            "asCharacter": "Professor Flux (voice)"
+        },
+        {
+            "id": "nm0766837",
+            "image": "https://imdb-api.com/images/original/MV5BMTU2MzkxNTc1NV5BMl5BanBnXkFtZTcwMDM5NjY4Nw@@._V1_Ratio0.7273_AL_.jpg",
+            "name": "Jennifer Saunders",
+            "asCharacter": "The Queen (voice)"
+        },
+        {
+            "id": "nm0001691",
+            "image": "https://imdb-api.com/images/original/MV5BMTg2MjkxNDU0NV5BMl5BanBnXkFtZTcwOTk3MDQ0NA@@._V1_Ratio0.7273_AL_.jpg",
+            "name": "Geoffrey Rush",
+            "asCharacter": "Narrator (voice)"
+        },
+        {
+            "id": "nm0136797",
+            "image": "https://imdb-api.com/images/original/MV5BMjMyOTM2OTk1Ml5BMl5BanBnXkFtZTgwMTI3MzkyNjM@._V1_Ratio0.7273_AL_.jpg",
+            "name": "Steve Carell",
+            "asCharacter": "Young Gru (voice)"
+        },
+        {
+            "id": "nm1853544",
+            "image": "https://imdb-api.com/images/original/MV5BMTUzOTQ3OTA3OF5BMl5BanBnXkFtZTcwNzEzNTMyOA@@._V1_Ratio0.7273_AL_.jpg",
+            "name": "Pierre Coffin",
+            "asCharacter": "The Minions (voice)"
+        },
+        {
+            "id": "nm1737500",
+            "image": "https://imdb-api.com/images/original/MV5BMTY5ODA2Mjg5M15BMl5BanBnXkFtZTcwMDA4MTUwMg@@._V1_Ratio0.7273_AL_.jpg",
+            "name": "Katy Mixon",
+            "asCharacter": "Tina (voice)"
+        },
+        {
+            "id": "nm0064170",
+            "image": "https://imdb-api.com/images/original/MV5BM2UyZGRlNWQtZGExMi00OWM0LThiNDAtNjI3N2YxZmNhOTY4XkEyXkFqcGdeQXVyMjQwMDg0Ng@@._V1_Ratio0.7727_AL_.jpg",
+            "name": "Michael Beattie",
+            "asCharacter": "VNC Announcer (voice)"
+        },
+        {
+            "id": "nm0760796",
+            "image": "https://imdb-api.com/images/original/MV5BMjE2MzY0NTM1Ml5BMl5BanBnXkFtZTcwNzQzNzMyMw@@._V1_Ratio0.9545_AL_.jpg",
+            "name": "Hiroyuki Sanada",
+            "asCharacter": "Sumo Villain (voice)"
+        },
+        {
+            "id": "nm0742125",
+            "image": "https://imdb-api.com/images/original/MV5BMjE1MTI4NTAwNF5BMl5BanBnXkFtZTcwNTc0MDEzMQ@@._V1_Ratio0.7273_AL_.jpg",
+            "name": "Dave Rosenbaum",
+            "asCharacter": "Fabrice (voice)"
+        },
+        {
+            "id": "nm3125329",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Alex Dowding",
+            "asCharacter": "Royal Advisor (voice)"
+        },
+        {
+            "id": "nm1442933",
+            "image": "https://imdb-api.com/images/original/MV5BYzRkYjVmYmQtMzJkZC00ZDkwLTkyODQtNDU5NWUyOWMzODY0XkEyXkFqcGdeQXVyNjg4MTgzNDY@._V1_Ratio0.7273_AL_.jpg",
+            "name": "Paul Thornley",
+            "asCharacter": "News Reporter (voice)"
+        }
+    ],
+    "fullCast": null,
+    "genres": "Animation, Adventure, Comedy, Family, Sci-Fi",
+    "genreList": [
+        { "key": "Animation", "value": "Animation" },
+        { "key": "Adventure", "value": "Adventure" },
+        { "key": "Comedy", "value": "Comedy" },
+        { "key": "Family", "value": "Family" },
+        { "key": "Sci-Fi", "value": "Sci-Fi" }
+    ],
+    "companies": "Illumination Entertainment, Universal Pictures",
+    "companyList": [
+        { "id": "co0221986", "name": "Illumination Entertainment" },
+        { "id": "co0005073", "name": "Universal Pictures" }
+    ],
+    "countries": "USA, Japan, France",
+    "countryList": [
+        { "key": "USA", "value": "USA" },
+        { "key": "Japan", "value": "Japan" },
+        { "key": "France", "value": "France" }
+    ],
+    "languages": "English, Spanish",
+    "languageList": [
+        { "key": "English", "value": "English" },
+        { "key": "Spanish", "value": "Spanish" }
+    ],
+    "contentRating": "PG",
+    "imDbRating": "6.4",
+    "imDbRatingVotes": "214737",
+    "metacriticRating": "56",
+    "ratings": null,
+    "wikipedia": null,
+    "posters": {
+        "imDbId": "tt2293640",
+        "title": "Minions",
+        "fullTitle": "Minions (2015)",
+        "type": "Movie",
+        "year": "2015",
+        "posters": [
+            {
+                "id": "vlOgaxUiMOA8sPDG9n3VhQabnEi.jpg",
+                "link": "https://imdb-api.com/posters/original/vlOgaxUiMOA8sPDG9n3VhQabnEi.jpg",
+                "aspectRatio": 0.6666666666666666,
+                "language": "en",
+                "width": 2000,
+                "height": 3000
+            },
+            {
+                "id": "oYsloNq9IYADOdzlsfDmuUQvJ2u.jpg",
+                "link": "https://imdb-api.com/posters/original/oYsloNq9IYADOdzlsfDmuUQvJ2u.jpg",
+                "aspectRatio": 0.6666666666666666,
+                "language": "en",
+                "width": 1000,
+                "height": 1500
+            },
+            {
+                "id": "dr02BdCNAUPVU07aOodwPYv6HCf.jpg",
+                "link": "https://imdb-api.com/posters/original/dr02BdCNAUPVU07aOodwPYv6HCf.jpg",
+                "aspectRatio": 0.6666666666666666,
+                "language": "en",
+                "width": 2000,
+                "height": 3000
+            },
+            {
+                "id": "tMaGZ2HR8HAFwkx4YRib0CDVfNT.jpg",
+                "link": "https://imdb-api.com/posters/original/tMaGZ2HR8HAFwkx4YRib0CDVfNT.jpg",
+                "aspectRatio": 0.6666666666666666,
+                "language": "en",
+                "width": 2000,
+                "height": 3000
+            },
+            {
+                "id": "el0zWThBd9VmZOmZ1BwbyUq5XLg.jpg",
+                "link": "https://imdb-api.com/posters/original/el0zWThBd9VmZOmZ1BwbyUq5XLg.jpg",
+                "aspectRatio": 0.6666666666666666,
+                "language": "en",
+                "width": 2000,
+                "height": 3000
+            },
+            {
+                "id": "cHR6HDNkjQWWBljYLJLFjqC58AC.jpg",
+                "link": "https://imdb-api.com/posters/original/cHR6HDNkjQWWBljYLJLFjqC58AC.jpg",
+                "aspectRatio": 0.666,
+                "language": "en",
+                "width": 666,
+                "height": 1000
+            },
+            {
+                "id": "eO3A13Unh3BEk5pFwApF5ZdYpY4.jpg",
+                "link": "https://imdb-api.com/posters/original/eO3A13Unh3BEk5pFwApF5ZdYpY4.jpg",
+                "aspectRatio": 0.6316666666666667,
+                "language": "en",
+                "width": 1895,
+                "height": 3000
+            },
+            {
+                "id": "bq4kUDSFZN0tISpkjpqwGumDD2y.jpg",
+                "link": "https://imdb-api.com/posters/original/bq4kUDSFZN0tISpkjpqwGumDD2y.jpg",
+                "aspectRatio": 0.6666666666666666,
+                "language": "en",
+                "width": 1000,
+                "height": 1500
+            },
+            {
+                "id": "6FdY1MizYiGkSk9QM59XTlrgeLl.jpg",
+                "link": "https://imdb-api.com/posters/original/6FdY1MizYiGkSk9QM59XTlrgeLl.jpg",
+                "aspectRatio": 0.6748046875,
+                "language": "en",
+                "width": 1382,
+                "height": 2048
+            }
+        ],
+        "backdrops": [
+            {
+                "id": "c7xTZ9EA6GpH72xJC5s0x0KKR1a.jpg",
+                "link": "https://imdb-api.com/posters/original/c7xTZ9EA6GpH72xJC5s0x0KKR1a.jpg",
+                "aspectRatio": 1.7777777777777777,
+                "language": "en",
+                "width": 3840,
+                "height": 2160
+            },
+            {
+                "id": "pnUSd4ILEp5pYChRNxznuaupGrN.jpg",
+                "link": "https://imdb-api.com/posters/original/pnUSd4ILEp5pYChRNxznuaupGrN.jpg",
+                "aspectRatio": 1.7777777777777777,
+                "language": "en",
+                "width": 1920,
+                "height": 1080
+            },
+            {
+                "id": "iNhdomHWakdQbrE8oFfD4dzA7WF.jpg",
+                "link": "https://imdb-api.com/posters/original/iNhdomHWakdQbrE8oFfD4dzA7WF.jpg",
+                "aspectRatio": 1.7777777777777777,
+                "language": "en",
+                "width": 1920,
+                "height": 1080
+            },
+            {
+                "id": "cpsJunWos4CiosRce7Hg37i9cLR.jpg",
+                "link": "https://imdb-api.com/posters/original/cpsJunWos4CiosRce7Hg37i9cLR.jpg",
+                "aspectRatio": 1.7777777777777777,
+                "language": "en",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "id": "3Pp7neH8w1pplCZM2Jdp8SGgbr5.jpg",
+                "link": "https://imdb-api.com/posters/original/3Pp7neH8w1pplCZM2Jdp8SGgbr5.jpg",
+                "aspectRatio": 1.7777777777777777,
+                "language": "en",
+                "width": 3840,
+                "height": 2160
+            }
+        ],
+        "errorMessage": ""
+    },
+    "images": {
+        "imDbId": "tt2293640",
+        "title": "Minions",
+        "fullTitle": "Minions (2015)",
+        "type": "Movie",
+        "year": "2015",
+        "items": [
+            {
+                "title": "Sandra Bullock in Minions (2015)",
+                "image": "https://imdb-api.com/images/original/MV5BODMxNjAwNjY2Ml5BMl5BanBnXkFtZTgwNTQ1NDgwNjE@._V1_Ratio1.8600_AL_.jpg"
+            },
+            {
+                "title": "Minions (2015)",
+                "image": "https://imdb-api.com/images/original/MV5BMjU5NTYyMTY3M15BMl5BanBnXkFtZTgwNjQ1NDgwNjE@._V1_Ratio1.8400_AL_.jpg"
+            },
+            {
+                "title": "Minions (2015)",
+                "image": "https://imdb-api.com/images/original/MV5BMjE4NjQzNjg5MV5BMl5BanBnXkFtZTgwNzQ1NDgwNjE@._V1_Ratio1.8400_AL_.jpg"
+            },
+            {
+                "title": "Michael Keaton and Allison Janney in Minions (2015)",
+                "image": "https://imdb-api.com/images/original/MV5BNzk2ODY2Mjk5Nl5BMl5BanBnXkFtZTgwODQ1NDgwNjE@._V1_Ratio1.7800_AL_.jpg"
+            },
+            {
+                "title": "Minions (2015)",
+                "image": "https://imdb-api.com/images/original/MV5BMjEwNjE5MTg1N15BMl5BanBnXkFtZTgwODM1NDgwNjE@._V1_Ratio1.7800_AL_.jpg"
+            },
+            {
+                "title": "Minions (2015)",
+                "image": "https://imdb-api.com/images/original/MV5BMjM2NjE1MTc2M15BMl5BanBnXkFtZTgwOTM1NDgwNjE@._V1_Ratio2.3000_AL_.jpg"
+            },
+            {
+                "title": "Sandra Bullock and Jon Hamm in Minions (2015)",
+                "image": "https://imdb-api.com/images/original/MV5BMTkyMzA5NjUzNl5BMl5BanBnXkFtZTgwMjQ1NDgwNjE@._V1_Ratio1.8800_AL_.jpg"
+            },
+            {
+                "title": "Michael Keaton, Allison Janney, and Katy Mixon in Minions (2015)",
+                "image": "https://imdb-api.com/images/original/MV5BMjE3NDMwMDY1OV5BMl5BanBnXkFtZTgwMzQ1NDgwNjE@._V1_Ratio1.8400_AL_.jpg"
+            },
+            {
+                "title": "Sandra Bullock in Minions (2015)",
+                "image": "https://imdb-api.com/images/original/MV5BODU3MzU2OTg4MV5BMl5BanBnXkFtZTgwNDQ1NDgwNjE@._V1_Ratio1.8400_AL_.jpg"
+            },
+            {
+                "title": "Minions (2015)",
+                "image": "https://imdb-api.com/images/original/MV5BMjE2MTQ4NDU5MF5BMl5BanBnXkFtZTgwMzM1NDgwNjE@._V1_Ratio1.8400_AL_.jpg"
+            },
+            {
+                "title": "Minions (2015)",
+                "image": "https://imdb-api.com/images/original/MV5BMjI0NzQxNDY3NV5BMl5BanBnXkFtZTgwNTM1NDgwNjE@._V1_Ratio1.8400_AL_.jpg"
+            },
+            {
+                "title": "Minions (2015)",
+                "image": "https://imdb-api.com/images/original/MV5BMTAzNjU1NzExOTVeQTJeQWpwZ15BbWU4MDYzNTQ4MDYx._V1_Ratio1.7800_AL_.jpg"
+            },
+            {
+                "title": "Sandra Bullock in Minions (2015)",
+                "image": "https://imdb-api.com/images/original/MV5BMTU2NTI0OTA5OV5BMl5BanBnXkFtZTgwNzM1NDgwNjE@._V1_Ratio1.8400_AL_.jpg"
+            },
+            {
+                "title": "Minions (2015)",
+                "image": "https://imdb-api.com/images/original/MV5BNjMyODIzOTU1NV5BMl5BanBnXkFtZTgwNTMyOTgxMzE@._V1_Ratio1.8400_AL_.jpg"
+            },
+            {
+                "title": "Minions (2015)",
+                "image": "https://imdb-api.com/images/original/MV5BMTQyMDE0MzkxNF5BMl5BanBnXkFtZTgwNzMyOTgxMzE@._V1_Ratio1.8400_AL_.jpg"
+            },
+            {
+                "title": "Minions (2015)",
+                "image": "https://imdb-api.com/images/original/MV5BNTEyMDcwMjc4M15BMl5BanBnXkFtZTgwNDMyOTgxMzE@._V1_Ratio1.8400_AL_.jpg"
+            },
+            {
+                "title": "Sandra Bullock at an event for Minions (2015)",
+                "image": "https://imdb-api.com/images/original/MV5BMTk0NzQ3NTM5OF5BMl5BanBnXkFtZTgwMjQyNTY5NTE@._V1_Ratio1.3800_AL_.jpg"
+            },
+            {
+                "title": "Sandra Bullock at an event for Minions (2015)",
+                "image": "https://imdb-api.com/images/original/MV5BMjI5NzMyOTg4NF5BMl5BanBnXkFtZTgwMzQyNTY5NTE@._V1_Ratio1.0000_AL_.jpg"
+            },
+            {
+                "title": "Minions (2015)",
+                "image": "https://imdb-api.com/images/original/MV5BMjIxMDc2Mjk1MF5BMl5BanBnXkFtZTgwOTMyNTY5NTE@._V1_Ratio1.4800_AL_.jpg"
+            },
+            {
+                "title": "Lewis Hamilton and Nicolas Hamilton at an event for Minions (2015)",
+                "image": "https://imdb-api.com/images/original/MV5BMzgxMTAwMTMyNF5BMl5BanBnXkFtZTgwMDQyNTY5NTE@._V1_Ratio1.0000_AL_.jpg"
+            },
+            {
+                "title": "Minions (2015)",
+                "image": "https://imdb-api.com/images/original/MV5BMzU3ODY5OTMxNV5BMl5BanBnXkFtZTgwMTQyNTY5NTE@._V1_Ratio1.0000_AL_.jpg"
+            },
+            {
+                "title": "Sandra Bullock at an event for Minions (2015)",
+                "image": "https://imdb-api.com/images/original/MV5BMTczOTc4MDI2MF5BMl5BanBnXkFtZTgwNjMyNTY5NTE@._V1_Ratio1.0000_AL_.jpg"
+            },
+            {
+                "title": "Connor Ball and Tristan Evans at an event for Minions (2015)",
+                "image": "https://imdb-api.com/images/original/MV5BNTcwODU4MTY0MF5BMl5BanBnXkFtZTgwNzMyNTY5NTE@._V1_Ratio1.0000_AL_.jpg"
+            },
+            {
+                "title": "Sandra Bullock at an event for Minions (2015)",
+                "image": "https://imdb-api.com/images/original/MV5BMjM0NjAzMzQ0Ml5BMl5BanBnXkFtZTgwODMyNTY5NTE@._V1_Ratio1.0000_AL_.jpg"
+            },
+            {
+                "title": "Sandra Bullock at an event for Minions (2015)",
+                "image": "https://imdb-api.com/images/original/MV5BNjY3MTUyMjAzNF5BMl5BanBnXkFtZTgwMzMyNTY5NTE@._V1_Ratio1.3000_AL_.jpg"
+            },
+            {
+                "title": "Connor Ball and Tristan Evans at an event for Minions (2015)",
+                "image": "https://imdb-api.com/images/original/MV5BMTUyMjU4MzU3Nl5BMl5BanBnXkFtZTgwNDMyNTY5NTE@._V1_Ratio1.3600_AL_.jpg"
+            },
+            {
+                "title": "Minions (2015)",
+                "image": "https://imdb-api.com/images/original/MV5BMTQ5NDkzOTI3NF5BMl5BanBnXkFtZTgwNTMyNTY5NTE@._V1_Ratio1.0000_AL_.jpg"
+            },
+            {
+                "title": "Jasmine Guinness at an event for Minions (2015)",
+                "image": "https://imdb-api.com/images/original/MV5BMjA0ODY1MTUzMl5BMl5BanBnXkFtZTgwMjMyNTY5NTE@._V1_Ratio1.0000_AL_.jpg"
+            },
+            {
+                "title": "Lewis Hamilton at an event for Minions (2015)",
+                "image": "https://imdb-api.com/images/original/MV5BMTQ1ODA2NTA2OF5BMl5BanBnXkFtZTgwNzEyNTY5NTE@._V1_Ratio1.4400_AL_.jpg"
+            },
+            {
+                "title": "Sandra Bullock at an event for Minions (2015)",
+                "image": "https://imdb-api.com/images/original/MV5BMTgzNjY1NTExNV5BMl5BanBnXkFtZTgwODEyNTY5NTE@._V1_Ratio1.3000_AL_.jpg"
+            },
+            {
+                "title": "Minions (2015)",
+                "image": "https://imdb-api.com/images/original/MV5BZmU0N2NmZDYtYjc5Zi00ZjkwLWFlMzQtMjZjYmRjMTU1MWIwXkEyXkFqcGdeQXVyMTA4NjE0NjEy._V1_Ratio1.0000_AL_.jpg"
+            },
+            {
+                "title": "Minions (2015)",
+                "image": "https://imdb-api.com/images/original/MV5BN2QxOGI5ODQtZjk3MC00MDUzLTk2YzEtNzZiNDg0YTkzM2JiXkEyXkFqcGdeQXVyMTA4NjE0NjEy._V1_Ratio1.0000_AL_.jpg"
+            },
+            {
+                "title": "Minions (2015)",
+                "image": "https://imdb-api.com/images/original/MV5BYmNlZmMxOGMtNDFmMi00NzFlLWJhYmQtYjJhNmRiODlhOTlhXkEyXkFqcGdeQXVyMTA4NjE0NjEy._V1_Ratio1.0000_AL_.jpg"
+            },
+            {
+                "title": "Minions (2015)",
+                "image": "https://imdb-api.com/images/original/MV5BZTU1YzZlZmItNjdmMi00NjJkLWIzOGUtY2M1YTBkODZkMjE1XkEyXkFqcGdeQXVyMTA4NjE0NjEy._V1_Ratio1.0000_AL_.jpg"
+            },
+            {
+                "title": "Minions (2015)",
+                "image": "https://imdb-api.com/images/original/MV5BN2ExZTY1N2EtNzJmOS00N2Q1LWFkNGMtOGFhYWZiNmVmNDIyXkEyXkFqcGdeQXVyMTA4NjE0NjEy._V1_Ratio1.0000_AL_.jpg"
+            },
+            {
+                "title": "Minions (2015)",
+                "image": "https://imdb-api.com/images/original/MV5BODY3MTkzNzA5OV5BMl5BanBnXkFtZTgwMTc2OTk4NTE@._V1_Ratio1.0000_AL_.jpg"
+            },
+            {
+                "title": "Minions (2015)",
+                "image": "https://imdb-api.com/images/original/MV5BMTg2MTMyMzU0M15BMl5BanBnXkFtZTgwOTU3ODk4NTE@._V1_Ratio1.0000_AL_.jpg"
+            },
+            {
+                "title": "Minions (2015)",
+                "image": "https://imdb-api.com/images/original/MV5BMTUwNjcxNzAwOF5BMl5BanBnXkFtZTgwNzEzMzIzNDE@._V1_Ratio1.0000_AL_.jpg"
+            },
+            {
+                "title": "Minions (2015)",
+                "image": "https://imdb-api.com/images/original/MV5BODI4NzMyNjE0MF5BMl5BanBnXkFtZTgwMTcwNzI0MzE@._V1_Ratio1.0000_AL_.jpg"
+            },
+            {
+                "title": "Minions (2015)",
+                "image": "https://imdb-api.com/images/original/MV5BNDg2NTgwNzczMF5BMl5BanBnXkFtZTgwMDg5NTA0NzE@._V1_Ratio1.0000_AL_.jpg"
+            },
+            {
+                "title": "Minions (2015)",
+                "image": "https://imdb-api.com/images/original/MV5BMTQzNjgyNDY5Ml5BMl5BanBnXkFtZTgwMjY2MTA5NTE@._V1_Ratio1.0000_AL_.jpg"
+            },
+            {
+                "title": "Minions (2015)",
+                "image": "https://imdb-api.com/images/original/MV5BNTM1NjQzNzkxNF5BMl5BanBnXkFtZTgwMjkwMzMzNDE@._V1_Ratio1.0000_AL_.jpg"
+            },
+            {
+                "title": "Minions (2015)",
+                "image": "https://imdb-api.com/images/original/MV5BMzNlOWY3ZDEtYzQ0ZC00NmQxLTk2MGUtYzAxN2EzYjJjNGY0XkEyXkFqcGdeQXVyOTc5MDI5NjE@._V1_Ratio1.8400_AL_.jpg"
+            },
+            {
+                "title": "Michael Keaton, Allison Janney, and Pierre Coffin in Minions (2015)",
+                "image": "https://imdb-api.com/images/original/MV5BNTM3NzYxOWItMWEyNy00ZTJhLThmMGUtYjYxYjhkNzJlYzVkXkEyXkFqcGdeQXVyOTc5MDI5NjE@._V1_Ratio1.8400_AL_.jpg"
+            },
+            {
+                "title": "Minions (2015)",
+                "image": "https://imdb-api.com/images/original/MV5BNTVjZWFiMWEtZTM1Mi00Mjk0LWE0ZjktZWRhMWY4ODEzMTBiXkEyXkFqcGdeQXVyOTc5MDI5NjE@._V1_Ratio1.8400_AL_.jpg"
+            },
+            {
+                "title": "Michael Keaton in Minions (2015)",
+                "image": "https://imdb-api.com/images/original/MV5BNGQ0MjA0NDItNWZmMi00Y2E1LTk1YWEtMjBkOWMwYTE3MzNjXkEyXkFqcGdeQXVyOTc5MDI5NjE@._V1_Ratio1.8400_AL_.jpg"
+            },
+            {
+                "title": "Minions (2015)",
+                "image": "https://imdb-api.com/images/original/MV5BZGIxMjg3YWItNDI1Yi00NDkyLWFmM2MtMjQwMjA2ODYzZTU2XkEyXkFqcGdeQXVyOTc5MDI5NjE@._V1_Ratio1.8400_AL_.jpg"
+            },
+            {
+                "title": "Minions (2015)",
+                "image": "https://imdb-api.com/images/original/MV5BMzBmOGI0NzgtMDdjYS00OGJkLWEwY2MtZDk0ZWQyYzYxN2UwXkEyXkFqcGdeQXVyOTc5MDI5NjE@._V1_Ratio1.8400_AL_.jpg"
+            }
+        ],
+        "errorMessage": ""
+    },
+    "trailer": {
+        "imDbId": "tt2293640",
+        "title": "Minions",
+        "fullTitle": "Minions (2015)",
+        "type": "Movie",
+        "year": "2015",
+        "videoId": "vi996454425",
+        "videoTitle": "Stuart & Dave",
+        "videoDescription": "Watch an exclusive video for Minions.",
+        "thumbnailUrl": "https://m.media-amazon.com/images/M/MV5BMTgxMzc2OTQwOV5BMl5BanBnXkFtZTgwODQ2OTgwNjE@._V1_.jpg",
+        "uploadDate": "06/26/2015 17:14:58",
+        "link": "https://www.imdb.com/video/vi996454425",
+        "linkEmbed": "https://www.imdb.com/video/imdb/vi996454425/imdb/embed",
+        "errorMessage": ""
+    },
+    "boxOffice": {
+        "budget": "$74,000,000 (estimated)",
+        "openingWeekendUSA": "$115,718,405, 12 July 2015",
+        "grossUSA": "$336,045,770",
+        "cumulativeWorldwideGross": "$1,159,444,662"
+    },
+    "tagline": "Before Gru, they had a history of bad bosses",
+    "keywords": "minion,invented language,one word title,villain,teddy bear",
+    "keywordList": [
+        "minion",
+        "invented language",
+        "one word title",
+        "villain",
+        "teddy bear"
+    ],
+    "similars": [
+        {
+            "id": "tt1690953",
+            "title": "Despicable Me 2",
+            "fullTitle": "Despicable Me 2 (2013)",
+            "year": "2013",
+            "image": "https://imdb-api.com/images/original/MV5BMjExNjAyNTcyMF5BMl5BanBnXkFtZTgwODQzMjQ3MDE@._V1_Ratio0.6737_AL_.jpg",
+            "plot": "When Gru, the world's most super-bad turned super-dad has been recruited by a team of officials to stop lethal muscle and a host of Gru's own, He has to fight back with new gadgetry, cars, and more minion madness.",
+            "directors": "Directors: Pierre Coffin, Chris Renaud",
+            "stars": "Steve Carell, Kristen Wiig, Benjamin Bratt",
+            "genres": "Animation, Adventure, Comedy",
+            "imDbRating": "7.3"
+        },
+        {
+            "id": "tt3469046",
+            "title": "Despicable Me 3",
+            "fullTitle": "Despicable Me 3 (2017)",
+            "year": "2017",
+            "image": "https://imdb-api.com/images/original/MV5BNjUyNzQ2MTg3Ml5BMl5BanBnXkFtZTgwNzE4NDM3MTI@._V1_Ratio0.6737_AL_.jpg",
+            "plot": "Gru meets his long-lost, charming, cheerful, and more successful twin brother Dru, who wants to team up with him for one last criminal heist.",
+            "directors": "Directors: Kyle Balda, Pierre Coffin, and 1 more credit »",
+            "stars": "Steve Carell, Kristen Wiig, Trey Parker",
+            "genres": "Animation, Adventure, Comedy",
+            "imDbRating": "6.3"
+        },
+        {
+            "id": "tt1323594",
+            "title": "Despicable Me",
+            "fullTitle": "Despicable Me (2010)",
+            "year": "2010",
+            "image": "https://imdb-api.com/images/original/MV5BMTY3NjY0MTQ0Nl5BMl5BanBnXkFtZTcwMzQ2MTc0Mw@@._V1_Ratio0.6737_AL_.jpg",
+            "plot": "When a criminal mastermind uses a trio of orphan girls as pawns for a grand scheme, he finds their love is profoundly changing him for the better.",
+            "directors": "Directors: Pierre Coffin, Chris Renaud",
+            "stars": "Steve Carell, Jason Segel, Russell Brand",
+            "genres": "Animation, Comedy, Crime",
+            "imDbRating": "7.6"
+        },
+        {
+            "id": "tt0837562",
+            "title": "Hotel Transylvania",
+            "fullTitle": "Hotel Transylvania (2012)",
+            "year": "2012",
+            "image": "https://imdb-api.com/images/original/MV5BMTM3NjQyODI3M15BMl5BanBnXkFtZTcwMDM4NjM0OA@@._V1_Ratio0.6737_AL_.jpg",
+            "plot": "Dracula, who operates a high-end resort away from the human world, goes into overprotective mode when a boy discovers the resort and falls for the count's teenaged daughter.",
+            "directors": "Genndy Tartakovsky",
+            "stars": "Adam Sandler, Kevin James, Andy Samberg",
+            "genres": "Animation, Comedy, Family",
+            "imDbRating": "7.1"
+        },
+        {
+            "id": "tt2510894",
+            "title": "Hotel Transylvania 2",
+            "fullTitle": "Hotel Transylvania 2 (2015)",
+            "year": "2015",
+            "image": "https://imdb-api.com/images/original/MV5BNThkYmNmYzAtOGI2Ny00ODI4LTgwY2MtZmY3YWMxYTUyYjVjXkEyXkFqcGdeQXVyNTIzOTk5ODM@._V1_Ratio0.6737_AL_.jpg",
+            "plot": "Dracula and his friends try to bring out the monster in his half human, half vampire grandson in order to keep Mavis from leaving the hotel.",
+            "directors": "Genndy Tartakovsky",
+            "stars": "Adam Sandler, Andy Samberg, Selena Gomez",
+            "genres": "Animation, Comedy, Family",
+            "imDbRating": "6.7"
+        },
+        {
+            "id": "tt1080016",
+            "title": "Ice Age: Dawn of the Dinosaurs",
+            "fullTitle": "Ice Age: Dawn of the Dinosaurs (2009)",
+            "year": "2009",
+            "image": "https://imdb-api.com/images/original/MV5BMTMzNDkzMTcyOV5BMl5BanBnXkFtZTcwNDIzMjM2MQ@@._V1_Ratio0.6842_AL_.jpg",
+            "plot": "When Sid's attempt to adopt three dinosaur eggs gets him abducted by their real mother to an underground lost world, his friends attempt to rescue him.",
+            "directors": "Directors: Carlos Saldanha, Mike Thurmeier",
+            "stars": "Ray Romano, John Leguizamo, Denis Leary",
+            "genres": "Animation, Adventure, Comedy",
+            "imDbRating": "6.9"
+        },
+        {
+            "id": "tt5113044",
+            "title": "Minions: The Rise of Gru",
+            "fullTitle": "Minions: The Rise of Gru (2022)",
+            "year": "2022",
+            "image": "https://imdb-api.com/images/original/MV5BYjZkNzM0MDItZGQ0Zi00N2MzLTlhM2MtNjJlMTczZDBkNWUxXkEyXkFqcGdeQXVyODk4OTc3MTY@._V1_Ratio0.6737_AL_.jpg",
+            "plot": "The untold story of one twelve-year-old's dream to become the world's greatest supervillain.",
+            "directors": "Directors: Kyle Balda, Brad Ableson, and 1 more credit »",
+            "stars": "Steve Carell, Lucy Lawless, Julie Andrews",
+            "genres": "Animation, Adventure, Comedy",
+            "imDbRating": ""
+        },
+        {
+            "id": "tt1814643",
+            "title": "Banana",
+            "fullTitle": "Banana (2010)",
+            "year": "2010",
+            "image": "https://imdb-api.com/images/original/MV5BMzMwYjc1N2MtY2U2Ny00MTc3LTk1YWQtYzE3NmM5NWQ2YzkyXkEyXkFqcGdeQXVyMzAzODY0NzE@._V1_Ratio0.6737_AL_.jpg",
+            "plot": "The minions chase a banana and apple around the lab.",
+            "directors": "Directors: Kyle Balda, Samuel Tourneux",
+            "stars": "Pierre Coffin",
+            "genres": "Animation, Short, Comedy",
+            "imDbRating": "7.5"
+        },
+        {
+            "id": "tt1277953",
+            "title": "Madagascar 3: Europe's Most Wanted",
+            "fullTitle": "Madagascar 3: Europe's Most Wanted (2012)",
+            "year": "2012",
+            "image": "https://imdb-api.com/images/original/MV5BMTM2MTIzNzk2MF5BMl5BanBnXkFtZTcwMDcwMzQxNw@@._V1_Ratio0.6737_AL_.jpg",
+            "plot": "The Madagascar animals join a struggling European circus to get back to New York, but find themselves being pursued by a psychotic animal control officer.",
+            "directors": "Directors: Eric Darnell, Tom McGrath, and 1 more credit »",
+            "stars": "Ben Stiller, Jada Pinkett Smith, Chris Rock",
+            "genres": "Animation, Adventure, Comedy",
+            "imDbRating": "6.8"
+        },
+        {
+            "id": "tt0351283",
+            "title": "Madagascar",
+            "fullTitle": "Madagascar (2005)",
+            "year": "2005",
+            "image": "https://imdb-api.com/images/original/MV5BN2I5YzFlYWEtZjRhNy00ZmQzLWJhNTktZGIwYjFjODdmNDgxXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_Ratio0.6737_AL_.jpg",
+            "plot": "A group of animals who have spent all their life in a New York zoo end up in the jungles of Madagascar, and must adjust to living in the wild.",
+            "directors": "Directors: Eric Darnell, Tom McGrath",
+            "stars": "Chris Rock, Ben Stiller, David Schwimmer",
+            "genres": "Animation, Adventure, Comedy",
+            "imDbRating": "6.9"
+        },
+        {
+            "id": "tt0479952",
+            "title": "Madagascar: Escape 2 Africa",
+            "fullTitle": "Madagascar: Escape 2 Africa (2008)",
+            "year": "2008",
+            "image": "https://imdb-api.com/images/original/MV5BMjExMDA4NDcwMl5BMl5BanBnXkFtZTcwODAxNTQ3MQ@@._V1_Ratio0.6737_AL_.jpg",
+            "plot": "The Madagascar animals fly back to New York City, but crash-land on an African nature reserve, where they meet others of their own kind, and Alex especially discovers his royal heritage as prince of a lion pride.",
+            "directors": "Directors: Eric Darnell, Tom McGrath",
+            "stars": "Ben Stiller, Chris Rock, David Schwimmer",
+            "genres": "Animation, Adventure, Comedy",
+            "imDbRating": "6.6"
+        },
+        {
+            "id": "tt2709768",
+            "title": "The Secret Life of Pets",
+            "fullTitle": "The Secret Life of Pets (2016)",
+            "year": "2016",
+            "image": "https://imdb-api.com/images/original/MV5BMjIzMzA1OTkzNV5BMl5BanBnXkFtZTgwODE3MjM4NzE@._V1_Ratio0.6737_AL_.jpg",
+            "plot": "The quiet life of a terrier named Max is upended when his owner takes in Duke, a stray whom Max instantly dislikes.",
+            "directors": "Directors: Chris Renaud, Yarrow Cheney",
+            "stars": "Louis C.K., Eric Stonestreet, Kevin Hart",
+            "genres": "Animation, Adventure, Comedy",
+            "imDbRating": "6.5"
+        }
+    ],
+    "tvSeriesInfo": null,
+    "tvEpisodeInfo": null,
+    "errorMessage": ""
+}

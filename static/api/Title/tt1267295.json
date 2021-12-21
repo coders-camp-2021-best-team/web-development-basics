@@ -1,0 +1,610 @@
+{
+    "id": "tt1267295",
+    "title": "Cowboy Bebop",
+    "originalTitle": "",
+    "fullTitle": "Cowboy Bebop (2021– )",
+    "type": "TVSeries",
+    "year": "2021",
+    "image": "https://imdb-api.com/images/original/MV5BM2FiZmEzOGItODI3Ni00MDk2LWJhZWQtNGM2ODhlMWMzODZhXkEyXkFqcGdeQXVyMTEyMjM2NDc2._V1_Ratio0.8043_AL_.jpg",
+    "releaseDate": "2021-11-19",
+    "runtimeMins": null,
+    "runtimeStr": null,
+    "plot": "The space Western story follows Spike Spiegel and his rag-tag crew of bounty hunters, or Cowboys, as they try to capture the galaxy's worst criminals and survive the unexpected dangers they encounter throughout space, sometimes saving the world in the process but always leaving millions in damages.",
+    "plotLocal": "",
+    "plotLocalIsRtl": false,
+    "awards": "",
+    "directors": "",
+    "directorList": [],
+    "writers": "",
+    "writerList": [],
+    "stars": "Daniella Pineda, Elena Satine, John Cho",
+    "starList": [
+        { "id": "nm4427331", "name": "Daniella Pineda" },
+        { "id": "nm2180812", "name": "Elena Satine" },
+        { "id": "nm0158626", "name": "John Cho" }
+    ],
+    "actorList": [
+        {
+            "id": "nm4427331",
+            "image": "https://imdb-api.com/images/original/MV5BMjE0MTU5MTcyNF5BMl5BanBnXkFtZTgwMjMwOTQ4NTM@._V1_Ratio1.0000_AL_.jpg",
+            "name": "Daniella Pineda",
+            "asCharacter": "Faye Valentineas Faye Valentine"
+        },
+        {
+            "id": "nm2180812",
+            "image": "https://imdb-api.com/images/original/MV5BZWVlYTQ5ZTMtNTU5Yy00N2FhLWFhMGYtNTFiYzQ3NTY5YzA3XkEyXkFqcGdeQXVyMTEzNjk5NTk@._V1_Ratio1.0000_AL_.jpg",
+            "name": "Elena Satine",
+            "asCharacter": "Juliaas Julia"
+        },
+        {
+            "id": "nm0158626",
+            "image": "https://imdb-api.com/images/original/MV5BMjM4Nzk2NjUxNF5BMl5BanBnXkFtZTgwMzY3NDI2MTI@._V1_Ratio1.0000_AL_.jpg",
+            "name": "John Cho",
+            "asCharacter": "Spike Spiegelas Spike Spiegel"
+        },
+        {
+            "id": "nm1296458",
+            "image": "https://imdb-api.com/images/original/MV5BODAyN2U5MTYtNWRlNi00MDAwLWJjNTctZGVhMDg2MzQ1MWUwXkEyXkFqcGdeQXVyMTcwNDQyNDk@._V1_Ratio1.0000_AL_.jpg",
+            "name": "Mustafa Shakir",
+            "asCharacter": "Jet Blackas Jet Black"
+        },
+        {
+            "id": "nm1307435",
+            "image": "https://imdb-api.com/images/original/MV5BZDY4YTkzMDEtMTRiMi00OWQ4LWEyMDQtNmUzYTdlNzQ1ZDRhXkEyXkFqcGdeQXVyNDI2OTYwNzE@._V1_Ratio1.0000_AL_.jpg",
+            "name": "Alex Hassell",
+            "asCharacter": "Viciousas Vicious"
+        },
+        {
+            "id": "nm12480642",
+            "image": "https://imdb-api.com/images/original/MV5BOTdlYTEzNjYtZDVkZS00YzE1LWE0N2YtZmRiODk2MWMzYzkyXkEyXkFqcGdeQXVyMTE4ODI3OTY0._V1_Ratio1.0000_AL_.jpg",
+            "name": "Molly Moriarty",
+            "asCharacter": "Kimmie Blackas Kimmie Black"
+        },
+        {
+            "id": "nm3866736",
+            "image": "https://imdb-api.com/images/original/MV5BYzFlN2UwNDgtYzE1Ny00MjMxLTkxYzgtMjlmOTk3MmFmOGFlXkEyXkFqcGdeQXVyMjQwMDg0Ng@@._V1_Ratio1.0000_AL_.jpg",
+            "name": "Blessing Mokgohloa",
+            "asCharacter": "Santiagoas Santiago"
+        },
+        {
+            "id": "nm0633604",
+            "image": "https://imdb-api.com/images/original/MV5BNzA2OTg5MDE2Ml5BMl5BanBnXkFtZTgwMzI0MTAwNzE@._V1_Ratio1.0000_AL_.jpg",
+            "name": "John Noble",
+            "asCharacter": "Calibanas Caliban"
+        },
+        {
+            "id": "nm10822552",
+            "image": "https://imdb-api.com/images/original/MV5BN2Y0YzQyNjEtMjAyMS00NGU3LThlNDUtMjFkMTMyZjkyYjg2XkEyXkFqcGdeQXVyMTA3NDY3ODc4._V1_Ratio1.0000_AL_.jpg",
+            "name": "Lucy Currey",
+            "asCharacter": "Judyas Judy"
+        },
+        {
+            "id": "nm1492924",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Lutz Halbhubner",
+            "asCharacter": "Jobimas Jobim"
+        },
+        {
+            "id": "nm0710013",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Arthur Ranford",
+            "asCharacter": "Antonioas Antonio"
+        },
+        {
+            "id": "nm13028925",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Fungai Mhlanga",
+            "asCharacter": "Carlosas Carlos"
+        },
+        {
+            "id": "nm1344302",
+            "image": "https://imdb-api.com/images/original/MV5BMWNmNzEzMGUtMDc1NS00OTlkLWExMzktNTAzOGQ2N2RkMjI3XkEyXkFqcGdeQXVyNDUzOTQ5MjY@._V1_Ratio1.0000_AL_.jpg",
+            "name": "Rachel House",
+            "asCharacter": "Maoas Mao"
+        },
+        {
+            "id": "nm4317622",
+            "image": "https://imdb-api.com/images/original/MV5BNDM5ZDFkMTEtZmIwZC00NDMyLTliMzQtODk1MjU1OTdhYTZhXkEyXkFqcGdeQXVyMjQwMDg0Ng@@._V1_Ratio1.0000_AL_.jpg",
+            "name": "Mason Alexander Park",
+            "asCharacter": "Grenas Gren"
+        },
+        {
+            "id": "nm0836176",
+            "image": "https://imdb-api.com/images/original/MV5BNzBhZDEwYzItNTM3Yi00YzM2LTk1MGItZmNiN2ZjMTQ4ZjlhXkEyXkFqcGdeQXVyNTUwMTE2NzM@._V1_Ratio1.0000_AL_.jpg",
+            "name": "Geoff Stults",
+            "asCharacter": "Chalmersas Chalmers"
+        },
+        {
+            "id": "nm0876645",
+            "image": "https://imdb-api.com/images/original/MV5BNDIyOTc1MzAxOF5BMl5BanBnXkFtZTcwMTM2NTY1MQ@@._V1_Ratio1.0000_AL_.jpg",
+            "name": "Tamara Tunie",
+            "asCharacter": "Anaas Ana"
+        },
+        {
+            "id": "nm6157325",
+            "image": "https://imdb-api.com/images/original/MV5BNmQ4OWVlOWItOWY2OC00NzZkLWEwZmItNmViZmYyYjk2OTI0XkEyXkFqcGdeQXVyMjQwMDg0Ng@@._V1_Ratio1.0000_AL_.jpg",
+            "name": "Ann Truong",
+            "asCharacter": "Shinas Shin"
+        },
+        {
+            "id": "nm2833973",
+            "image": "https://imdb-api.com/images/original/MV5BMjc5NWU1NWYtNTYyMy00YTQzLWFhOTItZDE2ZTM3NDJmNDJlXkEyXkFqcGdeQXVyNTU1MTQxMjQ@._V1_Ratio1.0000_AL_.jpg",
+            "name": "Jan Uddin",
+            "asCharacter": "Asimovas Asimov"
+        }
+    ],
+    "fullCast": null,
+    "genres": "Action, Adventure, Crime",
+    "genreList": [
+        { "key": "Action", "value": "Action" },
+        { "key": "Adventure", "value": "Adventure" },
+        { "key": "Crime", "value": "Crime" }
+    ],
+    "companies": "Midnight Radio, Netflix, Sunrise",
+    "companyList": [
+        { "id": "co0529550", "name": "Midnight Radio" },
+        { "id": "co0144901", "name": "Netflix" },
+        { "id": "co0006858", "name": "Sunrise" }
+    ],
+    "countries": "USA",
+    "countryList": [{ "key": "USA", "value": "USA" }],
+    "languages": "English",
+    "languageList": [{ "key": "English", "value": "English" }],
+    "contentRating": "TV-14",
+    "imDbRating": null,
+    "imDbRatingVotes": null,
+    "metacriticRating": null,
+    "ratings": null,
+    "wikipedia": null,
+    "posters": {
+        "imDbId": "tt1267295",
+        "title": "Cowboy Bebop",
+        "fullTitle": "Cowboy Bebop (2021– )",
+        "type": "TVSeries",
+        "year": "2021",
+        "posters": [
+            {
+                "id": "fyO4FjnkVMZPk6ArTiGyCee315m.jpg",
+                "link": "https://imdb-api.com/posters/original/fyO4FjnkVMZPk6ArTiGyCee315m.jpg",
+                "aspectRatio": 0.6666666666666666,
+                "language": "en",
+                "width": 900,
+                "height": 1350
+            },
+            {
+                "id": "lSsCxZ1dnjcB4cmXSgMJt5qunOu.jpg",
+                "link": "https://imdb-api.com/posters/original/lSsCxZ1dnjcB4cmXSgMJt5qunOu.jpg",
+                "aspectRatio": 0.6666666666666666,
+                "language": "en",
+                "width": 2000,
+                "height": 3000
+            },
+            {
+                "id": "hygpySmaINdWqL37JzjuoJvT8MG.jpg",
+                "link": "https://imdb-api.com/posters/original/hygpySmaINdWqL37JzjuoJvT8MG.jpg",
+                "aspectRatio": 0.6666666666666666,
+                "language": "en",
+                "width": 1728,
+                "height": 2592
+            },
+            {
+                "id": "fbQIbSgblYSUf3RNUDWu4Um7xbx.jpg",
+                "link": "https://imdb-api.com/posters/original/fbQIbSgblYSUf3RNUDWu4Um7xbx.jpg",
+                "aspectRatio": 0.6750675067506751,
+                "language": "en",
+                "width": 1500,
+                "height": 2222
+            },
+            {
+                "id": "5lV67l4SitD8ibcJPtcXeQloSsB.jpg",
+                "link": "https://imdb-api.com/posters/original/5lV67l4SitD8ibcJPtcXeQloSsB.jpg",
+                "aspectRatio": 0.6748046875,
+                "language": "en",
+                "width": 1382,
+                "height": 2048
+            }
+        ],
+        "backdrops": [
+            {
+                "id": "5y6MNs4pbkqXkmiA26uMQJGnL7m.jpg",
+                "link": "https://imdb-api.com/posters/original/5y6MNs4pbkqXkmiA26uMQJGnL7m.jpg",
+                "aspectRatio": 1.7777777777777777,
+                "language": "en",
+                "width": 1920,
+                "height": 1080
+            }
+        ],
+        "errorMessage": ""
+    },
+    "images": {
+        "imDbId": "tt1267295",
+        "title": "Cowboy Bebop",
+        "fullTitle": "Cowboy Bebop (2021– )",
+        "type": "TVSeries",
+        "year": "2021",
+        "items": [
+            {
+                "title": "John Cho, Mustafa Shakir, and Daniella Pineda in Cowboy Bebop (2021)",
+                "image": "https://imdb-api.com/images/original/MV5BMDQ4Y2M3NzUtOGViZS00M2YwLWE3N2UtMDBkYTIzMGNkMzk5XkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_Ratio1.0000_AL_.jpg"
+            },
+            {
+                "title": "John Cho in Cowboy Bebop (2021)",
+                "image": "https://imdb-api.com/images/original/MV5BNzk2YjIyNjEtZDE4My00ZDlkLTk1MmQtMTI5MWY3MGU1MDA3XkEyXkFqcGdeQXVyMDM2NDM2MQ@@._V1_Ratio1.5000_AL_.jpg"
+            },
+            {
+                "title": "Daniella Pineda in Cowboy Bebop (2021)",
+                "image": "https://imdb-api.com/images/original/MV5BZjcwN2M1ZDktMDQyNS00MzRiLWI2NmUtODFiMzcyMTlkYmFmXkEyXkFqcGdeQXVyMDM2NDM2MQ@@._V1_Ratio1.5000_AL_.jpg"
+            },
+            {
+                "title": "John Cho in Cowboy Bebop (2021)",
+                "image": "https://imdb-api.com/images/original/MV5BZWJjOTBmYTktMGZjZC00YzMyLThjYWUtZjliMmZjZTRmNzFjXkEyXkFqcGdeQXVyMDM2NDM2MQ@@._V1_Ratio1.5000_AL_.jpg"
+            },
+            {
+                "title": "John Cho, Mustafa Shakir, and Daniella Pineda in Cowboy Bebop (2021)",
+                "image": "https://imdb-api.com/images/original/MV5BMmNjYTVmNTQtZjM1ZC00YzBiLTgwMDEtNmI2ZGE2ODIzZWNlXkEyXkFqcGdeQXVyMDM2NDM2MQ@@._V1_Ratio1.5000_AL_.jpg"
+            },
+            {
+                "title": "John Cho, Mustafa Shakir, and Daniella Pineda in Cowboy Bebop (2021)",
+                "image": "https://imdb-api.com/images/original/MV5BMDVjYmJhNGYtYjJmZS00MjBjLThiZjUtNzg5ODhjNGQxYTNmXkEyXkFqcGdeQXVyMDM2NDM2MQ@@._V1_Ratio1.0000_AL_.jpg"
+            },
+            {
+                "title": "John Cho in Cowboy Bebop (2021)",
+                "image": "https://imdb-api.com/images/original/MV5BMTc3OWRiNzgtZjU1OS00ZWIyLThlNjUtMjc5MzAzZWIzNGNiXkEyXkFqcGdeQXVyMDM2NDM2MQ@@._V1_Ratio1.5000_AL_.jpg"
+            },
+            {
+                "title": "Mustafa Shakir in Cowboy Bebop (2021)",
+                "image": "https://imdb-api.com/images/original/MV5BNzhmNzdmODYtNjY1ZC00MDFiLWJlZmEtMjJjMjZiMGU2MmMwXkEyXkFqcGdeQXVyMDM2NDM2MQ@@._V1_Ratio1.5000_AL_.jpg"
+            },
+            {
+                "title": "John Cho in Cowboy Bebop (2021)",
+                "image": "https://imdb-api.com/images/original/MV5BZTk4YmU3MWUtOTAwYS00OWY2LWJlNjMtMWZlNDI3OWU0MzhiXkEyXkFqcGdeQXVyMDM2NDM2MQ@@._V1_Ratio1.0000_AL_.jpg"
+            },
+            {
+                "title": "Cowboy Bebop (2021)",
+                "image": "https://imdb-api.com/images/original/MV5BM2FiZmEzOGItODI3Ni00MDk2LWJhZWQtNGM2ODhlMWMzODZhXkEyXkFqcGdeQXVyMTEyMjM2NDc2._V1_Ratio1.0000_AL_.jpg"
+            },
+            {
+                "title": "Cowboy Bebop (2021)",
+                "image": "https://imdb-api.com/images/original/MV5BNjU2ZTg5MjEtN2ZlNC00YTVhLTljZDktNGRiOWQ1MjgwNjFlXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_Ratio1.1000_AL_.jpg"
+            },
+            {
+                "title": "Cowboy Bebop (2021)",
+                "image": "https://imdb-api.com/images/original/MV5BZWQ3Mzg0MzgtMTkxZi00MzVhLWJmMDAtYzM4NzAwYTMwN2YwXkEyXkFqcGdeQXVyMTEzMTI1Mjk3._V1_Ratio2.0000_AL_.jpg"
+            },
+            {
+                "title": "Cowboy Bebop (2021)",
+                "image": "https://imdb-api.com/images/original/MV5BNTc4MWQ1YjctMmNiZS00YmEyLWFkZDYtNTNmMzc1NjQ5ZTVjXkEyXkFqcGdeQXVyMTEzMTI1Mjk3._V1_Ratio2.0000_AL_.jpg"
+            },
+            {
+                "title": "Cowboy Bebop (2021)",
+                "image": "https://imdb-api.com/images/original/MV5BNDM0NmIwMjAtNzU3My00ZGViLWI0ZGQtYWExMTIxOWUxYzVlXkEyXkFqcGdeQXVyMTEzMTI1Mjk3._V1_Ratio2.0000_AL_.jpg"
+            },
+            {
+                "title": "Cowboy Bebop (2021)",
+                "image": "https://imdb-api.com/images/original/MV5BZTZhNTFmZmYtNzJlNi00MjQ1LTlmMmMtNTQ4ZTU4YzAxYmM1XkEyXkFqcGdeQXVyMTEzMTI1Mjk3._V1_Ratio2.0000_AL_.jpg"
+            },
+            {
+                "title": "Cowboy Bebop (2021)",
+                "image": "https://imdb-api.com/images/original/MV5BYTczM2JiZDgtNjAxNC00NjdhLTkwMzQtMWVhMTNmNWY1MTIzXkEyXkFqcGdeQXVyMTEzMTI1Mjk3._V1_Ratio1.5000_AL_.jpg"
+            },
+            {
+                "title": "Cowboy Bebop (2021)",
+                "image": "https://imdb-api.com/images/original/MV5BZGQ0YjY3OGEtM2NmZS00OWIyLTk5MDgtMWJhNWQwY2NjN2E0XkEyXkFqcGdeQXVyMTEzMTI1Mjk3._V1_Ratio1.5000_AL_.jpg"
+            },
+            {
+                "title": "Cowboy Bebop (2021)",
+                "image": "https://imdb-api.com/images/original/MV5BMzA3MTBkZTYtZWZiZC00NTllLWJjZmEtNTIzNDIzM2UwY2RhXkEyXkFqcGdeQXVyMTEzMTI1Mjk3._V1_Ratio1.5000_AL_.jpg"
+            },
+            {
+                "title": "Cowboy Bebop (2021)",
+                "image": "https://imdb-api.com/images/original/MV5BZmMxY2VmN2YtMzMyYy00OWUxLTlhOGMtZGI5MTdkMDNjODE2XkEyXkFqcGdeQXVyMTEzMTI1Mjk3._V1_Ratio1.5000_AL_.jpg"
+            },
+            {
+                "title": "Cowboy Bebop (2021)",
+                "image": "https://imdb-api.com/images/original/MV5BNGEzN2M5ZWYtZTQ5OS00ZGQzLWI0NzctNjZlMWEwNDc0MTUwXkEyXkFqcGdeQXVyMTEzMTI1Mjk3._V1_Ratio1.5000_AL_.jpg"
+            },
+            {
+                "title": "Cowboy Bebop (2021)",
+                "image": "https://imdb-api.com/images/original/MV5BNzg5ZjYyYjQtNjJlYi00Nzk2LWIyZDEtYWQyYzdhNzBiZTIwXkEyXkFqcGdeQXVyMTEzMTI1Mjk3._V1_Ratio1.5000_AL_.jpg"
+            },
+            {
+                "title": "Cowboy Bebop (2021)",
+                "image": "https://imdb-api.com/images/original/MV5BM2MzMWZjZGItY2I5Zi00NWRjLTgzMjktODdiODhlNWFlYzU3XkEyXkFqcGdeQXVyMTEzMTI1Mjk3._V1_Ratio1.5000_AL_.jpg"
+            },
+            {
+                "title": "Cowboy Bebop (2021)",
+                "image": "https://imdb-api.com/images/original/MV5BOTM0MThjNjUtZjg0OS00MmQ0LThhZGYtYjI0NmEwODg1NzgzXkEyXkFqcGdeQXVyMTEzMTI1Mjk3._V1_Ratio1.5000_AL_.jpg"
+            },
+            {
+                "title": "Cowboy Bebop (2021)",
+                "image": "https://imdb-api.com/images/original/MV5BYzlkNDkyMTItMTM2Mi00ZjU0LTk4ZTgtZDQ3YjU0ZDBiZmI1XkEyXkFqcGdeQXVyMTEzMTI1Mjk3._V1_Ratio2.0200_AL_.jpg"
+            },
+            {
+                "title": "Cowboy Bebop (2021)",
+                "image": "https://imdb-api.com/images/original/MV5BMDk4YjkzYmItYTM0MC00YjZhLTk4M2ItZjlhNTJlNzFmYmZjXkEyXkFqcGdeQXVyMTEzMTI1Mjk3._V1_Ratio2.0200_AL_.jpg"
+            },
+            {
+                "title": "Cowboy Bebop (2021)",
+                "image": "https://imdb-api.com/images/original/MV5BMjMxMThkM2MtMTQzMC00YzZmLWE4MTAtNGI3M2ZhZGRjM2U0XkEyXkFqcGdeQXVyMTEzMTI1Mjk3._V1_Ratio2.0200_AL_.jpg"
+            },
+            {
+                "title": "Cowboy Bebop (2021)",
+                "image": "https://imdb-api.com/images/original/MV5BZWY5N2ZkZjAtMzQxZC00YWY0LTk3YTAtOGZjMWUxNzEwMGY0XkEyXkFqcGdeQXVyMTEzMTI1Mjk3._V1_Ratio2.1000_AL_.jpg"
+            },
+            {
+                "title": "Cowboy Bebop (2021)",
+                "image": "https://imdb-api.com/images/original/MV5BNTViMmZjNjYtODc1OC00YTVhLWFiM2ItZmI1YmVkOGNhOTZhXkEyXkFqcGdeQXVyMTEzMTI1Mjk3._V1_Ratio2.0200_AL_.jpg"
+            },
+            {
+                "title": "Cowboy Bebop (2021)",
+                "image": "https://imdb-api.com/images/original/MV5BNzQxMjBlNjctZWVmMy00YzVhLWI3OWUtZGZmZmZjMDFlZDAxXkEyXkFqcGdeQXVyMTEzMTI1Mjk3._V1_Ratio1.9800_AL_.jpg"
+            },
+            {
+                "title": "Cowboy Bebop (2021)",
+                "image": "https://imdb-api.com/images/original/MV5BYzc4MWQ2ZDgtYWRlNi00ODU5LWI2MjgtMGQxNGYwMWJlYzdhXkEyXkFqcGdeQXVyMTEzMTI1Mjk3._V1_Ratio1.9800_AL_.jpg"
+            },
+            {
+                "title": "John Cho in Cowboy Bebop (2021)",
+                "image": "https://imdb-api.com/images/original/MV5BYmJjMWNjMDQtYjQyZS00ZTEzLTkwOGItMmVmMmQzZDQwNmFlXkEyXkFqcGdeQXVyMTEwNDU1MzEy._V1_Ratio1.5000_AL_.jpg"
+            },
+            {
+                "title": "Cowboy Bebop (2021)",
+                "image": "https://imdb-api.com/images/original/MV5BOWMyNGE0NzctMDI4My00ODU1LWJkYTgtY2MwOTkyMTVkMmFkXkEyXkFqcGdeQXVyMTEwNDU1MzEy._V1_Ratio1.5000_AL_.jpg"
+            },
+            {
+                "title": "John Cho in Cowboy Bebop (2021)",
+                "image": "https://imdb-api.com/images/original/MV5BMWE2NzJhYzEtMmUwOS00NTE4LTgzNDktMmE0ZTcxNmNjZWRkXkEyXkFqcGdeQXVyMTExNTQwOTgy._V1_Ratio1.7800_AL_.jpg"
+            },
+            {
+                "title": "John Cho in Cowboy Bebop (2021)",
+                "image": "https://imdb-api.com/images/original/MV5BYTc3OWMwMWEtNjBhZS00OGY4LTk5NDUtMDQwNzA5YzQ2NDZjXkEyXkFqcGdeQXVyMTI5MDM5NTE5._V1_Ratio1.5000_AL_.jpg"
+            },
+            {
+                "title": "John Cho, Mustafa Shakir, and Daniella Pineda in Cowboy Bebop (2021)",
+                "image": "https://imdb-api.com/images/original/MV5BMGE5NThmYjctYWRhNC00YTA0LWIyMjYtNTdjYjg1NzUzMzVmXkEyXkFqcGdeQXVyMTI5MDM5NTE5._V1_Ratio1.7800_AL_.jpg"
+            },
+            {
+                "title": "John Cho, Mustafa Shakir, and Daniella Pineda in Cowboy Bebop (2021)",
+                "image": "https://imdb-api.com/images/original/MV5BMDZkYjUyMDktM2VlMS00MTQ1LWEyYmEtMTI5NWM1YzBlYmI3XkEyXkFqcGdeQXVyMTI5MDM5NTE5._V1_Ratio1.0000_AL_.jpg"
+            },
+            {
+                "title": "John Cho in Cowboy Bebop (2021)",
+                "image": "https://imdb-api.com/images/original/MV5BMWE1Mzk0YTYtZmI0OC00NTAzLTk0YTUtNTk5NTQwYWY0MTdmXkEyXkFqcGdeQXVyMTI5MDM5NTE5._V1_Ratio1.5000_AL_.jpg"
+            },
+            {
+                "title": "Cowboy Bebop (2021)",
+                "image": "https://imdb-api.com/images/original/MV5BNGExM2YzNjItZjdlZi00OWQ2LWE0ZGUtMDE3MTg0MmY2NGRlXkEyXkFqcGdeQXVyMTI5MDM5NTE5._V1_Ratio1.5000_AL_.jpg"
+            },
+            {
+                "title": "Daniella Pineda in Cowboy Bebop (2021)",
+                "image": "https://imdb-api.com/images/original/MV5BNDZlODcyNDAtMmZhOS00ZTg1LWIxZGEtM2I1NTgzN2VhYjA2XkEyXkFqcGdeQXVyMTI5MDM5NTE5._V1_Ratio1.5000_AL_.jpg"
+            },
+            {
+                "title": "Alex Hassell in Cowboy Bebop (2021)",
+                "image": "https://imdb-api.com/images/original/MV5BYWU5MDk4OGItNTIyNS00MTJkLThhNWEtYWY1YTgyNGY0MmY0XkEyXkFqcGdeQXVyMTI5MDM5NTE5._V1_Ratio1.5000_AL_.jpg"
+            },
+            {
+                "title": "Daniella Pineda in Cowboy Bebop (2021)",
+                "image": "https://imdb-api.com/images/original/MV5BZGZjMWNmMmEtMTQ4MS00MDkyLTllODAtZTIwNGU2YTczOTMyXkEyXkFqcGdeQXVyMTI5MDM5NTE5._V1_Ratio1.5000_AL_.jpg"
+            },
+            {
+                "title": "Blessing Mokgohloa in Cowboy Bebop (2021)",
+                "image": "https://imdb-api.com/images/original/MV5BMmQ0MmYzZjMtZTAwZi00MzNhLTk2YTMtMGU1ZWMyYjY0YTBiXkEyXkFqcGdeQXVyNTI1NDk2NTc@._V1_Ratio2.0000_AL_.jpg"
+            },
+            {
+                "title": "John Cho in Cowboy Bebop (2021)",
+                "image": "https://imdb-api.com/images/original/MV5BNjFlZDljYzUtZWZkNy00MzJlLWI3NmUtODM3ZTFjMjUzMGRmXkEyXkFqcGdeQXVyMTExNTQwOTgy._V1_Ratio1.7600_AL_.jpg"
+            },
+            {
+                "title": "John Cho, Mustafa Shakir, and Daniella Pineda in Cowboy Bebop (2021)",
+                "image": "https://imdb-api.com/images/original/MV5BYWMwYTg3ZDItMjBjMy00YTI3LTg1YjEtOWU2NzFmZGM1ZTJhXkEyXkFqcGdeQXVyMTExNTQwOTgy._V1_Ratio1.7800_AL_.jpg"
+            },
+            {
+                "title": "Cowboy Bebop (2021)",
+                "image": "https://imdb-api.com/images/original/MV5BZmJlZmZmZWYtYjM0OS00Mjg2LWE3MTYtYTI1YjNmYzE2YzBlXkEyXkFqcGdeQXVyMTEzMTI1Mjk3._V1_Ratio1.0000_AL_.jpg"
+            },
+            {
+                "title": "Cowboy Bebop (2021)",
+                "image": "https://imdb-api.com/images/original/MV5BMjlmNzI4NmYtNDE1MC00YjY1LTkzNWUtNDZjZGIzMjc2MTVlXkEyXkFqcGdeQXVyMTEzMTI1Mjk3._V1_Ratio1.0000_AL_.jpg"
+            },
+            {
+                "title": "Cowboy Bebop (2021)",
+                "image": "https://imdb-api.com/images/original/MV5BYmFmNjY5YWItOTQ2Yy00MTgzLTliOTgtZTA0ZGI3ZmIxMmQ0XkEyXkFqcGdeQXVyMTEzMTI1Mjk3._V1_Ratio1.0000_AL_.jpg"
+            },
+            {
+                "title": "Cowboy Bebop (2021)",
+                "image": "https://imdb-api.com/images/original/MV5BZDExOWY1MTEtMGIyMS00NTRiLTgzOGMtM2E0YjAwMmY3YWUwXkEyXkFqcGdeQXVyMTEzMTI1Mjk3._V1_Ratio1.0000_AL_.jpg"
+            }
+        ],
+        "errorMessage": ""
+    },
+    "trailer": {
+        "imDbId": "tt1267295",
+        "title": "Cowboy Bebop",
+        "fullTitle": "Cowboy Bebop (2021– )",
+        "type": "TVSeries",
+        "year": "2021",
+        "videoId": "vi1296154393",
+        "videoTitle": "John Cho Gives a &quot;Cowboy Bebop&quot; Tease",
+        "videoDescription": "On the red carpet at the 2020 Oscars, John Cho teases the style of &quot;Cowboy Bebop,&quot; the upcoming live-action adaptation of the wildly popular anime series that&apos;s coming to Netflix.",
+        "thumbnailUrl": "https://m.media-amazon.com/images/M/MV5BMGFiMjcyNDUtMjM4Mi00NTg5LWEzYTUtNWE2ZTQxMjliZWMzXkEyXkFqcGdeQWFybm8@._V1_.jpg",
+        "uploadDate": null,
+        "link": "https://www.imdb.com/video/vi1296154393",
+        "linkEmbed": "https://www.imdb.com/video/imdb/vi1296154393/imdb/embed",
+        "errorMessage": ""
+    },
+    "boxOffice": {
+        "budget": "",
+        "openingWeekendUSA": "",
+        "grossUSA": "",
+        "cumulativeWorldwideGross": ""
+    },
+    "tagline": null,
+    "keywords": "live action remake of anime,cowboy,bounty hunter,bounty,hunter",
+    "keywordList": [
+        "live action remake of anime",
+        "cowboy",
+        "bounty hunter",
+        "bounty",
+        "hunter"
+    ],
+    "similars": [
+        {
+            "id": "tt0213338",
+            "title": "Cowboy Bebop",
+            "fullTitle": "Cowboy Bebop",
+            "year": "",
+            "image": "https://imdb-api.com/images/original/MV5BNGNlNjBkODEtZThlOC00YzUxLWI0MjMtMjk3YzJmMDFlNWZlXkEyXkFqcGdeQXVyNjI0MDg2NzE@._V1_Ratio0.6763_AL_.jpg",
+            "plot": "",
+            "directors": "",
+            "stars": "",
+            "genres": "",
+            "imDbRating": "8.9"
+        },
+        {
+            "id": "tt0275277",
+            "title": "Cowboy Bebop: The Movie",
+            "fullTitle": "Cowboy Bebop: The Movie",
+            "year": "",
+            "image": "https://imdb-api.com/images/original/MV5BMjYzYWM4YTItZjJiMC00OTM5LTg3NDgtOGQ2Njk2ZWNhN2QwXkEyXkFqcGdeQXVyMzM4MjM0Nzg@._V1_Ratio0.7053_AL_.jpg",
+            "plot": "",
+            "directors": "",
+            "stars": "",
+            "genres": "",
+            "imDbRating": "7.9"
+        },
+        {
+            "id": "tt11233960",
+            "title": "The Unforgivable",
+            "fullTitle": "The Unforgivable",
+            "year": "",
+            "image": "https://imdb-api.com/images/original/MV5BM2M5MTJmOTEtNWU1Yy00NDNmLWI3MjMtNzFkN2FiZjE5Njg3XkEyXkFqcGdeQXVyMTEyMjM2NDc2._V1_Ratio0.6763_AL_.jpg",
+            "plot": "",
+            "directors": "",
+            "stars": "",
+            "genres": "",
+            "imDbRating": ""
+        },
+        {
+            "id": "tt7708606",
+            "title": "Cowboy Bebop: The Movie - Featurettes",
+            "fullTitle": "Cowboy Bebop: The Movie - Featurettes",
+            "year": "",
+            "image": "https://imdb-api.com/images/original/MV5BMzg2MGE0NDYtNTZhMC00OTQ0LWExNTgtNzJlYWQ4YjAzMzUyXkEyXkFqcGdeQXVyMzM4MjM0Nzg@._V1_Ratio0.6957_AL_.jpg",
+            "plot": "",
+            "directors": "",
+            "stars": "",
+            "genres": "",
+            "imDbRating": "8.4"
+        },
+        {
+            "id": "tt4956208",
+            "title": "Cowboy Bebop",
+            "fullTitle": "Cowboy Bebop",
+            "year": "",
+            "image": "https://imdb-api.com/images/original/MV5BYTA0Y2FlOWEtY2Q0My00Y2VmLTgxZjgtYjVmMjNiNGNjM2RlXkEyXkFqcGdeQXVyMjg1NjA1NzA@._V1_Ratio1.8357_AL_.jpg",
+            "plot": "",
+            "directors": "",
+            "stars": "",
+            "genres": "",
+            "imDbRating": "6.4"
+        },
+        {
+            "id": "tt15766576",
+            "title": "A Man Named Scott",
+            "fullTitle": "A Man Named Scott",
+            "year": "",
+            "image": "https://imdb-api.com/images/original/MV5BNjI5MjA1MzAtZDgyNC00N2I0LTg0ZGItMjAyYTU5MThmOWUyXkEyXkFqcGdeQXVyNzg5MzIyOA@@._V1_Ratio0.6763_AL_.jpg",
+            "plot": "",
+            "directors": "",
+            "stars": "",
+            "genres": "",
+            "imDbRating": ""
+        },
+        {
+            "id": "tt7462410",
+            "title": "The Wheel of Time",
+            "fullTitle": "The Wheel of Time",
+            "year": "",
+            "image": "https://imdb-api.com/images/original/MV5BYzA2Nzk5M2EtNWY4Yi00ZDY4LThkZTgtYjhhNWEyMGY0MjFjXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_Ratio0.6763_AL_.jpg",
+            "plot": "",
+            "directors": "",
+            "stars": "",
+            "genres": "",
+            "imDbRating": ""
+        },
+        {
+            "id": "tt1464335",
+            "title": "Uncharted",
+            "fullTitle": "Uncharted",
+            "year": "",
+            "image": "https://imdb-api.com/images/original/MV5BOTZjZWZhMTAtYTAxZS00ZDMwLWE0YzEtMzFkNzdhZjc5OGQ0XkEyXkFqcGdeQXVyNjI5MDc2MjU@._V1_Ratio0.7053_AL_.jpg",
+            "plot": "",
+            "directors": "",
+            "stars": "",
+            "genres": "",
+            "imDbRating": ""
+        },
+        {
+            "id": "tt4998632",
+            "title": "Ambulance",
+            "fullTitle": "Ambulance",
+            "year": "",
+            "image": "https://imdb-api.com/images/original/MV5BMzYxY2MxMzMtYTNmMS00MWQ4LTlhMmItZTBjYTgxNjQ0ZWRkXkEyXkFqcGdeQXVyNjY1MTg4Mzc@._V1_Ratio0.6763_AL_.jpg",
+            "plot": "",
+            "directors": "",
+            "stars": "",
+            "genres": "",
+            "imDbRating": ""
+        },
+        {
+            "id": "tt0889816",
+            "title": "Cowboy Bebop: Session XX - Mish-Mash Blues",
+            "fullTitle": "Cowboy Bebop: Session XX - Mish-Mash Blues",
+            "year": "",
+            "image": "https://imdb-api.com/images/original/MV5BNDAxNGU0YjEtMWMxOS00MzEzLTllYmItOTFiMDhjNTcxMDU4XkEyXkFqcGdeQXVyMjExMjk0ODk@._V1_Ratio0.9469_AL_.jpg",
+            "plot": "",
+            "directors": "",
+            "stars": "",
+            "genres": "",
+            "imDbRating": "6.9"
+        },
+        {
+            "id": "tt1751634",
+            "title": "The Sandman",
+            "fullTitle": "The Sandman",
+            "year": "",
+            "image": "https://imdb-api.com/images/original/MV5BN2NlNDA5NDYtYjNhOS00ZTQ5LWEzZDYtOTE4MjBhY2I4ZDY4XkEyXkFqcGdeQXVyMzMwOTU5MDk@._V1_Ratio0.8019_AL_.jpg",
+            "plot": "",
+            "directors": "",
+            "stars": "",
+            "genres": "",
+            "imDbRating": ""
+        },
+        {
+            "id": "tt9737326",
+            "title": "Invasion",
+            "fullTitle": "Invasion",
+            "year": "",
+            "image": "https://imdb-api.com/images/original/MV5BNGQ3M2VmZTEtOTlkZC00ZmIzLWFhZjktZDA4NTE0Mzk2OTU2XkEyXkFqcGdeQXVyMDM2NDM2MQ@@._V1_Ratio0.6763_AL_.jpg",
+            "plot": "",
+            "directors": "",
+            "stars": "",
+            "genres": "",
+            "imDbRating": "5.8"
+        }
+    ],
+    "tvSeriesInfo": {
+        "yearEnd": "",
+        "creators": "Alex Garcia Lopez, Michael Katleman, Hajime Yatate, Christopher L. Yost",
+        "creatorList": [
+            { "id": "nm3421685", "name": "Alex Garcia Lopez" },
+            { "id": "nm0003150", "name": "Michael Katleman" },
+            { "id": "nm0946695", "name": "Hajime Yatate" },
+            { "id": "nm1236653", "name": "Christopher L. Yost" }
+        ],
+        "seasons": ["1"]
+    },
+    "tvEpisodeInfo": null,
+    "errorMessage": null
+}

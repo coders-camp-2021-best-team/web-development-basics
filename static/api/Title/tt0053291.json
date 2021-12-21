@@ -1,0 +1,835 @@
+{
+    "id": "tt0053291",
+    "title": "Some Like It Hot",
+    "originalTitle": "",
+    "fullTitle": "Some Like It Hot (1959)",
+    "type": "Movie",
+    "year": "1959",
+    "image": "https://imdb-api.com/images/original/MV5BNzAyOGIxYjAtMGY2NC00ZTgyLWIwMWEtYzY0OWQ4NDFjOTc5XkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_Ratio0.6791_AL_.jpg",
+    "releaseDate": "1959-03-19",
+    "runtimeMins": "121",
+    "runtimeStr": "2h 1mins",
+    "plot": "After two Chicago musicians, Joe and Jerry, witness the the St. Valentine's Day massacre, they want to get out of town and get away from the gangster responsible, Spats Colombo. They're desperate to get a gig out of town but the only job they know of is in an all-girl band heading to Florida. They show up at the train station as Josephine and Daphne, the replacement saxophone and bass players. They certainly enjoy being around the girls, especially Sugar Kane Kowalczyk who sings and plays the ukulele. Joe in particular sets out to woo her while Jerry/Daphne is wooed by a millionaire, Osgood Fielding III. Mayhem ensues as the two men try to keep their true identities hidden and Spats Colombo and his crew show up for a meeting with several other crime lords.",
+    "plotLocal": "",
+    "plotLocalIsRtl": false,
+    "awards": "Top Rated Movies #135 | Won 1 Oscar. Another 14 wins & 15 nominations.",
+    "directors": "Billy Wilder",
+    "directorList": [{ "id": "nm0000697", "name": "Billy Wilder" }],
+    "writers": "Billy Wilder, I.A.L. Diamond, Robert Thoeren, Michael Logan",
+    "writerList": [
+        { "id": "nm0000697", "name": "Billy Wilder" },
+        { "id": "nm0224634", "name": "I.A.L. Diamond" },
+        { "id": "nm0858329", "name": "Robert Thoeren" },
+        { "id": "nm0517615", "name": "Michael Logan" }
+    ],
+    "stars": "Marilyn Monroe, Tony Curtis, Jack Lemmon, George Raft",
+    "starList": [
+        { "id": "nm0000054", "name": "Marilyn Monroe" },
+        { "id": "nm0000348", "name": "Tony Curtis" },
+        { "id": "nm0000493", "name": "Jack Lemmon" },
+        { "id": "nm0706368", "name": "George Raft" }
+    ],
+    "actorList": [
+        {
+            "id": "nm0000054",
+            "image": "https://imdb-api.com/images/original/MV5BNzQzNDMxMjQxNF5BMl5BanBnXkFtZTYwMTc5NTI2._V1_Ratio0.7273_AL_.jpg",
+            "name": "Marilyn Monroe",
+            "asCharacter": "Sugar Kane Kowalczyk"
+        },
+        {
+            "id": "nm0000348",
+            "image": "https://imdb-api.com/images/original/MV5BMTI4NTkwNTEyNF5BMl5BanBnXkFtZTYwNzAxNjI2._V1_Ratio0.7273_AL_.jpg",
+            "name": "Tony Curtis",
+            "asCharacter": "Joe / Josephine / Shell Oil Junior"
+        },
+        {
+            "id": "nm0000493",
+            "image": "https://imdb-api.com/images/original/MV5BMTE5NTE3ODE1N15BMl5BanBnXkFtZTYwOTU1MTM2._V1_Ratio0.7273_AL_.jpg",
+            "name": "Jack Lemmon",
+            "asCharacter": "Jerry / Daphne"
+        },
+        {
+            "id": "nm0706368",
+            "image": "https://imdb-api.com/images/original/MV5BNjk4OTM2MzI0Nl5BMl5BanBnXkFtZTcwOTE0NzYxOA@@._V1_Ratio0.7727_AL_.jpg",
+            "name": "George Raft",
+            "asCharacter": "Spats Colombo"
+        },
+        {
+            "id": "nm0002285",
+            "image": "https://imdb-api.com/images/original/MV5BMTYwNjc0NzQ2Ml5BMl5BanBnXkFtZTcwMzY0MDAxMw@@._V1_Ratio0.9091_AL_.jpg",
+            "name": "Pat O'Brien",
+            "asCharacter": "Detective Mulligan"
+        },
+        {
+            "id": "nm0113873",
+            "image": "https://imdb-api.com/images/original/MV5BYjNlNTZjMjYtNThiMy00MWU5LTk5YjktNDk3OTc3MGMxOGYyXkEyXkFqcGdeQXVyNjUxMjc1OTM@._V1_Ratio0.8182_AL_.jpg",
+            "name": "Joe E. Brown",
+            "asCharacter": "Osgood Fielding III"
+        },
+        {
+            "id": "nm0675490",
+            "image": "https://imdb-api.com/images/original/MV5BMjI4Mzk5OTI3OF5BMl5BanBnXkFtZTcwNTcxMzk3NA@@._V1_Ratio0.7273_AL_.jpg",
+            "name": "Nehemiah Persoff",
+            "asCharacter": "Little Bonaparte"
+        },
+        {
+            "id": "nm0790064",
+            "image": "https://imdb-api.com/images/original/MV5BYzUyODI2N2UtOGUwZi00MTA2LTg0YmQtMjY4MGQwZmU1ZDFlXkEyXkFqcGdeQXVyMTcyODY2NDQ@._V1_Ratio0.7727_AL_.jpg",
+            "name": "Joan Shawlee",
+            "asCharacter": "Sweet Sue"
+        },
+        {
+            "id": "nm0336475",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Billy Gray",
+            "asCharacter": "Sig Poliakoff"
+        },
+        {
+            "id": "nm0831889",
+            "image": "https://imdb-api.com/images/original/MV5BNjA5NTQyMjg2Ml5BMl5BanBnXkFtZTcwMDQ5NzkxOA@@._V1_Ratio0.7727_AL_.jpg",
+            "name": "George E. Stone",
+            "asCharacter": "Toothpick Charlie"
+        },
+        {
+            "id": "nm0057969",
+            "image": "https://imdb-api.com/images/original/MV5BNzg3OWRiYmEtZGNhZS00MDAyLTlmYTAtNmYyZDc3ZDEwY2JlXkEyXkFqcGdeQXVyNzIyOTUxNTQ@._V1_Ratio0.8182_AL_.jpg",
+            "name": "Dave Barry",
+            "asCharacter": "Bienstock"
+        },
+        {
+            "id": "nm0563417",
+            "image": "https://imdb-api.com/images/original/MV5BMTkwNTQzMzkwMl5BMl5BanBnXkFtZTYwNjgwMTU2._V1_Ratio0.7727_AL_.jpg",
+            "name": "Mike Mazurki",
+            "asCharacter": "Spats' Henchman"
+        },
+        {
+            "id": "nm0933489",
+            "image": "https://imdb-api.com/images/original/MV5BZTY4NjA4MGYtZGY5Yi00YzIzLWJkMTEtNGNlMWJlOWIwNjU0XkEyXkFqcGdeQXVyMzAwOTU1MTk@._V1_Ratio0.7727_AL_.jpg",
+            "name": "Harry Wilson",
+            "asCharacter": "Spats' Henchman"
+        },
+        {
+            "id": "nm0932617",
+            "image": "https://imdb-api.com/images/original/MV5BOTczNWVmZTMtYTYwNC00NjA2LTgwMWEtODQ5YTEyYzZhZTBiXkEyXkFqcGdeQXVyMTcyODY2NDQ@._V1_Ratio0.7273_AL_.jpg",
+            "name": "Beverly Wills",
+            "asCharacter": "Dolores"
+        },
+        {
+            "id": "nm0237634",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Barbara Drew",
+            "asCharacter": "Nellie"
+        }
+    ],
+    "fullCast": null,
+    "genres": "Comedy, Music, Romance",
+    "genreList": [
+        { "key": "Comedy", "value": "Comedy" },
+        { "key": "Music", "value": "Music" },
+        { "key": "Romance", "value": "Romance" }
+    ],
+    "companies": "Ashton Productions, The Mirisch Corporation",
+    "companyList": [
+        { "id": "co0047869", "name": "Ashton Productions" },
+        { "id": "co0011112", "name": "The Mirisch Corporation" }
+    ],
+    "countries": "USA",
+    "countryList": [{ "key": "USA", "value": "USA" }],
+    "languages": "English",
+    "languageList": [{ "key": "English", "value": "English" }],
+    "contentRating": "Passed",
+    "imDbRating": "8.2",
+    "imDbRatingVotes": "246992",
+    "metacriticRating": "98",
+    "ratings": null,
+    "wikipedia": null,
+    "posters": {
+        "imDbId": "tt0053291",
+        "title": "Some Like It Hot",
+        "fullTitle": "Some Like It Hot (1959)",
+        "type": "Movie",
+        "year": "1959",
+        "posters": [
+            {
+                "id": "hVIKyTK13AvOGv7ICmJjK44DTzp.jpg",
+                "link": "https://imdb-api.com/posters/original/hVIKyTK13AvOGv7ICmJjK44DTzp.jpg",
+                "aspectRatio": 0.6666666666666666,
+                "language": "en",
+                "width": 2000,
+                "height": 3000
+            },
+            {
+                "id": "mBQJnHGFUDpjClbUE8l0yjkZLPH.jpg",
+                "link": "https://imdb-api.com/posters/original/mBQJnHGFUDpjClbUE8l0yjkZLPH.jpg",
+                "aspectRatio": 0.6666666666666666,
+                "language": "en",
+                "width": 1000,
+                "height": 1500
+            },
+            {
+                "id": "qaOwEtqWTIFj1CCVbTw9dtjoLx3.jpg",
+                "link": "https://imdb-api.com/posters/original/qaOwEtqWTIFj1CCVbTw9dtjoLx3.jpg",
+                "aspectRatio": 0.6666666666666666,
+                "language": "en",
+                "width": 1280,
+                "height": 1920
+            },
+            {
+                "id": "2MMgcZpW17fzF9q0yjuFoVDulio.jpg",
+                "link": "https://imdb-api.com/posters/original/2MMgcZpW17fzF9q0yjuFoVDulio.jpg",
+                "aspectRatio": 0.6666666666666666,
+                "language": "en",
+                "width": 1200,
+                "height": 1800
+            },
+            {
+                "id": "eotEKYd043Pk6uV5H11MnJbSQaI.jpg",
+                "link": "https://imdb-api.com/posters/original/eotEKYd043Pk6uV5H11MnJbSQaI.jpg",
+                "aspectRatio": 0.6665022200296004,
+                "language": "en",
+                "width": 1351,
+                "height": 2027
+            },
+            {
+                "id": "uRomZf1LmLtX4ZiL3B7lZEFNMAn.jpg",
+                "link": "https://imdb-api.com/posters/original/uRomZf1LmLtX4ZiL3B7lZEFNMAn.jpg",
+                "aspectRatio": 0.6666666666666666,
+                "language": "en",
+                "width": 1000,
+                "height": 1500
+            },
+            {
+                "id": "skEJc22b3NcIBHizgLrc9GWi2Sz.jpg",
+                "link": "https://imdb-api.com/posters/original/skEJc22b3NcIBHizgLrc9GWi2Sz.jpg",
+                "aspectRatio": 0.6666666666666666,
+                "language": "en",
+                "width": 1280,
+                "height": 1920
+            },
+            {
+                "id": "gkhpVUsWkdajZDLJdjCb4FVL2Za.jpg",
+                "link": "https://imdb-api.com/posters/original/gkhpVUsWkdajZDLJdjCb4FVL2Za.jpg",
+                "aspectRatio": 0.6666666666666666,
+                "language": "en",
+                "width": 1186,
+                "height": 1779
+            },
+            {
+                "id": "tiC0Ghtkl17RPfbQcjnLSCRqmXC.jpg",
+                "link": "https://imdb-api.com/posters/original/tiC0Ghtkl17RPfbQcjnLSCRqmXC.jpg",
+                "aspectRatio": 0.635166537567777,
+                "language": "en",
+                "width": 820,
+                "height": 1291
+            },
+            {
+                "id": "hxqg3jFiGe3SvGhmpHho1Bdep3T.jpg",
+                "link": "https://imdb-api.com/posters/original/hxqg3jFiGe3SvGhmpHho1Bdep3T.jpg",
+                "aspectRatio": 0.6666666666666666,
+                "language": "en",
+                "width": 1280,
+                "height": 1920
+            },
+            {
+                "id": "rn2g0btb2fGbt7uz2TqxxCBgIqJ.jpg",
+                "link": "https://imdb-api.com/posters/original/rn2g0btb2fGbt7uz2TqxxCBgIqJ.jpg",
+                "aspectRatio": 0.6666666666666666,
+                "language": "en",
+                "width": 1000,
+                "height": 1500
+            },
+            {
+                "id": "5yV1U88auBxBJb9aJiOsYklnv3E.jpg",
+                "link": "https://imdb-api.com/posters/original/5yV1U88auBxBJb9aJiOsYklnv3E.jpg",
+                "aspectRatio": 0.6666666666666666,
+                "language": "en",
+                "width": 1000,
+                "height": 1500
+            },
+            {
+                "id": "sFVTPTnet7f9ZPbbjhA71tbKwZ5.jpg",
+                "link": "https://imdb-api.com/posters/original/sFVTPTnet7f9ZPbbjhA71tbKwZ5.jpg",
+                "aspectRatio": 0.6595669151579695,
+                "language": "en",
+                "width": 1858,
+                "height": 2817
+            }
+        ],
+        "backdrops": [
+            {
+                "id": "iSbhQqeDnkvFuP7QWwy0qeX0LYy.jpg",
+                "link": "https://imdb-api.com/posters/original/iSbhQqeDnkvFuP7QWwy0qeX0LYy.jpg",
+                "aspectRatio": 1.7777777777777777,
+                "language": "en",
+                "width": 1920,
+                "height": 1080
+            },
+            {
+                "id": "m7v4Qi1y7UFgMZn2sIWoTXDpYSu.jpg",
+                "link": "https://imdb-api.com/posters/original/m7v4Qi1y7UFgMZn2sIWoTXDpYSu.jpg",
+                "aspectRatio": 1.7777777777777777,
+                "language": "en",
+                "width": 1440,
+                "height": 810
+            },
+            {
+                "id": "sUk4f7vsbWWTXCwRvluf1Km7ooe.jpg",
+                "link": "https://imdb-api.com/posters/original/sUk4f7vsbWWTXCwRvluf1Km7ooe.jpg",
+                "aspectRatio": 1.7777777777777777,
+                "language": "en",
+                "width": 1920,
+                "height": 1080
+            },
+            {
+                "id": "5zTwAcnI3zCJ0mucPPnoBtkSWEV.jpg",
+                "link": "https://imdb-api.com/posters/original/5zTwAcnI3zCJ0mucPPnoBtkSWEV.jpg",
+                "aspectRatio": 1.7777777777777777,
+                "language": "en",
+                "width": 1920,
+                "height": 1080
+            },
+            {
+                "id": "sv2VnbZmgy2rkrtkA2nz7rzH0VK.jpg",
+                "link": "https://imdb-api.com/posters/original/sv2VnbZmgy2rkrtkA2nz7rzH0VK.jpg",
+                "aspectRatio": 1.7777777777777777,
+                "language": "en",
+                "width": 1920,
+                "height": 1080
+            },
+            {
+                "id": "fHI3qAtcOV0hGHwJhkiqhJfxnll.jpg",
+                "link": "https://imdb-api.com/posters/original/fHI3qAtcOV0hGHwJhkiqhJfxnll.jpg",
+                "aspectRatio": 1.7777777777777777,
+                "language": "en",
+                "width": 1920,
+                "height": 1080
+            },
+            {
+                "id": "c9kSonB4AOYgBdbDxEeeITkLdZY.jpg",
+                "link": "https://imdb-api.com/posters/original/c9kSonB4AOYgBdbDxEeeITkLdZY.jpg",
+                "aspectRatio": 1.7777777777777777,
+                "language": "en",
+                "width": 1920,
+                "height": 1080
+            },
+            {
+                "id": "7034kJknAf9EWhDQUK0naHLJwjh.jpg",
+                "link": "https://imdb-api.com/posters/original/7034kJknAf9EWhDQUK0naHLJwjh.jpg",
+                "aspectRatio": 1.7777777777777777,
+                "language": "en",
+                "width": 1920,
+                "height": 1080
+            },
+            {
+                "id": "jhtwnfqmzcrqIRu27uuNpePkBvD.jpg",
+                "link": "https://imdb-api.com/posters/original/jhtwnfqmzcrqIRu27uuNpePkBvD.jpg",
+                "aspectRatio": 1.7777777777777777,
+                "language": "en",
+                "width": 1920,
+                "height": 1080
+            },
+            {
+                "id": "23mz2x1JIjZ95xP5qcjEUITPc5U.jpg",
+                "link": "https://imdb-api.com/posters/original/23mz2x1JIjZ95xP5qcjEUITPc5U.jpg",
+                "aspectRatio": 1.7777777777777777,
+                "language": "en",
+                "width": 1920,
+                "height": 1080
+            },
+            {
+                "id": "87POTfBxNhis9eLCa5NBFLZyuSC.jpg",
+                "link": "https://imdb-api.com/posters/original/87POTfBxNhis9eLCa5NBFLZyuSC.jpg",
+                "aspectRatio": 1.7777777777777777,
+                "language": "en",
+                "width": 1920,
+                "height": 1080
+            },
+            {
+                "id": "8L38j8N4DUopk9ybhlpmRRGdJEK.jpg",
+                "link": "https://imdb-api.com/posters/original/8L38j8N4DUopk9ybhlpmRRGdJEK.jpg",
+                "aspectRatio": 1.7777777777777777,
+                "language": "en",
+                "width": 1920,
+                "height": 1080
+            },
+            {
+                "id": "h0SF0DCWjwokJow9hH1Qzr0eCBb.jpg",
+                "link": "https://imdb-api.com/posters/original/h0SF0DCWjwokJow9hH1Qzr0eCBb.jpg",
+                "aspectRatio": 1.7777777777777777,
+                "language": "en",
+                "width": 1920,
+                "height": 1080
+            },
+            {
+                "id": "2GOJKqQ2PcIsIjYIDZVVKLzthjJ.jpg",
+                "link": "https://imdb-api.com/posters/original/2GOJKqQ2PcIsIjYIDZVVKLzthjJ.jpg",
+                "aspectRatio": 1.7777777777777777,
+                "language": "en",
+                "width": 1920,
+                "height": 1080
+            },
+            {
+                "id": "vERM4o4GuGwKzqfArYfYQT1kXh8.jpg",
+                "link": "https://imdb-api.com/posters/original/vERM4o4GuGwKzqfArYfYQT1kXh8.jpg",
+                "aspectRatio": 1.7777777777777777,
+                "language": "en",
+                "width": 1920,
+                "height": 1080
+            },
+            {
+                "id": "uUlbpwTd0UiGphp0UOoRyDEjTDY.jpg",
+                "link": "https://imdb-api.com/posters/original/uUlbpwTd0UiGphp0UOoRyDEjTDY.jpg",
+                "aspectRatio": 1.7777777777777777,
+                "language": "en",
+                "width": 1920,
+                "height": 1080
+            },
+            {
+                "id": "iU7xIjCQ1s8BjQWay7znQnkuhw8.jpg",
+                "link": "https://imdb-api.com/posters/original/iU7xIjCQ1s8BjQWay7znQnkuhw8.jpg",
+                "aspectRatio": 1.7777777777777777,
+                "language": "en",
+                "width": 1920,
+                "height": 1080
+            },
+            {
+                "id": "c3kucx2jAiPAE8IB4oVsUDZFV3I.jpg",
+                "link": "https://imdb-api.com/posters/original/c3kucx2jAiPAE8IB4oVsUDZFV3I.jpg",
+                "aspectRatio": 1.7777777777777777,
+                "language": "en",
+                "width": 1920,
+                "height": 1080
+            },
+            {
+                "id": "uOc0BUyQZd6LNpZciDp3Fte5Kyy.jpg",
+                "link": "https://imdb-api.com/posters/original/uOc0BUyQZd6LNpZciDp3Fte5Kyy.jpg",
+                "aspectRatio": 1.7777777777777777,
+                "language": "en",
+                "width": 1920,
+                "height": 1080
+            },
+            {
+                "id": "nv24lv5ETI1RnznX7hz6TU2bRWO.jpg",
+                "link": "https://imdb-api.com/posters/original/nv24lv5ETI1RnznX7hz6TU2bRWO.jpg",
+                "aspectRatio": 1.7777777777777777,
+                "language": "en",
+                "width": 1920,
+                "height": 1080
+            },
+            {
+                "id": "7us1DLDF9UPeU49cU1teVHEDOFh.jpg",
+                "link": "https://imdb-api.com/posters/original/7us1DLDF9UPeU49cU1teVHEDOFh.jpg",
+                "aspectRatio": 1.7777777777777777,
+                "language": "en",
+                "width": 1920,
+                "height": 1080
+            },
+            {
+                "id": "zjAxQfJEwh76TVpYCfxQBbZt69x.jpg",
+                "link": "https://imdb-api.com/posters/original/zjAxQfJEwh76TVpYCfxQBbZt69x.jpg",
+                "aspectRatio": 1.7777777777777777,
+                "language": "en",
+                "width": 1920,
+                "height": 1080
+            },
+            {
+                "id": "qA2bcyQ2mi3jKLOxQlzx0aZtuo2.jpg",
+                "link": "https://imdb-api.com/posters/original/qA2bcyQ2mi3jKLOxQlzx0aZtuo2.jpg",
+                "aspectRatio": 1.7777777777777777,
+                "language": "en",
+                "width": 1920,
+                "height": 1080
+            },
+            {
+                "id": "5nb85tWmp70PmupqdzX0cWl1Wmr.jpg",
+                "link": "https://imdb-api.com/posters/original/5nb85tWmp70PmupqdzX0cWl1Wmr.jpg",
+                "aspectRatio": 1.7777777777777777,
+                "language": "en",
+                "width": 1600,
+                "height": 900
+            }
+        ],
+        "errorMessage": ""
+    },
+    "images": {
+        "imDbId": "tt0053291",
+        "title": "Some Like It Hot",
+        "fullTitle": "Some Like It Hot (1959)",
+        "type": "Movie",
+        "year": "1959",
+        "items": [
+            {
+                "title": "Tony Curtis in Some Like It Hot (1959)",
+                "image": "https://imdb-api.com/images/original/MV5BNTE2N2JkY2ItYmRlMi00NjgxLWFmODMtN2M1NTMzMWEyYWRlXkEyXkFqcGdeQXVyMDc2NTEzMw@@._V1_Ratio1.0000_AL_.jpg"
+            },
+            {
+                "title": "Tony Curtis and Jack Lemmon in Some Like It Hot (1959)",
+                "image": "https://imdb-api.com/images/original/MV5BNWI3NGI5OTAtZjY1ZC00ZDJkLTgwZjUtODBiOTc0OTJmYTI1XkEyXkFqcGdeQXVyMDc2NTEzMw@@._V1_Ratio1.0000_AL_.jpg"
+            },
+            {
+                "title": "Jack Lemmon and Billy Wilder in Some Like It Hot (1959)",
+                "image": "https://imdb-api.com/images/original/MV5BNGRkMDE2MmQtZjExZC00NGQ2LTg4NmYtOTkxMzRhNGQ1MGYxXkEyXkFqcGdeQXVyMDc2NTEzMw@@._V1_Ratio1.0000_AL_.jpg"
+            },
+            {
+                "title": "Marilyn Monroe and Tony Curtis in Some Like It Hot (1959)",
+                "image": "https://imdb-api.com/images/original/MV5BOGMyYWQ4YjQtNDU4NC00ZDFjLWFjMzctMTdkMTQxNDc2YTk1XkEyXkFqcGdeQXVyMDc2NTEzMw@@._V1_Ratio1.0000_AL_.jpg"
+            },
+            {
+                "title": "Marilyn Monroe, Tony Curtis, and Jack Lemmon in Some Like It Hot (1959)",
+                "image": "https://imdb-api.com/images/original/MV5BOWI4MGY4NzQtOTU3OC00ZjFiLWI1YjMtZWRlYWRkMjI1ZDUyXkEyXkFqcGdeQXVyMDM2NDM2MQ@@._V1_Ratio1.0000_AL_.jpg"
+            },
+            {
+                "title": "Tony Curtis and Jack Lemmon in Some Like It Hot (1959)",
+                "image": "https://imdb-api.com/images/original/MV5BMTUyNTA1NjQ0NV5BMl5BanBnXkFtZTgwNTU2ODk5MTE@._V1_Ratio1.0000_AL_.jpg"
+            },
+            {
+                "title": "Tony Curtis and Jack Lemmon in Some Like It Hot (1959)",
+                "image": "https://imdb-api.com/images/original/MV5BMTczOTY0NjMyMV5BMl5BanBnXkFtZTgwNjU2ODk5MTE@._V1_Ratio1.3200_AL_.jpg"
+            },
+            {
+                "title": "Tony Curtis and Jack Lemmon in Some Like It Hot (1959)",
+                "image": "https://imdb-api.com/images/original/MV5BMTU0NjYxOTk2OV5BMl5BanBnXkFtZTcwODM0NDQyNA@@._V1_Ratio1.5000_AL_.jpg"
+            },
+            {
+                "title": "Marilyn Monroe and Jack Lemmon in Some Like It Hot (1959)",
+                "image": "https://imdb-api.com/images/original/MV5BMjAzMTk3NDM4M15BMl5BanBnXkFtZTcwMTQ0NDQyNA@@._V1_Ratio1.0000_AL_.jpg"
+            },
+            {
+                "title": "Tony Curtis and Jack Lemmon in Some Like It Hot (1959)",
+                "image": "https://imdb-api.com/images/original/MV5BMTg2MDYxMTU4Nl5BMl5BanBnXkFtZTcwMjQ0NDQyNA@@._V1_Ratio1.5000_AL_.jpg"
+            },
+            {
+                "title": "Tony Curtis and Jack Lemmon in Some Like It Hot (1959)",
+                "image": "https://imdb-api.com/images/original/MV5BMjI2MTA2NTAyM15BMl5BanBnXkFtZTcwMzQ0NDQyNA@@._V1_Ratio1.0000_AL_.jpg"
+            },
+            {
+                "title": "Marilyn Monroe, Tony Curtis, and Jack Lemmon in Some Like It Hot (1959)",
+                "image": "https://imdb-api.com/images/original/MV5BMTczNDMyNjUxOF5BMl5BanBnXkFtZTcwNDQ0NDQyNA@@._V1_Ratio1.2800_AL_.jpg"
+            },
+            {
+                "title": "Marilyn Monroe in Some Like It Hot (1959)",
+                "image": "https://imdb-api.com/images/original/MV5BMjAyNjY4NTYwN15BMl5BanBnXkFtZTcwNTQ0NDQyNA@@._V1_Ratio1.0000_AL_.jpg"
+            },
+            {
+                "title": "Marilyn Monroe and Tony Curtis in Some Like It Hot (1959)",
+                "image": "https://imdb-api.com/images/original/MV5BMTM3ODA5MzE1NV5BMl5BanBnXkFtZTcwNjQ0NDQyNA@@._V1_Ratio1.0000_AL_.jpg"
+            },
+            {
+                "title": "Marilyn Monroe, Tony Curtis, and Jack Lemmon in Some Like It Hot (1959)",
+                "image": "https://imdb-api.com/images/original/MV5BNzYzMDkzNDQ0N15BMl5BanBnXkFtZTcwNzQ0NDQyNA@@._V1_Ratio1.0000_AL_.jpg"
+            },
+            {
+                "title": "Marilyn Monroe in Some Like It Hot (1959)",
+                "image": "https://imdb-api.com/images/original/MV5BMjIxOTc3MTUyNl5BMl5BanBnXkFtZTcwODQ0NDQyNA@@._V1_Ratio1.0000_AL_.jpg"
+            },
+            {
+                "title": "Marilyn Monroe, Tony Curtis, and Jack Lemmon in Some Like It Hot (1959)",
+                "image": "https://imdb-api.com/images/original/MV5BMjEzOTIzNTgwN15BMl5BanBnXkFtZTcwOTQ0NDQyNA@@._V1_Ratio1.2400_AL_.jpg"
+            },
+            {
+                "title": "Tony Curtis and Jack Lemmon in Some Like It Hot (1959)",
+                "image": "https://imdb-api.com/images/original/MV5BMTQ1NDIxNzg0Nl5BMl5BanBnXkFtZTcwMDU0NDQyNA@@._V1_Ratio1.0000_AL_.jpg"
+            },
+            {
+                "title": "Jack Lemmon in Some Like It Hot (1959)",
+                "image": "https://imdb-api.com/images/original/MV5BMTMwNDUyMDE2N15BMl5BanBnXkFtZTcwMTU0NDQyNA@@._V1_Ratio1.2600_AL_.jpg"
+            },
+            {
+                "title": "Marilyn Monroe, Tony Curtis, Jack Lemmon, Joan Shawlee, and Grace Lee Whitney in Some Like It Hot (1959)",
+                "image": "https://imdb-api.com/images/original/MV5BMjA1NzExMDg2N15BMl5BanBnXkFtZTcwMjU0NDQyNA@@._V1_Ratio1.2800_AL_.jpg"
+            },
+            {
+                "title": "Tony Curtis and Jack Lemmon in Some Like It Hot (1959)",
+                "image": "https://imdb-api.com/images/original/MV5BNjE1NDc2MTQ1MF5BMl5BanBnXkFtZTcwMzU0NDQyNA@@._V1_Ratio1.0000_AL_.jpg"
+            },
+            {
+                "title": "Marilyn Monroe and Tony Curtis in Some Like It Hot (1959)",
+                "image": "https://imdb-api.com/images/original/MV5BMjIyNDc4MTEwMl5BMl5BanBnXkFtZTcwNDU0NDQyNA@@._V1_Ratio1.0000_AL_.jpg"
+            },
+            {
+                "title": "Marilyn Monroe in Some Like It Hot (1959)",
+                "image": "https://imdb-api.com/images/original/MV5BMTQ1Nzg0Nzk2Nl5BMl5BanBnXkFtZTcwNTU0NDQyNA@@._V1_Ratio1.0000_AL_.jpg"
+            },
+            {
+                "title": "Tony Curtis in Some Like It Hot (1959)",
+                "image": "https://imdb-api.com/images/original/MV5BMjIxNjIyNjg0NF5BMl5BanBnXkFtZTcwNjU0NDQyNA@@._V1_Ratio1.2600_AL_.jpg"
+            },
+            {
+                "title": "Marilyn Monroe in Some Like It Hot (1959)",
+                "image": "https://imdb-api.com/images/original/MV5BMjI0MjQyODM4N15BMl5BanBnXkFtZTcwNzU0NDQyNA@@._V1_Ratio1.0000_AL_.jpg"
+            },
+            {
+                "title": "Tony Curtis and Jack Lemmon in Some Like It Hot (1959)",
+                "image": "https://imdb-api.com/images/original/MV5BMjAyMzY1MTI0NV5BMl5BanBnXkFtZTcwODU0NDQyNA@@._V1_Ratio1.0000_AL_.jpg"
+            },
+            {
+                "title": "Jack Lemmon and Joe E. Brown in Some Like It Hot (1959)",
+                "image": "https://imdb-api.com/images/original/MV5BMjEzNjkyMjM0NV5BMl5BanBnXkFtZTcwOTU0NDQyNA@@._V1_Ratio1.0000_AL_.jpg"
+            },
+            {
+                "title": "Marilyn Monroe and Jack Lemmon in Some Like It Hot (1959)",
+                "image": "https://imdb-api.com/images/original/MV5BNDg1MjcwMzA0NF5BMl5BanBnXkFtZTcwMDY0NDQyNA@@._V1_Ratio1.0000_AL_.jpg"
+            },
+            {
+                "title": "Jack Lemmon, Marian Collier, Barbara Drew, Grace Lee Whitney, and Beverly Wills in Some Like It Hot (1959)",
+                "image": "https://imdb-api.com/images/original/MV5BNzkwNTYwMzM2Ml5BMl5BanBnXkFtZTcwMTY0NDQyNA@@._V1_Ratio1.5000_AL_.jpg"
+            },
+            {
+                "title": "Jack Lemmon and Joe E. Brown in Some Like It Hot (1959)",
+                "image": "https://imdb-api.com/images/original/MV5BMTYwNTk3NDA2MF5BMl5BanBnXkFtZTcwMjY0NDQyNA@@._V1_Ratio1.0000_AL_.jpg"
+            },
+            {
+                "title": "Tony Curtis and Jack Lemmon in Some Like It Hot (1959)",
+                "image": "https://imdb-api.com/images/original/MV5BMjI4OTg4NTk5NF5BMl5BanBnXkFtZTcwMzY0NDQyNA@@._V1_Ratio1.5000_AL_.jpg"
+            },
+            {
+                "title": "Marilyn Monroe in Some Like It Hot (1959)",
+                "image": "https://imdb-api.com/images/original/MV5BMjA1MTkzNjE4OF5BMl5BanBnXkFtZTcwNDY0NDQyNA@@._V1_Ratio1.0000_AL_.jpg"
+            },
+            {
+                "title": "Tony Curtis and Jack Lemmon in Some Like It Hot (1959)",
+                "image": "https://imdb-api.com/images/original/MV5BMjI2NjM4MDAwNl5BMl5BanBnXkFtZTcwNTY0NDQyNA@@._V1_Ratio1.0000_AL_.jpg"
+            },
+            {
+                "title": "M. Monroe & Jack Lemmon in \"Some Like It Hot\" 1959",
+                "image": "https://imdb-api.com/images/original/MV5BMTQ5NDA1MjM5N15BMl5BanBnXkFtZTYwMzE4NTI2._V1_Ratio1.0000_AL_.jpg"
+            },
+            {
+                "title": "Publicity still for \"Some Like It Hot\" 1959 ©1978 Richard Milller",
+                "image": "https://imdb-api.com/images/original/MV5BMTcxNjY2NjE1Nl5BMl5BanBnXkFtZTYwODUzNDI2._V1_Ratio1.0000_AL_.jpg"
+            },
+            {
+                "title": "Tony Curtis, Jack Lemmon Film Set Some Like It Hot (1959) 0053291",
+                "image": "https://imdb-api.com/images/original/MV5BMTQ4NzkxNTA1NF5BMl5BanBnXkFtZTYwODIwNjM2._V1_Ratio1.0000_AL_.jpg"
+            },
+            {
+                "title": "Tony Curtis, Jack Lemmon, George Raft Film Set Some Like It Hot (1959) 0053291",
+                "image": "https://imdb-api.com/images/original/MV5BMTMyMDA0MTMxNF5BMl5BanBnXkFtZTYwMDMwNjM2._V1_Ratio1.2000_AL_.jpg"
+            },
+            {
+                "title": "Tony Curtis, Jack Lemmon Film Set Some Like It Hot (1959) 0053291",
+                "image": "https://imdb-api.com/images/original/MV5BMTYzMDEwNjY5MF5BMl5BanBnXkFtZTYwODE5MzQ2._V1_Ratio1.3400_AL_.jpg"
+            },
+            {
+                "title": "Jack Lemmon, Tony Curtis Film Set Some Like It Hot (1959) 0053291",
+                "image": "https://imdb-api.com/images/original/MV5BMTkzMTUxMjc5NF5BMl5BanBnXkFtZTYwMjI3MjU2._V1_Ratio1.3400_AL_.jpg"
+            },
+            {
+                "title": "Tony Curtis, Jack Lemmon Film Set Some Like It Hot (1955) 0053291",
+                "image": "https://imdb-api.com/images/original/MV5BMTU4NTI4MzQ2N15BMl5BanBnXkFtZTYwNjI3MjU2._V1_Ratio1.0000_AL_.jpg"
+            },
+            {
+                "title": "\"Some Like It Hot\" Marilyn Monroe, Jack Lemmon 1955 UA / MPTV",
+                "image": "https://imdb-api.com/images/original/MV5BMjEzMzc0NjAwNV5BMl5BanBnXkFtZTYwMzM3NjU2._V1_Ratio1.4800_AL_.jpg"
+            },
+            {
+                "title": "\"Some Like It Hot\" 1959",
+                "image": "https://imdb-api.com/images/original/MV5BMTgwNTU0MTg2NF5BMl5BanBnXkFtZTYwMjY2NTM2._V1_Ratio1.0000_AL_.jpg"
+            },
+            {
+                "title": "\"Some Like It Hot\" 1959",
+                "image": "https://imdb-api.com/images/original/MV5BMTMzODY4Mjk0NV5BMl5BanBnXkFtZTYwNDY2NTM2._V1_Ratio1.0000_AL_.jpg"
+            },
+            {
+                "title": "\"Some Like It Hot\" 1959",
+                "image": "https://imdb-api.com/images/original/MV5BMTkxODIwMTcwMV5BMl5BanBnXkFtZTYwMjc2NTM2._V1_Ratio1.0000_AL_.jpg"
+            },
+            {
+                "title": "\"Some Like It Hot\" 1959",
+                "image": "https://imdb-api.com/images/original/MV5BMTYxNTQ4MTY2NF5BMl5BanBnXkFtZTYwMTQ3NTI2._V1_Ratio1.0000_AL_.jpg"
+            },
+            {
+                "title": "Publicity still for \"Some LIke it Hot\" 1959 Photo by Richard Avedon",
+                "image": "https://imdb-api.com/images/original/MV5BMjA4NTI5OTMwN15BMl5BanBnXkFtZTYwODczNDI2._V1_Ratio1.0000_AL_.jpg"
+            },
+            {
+                "title": "\"Some Like it Hot\" Marilyn Monroe, Jack Lemmon, 1959, United Artists, **I.V.",
+                "image": "https://imdb-api.com/images/original/MV5BOTk2NzIxMzE5NV5BMl5BanBnXkFtZTYwMzEyMjI2._V1_Ratio1.2400_AL_.jpg"
+            },
+            {
+                "title": "Tony Curtis, Jack Lemmon Film Set Some Like It Hot (1959) 0053291",
+                "image": "https://imdb-api.com/images/original/MV5BMTM1OTkzODY2MV5BMl5BanBnXkFtZTYwNDMwNjM2._V1_Ratio1.0000_AL_.jpg"
+            }
+        ],
+        "errorMessage": ""
+    },
+    "trailer": {
+        "imDbId": "tt0053291",
+        "title": "Some Like It Hot",
+        "fullTitle": "Some Like It Hot (1959)",
+        "type": "Movie",
+        "year": "1959",
+        "videoId": "vi2371683353",
+        "videoTitle": "Some Like It Hot",
+        "videoDescription": "Trailer for the classic comedy Some Like It Hot, starring Tony Curtis, Jack Lemmon, and Marilyn Monroe",
+        "thumbnailUrl": "https://m.media-amazon.com/images/M/MV5BMTQyNjEzMzIzOV5BMl5BanBnXkFtZTgwNzE0MzQzMzE@._V1_.jpg",
+        "uploadDate": "03/25/2010 13:35:16",
+        "link": "https://www.imdb.com/video/vi2371683353",
+        "linkEmbed": "https://www.imdb.com/video/imdb/vi2371683353/imdb/embed",
+        "errorMessage": ""
+    },
+    "boxOffice": {
+        "budget": "$2,883,848 (estimated)",
+        "openingWeekendUSA": "",
+        "grossUSA": "",
+        "cumulativeWorldwideGross": "$195,088"
+    },
+    "tagline": "Marilyn Monroe and her bosom companions... Tony Curtis... Jack Lemmon.",
+    "keywords": "sex comedy,comedy of errors,1920s,disguise,all girl band",
+    "keywordList": [
+        "sex comedy",
+        "comedy of errors",
+        "1920s",
+        "disguise",
+        "all girl band"
+    ],
+    "similars": [
+        {
+            "id": "tt0053604",
+            "title": "The Apartment",
+            "fullTitle": "The Apartment (1960)",
+            "year": "1960",
+            "image": "https://imdb-api.com/images/original/MV5BNzkwODFjNzItMmMwNi00MTU5LWE2MzktM2M4ZDczZGM1MmViXkEyXkFqcGdeQXVyNDY2MTk1ODk@._V1_Ratio0.6737_AL_.jpg",
+            "plot": "A man tries to rise in his company by letting its executives use his apartment for trysts, but complications and a romance of his own ensue.",
+            "directors": "Billy Wilder",
+            "stars": "Jack Lemmon, Shirley MacLaine, Fred MacMurray",
+            "genres": "Comedy, Drama, Romance",
+            "imDbRating": "8.3"
+        },
+        {
+            "id": "tt0045152",
+            "title": "Singin' in the Rain",
+            "fullTitle": "Singin' in the Rain (1952)",
+            "year": "1952",
+            "image": "https://imdb-api.com/images/original/MV5BZDRjNGViMjQtOThlMi00MTA3LThkYzQtNzJkYjBkMGE0YzE1XkEyXkFqcGdeQXVyNDYyMDk5MTU@._V1_Ratio0.6842_AL_.jpg",
+            "plot": "A silent film production company and cast make a difficult transition to sound.",
+            "directors": "Directors: Stanley Donen, Gene Kelly",
+            "stars": "Gene Kelly, Donald O'Connor, Debbie Reynolds",
+            "genres": "Comedy, Musical, Romance",
+            "imDbRating": "8.3"
+        },
+        {
+            "id": "tt0043014",
+            "title": "Sunset Blvd.",
+            "fullTitle": "Sunset Blvd. (1950)",
+            "year": "1950",
+            "image": "https://imdb-api.com/images/original/MV5BMTU0NTkyNzYwMF5BMl5BanBnXkFtZTgwMDU0NDk5MTI@._V1_Ratio0.6737_AL_.jpg",
+            "plot": "A screenwriter develops a dangerous relationship with a faded film star determined to make a triumphant return.",
+            "directors": "Billy Wilder",
+            "stars": "William Holden, Gloria Swanson, Erich von Stroheim",
+            "genres": "Certificate: Passed Drama, Film-Noir",
+            "imDbRating": "8.4"
+        },
+        {
+            "id": "tt0048605",
+            "title": "The Seven Year Itch",
+            "fullTitle": "The Seven Year Itch (1955)",
+            "year": "1955",
+            "image": "https://imdb-api.com/images/original/MV5BZTJkMTBkNmYtYjdkZi00YjU1LWE5YWMtZGZhYWVmNzk4NzY3XkEyXkFqcGdeQXVyNDY2MTk1ODk@._V1_Ratio0.6737_AL_.jpg",
+            "plot": "When his family goes away for the summer, a hitherto faithful husband with an overactive imagination is tempted by a beautiful neighbbor.",
+            "directors": "Billy Wilder",
+            "stars": "Marilyn Monroe, Tom Ewell, Evelyn Keyes",
+            "genres": "Comedy, Romance",
+            "imDbRating": "7.1"
+        },
+        {
+            "id": "tt0036775",
+            "title": "Double Indemnity",
+            "fullTitle": "Double Indemnity (1944)",
+            "year": "1944",
+            "image": "https://imdb-api.com/images/original/MV5BOTdlNjgyZGUtOTczYi00MDdhLTljZmMtYTEwZmRiOWFkYjRhXkEyXkFqcGdeQXVyNDY2MTk1ODk@._V1_Ratio0.6737_AL_.jpg",
+            "plot": "An insurance representative lets himself be talked by a seductive housewife into a murder/insurance fraud scheme that arouses the suspicion of an insurance investigator.",
+            "directors": "Billy Wilder",
+            "stars": "Fred MacMurray, Barbara Stanwyck, Edward G. Robinson",
+            "genres": "Certificate: Passed Crime, Drama, Film-Noir",
+            "imDbRating": "8.3"
+        },
+        {
+            "id": "tt0053125",
+            "title": "North by Northwest",
+            "fullTitle": "North by Northwest (1959)",
+            "year": "1959",
+            "image": "https://imdb-api.com/images/original/MV5BZDA3NDExMTUtMDlhOC00MmQ5LWExZGUtYmI1NGVlZWI4OWNiXkEyXkFqcGdeQXVyNjc1NTYyMjg@._V1_Ratio0.6737_AL_.jpg",
+            "plot": "A New York City advertising executive goes on the run after being mistaken for a government agent by a group of foreign spies.",
+            "directors": "Alfred Hitchcock",
+            "stars": "Cary Grant, Eva Marie Saint, James Mason",
+            "genres": "Adventure, Mystery, Thriller",
+            "imDbRating": "8.3"
+        },
+        {
+            "id": "tt0051201",
+            "title": "Witness for the Prosecution",
+            "fullTitle": "Witness for the Prosecution (1957)",
+            "year": "1957",
+            "image": "https://imdb-api.com/images/original/MV5BNDQwODU5OWYtNDcyNi00MDQ1LThiOGMtZDkwNWJiM2Y3MDg0XkEyXkFqcGdeQXVyMDI2NDg0NQ@@._V1_Ratio0.6737_AL_.jpg",
+            "plot": "A veteran British barrister must defend his client in a murder trial that has surprise after surprise.",
+            "directors": "Billy Wilder",
+            "stars": "Tyrone Power, Marlene Dietrich, Charles Laughton",
+            "genres": "Crime, Drama, Mystery",
+            "imDbRating": "8.4"
+        },
+        {
+            "id": "tt0042192",
+            "title": "All About Eve",
+            "fullTitle": "All About Eve (1950)",
+            "year": "1950",
+            "image": "https://imdb-api.com/images/original/MV5BMTY2MTAzODI5NV5BMl5BanBnXkFtZTgwMjM4NzQ0MjE@._V1_Ratio0.6737_AL_.jpg",
+            "plot": "A seemingly timid but secretly ruthless ingénue insinuates herself into the lives of an aging Broadway star and her circle of theater friends.",
+            "directors": "Joseph L. Mankiewicz",
+            "stars": "Bette Davis, Anne Baxter, George Sanders",
+            "genres": "Certificate: Passed Drama",
+            "imDbRating": "8.2"
+        },
+        {
+            "id": "tt0052357",
+            "title": "Vertigo",
+            "fullTitle": "Vertigo (1958)",
+            "year": "1958",
+            "image": "https://imdb-api.com/images/original/MV5BYTE4ODEwZDUtNDFjOC00NjAxLWEzYTQtYTI1NGVmZmFlNjdiL2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyNjc1NTYyMjg@._V1_Ratio0.6737_AL_.jpg",
+            "plot": "A former police detective juggles wrestling with his personal demons and becoming obsessed with a hauntingly beautiful woman.",
+            "directors": "Alfred Hitchcock",
+            "stars": "James Stewart, Kim Novak, Barbara Bel Geddes",
+            "genres": "Mystery, Romance, Thriller",
+            "imDbRating": "8.3"
+        },
+        {
+            "id": "tt0031381",
+            "title": "Gone with the Wind",
+            "fullTitle": "Gone with the Wind (1939)",
+            "year": "1939",
+            "image": "https://imdb-api.com/images/original/MV5BYjUyZWZkM2UtMzYxYy00ZmQ3LWFmZTQtOGE2YjBkNjA3YWZlXkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_Ratio0.6737_AL_.jpg",
+            "plot": "A manipulative woman and a roguish man conduct a turbulent romance during the American Civil War and Reconstruction periods.",
+            "directors": "Directors: Victor Fleming, George Cukor, and 1 more credit »",
+            "stars": "Clark Gable, Vivien Leigh, Thomas Mitchell",
+            "genres": "Certificate: Passed Drama, History, Romance",
+            "imDbRating": "8.1"
+        },
+        {
+            "id": "tt0047396",
+            "title": "Rear Window",
+            "fullTitle": "Rear Window (1954)",
+            "year": "1954",
+            "image": "https://imdb-api.com/images/original/MV5BNGUxYWM3M2MtMGM3Mi00ZmRiLWE0NGQtZjE5ODI2OTJhNTU0XkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_Ratio0.6842_AL_.jpg",
+            "plot": "A wheelchair-bound photographer spies on his neighbors from his apartment window and becomes convinced one of them has committed murder.",
+            "directors": "Alfred Hitchcock",
+            "stars": "James Stewart, Grace Kelly, Wendell Corey",
+            "genres": "Mystery, Thriller",
+            "imDbRating": "8.4"
+        },
+        {
+            "id": "tt0046912",
+            "title": "Dial M for Murder",
+            "fullTitle": "Dial M for Murder (1954)",
+            "year": "1954",
+            "image": "https://imdb-api.com/images/original/MV5BOWIwODIxYWItZDI4MS00YzhhLWE3MmYtMzlhZDIwOTMzZmE5L2ltYWdlXkEyXkFqcGdeQXVyNjc1NTYyMjg@._V1_Ratio0.6737_AL_.jpg",
+            "plot": "A former tennis player tries to arrange his wife's murder after learning of her affair.",
+            "directors": "Alfred Hitchcock",
+            "stars": "Ray Milland, Grace Kelly, Robert Cummings",
+            "genres": "Crime, Thriller",
+            "imDbRating": "8.2"
+        }
+    ],
+    "tvSeriesInfo": null,
+    "tvEpisodeInfo": null,
+    "errorMessage": ""
+}

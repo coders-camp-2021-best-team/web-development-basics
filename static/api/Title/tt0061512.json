@@ -1,0 +1,662 @@
+{
+    "id": "tt0061512",
+    "title": "Cool Hand Luke",
+    "originalTitle": "",
+    "fullTitle": "Cool Hand Luke (1967)",
+    "type": "Movie",
+    "year": "1967",
+    "image": "https://imdb-api.com/images/original/MV5BOWFlNzZhYmYtYTI5YS00MDQyLWIyNTUtNTRjMWUwNTEzNjA0XkEyXkFqcGdeQXVyNjUwNzk3NDc@._V1_Ratio0.6791_AL_.jpg",
+    "releaseDate": "1967-11-01",
+    "runtimeMins": "127",
+    "runtimeStr": "2h 7mins",
+    "plot": "Luke Jackson is a cool, gutsy prisoner in a Southern chain gang, who, while refusing to buckle under to authority, keeps escaping and being recaptured. The prisoners admire Luke because, as Dragline explains it, \"You're an original, that's what you are!\" Nevertheless, the camp staff actively works to crush Luke until he finally breaks.",
+    "plotLocal": "",
+    "plotLocalIsRtl": false,
+    "awards": "Top Rated Movies #216 | Won 1 Oscar. Another 3 wins & 10 nominations.",
+    "directors": "Stuart Rosenberg",
+    "directorList": [{ "id": "nm0742341", "name": "Stuart Rosenberg" }],
+    "writers": "Donn Pearce, Frank Pierson, Hal Dresner",
+    "writerList": [
+        { "id": "nm0668914", "name": "Donn Pearce" },
+        { "id": "nm0682757", "name": "Frank Pierson" },
+        { "id": "nm0237543", "name": "Hal Dresner" }
+    ],
+    "stars": "Paul Newman, George Kennedy, Strother Martin, J.D. Cannon",
+    "starList": [
+        { "id": "nm0000056", "name": "Paul Newman" },
+        { "id": "nm0001421", "name": "George Kennedy" },
+        { "id": "nm0001510", "name": "Strother Martin" },
+        { "id": "nm0134201", "name": "J.D. Cannon" }
+    ],
+    "actorList": [
+        {
+            "id": "nm0000056",
+            "image": "https://imdb-api.com/images/original/MV5BODUwMDYwNDg3N15BMl5BanBnXkFtZTcwODEzNTgxMw@@._V1_Ratio0.8182_AL_.jpg",
+            "name": "Paul Newman",
+            "asCharacter": "Luke"
+        },
+        {
+            "id": "nm0001421",
+            "image": "https://imdb-api.com/images/original/MV5BMTIxMTk0MDg5N15BMl5BanBnXkFtZTYwOTAzNTc1._V1_Ratio0.7273_AL_.jpg",
+            "name": "George Kennedy",
+            "asCharacter": "Dragline"
+        },
+        {
+            "id": "nm0134201",
+            "image": "https://imdb-api.com/images/original/MV5BMTk1NDM4OTY2MF5BMl5BanBnXkFtZTcwMzc4MDYxOA@@._V1_Ratio0.7273_AL_.jpg",
+            "name": "J.D. Cannon",
+            "asCharacter": "Society Red"
+        },
+        {
+            "id": "nm0031398",
+            "image": "https://imdb-api.com/images/original/MV5BMTk1NjkxODA2MV5BMl5BanBnXkFtZTgwNTkxNDE1NTE@._V1_Ratio1.3182_AL_.jpg",
+            "name": "Lou Antonio",
+            "asCharacter": "Koko"
+        },
+        {
+            "id": "nm0238105",
+            "image": "https://imdb-api.com/images/original/MV5BMTAyNTYwOTgxMjdeQTJeQWpwZ15BbWU3MDgxNTE2MTg@._V1_Ratio0.7273_AL_.jpg",
+            "name": "Robert Drivas",
+            "asCharacter": "Loudmouth Steve"
+        },
+        {
+            "id": "nm0001510",
+            "image": "https://imdb-api.com/images/original/MV5BMTU2NDU1MjMyMF5BMl5BanBnXkFtZTcwMDg0MjYwOA@@._V1_Ratio0.7727_AL_.jpg",
+            "name": "Strother Martin",
+            "asCharacter": "Captain"
+        },
+        {
+            "id": "nm0886888",
+            "image": "https://imdb-api.com/images/original/MV5BOWYxZTFmNDktOTY0Zi00MzI3LTlkODktNTdjYmI5OGI1YmVlL2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyMzI5NDcxNzI@._V1_Ratio0.8182_AL_.jpg",
+            "name": "Jo Van Fleet",
+            "asCharacter": "Arletta"
+        },
+        {
+            "id": "nm0416378",
+            "image": "https://imdb-api.com/images/original/MV5BMTY4NzA1MTU4N15BMl5BanBnXkFtZTcwMDg2NDk0NA@@._V1_Ratio1.5000_AL_.jpg",
+            "name": "Clifton James",
+            "asCharacter": "Carr"
+        },
+        {
+            "id": "nm0940971",
+            "image": "https://imdb-api.com/images/original/MV5BNDM1NDUzMzI2MV5BMl5BanBnXkFtZTcwNDEwMDYwOA@@._V1_Ratio0.7273_AL_.jpg",
+            "name": "Morgan Woodward",
+            "asCharacter": "Boss Godfrey"
+        },
+        {
+            "id": "nm0039435",
+            "image": "https://imdb-api.com/images/original/MV5BMzE2NTczMTAwOF5BMl5BanBnXkFtZTcwNDU4MjYwOA@@._V1_Ratio0.7727_AL_.jpg",
+            "name": "Luke Askew",
+            "asCharacter": "Boss Paul"
+        },
+        {
+            "id": "nm0147049",
+            "image": "https://imdb-api.com/images/original/MV5BOGQ4ZTc1MDMtNGI1NC00NzBkLTliNTctY2I0NzBmZmU2ODNmXkEyXkFqcGdeQXVyNjUxMjc1OTM@._V1_Ratio0.7273_AL_.jpg",
+            "name": "Marc Cavell",
+            "asCharacter": "Rabbitt"
+        },
+        {
+            "id": "nm0202501",
+            "image": "https://imdb-api.com/images/original/MV5BMTY3MzE1NzQ2MF5BMl5BanBnXkFtZTgwNzYwMDgyODE@._V1_Ratio0.7727_AL_.jpg",
+            "name": "Richard Davalos",
+            "asCharacter": "Blind Dick"
+        },
+        {
+            "id": "nm0232817",
+            "image": "https://imdb-api.com/images/original/MV5BMzM3ODY0MDU2Nl5BMl5BanBnXkFtZTcwMDI0MTYxOA@@._V1_Ratio0.7273_AL_.jpg",
+            "name": "Robert Donner",
+            "asCharacter": "Boss Shorty"
+        },
+        {
+            "id": "nm0278258",
+            "image": "https://imdb-api.com/images/original/MV5BZDg5ODBhNDctMmVjZS00NTBhLTk3NTctYTA1YmE5NjlkZDJiXkEyXkFqcGdeQXVyMjUyNDk2ODc@._V1_Ratio1.7727_AL_.jpg",
+            "name": "Warren Finnerty",
+            "asCharacter": "Tattoo"
+        },
+        {
+            "id": "nm0000454",
+            "image": "https://imdb-api.com/images/original/MV5BMTMwNTQ5Nzg0OF5BMl5BanBnXkFtZTcwMDE2MDE4Mg@@._V1_Ratio0.7273_AL_.jpg",
+            "name": "Dennis Hopper",
+            "asCharacter": "Babalugats"
+        }
+    ],
+    "fullCast": null,
+    "genres": "Crime, Drama",
+    "genreList": [
+        { "key": "Crime", "value": "Crime" },
+        { "key": "Drama", "value": "Drama" }
+    ],
+    "companies": "Jalem Productions",
+    "companyList": [{ "id": "co0066779", "name": "Jalem Productions" }],
+    "countries": "USA",
+    "countryList": [{ "key": "USA", "value": "USA" }],
+    "languages": "English",
+    "languageList": [{ "key": "English", "value": "English" }],
+    "contentRating": "GP",
+    "imDbRating": "8.1",
+    "imDbRatingVotes": "164038",
+    "metacriticRating": "92",
+    "ratings": null,
+    "wikipedia": null,
+    "posters": {
+        "imDbId": "tt0061512",
+        "title": "Cool Hand Luke",
+        "fullTitle": "Cool Hand Luke (1967)",
+        "type": "Movie",
+        "year": "1967",
+        "posters": [
+            {
+                "id": "4ykzTiHKLamh3eZJ8orVICtU2Jp.jpg",
+                "link": "https://imdb-api.com/posters/original/4ykzTiHKLamh3eZJ8orVICtU2Jp.jpg",
+                "aspectRatio": 0.6666666666666666,
+                "language": "en",
+                "width": 1000,
+                "height": 1500
+            },
+            {
+                "id": "n2Jbb0iBmZmwEdkRNNC9IvF9vZS.jpg",
+                "link": "https://imdb-api.com/posters/original/n2Jbb0iBmZmwEdkRNNC9IvF9vZS.jpg",
+                "aspectRatio": 0.6666666666666666,
+                "language": "en",
+                "width": 780,
+                "height": 1170
+            },
+            {
+                "id": "sqelBKOEdYruo497Jx6SAC3jBMY.jpg",
+                "link": "https://imdb-api.com/posters/original/sqelBKOEdYruo497Jx6SAC3jBMY.jpg",
+                "aspectRatio": 0.6666666666666666,
+                "language": "en",
+                "width": 800,
+                "height": 1200
+            },
+            {
+                "id": "pkemMoqbumQB42Ip6f7ckB9iAJu.jpg",
+                "link": "https://imdb-api.com/posters/original/pkemMoqbumQB42Ip6f7ckB9iAJu.jpg",
+                "aspectRatio": 0.6666666666666666,
+                "language": "en",
+                "width": 2000,
+                "height": 3000
+            },
+            {
+                "id": "zMYHhJqeQ13xjXG0ZJAyXSmRKJB.jpg",
+                "link": "https://imdb-api.com/posters/original/zMYHhJqeQ13xjXG0ZJAyXSmRKJB.jpg",
+                "aspectRatio": 0.6666666666666666,
+                "language": "en",
+                "width": 1000,
+                "height": 1500
+            },
+            {
+                "id": "vrLRC2UjvWnX8EQIISTPeJV1gsT.jpg",
+                "link": "https://imdb-api.com/posters/original/vrLRC2UjvWnX8EQIISTPeJV1gsT.jpg",
+                "aspectRatio": 0.66,
+                "language": "en",
+                "width": 990,
+                "height": 1500
+            }
+        ],
+        "backdrops": [
+            {
+                "id": "syGjgODx7pJb4tF1ipwTwrRdJxm.jpg",
+                "link": "https://imdb-api.com/posters/original/syGjgODx7pJb4tF1ipwTwrRdJxm.jpg",
+                "aspectRatio": 1.7769156159068866,
+                "language": "en",
+                "width": 1832,
+                "height": 1031
+            },
+            {
+                "id": "kUYnGjicv17OH0bolFj5yAfXWsj.jpg",
+                "link": "https://imdb-api.com/posters/original/kUYnGjicv17OH0bolFj5yAfXWsj.jpg",
+                "aspectRatio": 1.7775628626692457,
+                "language": "en",
+                "width": 1838,
+                "height": 1034
+            },
+            {
+                "id": "aEeLXQ78ChkHcEEZS2jijdiH0As.jpg",
+                "link": "https://imdb-api.com/posters/original/aEeLXQ78ChkHcEEZS2jijdiH0As.jpg",
+                "aspectRatio": 1.7771952817824377,
+                "language": "en",
+                "width": 2712,
+                "height": 1526
+            },
+            {
+                "id": "4qpSZzEzIvAiNdUXC6tCzP2ePQG.jpg",
+                "link": "https://imdb-api.com/posters/original/4qpSZzEzIvAiNdUXC6tCzP2ePQG.jpg",
+                "aspectRatio": 1.7771535580524345,
+                "language": "en",
+                "width": 1898,
+                "height": 1068
+            },
+            {
+                "id": "ugzoYvwHKafj8PiinzeQechJsRA.jpg",
+                "link": "https://imdb-api.com/posters/original/ugzoYvwHKafj8PiinzeQechJsRA.jpg",
+                "aspectRatio": 1.776714513556619,
+                "language": "en",
+                "width": 2228,
+                "height": 1254
+            },
+            {
+                "id": "yW9mPUhrsIzKvogNJKQKuWO8fJO.jpg",
+                "link": "https://imdb-api.com/posters/original/yW9mPUhrsIzKvogNJKQKuWO8fJO.jpg",
+                "aspectRatio": 1.7777777777777777,
+                "language": "en",
+                "width": 2000,
+                "height": 1125
+            },
+            {
+                "id": "nXCWf4JJbYLWOlthPyXTh2DW3r5.jpg",
+                "link": "https://imdb-api.com/posters/original/nXCWf4JJbYLWOlthPyXTh2DW3r5.jpg",
+                "aspectRatio": 1.7777777777777777,
+                "language": "en",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "id": "fHvi5ivvcmSclnuDEBkPMqtsDnH.jpg",
+                "link": "https://imdb-api.com/posters/original/fHvi5ivvcmSclnuDEBkPMqtsDnH.jpg",
+                "aspectRatio": 1.7777777777777777,
+                "language": "en",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "id": "pvxrjawHL0oSNFlz7dkPVmbssMD.jpg",
+                "link": "https://imdb-api.com/posters/original/pvxrjawHL0oSNFlz7dkPVmbssMD.jpg",
+                "aspectRatio": 1.7777777777777777,
+                "language": "en",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "id": "7Z7dLR7kCILCSLbNhq2RiqZXjTF.jpg",
+                "link": "https://imdb-api.com/posters/original/7Z7dLR7kCILCSLbNhq2RiqZXjTF.jpg",
+                "aspectRatio": 1.7777777777777777,
+                "language": "en",
+                "width": 1280,
+                "height": 720
+            }
+        ],
+        "errorMessage": ""
+    },
+    "images": {
+        "imDbId": "tt0061512",
+        "title": "Cool Hand Luke",
+        "fullTitle": "Cool Hand Luke (1967)",
+        "type": "Movie",
+        "year": "1967",
+        "items": [
+            {
+                "title": "Paul Newman and Morgan Woodward in Cool Hand Luke (1967)",
+                "image": "https://imdb-api.com/images/original/MV5BY2IwNTQ1MGQtZTdjMy00MzUzLTkxY2EtYTdkYTM2ZWU3Yzg2XkEyXkFqcGdeQXVyMDc2NTEzMw@@._V1_Ratio1.0000_AL_.jpg"
+            },
+            {
+                "title": "Paul Newman in Cool Hand Luke (1967)",
+                "image": "https://imdb-api.com/images/original/MV5BNTRhOTA2MjEtYTExNy00NjBlLThlOTYtOWE3MzE0YTBkMzU1XkEyXkFqcGdeQXVyMDM2NDM2MQ@@._V1_Ratio1.5600_AL_.jpg"
+            },
+            {
+                "title": "Joy Harmon in Cool Hand Luke (1967)",
+                "image": "https://imdb-api.com/images/original/MV5BNTQ2OTYxNzMyOF5BMl5BanBnXkFtZTcwOTg1NjAxOA@@._V1_Ratio1.0000_AL_.jpg"
+            },
+            {
+                "title": "Paul Newman, Dennis Hopper, George Kennedy, Harry Dean Stanton, J.D. Cannon, Richard Davalos, Robert Drivas, Warren Finnerty, and Chuck Hicks in Cool Hand Luke (1967)",
+                "image": "https://imdb-api.com/images/original/MV5BNjk5MTI2MTY0NF5BMl5BanBnXkFtZTcwMjczOTExNA@@._V1_Ratio1.5200_AL_.jpg"
+            },
+            {
+                "title": "Paul Newman in Cool Hand Luke (1967)",
+                "image": "https://imdb-api.com/images/original/MV5BMzAwOTc5ODA1MV5BMl5BanBnXkFtZTcwMzczOTExNA@@._V1_Ratio1.3000_AL_.jpg"
+            },
+            {
+                "title": "Paul Newman, Harry Dean Stanton, and Warren Finnerty in Cool Hand Luke (1967)",
+                "image": "https://imdb-api.com/images/original/MV5BMjA1NDgzODU2NV5BMl5BanBnXkFtZTcwNDczOTExNA@@._V1_Ratio1.0000_AL_.jpg"
+            },
+            {
+                "title": "Paul Newman in Cool Hand Luke (1967)",
+                "image": "https://imdb-api.com/images/original/MV5BMTczMDI1NTI3MV5BMl5BanBnXkFtZTcwNTczOTExNA@@._V1_Ratio1.0000_AL_.jpg"
+            },
+            {
+                "title": "Paul Newman, Lou Antonio, and James Gammon in Cool Hand Luke (1967)",
+                "image": "https://imdb-api.com/images/original/MV5BMTQ2NDUxMTY4NV5BMl5BanBnXkFtZTcwNjczOTExNA@@._V1_Ratio1.0000_AL_.jpg"
+            },
+            {
+                "title": "Paul Newman, J.D. Cannon, Richard Davalos, Wayne Rogers, and Ralph Waite in Cool Hand Luke (1967)",
+                "image": "https://imdb-api.com/images/original/MV5BMjEyMDg2MDU2OF5BMl5BanBnXkFtZTcwNzczOTExNA@@._V1_Ratio1.0000_AL_.jpg"
+            },
+            {
+                "title": "Paul Newman in Cool Hand Luke (1967)",
+                "image": "https://imdb-api.com/images/original/MV5BMTc3MDA4Nzg0OV5BMl5BanBnXkFtZTcwODczOTExNA@@._V1_Ratio1.5000_AL_.jpg"
+            },
+            {
+                "title": "Paul Newman, Joe Don Baker, Lou Antonio, Marc Cavell, Chuck Hicks, and Wayne Rogers in Cool Hand Luke (1967)",
+                "image": "https://imdb-api.com/images/original/MV5BMTUwODQ1MDg5MV5BMl5BanBnXkFtZTcwOTczOTExNA@@._V1_Ratio1.0000_AL_.jpg"
+            },
+            {
+                "title": "Paul Newman, Marc Cavell, Robert Drivas, and Ralph Waite in Cool Hand Luke (1967)",
+                "image": "https://imdb-api.com/images/original/MV5BMTgxMTY2NTUwM15BMl5BanBnXkFtZTcwMDgzOTExNA@@._V1_Ratio1.0000_AL_.jpg"
+            },
+            {
+                "title": "Paul Newman, George Kennedy, Harry Dean Stanton, Anthony Zerbe, Lou Antonio, J.D. Cannon, Richard Davalos, Norman Goodwins, Chuck Hicks, and Ralph Waite in Cool Hand Luke (1967)",
+                "image": "https://imdb-api.com/images/original/MV5BMjEzNzczMTU0NV5BMl5BanBnXkFtZTcwMTgzOTExNA@@._V1_Ratio1.0000_AL_.jpg"
+            },
+            {
+                "title": "Paul Newman, Strother Martin, and Robert Donner in Cool Hand Luke (1967)",
+                "image": "https://imdb-api.com/images/original/MV5BMTU1NjE2OTQ2MF5BMl5BanBnXkFtZTcwODc0MjYwOA@@._V1_Ratio1.4000_AL_.jpg"
+            },
+            {
+                "title": "\"Cool Hand Luke\" Paul Newman 1967 Warner Brothers",
+                "image": "https://imdb-api.com/images/original/MV5BMTM5MzY5OTg3OV5BMl5BanBnXkFtZTYwODIwMTI2._V1_Ratio1.0000_AL_.jpg"
+            },
+            {
+                "title": "Paul Newman in \"Cool Hand Luke.\" 1967 Warner",
+                "image": "https://imdb-api.com/images/original/MV5BMTM5MzkzNjM3OV5BMl5BanBnXkFtZTYwOTgxMzI2._V1_Ratio1.0000_AL_.jpg"
+            },
+            {
+                "title": "Paul Newman in \"Cool Hand Luke.\" 1967 Warner",
+                "image": "https://imdb-api.com/images/original/MV5BMjExOTgwMDAwNl5BMl5BanBnXkFtZTYwMzIyMzI2._V1_Ratio1.0000_AL_.jpg"
+            },
+            {
+                "title": "Paul Newman in \"Cool Hand Luke.\" 1967 Warner",
+                "image": "https://imdb-api.com/images/original/MV5BODI3NjgwMDgwM15BMl5BanBnXkFtZTYwNTIyMzI2._V1_Ratio1.0000_AL_.jpg"
+            },
+            {
+                "title": "\"Cool Hand Luke,\" Paul Newman. 1967 Warner",
+                "image": "https://imdb-api.com/images/original/MV5BOTcyMDYxNTE5NV5BMl5BanBnXkFtZTYwMTk0NzM2._V1_Ratio1.3200_AL_.jpg"
+            },
+            {
+                "title": "\"Cool Hand Luke\" Paul Newman 1967 Warner Brothers",
+                "image": "https://imdb-api.com/images/original/MV5BMjAyMzI5NzYxNV5BMl5BanBnXkFtZTYwMDMwMTI2._V1_Ratio1.0000_AL_.jpg"
+            },
+            {
+                "title": "Paul Newman in Cool Hand Luke (1967)",
+                "image": "https://imdb-api.com/images/original/MV5BMGJhNWRiZDYtNDYzOC00NzNlLWE0YzItZTE4M2ZhZDRiZTdhXkEyXkFqcGdeQXVyMTAyOTE2ODg0._V1_Ratio1.0000_AL_.jpg"
+            },
+            {
+                "title": "Paul Newman in Cool Hand Luke (1967)",
+                "image": "https://imdb-api.com/images/original/MV5BODMyMDA0MTY2OF5BMl5BanBnXkFtZTcwMzkzNjk3OA@@._V1_Ratio1.0000_AL_.jpg"
+            },
+            {
+                "title": "Paul Newman in Cool Hand Luke (1967)",
+                "image": "https://imdb-api.com/images/original/MV5BMjQ0MzY3OTUyNF5BMl5BanBnXkFtZTYwOTAwOTA5._V1_Ratio1.0000_AL_.jpg"
+            },
+            {
+                "title": "Paul Newman in Cool Hand Luke (1967)",
+                "image": "https://imdb-api.com/images/original/MV5BMTI3NjQ0MjUwNl5BMl5BanBnXkFtZTcwMDM4MzkzMQ@@._V1_Ratio1.2000_AL_.jpg"
+            },
+            {
+                "title": "Joy Harmon in Cool Hand Luke (1967)",
+                "image": "https://imdb-api.com/images/original/MV5BM2Q2N2E0M2QtOWI4Yy00YzE2LWI4MjUtNmI0MmVlMjExZDdlXkEyXkFqcGdeQXVyMTQ2ODE0NDA@._V1_Ratio2.2600_AL_.jpg"
+            },
+            {
+                "title": "Joy Harmon in Cool Hand Luke (1967)",
+                "image": "https://imdb-api.com/images/original/MV5BN2UyYWJlZjUtM2ZjMi00Y2I2LTlkMTEtNjVjMmNiNWIxNGUwXkEyXkFqcGdeQXVyMTQ2ODE0NDA@._V1_Ratio2.2600_AL_.jpg"
+            },
+            {
+                "title": "Joy Harmon in Cool Hand Luke (1967)",
+                "image": "https://imdb-api.com/images/original/MV5BMDk5NTA5M2ItODExMC00OTZmLTgyYzItNGJiMDQ1NTRlNzUxXkEyXkFqcGdeQXVyMTQ2ODE0NDA@._V1_Ratio2.2600_AL_.jpg"
+            },
+            {
+                "title": "Joy Harmon in Cool Hand Luke (1967)",
+                "image": "https://imdb-api.com/images/original/MV5BODIyMDI4OTAtMzYzMC00NDZhLWEzODUtODljNWEwMWE4YTYyXkEyXkFqcGdeQXVyMTQ2ODE0NDA@._V1_Ratio2.2600_AL_.jpg"
+            },
+            {
+                "title": "Joy Harmon in Cool Hand Luke (1967)",
+                "image": "https://imdb-api.com/images/original/MV5BYjcxZmRlMDQtYjJhYi00ZWI3LWJhYzAtYzgyYTczZjBjY2FiXkEyXkFqcGdeQXVyMTQ2ODE0NDA@._V1_Ratio2.2600_AL_.jpg"
+            },
+            {
+                "title": "Lou Antonio in Cool Hand Luke (1967)",
+                "image": "https://imdb-api.com/images/original/MV5BZjk3MWQwMTMtOWIxNi00M2Q2LWI0OTctZDlmZmQ0NjdmMTA0XkEyXkFqcGdeQXVyMjk3NTUyOTc@._V1_Ratio1.0000_AL_.jpg"
+            },
+            {
+                "title": "Joy Harmon in Cool Hand Luke (1967)",
+                "image": "https://imdb-api.com/images/original/MV5BNTc1MDViNGQtNThjYi00YWNhLWFmN2UtNWI0NDY5YzJiN2M3XkEyXkFqcGdeQXVyMDIyODA5Nw@@._V1_Ratio2.1400_AL_.jpg"
+            },
+            {
+                "title": "Cool Hand Luke (1967)",
+                "image": "https://imdb-api.com/images/original/MV5BZWU1OTZiMGMtYzk0ZC00NzdhLTgwNzYtYWVjMzBiNzg2ZWVlXkEyXkFqcGdeQXVyNzM5ODEzMDY@._V1_Ratio2.4200_AL_.jpg"
+            },
+            {
+                "title": "Cool Hand Luke (1967)",
+                "image": "https://imdb-api.com/images/original/MV5BNTkwMGVkZjEtZTZmOS00MTQ2LTkwMGEtYmIyZjNlZjg5MDc2XkEyXkFqcGdeQXVyNzM5ODEzMDY@._V1_Ratio2.4200_AL_.jpg"
+            },
+            {
+                "title": "Cool Hand Luke (1967)",
+                "image": "https://imdb-api.com/images/original/MV5BYjNjNzUzY2UtZDZlOC00MmQyLWI5MzItZmRiNjRiYWUyOTkzXkEyXkFqcGdeQXVyNzM5ODEzMDY@._V1_Ratio2.4200_AL_.jpg"
+            },
+            {
+                "title": "Conrad L. Hall in Cool Hand Luke (1967)",
+                "image": "https://imdb-api.com/images/original/MV5BYTRjN2YzOTgtYjMzYi00M2IyLTk3M2EtOTM3OTAzYjE4YTMyXkEyXkFqcGdeQXVyMjE5MzM3MjA@._V1_Ratio2.4200_AL_.jpg"
+            },
+            {
+                "title": "Paul Newman and Donn Pearce in Cool Hand Luke (1967)",
+                "image": "https://imdb-api.com/images/original/MV5BM2FlZmI1YmItMmJkZC00NzE0LTljZDMtNmQ3ODAxYWJlYTI1XkEyXkFqcGdeQXVyMzAwOTU1MTk@._V1_Ratio1.0000_AL_.jpg"
+            },
+            {
+                "title": "Cool Hand Luke (1967)",
+                "image": "https://imdb-api.com/images/original/MV5BMjc4ZWFlYTktOTZhOS00YzNlLWJhN2QtNTY5M2E4M2U3ZDNkXkEyXkFqcGdeQXVyMTI3MDk3MzQ@._V1_Ratio2.3400_AL_.jpg"
+            },
+            {
+                "title": "Paul Newman in Cool Hand Luke (1967)",
+                "image": "https://imdb-api.com/images/original/MV5BYzhhN2Q3NTYtN2IzMy00NDA0LWIwZWMtNzZiNDBmNzlmYTA1XkEyXkFqcGdeQXVyMTI3MDk3MzQ@._V1_Ratio2.3400_AL_.jpg"
+            },
+            {
+                "title": "Paul Newman in Cool Hand Luke (1967)",
+                "image": "https://imdb-api.com/images/original/MV5BNDdjODEwNGItODM4OS00YTA0LThjNzgtOGQyOTVlMTExMjQ5XkEyXkFqcGdeQXVyMTI3MDk3MzQ@._V1_Ratio2.3400_AL_.jpg"
+            },
+            {
+                "title": "Paul Newman, George Kennedy, and Morgan Woodward in Cool Hand Luke (1967)",
+                "image": "https://imdb-api.com/images/original/MV5BNzMzYmQ4ZjQtYzQxNS00MWIyLTgyZjMtOWI0MDY4ZTUzNWI0XkEyXkFqcGdeQXVyMTI3MDk3MzQ@._V1_Ratio2.3400_AL_.jpg"
+            },
+            {
+                "title": "Cool Hand Luke (1967)",
+                "image": "https://imdb-api.com/images/original/MV5BNzhkODdhYWEtYTgyNS00NzNmLWEyYzktMmI0MDczMjNhODhkXkEyXkFqcGdeQXVyMTI3MDk3MzQ@._V1_Ratio2.3400_AL_.jpg"
+            },
+            {
+                "title": "Paul Newman and Luke Askew in Cool Hand Luke (1967)",
+                "image": "https://imdb-api.com/images/original/MV5BY2M3MDg2OWQtYTdjNC00M2IzLTliNTItNmMwZTY1NWExN2ZlXkEyXkFqcGdeQXVyMTI3MDk3MzQ@._V1_Ratio2.3400_AL_.jpg"
+            },
+            {
+                "title": "Paul Newman in Cool Hand Luke (1967)",
+                "image": "https://imdb-api.com/images/original/MV5BNTc4MzFiZGQtZTBjMi00YmZhLTlmOTMtNzRkNTUyNTcxMWMzXkEyXkFqcGdeQXVyMTI3MDk3MzQ@._V1_Ratio2.3400_AL_.jpg"
+            },
+            {
+                "title": "George Kennedy, Harry Dean Stanton, Marc Cavell, Robert Drivas, Buck Kartalian, Wayne Rogers, and Ralph Waite in Cool Hand Luke (1967)",
+                "image": "https://imdb-api.com/images/original/MV5BNzRiYzM3YjktNzUxMS00MWNiLTg1NzctZTcwYzI1NDZhYWFlXkEyXkFqcGdeQXVyMTI3MDk3MzQ@._V1_Ratio2.3400_AL_.jpg"
+            },
+            {
+                "title": "Paul Newman in Cool Hand Luke (1967)",
+                "image": "https://imdb-api.com/images/original/MV5BMTA0OTEzNTctY2I3MC00ZmIyLWFhOTUtOGE4YTczYTdjYjI0XkEyXkFqcGdeQXVyMTI3MDk3MzQ@._V1_Ratio2.3400_AL_.jpg"
+            },
+            {
+                "title": "Dennis Hopper, George Kennedy, J.D. Cannon, Richard Davalos, and Wayne Rogers in Cool Hand Luke (1967)",
+                "image": "https://imdb-api.com/images/original/MV5BYzJjMGY5NWUtMmFhOC00OTVlLWE2ZjctNDYyMTY0MmFlZTg0XkEyXkFqcGdeQXVyMTI3MDk3MzQ@._V1_Ratio2.3400_AL_.jpg"
+            },
+            {
+                "title": "Paul Newman and Robert Donner in Cool Hand Luke (1967)",
+                "image": "https://imdb-api.com/images/original/MV5BZWRhZTMxZjMtMDhhMS00NjQ0LWJjMWEtMTBiNzAxMDhjMDU5XkEyXkFqcGdeQXVyMTI3MDk3MzQ@._V1_Ratio2.3400_AL_.jpg"
+            },
+            {
+                "title": "Paul Newman in Cool Hand Luke (1967)",
+                "image": "https://imdb-api.com/images/original/MV5BZGMyNjQyOWYtOTQyOC00MjEzLThjNDAtMzg1NTJmMTU2NjdmXkEyXkFqcGdeQXVyMTI3MDk3MzQ@._V1_Ratio2.3400_AL_.jpg"
+            }
+        ],
+        "errorMessage": ""
+    },
+    "trailer": {
+        "imDbId": "tt0061512",
+        "title": "Cool Hand Luke",
+        "fullTitle": "Cool Hand Luke (1967)",
+        "type": "Movie",
+        "year": "1967",
+        "videoId": "vi3936093721",
+        "videoTitle": "Cool Hand Luke",
+        "videoDescription": "Trailer for this classic starring Paul Newman",
+        "thumbnailUrl": "https://m.media-amazon.com/images/M/MV5BYWI1N2MwOTQtNmYyMC00ZDQ0LThjMWYtOTE4ZTI4YzZmZTNiXkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg",
+        "uploadDate": "07/11/2010 03:08:56",
+        "link": "https://www.imdb.com/video/vi3936093721",
+        "linkEmbed": "https://www.imdb.com/video/imdb/vi3936093721/imdb/embed",
+        "errorMessage": ""
+    },
+    "boxOffice": {
+        "budget": "$3,200,000 (estimated)",
+        "openingWeekendUSA": "",
+        "grossUSA": "",
+        "cumulativeWorldwideGross": ""
+    },
+    "tagline": "On the chain gang, they'd seen every kind of man...but Luke became a legend.",
+    "keywords": "prison,fugitive,bet,hard boiled egg,running away",
+    "keywordList": [
+        "prison",
+        "fugitive",
+        "bet",
+        "hard boiled egg",
+        "running away"
+    ],
+    "similars": [
+        {
+            "id": "tt0070735",
+            "title": "The Sting",
+            "fullTitle": "The Sting (1973)",
+            "year": "1973",
+            "image": "https://imdb-api.com/images/original/MV5BNGU3NjQ4YTMtZGJjOS00YTQ3LThmNmItMTI5MDE2ODI3NzY3XkEyXkFqcGdeQXVyMjUzOTY1NTc@._V1_Ratio0.6737_AL_.jpg",
+            "plot": "Two grifters team up to pull off the ultimate con.",
+            "directors": "George Roy Hill",
+            "stars": "Paul Newman, Robert Redford, Robert Shaw",
+            "genres": "Comedy, Crime, Drama",
+            "imDbRating": "8.3"
+        },
+        {
+            "id": "tt0064115",
+            "title": "Butch Cassidy and the Sundance Kid",
+            "fullTitle": "Butch Cassidy and the Sundance Kid (1969)",
+            "year": "1969",
+            "image": "https://imdb-api.com/images/original/MV5BMTkyMTM2NDk5Nl5BMl5BanBnXkFtZTgwNzY1NzEyMDE@._V1_Ratio0.6737_AL_.jpg",
+            "plot": "Wyoming, early 1900s. Butch Cassidy and The Sundance Kid are the leaders of a band of outlaws. After a train robbery goes wrong they find themselves on the run with a posse hard on their heels. Their solution - escape to Bolivia.",
+            "directors": "George Roy Hill",
+            "stars": "Paul Newman, Robert Redford, Katharine Ross",
+            "genres": "Biography, Crime, Drama",
+            "imDbRating": "8"
+        },
+        {
+            "id": "tt0050212",
+            "title": "The Bridge on the River Kwai",
+            "fullTitle": "The Bridge on the River Kwai (1957)",
+            "year": "1957",
+            "image": "https://imdb-api.com/images/original/MV5BOGY5NmNlMmQtYzRlYy00NGQ5LWFkYjYtNzExZmQyMTg0ZDA0XkEyXkFqcGdeQXVyNDIzMzcwNjc@._V1_Ratio0.6737_AL_.jpg",
+            "plot": "British POWs are forced to build a railway bridge across the river Kwai for their Japanese captors, not knowing that the allied forces are planning to destroy it.",
+            "directors": "David Lean",
+            "stars": "William Holden, Alec Guinness, Jack Hawkins",
+            "genres": "Adventure, Drama, War",
+            "imDbRating": "8.1"
+        },
+        {
+            "id": "tt0057115",
+            "title": "The Great Escape",
+            "fullTitle": "The Great Escape (1963)",
+            "year": "1963",
+            "image": "https://imdb-api.com/images/original/MV5BNzA2NmYxMWUtNzBlMC00MWM2LTkwNmQtYTFlZjQwODNhOWE0XkEyXkFqcGdeQXVyNTIzOTk5ODM@._V1_Ratio0.6737_AL_.jpg",
+            "plot": "Allied prisoners of war plan for several hundred of their number to escape from a German camp during World War II.",
+            "directors": "John Sturges",
+            "stars": "Steve McQueen, James Garner, Richard Attenborough",
+            "genres": "Adventure, Drama, History",
+            "imDbRating": "8.2"
+        },
+        {
+            "id": "tt0054997",
+            "title": "The Hustler",
+            "fullTitle": "The Hustler (1961)",
+            "year": "1961",
+            "image": "https://imdb-api.com/images/original/MV5BNjhjODI2NTItMGE1ZS00NThiLWE1MmYtOWE3YzcyNzY1MTJlXkEyXkFqcGdeQXVyNTc1NTQxODI@._V1_Ratio0.6737_AL_.jpg",
+            "plot": "An up-and-coming pool player plays a long-time champion in a single high-stakes match.",
+            "directors": "Robert Rossen",
+            "stars": "Paul Newman, Jackie Gleason, Piper Laurie",
+            "genres": "Drama, Sport",
+            "imDbRating": "8"
+        },
+        {
+            "id": "tt0047296",
+            "title": "On the Waterfront",
+            "fullTitle": "On the Waterfront (1954)",
+            "year": "1954",
+            "image": "https://imdb-api.com/images/original/MV5BY2I0MWFiZDMtNWQyYy00Njk5LTk3MDktZjZjNTNmZmVkYjkxXkEyXkFqcGdeQXVyNjc1NTYyMjg@._V1_Ratio0.6737_AL_.jpg",
+            "plot": "An ex-prize fighter turned longshoreman struggles to stand up to his corrupt union bosses.",
+            "directors": "Elia Kazan",
+            "stars": "Marlon Brando, Karl Malden, Lee J. Cobb",
+            "genres": "Crime, Drama, Thriller",
+            "imDbRating": "8.1"
+        },
+        {
+            "id": "tt0031679",
+            "title": "Mr. Smith Goes to Washington",
+            "fullTitle": "Mr. Smith Goes to Washington (1939)",
+            "year": "1939",
+            "image": "https://imdb-api.com/images/original/MV5BZTYwYjYxYzgtMDE1Ni00NzU4LWJlMTEtODQ5YmJmMGJhZjI5L2ltYWdlXkEyXkFqcGdeQXVyMDI2NDg0NQ@@._V1_Ratio0.6737_AL_.jpg",
+            "plot": "A naive man is appointed to fill a vacancy in the United States Senate. His plans promptly collide with political corruption, but he doesn't back down.",
+            "directors": "Frank Capra",
+            "stars": "James Stewart, Jean Arthur, Claude Rains",
+            "genres": "Certificate: Passed Comedy, Drama",
+            "imDbRating": "8.1"
+        },
+        {
+            "id": "tt0074958",
+            "title": "Network",
+            "fullTitle": "Network (1976)",
+            "year": "1976",
+            "image": "https://imdb-api.com/images/original/MV5BZGNjYjM2MzItZGQzZi00NmY3LTgxOGUtMTQ2MWQxNWQ2MmMwXkEyXkFqcGdeQXVyNzM0MTUwNTY@._V1_Ratio0.6737_AL_.jpg",
+            "plot": "A television network cynically exploits a deranged former anchor's ravings and revelations about the news media for its own profit.",
+            "directors": "Sidney Lumet",
+            "stars": "Faye Dunaway, William Holden, Peter Finch",
+            "genres": "Drama",
+            "imDbRating": "8.1"
+        },
+        {
+            "id": "tt0040897",
+            "title": "The Treasure of the Sierra Madre",
+            "fullTitle": "The Treasure of the Sierra Madre (1948)",
+            "year": "1948",
+            "image": "https://imdb-api.com/images/original/MV5BOTJlZWMxYzEtMjlkMS00ODE0LThlM2ItMDI3NGQ2YjhmMzkxXkEyXkFqcGdeQXVyMDI2NDg0NQ@@._V1_Ratio0.6737_AL_.jpg",
+            "plot": "Two Americans searching for work in Mexico convince an old prospector to help them mine for gold in the Sierra Madre Mountains.",
+            "directors": "John Huston",
+            "stars": "Humphrey Bogart, Walter Huston, Tim Holt",
+            "genres": "Certificate: Passed Adventure, Drama, Western",
+            "imDbRating": "8.2"
+        },
+        {
+            "id": "tt0052618",
+            "title": "Ben-Hur",
+            "fullTitle": "Ben-Hur (1959)",
+            "year": "1959",
+            "image": "https://imdb-api.com/images/original/MV5BNjgxY2JiZDYtZmMwOC00ZmJjLWJmODUtMTNmNWNmYWI5ODkwL2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyNjc1NTYyMjg@._V1_Ratio0.6737_AL_.jpg",
+            "plot": "After a Jewish prince is betrayed and sent into slavery by a Roman friend, he regains his freedom and comes back for revenge.",
+            "directors": "William Wyler",
+            "stars": "Charlton Heston, Jack Hawkins, Stephen Boyd",
+            "genres": "Adventure, Drama, History",
+            "imDbRating": "8.1"
+        },
+        {
+            "id": "tt0077416",
+            "title": "The Deer Hunter",
+            "fullTitle": "The Deer Hunter (1978)",
+            "year": "1978",
+            "image": "https://imdb-api.com/images/original/MV5BNDhmNTA0ZDMtYjhkNS00NzEzLWIzYTItOGNkMTVmYjE2YmI3XkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_Ratio0.6737_AL_.jpg",
+            "plot": "An in-depth examination of the ways in which the U.S. Vietnam War impacts and disrupts the lives of people in a small industrial town in Pennsylvania.",
+            "directors": "Michael Cimino",
+            "stars": "Robert De Niro, Christopher Walken, John Cazale",
+            "genres": "Drama, War",
+            "imDbRating": "8.1"
+        },
+        {
+            "id": "tt0046268",
+            "title": "The Wages of Fear",
+            "fullTitle": "The Wages of Fear (1953)",
+            "year": "1953",
+            "image": "https://imdb-api.com/images/original/MV5BZDdkNzMwZmUtY2Q5MS00ZmM2LWJhYjItYTBjMWY0MGM4MDRjXkEyXkFqcGdeQXVyNTA4NzY1MzY@._V1_Ratio0.6842_AL_.jpg",
+            "plot": "In a decrepit South American village, four men are hired to transport an urgent nitroglycerine shipment without the equipment that would make it safe.",
+            "directors": "Henri-Georges Clouzot",
+            "stars": "Yves Montand, Charles Vanel, Peter van Eyck",
+            "genres": "Adventure, Drama, Thriller",
+            "imDbRating": "8.1"
+        }
+    ],
+    "tvSeriesInfo": null,
+    "tvEpisodeInfo": null,
+    "errorMessage": ""
+}

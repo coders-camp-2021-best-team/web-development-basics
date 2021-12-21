@@ -1,0 +1,817 @@
+{
+    "id": "tt0108052",
+    "title": "Schindler's List",
+    "originalTitle": "",
+    "fullTitle": "Schindler's List (1993)",
+    "type": "Movie",
+    "year": "1993",
+    "image": "https://imdb-api.com/images/original/MV5BNDE4OTMxMTctNmRhYy00NWE2LTg3YzItYTk3M2UwOTU5Njg4XkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_Ratio0.6791_AL_.jpg",
+    "releaseDate": "1993-12-15",
+    "runtimeMins": "195",
+    "runtimeStr": "3h 15mins",
+    "plot": "Oskar Schindler is a vain and greedy German businessman who becomes an unlikely humanitarian amid the barbaric German Nazi reign when he feels compelled to turn his factory into a refuge for Jews. Based on the true story of Oskar Schindler who managed to save about 1100 Jews from being gassed at the Auschwitz concentration camp, it is a testament to the good in all of us.",
+    "plotLocal": "",
+    "plotLocalIsRtl": false,
+    "awards": "Top Rated Movies #6 | Won 7 Oscars. Another 84 wins & 49 nominations.",
+    "directors": "Steven Spielberg",
+    "directorList": [{ "id": "nm0000229", "name": "Steven Spielberg" }],
+    "writers": "Thomas Keneally, Steven Zaillian",
+    "writerList": [
+        { "id": "nm0447745", "name": "Thomas Keneally" },
+        { "id": "nm0001873", "name": "Steven Zaillian" }
+    ],
+    "stars": "Liam Neeson, Ralph Fiennes, Ben Kingsley, Caroline Goodall",
+    "starList": [
+        { "id": "nm0000553", "name": "Liam Neeson" },
+        { "id": "nm0000146", "name": "Ralph Fiennes" },
+        { "id": "nm0001426", "name": "Ben Kingsley" },
+        { "id": "nm0328751", "name": "Caroline Goodall" }
+    ],
+    "actorList": [
+        {
+            "id": "nm0000553",
+            "image": "https://imdb-api.com/images/original/MV5BMjA1MTQ3NzU1MV5BMl5BanBnXkFtZTgwMDE3Mjg0MzE@._V1_Ratio1.0000_AL_.jpg",
+            "name": "Liam Neeson",
+            "asCharacter": "Oskar Schindler"
+        },
+        {
+            "id": "nm0001426",
+            "image": "https://imdb-api.com/images/original/MV5BOTU2Njg2NzM4M15BMl5BanBnXkFtZTgwNjYwNjQwMTI@._V1_Ratio0.7273_AL_.jpg",
+            "name": "Ben Kingsley",
+            "asCharacter": "Itzhak Stern"
+        },
+        {
+            "id": "nm0000146",
+            "image": "https://imdb-api.com/images/original/MV5BMzc5MjE1NDgyN15BMl5BanBnXkFtZTcwNzg2ODgwNA@@._V1_Ratio0.7727_AL_.jpg",
+            "name": "Ralph Fiennes",
+            "asCharacter": "Amon Goeth"
+        },
+        {
+            "id": "nm0328751",
+            "image": "https://imdb-api.com/images/original/MV5BOTU2MDE0NzMxOV5BMl5BanBnXkFtZTcwNjE2OTg1OA@@._V1_Ratio0.7273_AL_.jpg",
+            "name": "Caroline Goodall",
+            "asCharacter": "Emilie Schindler"
+        },
+        {
+            "id": "nm0755974",
+            "image": "https://imdb-api.com/images/original/MV5BOGM4ZDg2MWMtNGNjNC00NWQ3LWE0NzktYWE3NjNiNWVkYWFjXkEyXkFqcGdeQXVyMjMyMzI4MzY@._V1_Ratio0.8182_AL_.jpg",
+            "name": "Jonathan Sagall",
+            "asCharacter": "Poldek Pfefferberg (as Jonathan Sagalle)"
+        },
+        {
+            "id": "nm0001110",
+            "image": "https://imdb-api.com/images/original/MV5BNDU5NzQzMTkyMl5BMl5BanBnXkFtZTcwMjQ2OTUwOA@@._V1_Ratio0.7273_AL_.jpg",
+            "name": "Embeth Davidtz",
+            "asCharacter": "Helen Hirsch"
+        },
+        {
+            "id": "nm0311343",
+            "image": "https://imdb-api.com/images/original/MV5BMzE0ZmZhMjQtY2RhYS00MjNjLWJmYzctMGNjNTViZWFlMDIzXkEyXkFqcGdeQXVyNjUxMjc1OTM@._V1_Ratio1.8182_AL_.jpg",
+            "name": "Malgorzata Gebel",
+            "asCharacter": "Wiktoria Klonowska (as Malgoscha Gebel)"
+        },
+        {
+            "id": "nm0506616",
+            "image": "https://imdb-api.com/images/original/MV5BYmYxZjFjYTgtYWQ4MS00MTU2LWI5NjEtMzRjMzBlZGU5ODgwL2ltYWdlXkEyXkFqcGdeQXVyMjMyMzI4MzY@._V1_Ratio1.0000_AL_.jpg",
+            "name": "Shmuel Levy",
+            "asCharacter": "Wilek Chilowicz (as Shmulik Levy)"
+        },
+        {
+            "id": "nm0411980",
+            "image": "https://imdb-api.com/images/original/MV5BMTg5MjY0MzY1OF5BMl5BanBnXkFtZTgwOTcwNTc3MDE@._V1_Ratio1.5000_AL_.jpg",
+            "name": "Mark Ivanir",
+            "asCharacter": "Marcel Goldberg"
+        },
+        {
+            "id": "nm0534151",
+            "image": "https://imdb-api.com/images/original/MV5BMzljODA2YmYtNzI1OC00ZGJmLWFkYjQtOWVlMjczODQyNWYyXkEyXkFqcGdeQXVyNjUxMjc1OTM@._V1_Ratio1.3636_AL_.jpg",
+            "name": "Béatrice Macola",
+            "asCharacter": "Ingrid (as Beatrice Macola)"
+        },
+        {
+            "id": "nm0786614",
+            "image": "https://imdb-api.com/images/original/MV5BYTA2MGE2MDYtYzMwYy00MmI5LWJlYzgtMDMzY2M5MWY4NTA4XkEyXkFqcGdeQXVyMTc4MzI2NQ@@._V1_Ratio0.9545_AL_.jpg",
+            "name": "Andrzej Seweryn",
+            "asCharacter": "Julian Scherner"
+        },
+        {
+            "id": "nm0903110",
+            "image": "https://imdb-api.com/images/original/MV5BMTYwMzU4MjY3NF5BMl5BanBnXkFtZTYwODAzNjky._V1_Ratio0.7273_AL_.jpg",
+            "name": "Friedrich von Thun",
+            "asCharacter": "Rolf Czurda (as Friedrich Von Thun)"
+        },
+        {
+            "id": "nm0525181",
+            "image": "https://imdb-api.com/images/original/MV5BNzMyMjA5NjYtZmNlZC00OGVmLTljYmEtY2Q2ZTc2NWY4ZDRmXkEyXkFqcGdeQXVyMTc4MzI2NQ@@._V1_Ratio1.4091_AL_.jpg",
+            "name": "Krzysztof Luft",
+            "asCharacter": "Herman Toffel"
+        },
+        {
+            "id": "nm0624582",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Harry Nehring",
+            "asCharacter": "Leo John"
+        },
+        {
+            "id": "nm0919256",
+            "image": "https://imdb-api.com/images/original/MV5BZjI1NWI1YWEtZWJiNi00Njk3LWEyZjgtMmM1MjMwNDMwNDMyXkEyXkFqcGdeQXVyMjQwMDg0Ng@@._V1_Ratio1.2273_AL_.jpg",
+            "name": "Norbert Weisser",
+            "asCharacter": "Albert Hujar"
+        }
+    ],
+    "fullCast": null,
+    "genres": "Biography, Drama, History",
+    "genreList": [
+        { "key": "Biography", "value": "Biography" },
+        { "key": "Drama", "value": "Drama" },
+        { "key": "History", "value": "History" }
+    ],
+    "companies": "Universal Pictures, Amblin Entertainment",
+    "companyList": [
+        { "id": "co0005073", "name": "Universal Pictures" },
+        { "id": "co0009119", "name": "Amblin Entertainment" }
+    ],
+    "countries": "USA",
+    "countryList": [{ "key": "USA", "value": "USA" }],
+    "languages": "English, Hebrew, German, Polish, Latin",
+    "languageList": [
+        { "key": "English", "value": "English" },
+        { "key": "Hebrew", "value": "Hebrew" },
+        { "key": "German", "value": "German" },
+        { "key": "Polish", "value": "Polish" },
+        { "key": "Latin", "value": "Latin" }
+    ],
+    "contentRating": "R",
+    "imDbRating": "8.9",
+    "imDbRatingVotes": "1229894",
+    "metacriticRating": "94",
+    "ratings": null,
+    "wikipedia": null,
+    "posters": {
+        "imDbId": "tt0108052",
+        "title": "Schindler's List",
+        "fullTitle": "Schindler's List (1993)",
+        "type": "Movie",
+        "year": "1993",
+        "posters": [
+            {
+                "id": "sF1U4EUQS8YHUYjNl3pMGNIQyr0.jpg",
+                "link": "https://imdb-api.com/posters/original/sF1U4EUQS8YHUYjNl3pMGNIQyr0.jpg",
+                "aspectRatio": 0.6666666666666666,
+                "language": "en",
+                "width": 1000,
+                "height": 1500
+            },
+            {
+                "id": "c8Ass7acuOe4za6DhSattE359gr.jpg",
+                "link": "https://imdb-api.com/posters/original/c8Ass7acuOe4za6DhSattE359gr.jpg",
+                "aspectRatio": 0.6666666666666666,
+                "language": "en",
+                "width": 1600,
+                "height": 2400
+            },
+            {
+                "id": "t7xhP8SQTVanzecvn1oQRVWCXTI.jpg",
+                "link": "https://imdb-api.com/posters/original/t7xhP8SQTVanzecvn1oQRVWCXTI.jpg",
+                "aspectRatio": 0.6666666666666666,
+                "language": "en",
+                "width": 940,
+                "height": 1410
+            },
+            {
+                "id": "rKePA1655YWWOTSkyQuu8e84xi0.jpg",
+                "link": "https://imdb-api.com/posters/original/rKePA1655YWWOTSkyQuu8e84xi0.jpg",
+                "aspectRatio": 0.6666666666666666,
+                "language": "en",
+                "width": 2000,
+                "height": 3000
+            },
+            {
+                "id": "w6QEJVD4CJ2rYOjO7JftZ239muY.jpg",
+                "link": "https://imdb-api.com/posters/original/w6QEJVD4CJ2rYOjO7JftZ239muY.jpg",
+                "aspectRatio": 0.6666666666666666,
+                "language": "en",
+                "width": 2000,
+                "height": 3000
+            },
+            {
+                "id": "xx4JCtIkUj31PJbPFRLhuBc1PRl.jpg",
+                "link": "https://imdb-api.com/posters/original/xx4JCtIkUj31PJbPFRLhuBc1PRl.jpg",
+                "aspectRatio": 0.6666666666666666,
+                "language": "en",
+                "width": 1900,
+                "height": 2850
+            },
+            {
+                "id": "2YxZTYTv901FphySf3ZJXsNbwwV.jpg",
+                "link": "https://imdb-api.com/posters/original/2YxZTYTv901FphySf3ZJXsNbwwV.jpg",
+                "aspectRatio": 0.6666666666666666,
+                "language": "en",
+                "width": 1000,
+                "height": 1500
+            },
+            {
+                "id": "9z5tp1FySjanQBbZY9SJXwbasXp.jpg",
+                "link": "https://imdb-api.com/posters/original/9z5tp1FySjanQBbZY9SJXwbasXp.jpg",
+                "aspectRatio": 0.6319485078993563,
+                "language": "en",
+                "width": 1080,
+                "height": 1709
+            },
+            {
+                "id": "hNFxRqok5ZI7Yb39Mxwd7t0dYiD.jpg",
+                "link": "https://imdb-api.com/posters/original/hNFxRqok5ZI7Yb39Mxwd7t0dYiD.jpg",
+                "aspectRatio": 0.6666666666666666,
+                "language": "en",
+                "width": 1500,
+                "height": 2250
+            },
+            {
+                "id": "uIGjacaorKVdOUUcqUa5tnquwtB.jpg",
+                "link": "https://imdb-api.com/posters/original/uIGjacaorKVdOUUcqUa5tnquwtB.jpg",
+                "aspectRatio": 0.6319444444444444,
+                "language": "en",
+                "width": 910,
+                "height": 1440
+            },
+            {
+                "id": "doGEE2DgjET0XK0k9BozsMBES5H.jpg",
+                "link": "https://imdb-api.com/posters/original/doGEE2DgjET0XK0k9BozsMBES5H.jpg",
+                "aspectRatio": 0.6666666666666666,
+                "language": "en",
+                "width": 2000,
+                "height": 3000
+            },
+            {
+                "id": "fCNjNtEAF4AvOpE6YSaTShsNT7p.jpg",
+                "link": "https://imdb-api.com/posters/original/fCNjNtEAF4AvOpE6YSaTShsNT7p.jpg",
+                "aspectRatio": 0.6725,
+                "language": "en",
+                "width": 1076,
+                "height": 1600
+            },
+            {
+                "id": "qw2cNoUyuPqZhbGCTdD6a6lsPY3.jpg",
+                "link": "https://imdb-api.com/posters/original/qw2cNoUyuPqZhbGCTdD6a6lsPY3.jpg",
+                "aspectRatio": 0.6666666666666666,
+                "language": "en",
+                "width": 1000,
+                "height": 1500
+            },
+            {
+                "id": "lKb6h6LURE33I3GRFYgHBUfjwSU.jpg",
+                "link": "https://imdb-api.com/posters/original/lKb6h6LURE33I3GRFYgHBUfjwSU.jpg",
+                "aspectRatio": 0.7012622720897616,
+                "language": "en",
+                "width": 1000,
+                "height": 1426
+            },
+            {
+                "id": "m6fgIXvRLrm3VcKGK6M6IG1YRqP.jpg",
+                "link": "https://imdb-api.com/posters/original/m6fgIXvRLrm3VcKGK6M6IG1YRqP.jpg",
+                "aspectRatio": 0.6836842105263158,
+                "language": "en",
+                "width": 1299,
+                "height": 1900
+            },
+            {
+                "id": "scAi07Cs0Bv4HOAaZhYO2xtntrP.jpg",
+                "link": "https://imdb-api.com/posters/original/scAi07Cs0Bv4HOAaZhYO2xtntrP.jpg",
+                "aspectRatio": 0.6666666666666666,
+                "language": "en",
+                "width": 1000,
+                "height": 1500
+            },
+            {
+                "id": "6WdIFuXpBTiv5AVuHaMW3pNoXiv.jpg",
+                "link": "https://imdb-api.com/posters/original/6WdIFuXpBTiv5AVuHaMW3pNoXiv.jpg",
+                "aspectRatio": 0.6666666666666666,
+                "language": "en",
+                "width": 500,
+                "height": 750
+            },
+            {
+                "id": "zDzFgsQN5JBXHXuA3EcpwlTLsaH.jpg",
+                "link": "https://imdb-api.com/posters/original/zDzFgsQN5JBXHXuA3EcpwlTLsaH.jpg",
+                "aspectRatio": 0.6666666666666666,
+                "language": "en",
+                "width": 1600,
+                "height": 2400
+            }
+        ],
+        "backdrops": [
+            {
+                "id": "loRmRzQXZeqG78TqZuyvSlEQfZb.jpg",
+                "link": "https://imdb-api.com/posters/original/loRmRzQXZeqG78TqZuyvSlEQfZb.jpg",
+                "aspectRatio": 1.7777777777777777,
+                "language": "en",
+                "width": 1920,
+                "height": 1080
+            },
+            {
+                "id": "w2ezhZUk7ZJH9Mdk1Y6CTmaDRg5.jpg",
+                "link": "https://imdb-api.com/posters/original/w2ezhZUk7ZJH9Mdk1Y6CTmaDRg5.jpg",
+                "aspectRatio": 1.7777777777777777,
+                "language": "en",
+                "width": 3840,
+                "height": 2160
+            },
+            {
+                "id": "ei5xjikx59WR2oDFl2lNLbtQHkx.jpg",
+                "link": "https://imdb-api.com/posters/original/ei5xjikx59WR2oDFl2lNLbtQHkx.jpg",
+                "aspectRatio": 1.7777777777777777,
+                "language": "en",
+                "width": 1920,
+                "height": 1080
+            },
+            {
+                "id": "uNsripPOO8uL6iLdskCTQDKvhSg.jpg",
+                "link": "https://imdb-api.com/posters/original/uNsripPOO8uL6iLdskCTQDKvhSg.jpg",
+                "aspectRatio": 1.7777777777777777,
+                "language": "en",
+                "width": 1920,
+                "height": 1080
+            },
+            {
+                "id": "eMAHXzZXoNzximFSYm2hn0LiPB0.jpg",
+                "link": "https://imdb-api.com/posters/original/eMAHXzZXoNzximFSYm2hn0LiPB0.jpg",
+                "aspectRatio": 1.7777777777777777,
+                "language": "en",
+                "width": 3840,
+                "height": 2160
+            },
+            {
+                "id": "5ajud0T68J1m6S3IQx54iWXtyTA.jpg",
+                "link": "https://imdb-api.com/posters/original/5ajud0T68J1m6S3IQx54iWXtyTA.jpg",
+                "aspectRatio": 1.7777777777777777,
+                "language": "en",
+                "width": 2560,
+                "height": 1440
+            },
+            {
+                "id": "1saP2R4xkC7PHqOkbvcjrJhkLJg.jpg",
+                "link": "https://imdb-api.com/posters/original/1saP2R4xkC7PHqOkbvcjrJhkLJg.jpg",
+                "aspectRatio": 1.7777777777777777,
+                "language": "en",
+                "width": 1920,
+                "height": 1080
+            },
+            {
+                "id": "3MiaheHjzC7DrIpBbBbkfhKyMMn.jpg",
+                "link": "https://imdb-api.com/posters/original/3MiaheHjzC7DrIpBbBbkfhKyMMn.jpg",
+                "aspectRatio": 1.7777777777777777,
+                "language": "en",
+                "width": 1920,
+                "height": 1080
+            },
+            {
+                "id": "fkUJRJgjEqlGjWmxE4qZyzvTQcZ.jpg",
+                "link": "https://imdb-api.com/posters/original/fkUJRJgjEqlGjWmxE4qZyzvTQcZ.jpg",
+                "aspectRatio": 1.778496362166532,
+                "language": "en",
+                "width": 2200,
+                "height": 1237
+            },
+            {
+                "id": "8GFlH15UJ5xyVLVCCSzp6bVvWjK.jpg",
+                "link": "https://imdb-api.com/posters/original/8GFlH15UJ5xyVLVCCSzp6bVvWjK.jpg",
+                "aspectRatio": 1.778496362166532,
+                "language": "en",
+                "width": 2200,
+                "height": 1237
+            },
+            {
+                "id": "vMauMZceN7M5HGeCkfpcteGnlCC.jpg",
+                "link": "https://imdb-api.com/posters/original/vMauMZceN7M5HGeCkfpcteGnlCC.jpg",
+                "aspectRatio": 1.7777777777777777,
+                "language": "en",
+                "width": 3200,
+                "height": 1800
+            },
+            {
+                "id": "hvRwAUyoE6RIrNxDeEcJE8MK3Sb.jpg",
+                "link": "https://imdb-api.com/posters/original/hvRwAUyoE6RIrNxDeEcJE8MK3Sb.jpg",
+                "aspectRatio": 1.7777777777777777,
+                "language": "en",
+                "width": 2560,
+                "height": 1440
+            },
+            {
+                "id": "sO4d7htNKk9cKloNrvPKaBTplXo.jpg",
+                "link": "https://imdb-api.com/posters/original/sO4d7htNKk9cKloNrvPKaBTplXo.jpg",
+                "aspectRatio": 1.7777777777777777,
+                "language": "en",
+                "width": 3200,
+                "height": 1800
+            },
+            {
+                "id": "ykeZIKOJ28psgUiXhWxATMOHCNL.jpg",
+                "link": "https://imdb-api.com/posters/original/ykeZIKOJ28psgUiXhWxATMOHCNL.jpg",
+                "aspectRatio": 1.778496362166532,
+                "language": "en",
+                "width": 2200,
+                "height": 1237
+            },
+            {
+                "id": "7LINUJsfHzKCQTqYmeti8NuXDUQ.jpg",
+                "link": "https://imdb-api.com/posters/original/7LINUJsfHzKCQTqYmeti8NuXDUQ.jpg",
+                "aspectRatio": 1.7777777777777777,
+                "language": "en",
+                "width": 3200,
+                "height": 1800
+            },
+            {
+                "id": "16DvS9Zb33wVJhy2F5XyS59kqJP.jpg",
+                "link": "https://imdb-api.com/posters/original/16DvS9Zb33wVJhy2F5XyS59kqJP.jpg",
+                "aspectRatio": 1.7777777777777777,
+                "language": "en",
+                "width": 3200,
+                "height": 1800
+            },
+            {
+                "id": "eqwtpFObteeFGprR3uCnzt30XFF.jpg",
+                "link": "https://imdb-api.com/posters/original/eqwtpFObteeFGprR3uCnzt30XFF.jpg",
+                "aspectRatio": 1.7777777777777777,
+                "language": "en",
+                "width": 3200,
+                "height": 1800
+            }
+        ],
+        "errorMessage": ""
+    },
+    "images": {
+        "imDbId": "tt0108052",
+        "title": "Schindler's List",
+        "fullTitle": "Schindler's List (1993)",
+        "type": "Movie",
+        "year": "1993",
+        "items": [
+            {
+                "title": "Liam Neeson in Schindler's List (1993)",
+                "image": "https://imdb-api.com/images/original/MV5BMTgwNzg3MDkxM15BMl5BanBnXkFtZTcwMzA2MDAxMw@@._V1_Ratio1.4600_AL_.jpg"
+            },
+            {
+                "title": "Liam Neeson, Olaf Lubaszenko, and Anna Mucha in Schindler's List (1993)",
+                "image": "https://imdb-api.com/images/original/MV5BMTc4NTA1OTE4Nl5BMl5BanBnXkFtZTcwODA2MDAxMw@@._V1_Ratio1.5000_AL_.jpg"
+            },
+            {
+                "title": "Adi Nitzan and Jonathan Sagall in Schindler's List (1993)",
+                "image": "https://imdb-api.com/images/original/MV5BMTM4OTczNjU1OF5BMl5BanBnXkFtZTcwMzU2MDAxMw@@._V1_Ratio1.0000_AL_.jpg"
+            },
+            {
+                "title": "Ralph Fiennes and Embeth Davidtz in Schindler's List (1993)",
+                "image": "https://imdb-api.com/images/original/MV5BMTYxNDExMDI3NV5BMl5BanBnXkFtZTcwMDY2MDAxMw@@._V1_Ratio1.5000_AL_.jpg"
+            },
+            {
+                "title": "Ben Kingsley in Schindler's List (1993)",
+                "image": "https://imdb-api.com/images/original/MV5BMTYzMjk5NjU3NV5BMl5BanBnXkFtZTcwMzU1MDAxMw@@._V1_Ratio1.0000_AL_.jpg"
+            },
+            {
+                "title": "Liam Neeson, Agnieszka Krukówna, Krzysztof Luft, Friedrich von Thun, and Marta Bizon in Schindler's List (1993)",
+                "image": "https://imdb-api.com/images/original/MV5BMTI4MjA2MDQ3Ml5BMl5BanBnXkFtZTcwMzY1MDAxMw@@._V1_Ratio1.5000_AL_.jpg"
+            },
+            {
+                "title": "Ralph Fiennes and Liam Neeson in Schindler's List (1993)",
+                "image": "https://imdb-api.com/images/original/MV5BMTI2NjQwMjk3OF5BMl5BanBnXkFtZTcwODY1MDAxMw@@._V1_Ratio1.0000_AL_.jpg"
+            },
+            {
+                "title": "Schindler's List (1993)",
+                "image": "https://imdb-api.com/images/original/MV5BMTM1MTgwMzY5OV5BMl5BanBnXkFtZTcwMzg1MDAxMw@@._V1_Ratio1.0000_AL_.jpg"
+            },
+            {
+                "title": "Liam Neeson and Caroline Goodall in Schindler's List (1993)",
+                "image": "https://imdb-api.com/images/original/MV5BMTc1NjEyMzA2OV5BMl5BanBnXkFtZTcwOTg1MDAxMw@@._V1_Ratio1.5600_AL_.jpg"
+            },
+            {
+                "title": "Liam Neeson, Ben Kingsley, and Caroline Goodall in Schindler's List (1993)",
+                "image": "https://imdb-api.com/images/original/MV5BMTY0ODMxMTU4N15BMl5BanBnXkFtZTcwNDk1MDAxMw@@._V1_Ratio1.5600_AL_.jpg"
+            },
+            {
+                "title": "Schindler's List (1993)",
+                "image": "https://imdb-api.com/images/original/MV5BMTMxNzk3OTA1OV5BMl5BanBnXkFtZTcwNzQ1MDAxMw@@._V1_Ratio1.5000_AL_.jpg"
+            },
+            {
+                "title": "Ralph Fiennes in Schindler's List (1993)",
+                "image": "https://imdb-api.com/images/original/MV5BMTMyNDExMDU0NV5BMl5BanBnXkFtZTcwMjE2MDAxMw@@._V1_Ratio1.0000_AL_.jpg"
+            },
+            {
+                "title": "Liam Neeson and Ben Kingsley in Schindler's List (1993)",
+                "image": "https://imdb-api.com/images/original/MV5BMTU0MzYwMjQ2NF5BMl5BanBnXkFtZTcwMTQ2MDAxMw@@._V1_Ratio1.5000_AL_.jpg"
+            },
+            {
+                "title": "Liam Neeson in Schindler's List (1993)",
+                "image": "https://imdb-api.com/images/original/MV5BMTkxNjMyMjQwNF5BMl5BanBnXkFtZTYwNzY3OTE3._V1_Ratio1.4800_AL_.jpg"
+            },
+            {
+                "title": "German industrialist Oskar Schindler (Liam Neeson) and Jewish accountant Itzhak Stern (Ben Kingsley) assemble the list of more than 1,100 Jewish workers to be placed under Schindler's protection.",
+                "image": "https://imdb-api.com/images/original/MV5BMzExODE4MDA0NV5BMl5BanBnXkFtZTYwMjc3OTE3._V1_Ratio1.3400_AL_.jpg"
+            },
+            {
+                "title": "Ralph Fiennes and Liam Neeson in Schindler's List (1993)",
+                "image": "https://imdb-api.com/images/original/MV5BMjAyMzk4NDQ1Nl5BMl5BanBnXkFtZTYwNTc3OTE3._V1_Ratio1.7800_AL_.jpg"
+            },
+            {
+                "title": "Liam Neeson and Ben Kingsley in Schindler's List (1993)",
+                "image": "https://imdb-api.com/images/original/MV5BMjAwODUzNzA5NV5BMl5BanBnXkFtZTYwODc3OTE3._V1_Ratio1.4000_AL_.jpg"
+            },
+            {
+                "title": "Ben Kingsley and Jan Jurewicz in Schindler's List (1993)",
+                "image": "https://imdb-api.com/images/original/MV5BMTk3MDA3MzIxN15BMl5BanBnXkFtZTYwMDg3OTE3._V1_Ratio1.5000_AL_.jpg"
+            },
+            {
+                "title": "Liam Neeson and Ben Kingsley in Schindler's List (1993)",
+                "image": "https://imdb-api.com/images/original/MV5BMTUxMTg5Mzg4MF5BMl5BanBnXkFtZTYwNzg3OTE3._V1_Ratio1.5000_AL_.jpg"
+            },
+            {
+                "title": "Liam Neeson and Ben Kingsley in Schindler's List (1993)",
+                "image": "https://imdb-api.com/images/original/MV5BMTIzNjA1NjQ4MF5BMl5BanBnXkFtZTYwOTg3OTE3._V1_Ratio1.0000_AL_.jpg"
+            },
+            {
+                "title": "Liam Neeson in Schindler's List (1993)",
+                "image": "https://imdb-api.com/images/original/MV5BMTk2MDU2NzQ4NF5BMl5BanBnXkFtZTYwMTk3OTE3._V1_Ratio1.0000_AL_.jpg"
+            },
+            {
+                "title": "Liam Neeson and Ben Kingsley in Schindler's List (1993)",
+                "image": "https://imdb-api.com/images/original/MV5BMTg4MDE5MjM1Nl5BMl5BanBnXkFtZTYwMzk3OTE3._V1_Ratio1.4600_AL_.jpg"
+            },
+            {
+                "title": "Liam Neeson in Schindler's List (1993)",
+                "image": "https://imdb-api.com/images/original/MV5BMjE0Njg0MzQ0MF5BMl5BanBnXkFtZTYwNTk3OTE3._V1_Ratio1.0000_AL_.jpg"
+            },
+            {
+                "title": "Ben Kingsley in Schindler's List (1993)",
+                "image": "https://imdb-api.com/images/original/MV5BMTczOTY2OTA3MF5BMl5BanBnXkFtZTYwNzk3OTE3._V1_Ratio1.0000_AL_.jpg"
+            },
+            {
+                "title": "Liam Neeson in Schindler's List (1993)",
+                "image": "https://imdb-api.com/images/original/MV5BMjA3ODQxNjA0N15BMl5BanBnXkFtZTYwOTk3OTE3._V1_Ratio1.5000_AL_.jpg"
+            },
+            {
+                "title": "Ben Kingsley in Schindler's List (1993)",
+                "image": "https://imdb-api.com/images/original/MV5BMTc5MDE0NTc5MV5BMl5BanBnXkFtZTYwMTA4OTE3._V1_Ratio1.0000_AL_.jpg"
+            },
+            {
+                "title": "Norbert Weisser in Schindler's List (1993)",
+                "image": "https://imdb-api.com/images/original/MV5BMTY3OTgxNDU5OF5BMl5BanBnXkFtZTYwNzA0MTgy._V1_Ratio1.0000_AL_.jpg"
+            },
+            {
+                "title": "Schindler's List (1993)",
+                "image": "https://imdb-api.com/images/original/MV5BMTc3Nzg0OTEzOF5BMl5BanBnXkFtZTYwNTg3OTE3._V1_Ratio1.0000_AL_.jpg"
+            },
+            {
+                "title": "Steven Spielberg and Liam Neeson in Schindler's List (1993)",
+                "image": "https://imdb-api.com/images/original/MV5BMTU2MTY3ODg5MV5BMl5BanBnXkFtZTYwMjg3OTE3._V1_Ratio1.3600_AL_.jpg"
+            },
+            {
+                "title": "Schindler's List (1993)",
+                "image": "https://imdb-api.com/images/original/MV5BOWRmZmVmMGItODgwNS00Y2VjLWEyZjktOWRjNDVhMzkyY2UwXkEyXkFqcGdeQXVyMTAyOTE2ODg0._V1_Ratio1.0000_AL_.jpg"
+            },
+            {
+                "title": "Schindler's List (1993)",
+                "image": "https://imdb-api.com/images/original/MV5BYjM5ZjYxNjQtZjdhYi00NzBiLTgyNGItOGU3YTYwYWE0NmEzXkEyXkFqcGdeQXVyMTAzMDM4MjM0._V1_Ratio1.0000_AL_.jpg"
+            },
+            {
+                "title": "Schindler's List (1993)",
+                "image": "https://imdb-api.com/images/original/MV5BYzA2N2FlODItMDUzYS00NjhmLTg5OGYtMGQ3NWQ4ODZmYWNhXkEyXkFqcGdeQXVyMTYzMDM0NTU@._V1_Ratio1.0000_AL_.jpg"
+            },
+            {
+                "title": "Schindler's List (1993)",
+                "image": "https://imdb-api.com/images/original/MV5BMzcxNjZjMzEtNjZmZC00OTY4LWI1YmYtNGI0MzRlMGFjZTAzXkEyXkFqcGdeQXVyMTYzMDM0NTU@._V1_Ratio1.0000_AL_.jpg"
+            },
+            {
+                "title": "Schindler's List (1993)",
+                "image": "https://imdb-api.com/images/original/MV5BYzJmYWQxMzQtNGU1Mi00YzhlLWI0ZjUtNGYwN2RiNGRkMGIwXkEyXkFqcGdeQXVyMTYzMDM0NTU@._V1_Ratio1.0000_AL_.jpg"
+            },
+            {
+                "title": "Schindler's List (1993)",
+                "image": "https://imdb-api.com/images/original/MV5BZDI1MDA5NDktNjc5Ny00MmQ4LThmODYtYTg1YmFjNThiNWVhXkEyXkFqcGdeQXVyODc0OTEyNDU@._V1_Ratio1.0000_AL_.jpg"
+            },
+            {
+                "title": "Oliwia Dabrowska in Schindler's List (1993)",
+                "image": "https://imdb-api.com/images/original/MV5BMTg3MDc4ODgyOF5BMl5BanBnXkFtZTgwNzY1ODIyNjM@._V1_Ratio1.0000_AL_.jpg"
+            },
+            {
+                "title": "Schindler's List (1993)",
+                "image": "https://imdb-api.com/images/original/MV5BMjExOTIzNzU1OV5BMl5BanBnXkFtZTgwNjYzMjMxMDE@._V1_Ratio1.0000_AL_.jpg"
+            },
+            {
+                "title": "\"Schindler's List\" (Saul Bass Poster) 1993",
+                "image": "https://imdb-api.com/images/original/MV5BMTk1MzA4OTY5Nl5BMl5BanBnXkFtZTgwNzYzMjMxMDE@._V1_Ratio1.0000_AL_.jpg"
+            },
+            {
+                "title": "Schindler's List (1993)",
+                "image": "https://imdb-api.com/images/original/MV5BMTc1OTY3MTYwOF5BMl5BanBnXkFtZTgwODYzMjMxMDE@._V1_Ratio1.0000_AL_.jpg"
+            },
+            {
+                "title": "Liam Neeson and Ben Kingsley in Schindler's List (1993)",
+                "image": "https://imdb-api.com/images/original/MV5BODMxOTg4MzU1N15BMl5BanBnXkFtZTgwNDQ0MjMxMDE@._V1_Ratio1.0000_AL_.jpg"
+            },
+            {
+                "title": "Schindler's List (1993)",
+                "image": "https://imdb-api.com/images/original/MV5BMjEzNDI2NzI1MV5BMl5BanBnXkFtZTcwNjM2NDcxMQ@@._V1_Ratio1.0000_AL_.jpg"
+            },
+            {
+                "title": "Schindler's List (1993)",
+                "image": "https://imdb-api.com/images/original/MV5BMjA3MjE5OTgzNV5BMl5BanBnXkFtZTcwNDk5NDcxMQ@@._V1_Ratio1.0000_AL_.jpg"
+            },
+            {
+                "title": "Schindler's List (1993)",
+                "image": "https://imdb-api.com/images/original/MV5BMTk2MjU4Mjc3OV5BMl5BanBnXkFtZTcwMDE3MTUyMQ@@._V1_Ratio1.1200_AL_.jpg"
+            },
+            {
+                "title": "Schindler's List (1993)",
+                "image": "https://imdb-api.com/images/original/MV5BMTg5NTUxMDUwMF5BMl5BanBnXkFtZTcwODMyODcyMQ@@._V1_Ratio1.0000_AL_.jpg"
+            },
+            {
+                "title": "Schindler's List (1993)",
+                "image": "https://imdb-api.com/images/original/MV5BMTc1ODE1NDY5NV5BMl5BanBnXkFtZTcwODUxNzkyMQ@@._V1_Ratio1.0000_AL_.jpg"
+            },
+            {
+                "title": "Schindler's List (1993)",
+                "image": "https://imdb-api.com/images/original/MV5BNDc3OTU5MmQtZjQ5My00YmFiLTgzODEtNzcyZmVkNGQ2MTA3XkEyXkFqcGdeQXVyMTIwODk1NTQ@._V1_Ratio1.8400_AL_.jpg"
+            },
+            {
+                "title": "Liam Neeson in Schindler's List (1993)",
+                "image": "https://imdb-api.com/images/original/MV5BZTA3M2U2MDItNWExMC00YjIxLWJhYWMtYmZhZDc1YzEyNTQyXkEyXkFqcGdeQXVyMTIwODk1NTQ@._V1_Ratio1.8400_AL_.jpg"
+            },
+            {
+                "title": "Schindler's List (1993)",
+                "image": "https://imdb-api.com/images/original/MV5BZmJiN2M4ZDYtZjE4MS00ODU0LWJlYjQtOWFhZDA3NDNhMDc0XkEyXkFqcGdeQXVyMTIwODk1NTQ@._V1_Ratio1.8400_AL_.jpg"
+            }
+        ],
+        "errorMessage": ""
+    },
+    "trailer": {
+        "imDbId": "tt0108052",
+        "title": "Schindler's List",
+        "fullTitle": "Schindler's List (1993)",
+        "type": "Movie",
+        "year": "1993",
+        "videoId": "vi1158527769",
+        "videoTitle": "Schindlers List: 25th Anniversary Release",
+        "videoDescription": "25th Anniversary Release Trailer",
+        "thumbnailUrl": "https://m.media-amazon.com/images/M/MV5BOTIxMTUzMmUtODU2MS00MDhjLTlmMGQtMzNhZTFhOTI5ZjE5XkEyXkFqcGdeQXRoaXJkLXBhcnR5LXZpZGVvLXVwZGF0ZXI@._V1_.jpg",
+        "uploadDate": "08/30/2018 17:13:49",
+        "link": "https://www.imdb.com/video/vi1158527769",
+        "linkEmbed": "https://www.imdb.com/video/imdb/vi1158527769/imdb/embed",
+        "errorMessage": ""
+    },
+    "boxOffice": {
+        "budget": "$22,000,000 (estimated)",
+        "openingWeekendUSA": "$656,636, 19 December 1993",
+        "grossUSA": "$96,898,818",
+        "cumulativeWorldwideGross": "$322,161,245"
+    },
+    "tagline": "Whoever saves one life, saves the world entire.",
+    "keywords": "accountant,champagne,villa,womanizer,soap",
+    "keywordList": ["accountant", "champagne", "villa", "womanizer", "soap"],
+    "similars": [
+        {
+            "id": "tt0109830",
+            "title": "Forrest Gump",
+            "fullTitle": "Forrest Gump (1994)",
+            "year": "1994",
+            "image": "https://imdb-api.com/images/original/MV5BNWIwODRlZTUtY2U3ZS00Yzg1LWJhNzYtMmZiYmEyNmU1NjMzXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_Ratio0.6842_AL_.jpg",
+            "plot": "The presidencies of Kennedy and Johnson, the Vietnam War, the Watergate scandal and other historical events unfold from the perspective of an Alabama man with an IQ of 75, whose only desire is to be reunited with his childhood sweetheart.",
+            "directors": "Robert Zemeckis",
+            "stars": "Tom Hanks, Robin Wright, Gary Sinise",
+            "genres": "Drama, Romance",
+            "imDbRating": "8.8"
+        },
+        {
+            "id": "tt0111161",
+            "title": "The Shawshank Redemption",
+            "fullTitle": "The Shawshank Redemption (1994)",
+            "year": "1994",
+            "image": "https://imdb-api.com/images/original/MV5BMDFkYTc0MGEtZmNhMC00ZDIzLWFmNTEtODM1ZmRlYWMwMWFmXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_Ratio0.6737_AL_.jpg",
+            "plot": "Two imprisoned men bond over a number of years, finding solace and eventual redemption through acts of common decency.",
+            "directors": "Frank Darabont",
+            "stars": "Tim Robbins, Morgan Freeman, Bob Gunton",
+            "genres": "Drama",
+            "imDbRating": "9.3"
+        },
+        {
+            "id": "tt0110912",
+            "title": "Pulp Fiction",
+            "fullTitle": "Pulp Fiction (1994)",
+            "year": "1994",
+            "image": "https://imdb-api.com/images/original/MV5BNGNhMDIzZTUtNTBlZi00MTRlLWFjM2ItYzViMjE3YzI5MjljXkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_Ratio0.6842_AL_.jpg",
+            "plot": "The lives of two mob hitmen, a boxer, a gangster and his wife, and a pair of diner bandits intertwine in four tales of violence and redemption.",
+            "directors": "Quentin Tarantino",
+            "stars": "John Travolta, Uma Thurman, Samuel L. Jackson",
+            "genres": "Crime, Drama",
+            "imDbRating": "8.9"
+        },
+        {
+            "id": "tt0071562",
+            "title": "The Godfather: Part II",
+            "fullTitle": "The Godfather: Part II (1974)",
+            "year": "1974",
+            "image": "https://imdb-api.com/images/original/MV5BMWMwMGQzZTItY2JlNC00OWZiLWIyMDctNDk2ZDQ2YjRjMWQ0XkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_Ratio0.6947_AL_.jpg",
+            "plot": "The early life and career of Vito Corleone in 1920s New York City is portrayed, while his son, Michael, expands and tightens his grip on the family crime syndicate.",
+            "directors": "Francis Ford Coppola",
+            "stars": "Al Pacino, Robert De Niro, Robert Duvall",
+            "genres": "Crime, Drama",
+            "imDbRating": "9"
+        },
+        {
+            "id": "tt0050083",
+            "title": "12 Angry Men",
+            "fullTitle": "12 Angry Men (1957)",
+            "year": "1957",
+            "image": "https://imdb-api.com/images/original/MV5BMWU4N2FjNzYtNTVkNC00NzQ0LTg0MjAtYTJlMjFhNGUxZDFmXkEyXkFqcGdeQXVyNjc1NTYyMjg@._V1_Ratio0.6737_AL_.jpg",
+            "plot": "A jury holdout attempts to prevent a miscarriage of justice by forcing his colleagues to reconsider the evidence.",
+            "directors": "Sidney Lumet",
+            "stars": "Henry Fonda, Lee J. Cobb, Martin Balsam",
+            "genres": "Crime, Drama",
+            "imDbRating": "9"
+        },
+        {
+            "id": "tt0068646",
+            "title": "The Godfather",
+            "fullTitle": "The Godfather (1972)",
+            "year": "1972",
+            "image": "https://imdb-api.com/images/original/MV5BM2MyNjYxNmUtYTAwNi00MTYxLWJmNWYtYzZlODY3ZTk3OTFlXkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_Ratio0.7053_AL_.jpg",
+            "plot": "An organized crime dynasty's aging patriarch transfers control of his clandestine empire to his reluctant son.",
+            "directors": "Francis Ford Coppola",
+            "stars": "Marlon Brando, Al Pacino, James Caan",
+            "genres": "Crime, Drama",
+            "imDbRating": "9.2"
+        },
+        {
+            "id": "tt0137523",
+            "title": "Fight Club",
+            "fullTitle": "Fight Club (1999)",
+            "year": "1999",
+            "image": "https://imdb-api.com/images/original/MV5BMmEzNTkxYjQtZTc0MC00YTVjLTg5ZTEtZWMwOWVlYzY0NWIwXkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_Ratio0.6737_AL_.jpg",
+            "plot": "A nameless first person narrator (Edward Norton) attends support groups in attempt to subdue his emotional state and relieve his insomniac state. When he meets Marla (Helena Bonham Carter),... See full summary »",
+            "directors": "David Fincher",
+            "stars": "Brad Pitt, Edward Norton, Meat Loaf",
+            "genres": "Drama",
+            "imDbRating": "8.8"
+        },
+        {
+            "id": "tt0167260",
+            "title": "The Lord of the Rings: The Return of the King",
+            "fullTitle": "The Lord of the Rings: The Return of the King (2003)",
+            "year": "2003",
+            "image": "https://imdb-api.com/images/original/MV5BNzA5ZDNlZWMtM2NhNS00NDJjLTk4NDItYTRmY2EwMWZlMTY3XkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_Ratio0.6737_AL_.jpg",
+            "plot": "Gandalf and Aragorn lead the World of Men against Sauron's army to draw his gaze from Frodo and Sam as they approach Mount Doom with the One Ring.",
+            "directors": "Peter Jackson",
+            "stars": "Elijah Wood, Viggo Mortensen, Ian McKellen",
+            "genres": "Action, Adventure, Drama",
+            "imDbRating": "8.9"
+        },
+        {
+            "id": "tt0102926",
+            "title": "The Silence of the Lambs",
+            "fullTitle": "The Silence of the Lambs (1991)",
+            "year": "1991",
+            "image": "https://imdb-api.com/images/original/MV5BNjNhZTk0ZmEtNjJhMi00YzFlLWE1MmEtYzM1M2ZmMGMwMTU4XkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_Ratio0.6737_AL_.jpg",
+            "plot": "A young F.B.I. cadet must receive the help of an incarcerated and manipulative cannibal killer to help catch another serial killer, a madman who skins his victims.",
+            "directors": "Jonathan Demme",
+            "stars": "Jodie Foster, Anthony Hopkins, Lawrence A. Bonney",
+            "genres": "Crime, Drama, Thriller",
+            "imDbRating": "8.6"
+        },
+        {
+            "id": "tt0120815",
+            "title": "Saving Private Ryan",
+            "fullTitle": "Saving Private Ryan (1998)",
+            "year": "1998",
+            "image": "https://imdb-api.com/images/original/MV5BZjhkMDM4MWItZTVjOC00ZDRhLThmYTAtM2I5NzBmNmNlMzI1XkEyXkFqcGdeQXVyNDYyMDk5MTU@._V1_Ratio0.6737_AL_.jpg",
+            "plot": "Following the Normandy Landings, a group of U.S. soldiers go behind enemy lines to retrieve a paratrooper whose brothers have been killed in action.",
+            "directors": "Steven Spielberg",
+            "stars": "Tom Hanks, Matt Damon, Tom Sizemore",
+            "genres": "Drama, War",
+            "imDbRating": "8.6"
+        },
+        {
+            "id": "tt0120689",
+            "title": "The Green Mile",
+            "fullTitle": "The Green Mile (1999)",
+            "year": "1999",
+            "image": "https://imdb-api.com/images/original/MV5BMTUxMzQyNjA5MF5BMl5BanBnXkFtZTYwOTU2NTY3._V1_Ratio0.6737_AL_.jpg",
+            "plot": "The lives of guards on Death Row are affected by one of their charges: a black man accused of child murder and rape, yet who has a mysterious gift.",
+            "directors": "Frank Darabont",
+            "stars": "Tom Hanks, Michael Clarke Duncan, David Morse",
+            "genres": "Crime, Drama, Fantasy",
+            "imDbRating": "8.6"
+        },
+        {
+            "id": "tt0253474",
+            "title": "The Pianist",
+            "fullTitle": "The Pianist (2002)",
+            "year": "2002",
+            "image": "https://imdb-api.com/images/original/MV5BOWRiZDIxZjktMTA1NC00MDQ2LWEzMjUtMTliZmY3NjQ3ODJiXkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_Ratio0.7263_AL_.jpg",
+            "plot": "A Polish Jewish musician struggles to survive the destruction of the Warsaw ghetto of World War II.",
+            "directors": "Roman Polanski",
+            "stars": "Adrien Brody, Thomas Kretschmann, Frank Finlay",
+            "genres": "Biography, Drama, Music",
+            "imDbRating": "8.5"
+        }
+    ],
+    "tvSeriesInfo": null,
+    "tvEpisodeInfo": null,
+    "errorMessage": ""
+}

@@ -1,0 +1,960 @@
+{
+    "id": "tt0082971",
+    "title": "Indiana Jones and the Raiders of the Lost Ark",
+    "originalTitle": "Raiders of the Lost Ark",
+    "fullTitle": "Indiana Jones and the Raiders of the Lost Ark (1981)",
+    "type": "Movie",
+    "year": "1981",
+    "image": "https://imdb-api.com/images/original/MV5BMjA0ODEzMTc1Nl5BMl5BanBnXkFtZTcwODM2MjAxNA@@._V1_Ratio0.6791_AL_.jpg",
+    "releaseDate": "1981-06-12",
+    "runtimeMins": "115",
+    "runtimeStr": "1h 55mins",
+    "plot": "The year is 1936. An archeology professor named Indiana Jones is venturing in the jungles of South America searching for a golden statue. Unfortunately, he sets off a deadly trap but miraculously escapes. Then, Jones hears from a museum curator named Marcus Brody about a biblical artifact called The Ark of the Covenant, which can hold the key to humanly existence. Jones has to venture to vast places such as Nepal and Egypt to find this artifact. However, he will have to fight his enemy Rene Belloq and a band of Nazis in order to reach it.",
+    "plotLocal": "",
+    "plotLocalIsRtl": false,
+    "awards": "Top Rated Movies #56 | Won 4 Oscars. Another 33 wins & 24 nominations.",
+    "directors": "Steven Spielberg",
+    "directorList": [{ "id": "nm0000229", "name": "Steven Spielberg" }],
+    "writers": "Lawrence Kasdan, George Lucas, Philip Kaufman",
+    "writerList": [
+        { "id": "nm0001410", "name": "Lawrence Kasdan" },
+        { "id": "nm0000184", "name": "George Lucas" },
+        { "id": "nm0442241", "name": "Philip Kaufman" }
+    ],
+    "stars": "Harrison Ford, Karen Allen, Paul Freeman, John Rhys-Davies",
+    "starList": [
+        { "id": "nm0000148", "name": "Harrison Ford" },
+        { "id": "nm0000261", "name": "Karen Allen" },
+        { "id": "nm0293550", "name": "Paul Freeman" },
+        { "id": "nm0722636", "name": "John Rhys-Davies" }
+    ],
+    "actorList": [
+        {
+            "id": "nm0000148",
+            "image": "https://imdb-api.com/images/original/MV5BMTY4Mjg0NjIxOV5BMl5BanBnXkFtZTcwMTM2NTI3MQ@@._V1_Ratio0.7273_AL_.jpg",
+            "name": "Harrison Ford",
+            "asCharacter": "Indy"
+        },
+        {
+            "id": "nm0000261",
+            "image": "https://imdb-api.com/images/original/MV5BMTg2NjgyMjQwMF5BMl5BanBnXkFtZTcwNzkwMjE3MQ@@._V1_Ratio0.7273_AL_.jpg",
+            "name": "Karen Allen",
+            "asCharacter": "Marion"
+        },
+        {
+            "id": "nm0293550",
+            "image": "https://imdb-api.com/images/original/MV5BMjA4Mzc2NjU2N15BMl5BanBnXkFtZTcwNzYzMDAxMw@@._V1_Ratio0.7273_AL_.jpg",
+            "name": "Paul Freeman",
+            "asCharacter": "Belloq"
+        },
+        {
+            "id": "nm0479951",
+            "image": "https://imdb-api.com/images/original/MV5BYTliYzY1MGItNzg3MS00ZjAyLWI0ZTQtNWVlNTkwNWFlZGU3XkEyXkFqcGdeQXVyNjUxMjc1OTM@._V1_Ratio0.8182_AL_.jpg",
+            "name": "Ronald Lacey",
+            "asCharacter": "Toht"
+        },
+        {
+            "id": "nm0722636",
+            "image": "https://imdb-api.com/images/original/MV5BMjMwNDY3NjQxMF5BMl5BanBnXkFtZTcwMDc3NTYyOQ@@._V1_Ratio0.8182_AL_.jpg",
+            "name": "John Rhys-Davies",
+            "asCharacter": "Sallah"
+        },
+        {
+            "id": "nm0001186",
+            "image": "https://imdb-api.com/images/original/MV5BMTY2ODQ3NDc5Nl5BMl5BanBnXkFtZTcwNDAwMjg5Nw@@._V1_Ratio1.5000_AL_.jpg",
+            "name": "Denholm Elliott",
+            "asCharacter": "Brody"
+        },
+        {
+            "id": "nm0000547",
+            "image": "https://imdb-api.com/images/original/MV5BMTEwNTgzNzgxNzNeQTJeQWpwZ15BbWU3MDQ5NzU1NjM@._V1_Ratio0.7727_AL_.jpg",
+            "name": "Alfred Molina",
+            "asCharacter": "Satipo"
+        },
+        {
+            "id": "nm0434759",
+            "image": "https://imdb-api.com/images/original/MV5BNTViNTY2ZGUtYzlmOC00MWExLWExNTMtNDM3YTQzMGJiZDNkL2ltYWdlXkEyXkFqcGdeQXVyNDUzOTQ5MjY@._V1_Ratio0.8182_AL_.jpg",
+            "name": "Wolf Kahler",
+            "asCharacter": "Dietrich"
+        },
+        {
+            "id": "nm0001891",
+            "image": "https://imdb-api.com/images/original/MV5BMTAzMjQ5NDM4MzNeQTJeQWpwZ15BbWU3MDg3MDk4MDM@._V1_Ratio0.9091_AL_.jpg",
+            "name": "Anthony Higgins",
+            "asCharacter": "Gobler"
+        },
+        {
+            "id": "nm0846004",
+            "image": "https://imdb-api.com/images/original/MV5BMTc5NTMxNTQzNV5BMl5BanBnXkFtZTcwNzA1MzA4NA@@._V1_Ratio0.7273_AL_.jpg",
+            "name": "Vic Tablian",
+            "asCharacter": "Barranca / Monkey Man"
+        },
+        {
+            "id": "nm0271514",
+            "image": "https://imdb-api.com/images/original/MV5BNjI4YjM5MWItNDM3ZC00ZTc0LWIyNzYtYzkwNGRjMmJhOWYwXkEyXkFqcGdeQXVyNjUxMjc1OTM@._V1_Ratio0.7273_AL_.jpg",
+            "name": "Don Fellows",
+            "asCharacter": "Col. Musgrove"
+        },
+        {
+            "id": "nm0393853",
+            "image": "https://imdb-api.com/images/original/MV5BMTk0MjkzOTE1M15BMl5BanBnXkFtZTYwOTY2OTgy._V1_Ratio0.7273_AL_.jpg",
+            "name": "William Hootkins",
+            "asCharacter": "Major Eaton"
+        },
+        {
+            "id": "nm0717810",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Bill Reimbold",
+            "asCharacter": "Bureaucrat"
+        },
+        {
+            "id": "nm0814885",
+            "image": "https://imdb-api.com/images/original/MV5BNmFhN2Q5MjYtMTdjZS00Y2Y0LTkyOTktYmQ4ZGUzMjFjMWZlXkEyXkFqcGdeQXVyNjUxMjc1OTM@._V1_Ratio2.3636_AL_.jpg",
+            "name": "Fred Sorenson",
+            "asCharacter": "Jock"
+        },
+        {
+            "id": "nm0244190",
+            "image": "https://imdb-api.com/images/original/MV5BNzEwODNlOGQtNjMxOS00MDVjLWEwMTEtNTliODQ1ZmQ0OTI2XkEyXkFqcGdeQXVyNjUxMjc1OTM@._V1_Ratio2.3636_AL_.jpg",
+            "name": "Patrick Durkin",
+            "asCharacter": "Australian Climber"
+        }
+    ],
+    "fullCast": null,
+    "genres": "Action, Adventure",
+    "genreList": [
+        { "key": "Action", "value": "Action" },
+        { "key": "Adventure", "value": "Adventure" }
+    ],
+    "companies": "Paramount Pictures, Lucasfilm",
+    "companyList": [
+        { "id": "co0023400", "name": "Paramount Pictures" },
+        { "id": "co0071326", "name": "Lucasfilm" }
+    ],
+    "countries": "USA",
+    "countryList": [{ "key": "USA", "value": "USA" }],
+    "languages": "English, German, Hebrew, Spanish, Arabic, Nepali",
+    "languageList": [
+        { "key": "English", "value": "English" },
+        { "key": "German", "value": "German" },
+        { "key": "Hebrew", "value": "Hebrew" },
+        { "key": "Spanish", "value": "Spanish" },
+        { "key": "Arabic", "value": "Arabic" },
+        { "key": "Nepali", "value": "Nepali" }
+    ],
+    "contentRating": "PG",
+    "imDbRating": "8.4",
+    "imDbRatingVotes": "893536",
+    "metacriticRating": "85",
+    "ratings": null,
+    "wikipedia": null,
+    "posters": {
+        "imDbId": "tt0082971",
+        "title": "Indiana Jones and the Raiders of the Lost Ark",
+        "fullTitle": "Indiana Jones and the Raiders of the Lost Ark (1981)",
+        "type": "Movie",
+        "year": "1981",
+        "posters": [
+            {
+                "id": "awUGN7ZCNq2EUTdpVaHDX23anOZ.jpg",
+                "link": "https://imdb-api.com/posters/original/awUGN7ZCNq2EUTdpVaHDX23anOZ.jpg",
+                "aspectRatio": 0.6666666666666666,
+                "language": "en",
+                "width": 720,
+                "height": 1080
+            },
+            {
+                "id": "mKIvOClXihFSpgjhtJCU1hMfP2f.jpg",
+                "link": "https://imdb-api.com/posters/original/mKIvOClXihFSpgjhtJCU1hMfP2f.jpg",
+                "aspectRatio": 0.6572104018912529,
+                "language": "en",
+                "width": 1946,
+                "height": 2961
+            },
+            {
+                "id": "tlevjsDo33mkHIO5kC7Ar16cVk2.jpg",
+                "link": "https://imdb-api.com/posters/original/tlevjsDo33mkHIO5kC7Ar16cVk2.jpg",
+                "aspectRatio": 0.6666666666666666,
+                "language": "en",
+                "width": 2000,
+                "height": 3000
+            },
+            {
+                "id": "kPwgNTCVjubrZAovyCdyoiBo5A.jpg",
+                "link": "https://imdb-api.com/posters/original/kPwgNTCVjubrZAovyCdyoiBo5A.jpg",
+                "aspectRatio": 0.6857142857142857,
+                "language": "en",
+                "width": 1440,
+                "height": 2100
+            },
+            {
+                "id": "rRiFqvW5N8kQ7fJj2MRlPwMrltA.jpg",
+                "link": "https://imdb-api.com/posters/original/rRiFqvW5N8kQ7fJj2MRlPwMrltA.jpg",
+                "aspectRatio": 0.6666666666666666,
+                "language": "en",
+                "width": 1000,
+                "height": 1500
+            },
+            {
+                "id": "qeELdpfXoUUVVnb6EBqpIs1fzo9.jpg",
+                "link": "https://imdb-api.com/posters/original/qeELdpfXoUUVVnb6EBqpIs1fzo9.jpg",
+                "aspectRatio": 0.6666666666666666,
+                "language": "en",
+                "width": 1000,
+                "height": 1500
+            },
+            {
+                "id": "w0QotOw6E1Lfi9vIohecBMy4ens.jpg",
+                "link": "https://imdb-api.com/posters/original/w0QotOw6E1Lfi9vIohecBMy4ens.jpg",
+                "aspectRatio": 0.6666666666666666,
+                "language": "en",
+                "width": 1200,
+                "height": 1800
+            },
+            {
+                "id": "mPb5bb69CNzrDAouB2OyzpCLO6Q.jpg",
+                "link": "https://imdb-api.com/posters/original/mPb5bb69CNzrDAouB2OyzpCLO6Q.jpg",
+                "aspectRatio": 0.6659722222222222,
+                "language": "en",
+                "width": 1918,
+                "height": 2880
+            },
+            {
+                "id": "ceG9VzoRAVGwivFU403Wc3AHRys.jpg",
+                "link": "https://imdb-api.com/posters/original/ceG9VzoRAVGwivFU403Wc3AHRys.jpg",
+                "aspectRatio": 0.6666666666666666,
+                "language": "en",
+                "width": 2000,
+                "height": 3000
+            },
+            {
+                "id": "o4swLnuKP7Fw88xyhZgwkg5xySw.jpg",
+                "link": "https://imdb-api.com/posters/original/o4swLnuKP7Fw88xyhZgwkg5xySw.jpg",
+                "aspectRatio": 0.6666666666666666,
+                "language": "en",
+                "width": 1000,
+                "height": 1500
+            },
+            {
+                "id": "1OConyXUuigzks54QkytJgROSCV.jpg",
+                "link": "https://imdb-api.com/posters/original/1OConyXUuigzks54QkytJgROSCV.jpg",
+                "aspectRatio": 0.6668678334339168,
+                "language": "en",
+                "width": 1105,
+                "height": 1657
+            },
+            {
+                "id": "wxVhXfCRrud5ZCrGJD6MGM84ZmV.jpg",
+                "link": "https://imdb-api.com/posters/original/wxVhXfCRrud5ZCrGJD6MGM84ZmV.jpg",
+                "aspectRatio": 0.6666666666666666,
+                "language": "en",
+                "width": 1000,
+                "height": 1500
+            },
+            {
+                "id": "nsPi2puChIko9T0eQQq5pSiySkE.jpg",
+                "link": "https://imdb-api.com/posters/original/nsPi2puChIko9T0eQQq5pSiySkE.jpg",
+                "aspectRatio": 0.666875,
+                "language": "en",
+                "width": 1067,
+                "height": 1600
+            },
+            {
+                "id": "5wEO1fleDL109H4QrfOazzhGAB1.jpg",
+                "link": "https://imdb-api.com/posters/original/5wEO1fleDL109H4QrfOazzhGAB1.jpg",
+                "aspectRatio": 0.666875,
+                "language": "en",
+                "width": 1067,
+                "height": 1600
+            },
+            {
+                "id": "gpOYyJ2ueya6ahyqwOabHcqYOe5.jpg",
+                "link": "https://imdb-api.com/posters/original/gpOYyJ2ueya6ahyqwOabHcqYOe5.jpg",
+                "aspectRatio": 0.6666666666666666,
+                "language": "en",
+                "width": 1000,
+                "height": 1500
+            },
+            {
+                "id": "ls2nzAvlgeovuNdYgkLZNaYAsVF.jpg",
+                "link": "https://imdb-api.com/posters/original/ls2nzAvlgeovuNdYgkLZNaYAsVF.jpg",
+                "aspectRatio": 0.6666666666666666,
+                "language": "en",
+                "width": 1000,
+                "height": 1500
+            },
+            {
+                "id": "jJOaM0wlvhzVd6mo8f3jBQgftLa.jpg",
+                "link": "https://imdb-api.com/posters/original/jJOaM0wlvhzVd6mo8f3jBQgftLa.jpg",
+                "aspectRatio": 0.6666666666666666,
+                "language": "en",
+                "width": 1000,
+                "height": 1500
+            },
+            {
+                "id": "risk0WjlbXAgCBFOaFnsq0oTbVu.jpg",
+                "link": "https://imdb-api.com/posters/original/risk0WjlbXAgCBFOaFnsq0oTbVu.jpg",
+                "aspectRatio": 0.6666666666666666,
+                "language": "en",
+                "width": 1000,
+                "height": 1500
+            },
+            {
+                "id": "kvRtSZcwhnIwncSW4YNjrmo4ZyV.jpg",
+                "link": "https://imdb-api.com/posters/original/kvRtSZcwhnIwncSW4YNjrmo4ZyV.jpg",
+                "aspectRatio": 0.6788025889967637,
+                "language": "en",
+                "width": 839,
+                "height": 1236
+            },
+            {
+                "id": "1olAaUBBQHlgKBA5rKl8KHIpEQT.jpg",
+                "link": "https://imdb-api.com/posters/original/1olAaUBBQHlgKBA5rKl8KHIpEQT.jpg",
+                "aspectRatio": 0.6666666666666666,
+                "language": "en",
+                "width": 2000,
+                "height": 3000
+            },
+            {
+                "id": "qxEAiC4Q2X5qrC1cPbC83NXmW2C.jpg",
+                "link": "https://imdb-api.com/posters/original/qxEAiC4Q2X5qrC1cPbC83NXmW2C.jpg",
+                "aspectRatio": 0.6666666666666666,
+                "language": "en",
+                "width": 2000,
+                "height": 3000
+            },
+            {
+                "id": "pVKr7EaFc1q5i2iJNaClA7AVyIH.jpg",
+                "link": "https://imdb-api.com/posters/original/pVKr7EaFc1q5i2iJNaClA7AVyIH.jpg",
+                "aspectRatio": 0.6666666666666666,
+                "language": "en",
+                "width": 2000,
+                "height": 3000
+            },
+            {
+                "id": "gTvZVqHWUDYXU5duXTWvqWYl7rQ.jpg",
+                "link": "https://imdb-api.com/posters/original/gTvZVqHWUDYXU5duXTWvqWYl7rQ.jpg",
+                "aspectRatio": 0.6647135416666666,
+                "language": "en",
+                "width": 1021,
+                "height": 1536
+            },
+            {
+                "id": "zBHbByyEZvc6FayuAKdUuiR4tk5.jpg",
+                "link": "https://imdb-api.com/posters/original/zBHbByyEZvc6FayuAKdUuiR4tk5.jpg",
+                "aspectRatio": 0.6561679790026247,
+                "language": "en",
+                "width": 1000,
+                "height": 1524
+            },
+            {
+                "id": "h65LuJQcWygH7PdZe6uykXaJNir.jpg",
+                "link": "https://imdb-api.com/posters/original/h65LuJQcWygH7PdZe6uykXaJNir.jpg",
+                "aspectRatio": 0.6666666666666666,
+                "language": "en",
+                "width": 1200,
+                "height": 1800
+            },
+            {
+                "id": "uPOxIb4K17QlCApjwxyKfv9XOgN.jpg",
+                "link": "https://imdb-api.com/posters/original/uPOxIb4K17QlCApjwxyKfv9XOgN.jpg",
+                "aspectRatio": 0.6666666666666666,
+                "language": "en",
+                "width": 1000,
+                "height": 1500
+            },
+            {
+                "id": "7riry62NnrcBytUr5XJ5NCLUuAU.jpg",
+                "link": "https://imdb-api.com/posters/original/7riry62NnrcBytUr5XJ5NCLUuAU.jpg",
+                "aspectRatio": 0.6659722222222222,
+                "language": "en",
+                "width": 1918,
+                "height": 2880
+            },
+            {
+                "id": "dWCNyjKbbcYrsk6dm8SktjVlPtd.jpg",
+                "link": "https://imdb-api.com/posters/original/dWCNyjKbbcYrsk6dm8SktjVlPtd.jpg",
+                "aspectRatio": 0.7075542258788332,
+                "language": "en",
+                "width": 946,
+                "height": 1337
+            },
+            {
+                "id": "jyAGNinUtgfNKSFiFIyOarBSbNi.jpg",
+                "link": "https://imdb-api.com/posters/original/jyAGNinUtgfNKSFiFIyOarBSbNi.jpg",
+                "aspectRatio": 0.7520380434782609,
+                "language": "en",
+                "width": 1107,
+                "height": 1472
+            }
+        ],
+        "backdrops": [
+            {
+                "id": "kCiMExsYuNhYluHxPP2OTmWw7hp.jpg",
+                "link": "https://imdb-api.com/posters/original/kCiMExsYuNhYluHxPP2OTmWw7hp.jpg",
+                "aspectRatio": 1.7777777777777777,
+                "language": "en",
+                "width": 1920,
+                "height": 1080
+            },
+            {
+                "id": "oxK0OlJ5brTZMLQu5AD1oLDgwt3.jpg",
+                "link": "https://imdb-api.com/posters/original/oxK0OlJ5brTZMLQu5AD1oLDgwt3.jpg",
+                "aspectRatio": 1.7777777777777777,
+                "language": "en",
+                "width": 1920,
+                "height": 1080
+            },
+            {
+                "id": "c7Mjuip0jfHLY7x8ZSEriRj45cu.jpg",
+                "link": "https://imdb-api.com/posters/original/c7Mjuip0jfHLY7x8ZSEriRj45cu.jpg",
+                "aspectRatio": 1.7777777777777777,
+                "language": "en",
+                "width": 1920,
+                "height": 1080
+            },
+            {
+                "id": "n3mqt8gZemJ8YXAjX0Yc8QajBrH.jpg",
+                "link": "https://imdb-api.com/posters/original/n3mqt8gZemJ8YXAjX0Yc8QajBrH.jpg",
+                "aspectRatio": 1.7777777777777777,
+                "language": "en",
+                "width": 1920,
+                "height": 1080
+            },
+            {
+                "id": "5VtsgHqFZCTHBFlv9U5khppiG2O.jpg",
+                "link": "https://imdb-api.com/posters/original/5VtsgHqFZCTHBFlv9U5khppiG2O.jpg",
+                "aspectRatio": 1.7777777777777777,
+                "language": "en",
+                "width": 2048,
+                "height": 1152
+            },
+            {
+                "id": "5Zufy6wy7lEdJMjikxeX7ShAZMW.jpg",
+                "link": "https://imdb-api.com/posters/original/5Zufy6wy7lEdJMjikxeX7ShAZMW.jpg",
+                "aspectRatio": 1.7777777777777777,
+                "language": "en",
+                "width": 3840,
+                "height": 2160
+            },
+            {
+                "id": "aPwORXopc7Re2zOM6fDFf46kDNc.jpg",
+                "link": "https://imdb-api.com/posters/original/aPwORXopc7Re2zOM6fDFf46kDNc.jpg",
+                "aspectRatio": 1.7777777777777777,
+                "language": "en",
+                "width": 1920,
+                "height": 1080
+            },
+            {
+                "id": "yryKWn4GBWsBhVN2jtP2iy5Thf7.jpg",
+                "link": "https://imdb-api.com/posters/original/yryKWn4GBWsBhVN2jtP2iy5Thf7.jpg",
+                "aspectRatio": 1.7777777777777777,
+                "language": "en",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "id": "cmNZwsSOEngJWCUZ1BxNQsoWrcC.jpg",
+                "link": "https://imdb-api.com/posters/original/cmNZwsSOEngJWCUZ1BxNQsoWrcC.jpg",
+                "aspectRatio": 1.7777777777777777,
+                "language": "en",
+                "width": 1920,
+                "height": 1080
+            },
+            {
+                "id": "rJUdhu9ZSoCN89x1eY9gPmZM7zG.jpg",
+                "link": "https://imdb-api.com/posters/original/rJUdhu9ZSoCN89x1eY9gPmZM7zG.jpg",
+                "aspectRatio": 1.7777777777777777,
+                "language": "en",
+                "width": 1920,
+                "height": 1080
+            },
+            {
+                "id": "5WMfKMXfn0wDRwoe1LJtf8ZP57d.jpg",
+                "link": "https://imdb-api.com/posters/original/5WMfKMXfn0wDRwoe1LJtf8ZP57d.jpg",
+                "aspectRatio": 1.7777777777777777,
+                "language": "en",
+                "width": 1920,
+                "height": 1080
+            },
+            {
+                "id": "6igbZAupOE5XKFTwpf8DLfggGLR.jpg",
+                "link": "https://imdb-api.com/posters/original/6igbZAupOE5XKFTwpf8DLfggGLR.jpg",
+                "aspectRatio": 1.7777777777777777,
+                "language": "en",
+                "width": 1920,
+                "height": 1080
+            },
+            {
+                "id": "tJUQlNtlG5JSTO0cl3p6uXtnZzc.jpg",
+                "link": "https://imdb-api.com/posters/original/tJUQlNtlG5JSTO0cl3p6uXtnZzc.jpg",
+                "aspectRatio": 1.7777777777777777,
+                "language": "en",
+                "width": 1920,
+                "height": 1080
+            },
+            {
+                "id": "gzTqaAKPg3ahs2Sfl9zjp5qS470.jpg",
+                "link": "https://imdb-api.com/posters/original/gzTqaAKPg3ahs2Sfl9zjp5qS470.jpg",
+                "aspectRatio": 1.7777777777777777,
+                "language": "en",
+                "width": 1920,
+                "height": 1080
+            },
+            {
+                "id": "vt3kX7HQ1F5gIOrk6UsV3PWkbCo.jpg",
+                "link": "https://imdb-api.com/posters/original/vt3kX7HQ1F5gIOrk6UsV3PWkbCo.jpg",
+                "aspectRatio": 1.7777777777777777,
+                "language": "en",
+                "width": 1920,
+                "height": 1080
+            },
+            {
+                "id": "f3XrGXd34Ru7o39LUwWvk5igEV7.jpg",
+                "link": "https://imdb-api.com/posters/original/f3XrGXd34Ru7o39LUwWvk5igEV7.jpg",
+                "aspectRatio": 1.7777777777777777,
+                "language": "en",
+                "width": 1600,
+                "height": 900
+            },
+            {
+                "id": "6hCliCoQpukRqUacTVBlhHpIyfb.jpg",
+                "link": "https://imdb-api.com/posters/original/6hCliCoQpukRqUacTVBlhHpIyfb.jpg",
+                "aspectRatio": 1.7777777777777777,
+                "language": "en",
+                "width": 1920,
+                "height": 1080
+            },
+            {
+                "id": "nR76GfqNfNXm8bpedqWkYF5SQb5.jpg",
+                "link": "https://imdb-api.com/posters/original/nR76GfqNfNXm8bpedqWkYF5SQb5.jpg",
+                "aspectRatio": 1.7781862745098038,
+                "language": "en",
+                "width": 1451,
+                "height": 816
+            },
+            {
+                "id": "yJhW4Ctxw0WcyWpFvYlsaUK91Gu.jpg",
+                "link": "https://imdb-api.com/posters/original/yJhW4Ctxw0WcyWpFvYlsaUK91Gu.jpg",
+                "aspectRatio": 1.7781862745098038,
+                "language": "en",
+                "width": 1451,
+                "height": 816
+            },
+            {
+                "id": "8xsW5z0nSApncMjjdJRKYUO4bwI.jpg",
+                "link": "https://imdb-api.com/posters/original/8xsW5z0nSApncMjjdJRKYUO4bwI.jpg",
+                "aspectRatio": 1.7777777777777777,
+                "language": "en",
+                "width": 2048,
+                "height": 1152
+            },
+            {
+                "id": "eOzZI5pjcVecwwBRK97W1iDaDFS.jpg",
+                "link": "https://imdb-api.com/posters/original/eOzZI5pjcVecwwBRK97W1iDaDFS.jpg",
+                "aspectRatio": 1.7781862745098038,
+                "language": "en",
+                "width": 1451,
+                "height": 816
+            },
+            {
+                "id": "4qcb6OTr7mbx9OmYVBFh3geIEDN.jpg",
+                "link": "https://imdb-api.com/posters/original/4qcb6OTr7mbx9OmYVBFh3geIEDN.jpg",
+                "aspectRatio": 1.7781862745098038,
+                "language": "en",
+                "width": 1451,
+                "height": 816
+            },
+            {
+                "id": "lSjfzxsls0r2IqxAJAMUcNn41CE.jpg",
+                "link": "https://imdb-api.com/posters/original/lSjfzxsls0r2IqxAJAMUcNn41CE.jpg",
+                "aspectRatio": 1.7781862745098038,
+                "language": "en",
+                "width": 1451,
+                "height": 816
+            }
+        ],
+        "errorMessage": ""
+    },
+    "images": {
+        "imDbId": "tt0082971",
+        "title": "Indiana Jones and the Raiders of the Lost Ark",
+        "fullTitle": "Indiana Jones and the Raiders of the Lost Ark (1981)",
+        "type": "Movie",
+        "year": "1981",
+        "items": [
+            {
+                "title": "Harrison Ford in Indiana Jones and the Raiders of the Lost Ark (1981)",
+                "image": "https://imdb-api.com/images/original/MV5BOTkwNDgwNjUwMV5BMl5BanBnXkFtZTcwODk0MzA4NA@@._V1_Ratio1.0000_AL_.jpg"
+            },
+            {
+                "title": "Harrison Ford, Karen Allen, Harry Fielder, and Alan Austen in Indiana Jones and the Raiders of the Lost Ark (1981)",
+                "image": "https://imdb-api.com/images/original/MV5BMTMzMDUzNjE5OV5BMl5BanBnXkFtZTcwOTk0MzA4NA@@._V1_Ratio2.0400_AL_.jpg"
+            },
+            {
+                "title": "Harrison Ford in Indiana Jones and the Raiders of the Lost Ark (1981)",
+                "image": "https://imdb-api.com/images/original/MV5BMTQwNzI5NTA1MV5BMl5BanBnXkFtZTcwMDA1MzA4NA@@._V1_Ratio1.0000_AL_.jpg"
+            },
+            {
+                "title": "Harrison Ford in Indiana Jones and the Raiders of the Lost Ark (1981)",
+                "image": "https://imdb-api.com/images/original/MV5BMTQ2ODIzODkzNl5BMl5BanBnXkFtZTcwMTA1MzA4NA@@._V1_Ratio1.5000_AL_.jpg"
+            },
+            {
+                "title": "Harrison Ford, Terry Leonard, and Sergio Mioni in Indiana Jones and the Raiders of the Lost Ark (1981)",
+                "image": "https://imdb-api.com/images/original/MV5BNDExMDYyMjYzM15BMl5BanBnXkFtZTcwMjA1MzA4NA@@._V1_Ratio1.4800_AL_.jpg"
+            },
+            {
+                "title": "Indiana Jones and the Raiders of the Lost Ark (1981)",
+                "image": "https://imdb-api.com/images/original/MV5BMjA5MDc1ODUxNV5BMl5BanBnXkFtZTcwMzA1MzA4NA@@._V1_Ratio1.5000_AL_.jpg"
+            },
+            {
+                "title": "Harrison Ford, Denholm Elliott, Don Fellows, and William Hootkins in Indiana Jones and the Raiders of the Lost Ark (1981)",
+                "image": "https://imdb-api.com/images/original/MV5BMTY4OTExMTc1Ml5BMl5BanBnXkFtZTcwNDA1MzA4NA@@._V1_Ratio1.5000_AL_.jpg"
+            },
+            {
+                "title": "Harrison Ford in Indiana Jones and the Raiders of the Lost Ark (1981)",
+                "image": "https://imdb-api.com/images/original/MV5BMjA3MTMxNDM5M15BMl5BanBnXkFtZTcwNTA1MzA4NA@@._V1_Ratio1.0000_AL_.jpg"
+            },
+            {
+                "title": "Harrison Ford and Denholm Elliott in Indiana Jones and the Raiders of the Lost Ark (1981)",
+                "image": "https://imdb-api.com/images/original/MV5BNTkwNzU5MjAwNl5BMl5BanBnXkFtZTcwNjA1MzA4NA@@._V1_Ratio1.5200_AL_.jpg"
+            },
+            {
+                "title": "Vic Tablian in Indiana Jones and the Raiders of the Lost Ark (1981)",
+                "image": "https://imdb-api.com/images/original/MV5BMTc5NTMxNTQzNV5BMl5BanBnXkFtZTcwNzA1MzA4NA@@._V1_Ratio1.0000_AL_.jpg"
+            },
+            {
+                "title": "Harrison Ford in Indiana Jones and the Raiders of the Lost Ark (1981)",
+                "image": "https://imdb-api.com/images/original/MV5BMTQyNzYwNDgyOV5BMl5BanBnXkFtZTcwODA1MzA4NA@@._V1_Ratio1.0000_AL_.jpg"
+            },
+            {
+                "title": "Indiana Jones and the Raiders of the Lost Ark (1981)",
+                "image": "https://imdb-api.com/images/original/MV5BMTc5MTc5Mzc3OV5BMl5BanBnXkFtZTcwOTA1MzA4NA@@._V1_Ratio1.5400_AL_.jpg"
+            },
+            {
+                "title": "Harrison Ford in Indiana Jones and the Raiders of the Lost Ark (1981)",
+                "image": "https://imdb-api.com/images/original/MV5BMjE5MTM3Nzc0N15BMl5BanBnXkFtZTcwMDE1MzA4NA@@._V1_Ratio1.5000_AL_.jpg"
+            },
+            {
+                "title": "Karen Allen and Paul Freeman in Indiana Jones and the Raiders of the Lost Ark (1981)",
+                "image": "https://imdb-api.com/images/original/MV5BMTExOTM2NDkzMDBeQTJeQWpwZ15BbWU3MDExNTMwODQ@._V1_Ratio1.5000_AL_.jpg"
+            },
+            {
+                "title": "Harrison Ford in Indiana Jones and the Raiders of the Lost Ark (1981)",
+                "image": "https://imdb-api.com/images/original/MV5BMjIwNjMxNDg5NF5BMl5BanBnXkFtZTcwMjE1MzA4NA@@._V1_Ratio1.0000_AL_.jpg"
+            },
+            {
+                "title": "Harrison Ford in Indiana Jones and the Raiders of the Lost Ark (1981)",
+                "image": "https://imdb-api.com/images/original/MV5BMjE1MDYyNzMxMV5BMl5BanBnXkFtZTcwMzE1MzA4NA@@._V1_Ratio1.0000_AL_.jpg"
+            },
+            {
+                "title": "Indiana Jones and the Raiders of the Lost Ark (1981)",
+                "image": "https://imdb-api.com/images/original/MV5BMTMxNTEwNzE4OV5BMl5BanBnXkFtZTcwNDE1MzA4NA@@._V1_Ratio1.0000_AL_.jpg"
+            },
+            {
+                "title": "John Rhys-Davies in Indiana Jones and the Raiders of the Lost Ark (1981)",
+                "image": "https://imdb-api.com/images/original/MV5BMjAxODUyODMxM15BMl5BanBnXkFtZTcwNTE1MzA4NA@@._V1_Ratio1.0000_AL_.jpg"
+            },
+            {
+                "title": "Indiana Jones and the Raiders of the Lost Ark (1981)",
+                "image": "https://imdb-api.com/images/original/MV5BMTY3NjE3NzcwMV5BMl5BanBnXkFtZTcwNjE1MzA4NA@@._V1_Ratio1.0000_AL_.jpg"
+            },
+            {
+                "title": "Indiana Jones and the Raiders of the Lost Ark (1981)",
+                "image": "https://imdb-api.com/images/original/MV5BMjA5Nzg1NjAyN15BMl5BanBnXkFtZTcwNzE1MzA4NA@@._V1_Ratio2.3600_AL_.jpg"
+            },
+            {
+                "title": "Harrison Ford in Indiana Jones and the Raiders of the Lost Ark (1981)",
+                "image": "https://imdb-api.com/images/original/MV5BMjEyNTU3NDk2Nl5BMl5BanBnXkFtZTcwNDYwOTExNA@@._V1_Ratio1.0000_AL_.jpg"
+            },
+            {
+                "title": "Harrison Ford in Indiana Jones and the Raiders of the Lost Ark (1981)",
+                "image": "https://imdb-api.com/images/original/MV5BMjA5MzgwMzA3OF5BMl5BanBnXkFtZTcwMDM4MzczMw@@._V1_Ratio1.4800_AL_.jpg"
+            },
+            {
+                "title": "Harrison Ford in Indiana Jones and the Raiders of the Lost Ark (1981)",
+                "image": "https://imdb-api.com/images/original/MV5BMjA5NDE1MjE3NV5BMl5BanBnXkFtZTcwMTM4MzczMw@@._V1_Ratio1.5200_AL_.jpg"
+            },
+            {
+                "title": "Harrison Ford and John Rhys-Davies in Indiana Jones and the Raiders of the Lost Ark (1981)",
+                "image": "https://imdb-api.com/images/original/MV5BMTkwNjE1OTE1MF5BMl5BanBnXkFtZTcwMjM4MzczMw@@._V1_Ratio1.5400_AL_.jpg"
+            },
+            {
+                "title": "Karen Allen in Indiana Jones and the Raiders of the Lost Ark (1981)",
+                "image": "https://imdb-api.com/images/original/MV5BMTM1MjM2MjQ5MV5BMl5BanBnXkFtZTcwMzM4MzczMw@@._V1_Ratio1.2600_AL_.jpg"
+            },
+            {
+                "title": "Harrison Ford and Karen Allen in Indiana Jones and the Raiders of the Lost Ark (1981)",
+                "image": "https://imdb-api.com/images/original/MV5BMTc3NzY5MjIyNF5BMl5BanBnXkFtZTcwNDM4MzczMw@@._V1_Ratio1.0000_AL_.jpg"
+            },
+            {
+                "title": "Harrison Ford and Karen Allen in Indiana Jones and the Raiders of the Lost Ark (1981)",
+                "image": "https://imdb-api.com/images/original/MV5BMTU1OTQxMzQ4MF5BMl5BanBnXkFtZTcwNTM4MzczMw@@._V1_Ratio1.5200_AL_.jpg"
+            },
+            {
+                "title": "Harrison Ford in Indiana Jones and the Raiders of the Lost Ark (1981)",
+                "image": "https://imdb-api.com/images/original/MV5BMTI5MDU2MzU4Nl5BMl5BanBnXkFtZTcwNjM4MzczMw@@._V1_Ratio1.5200_AL_.jpg"
+            },
+            {
+                "title": "Harrison Ford in Indiana Jones and the Raiders of the Lost Ark (1981)",
+                "image": "https://imdb-api.com/images/original/MV5BMTkwNTAzNjQ4MV5BMl5BanBnXkFtZTcwNzM4MzczMw@@._V1_Ratio1.4800_AL_.jpg"
+            },
+            {
+                "title": "Paul Freeman, Wolf Kahler, and Ronald Lacey in Indiana Jones and the Raiders of the Lost Ark (1981)",
+                "image": "https://imdb-api.com/images/original/MV5BMTMxNzM0NjYyOV5BMl5BanBnXkFtZTcwODM4MzczMw@@._V1_Ratio1.5000_AL_.jpg"
+            },
+            {
+                "title": "Harrison Ford in Indiana Jones and the Raiders of the Lost Ark (1981)",
+                "image": "https://imdb-api.com/images/original/MV5BMTM5NzM5ODE4N15BMl5BanBnXkFtZTcwOTM4MzczMw@@._V1_Ratio1.5000_AL_.jpg"
+            },
+            {
+                "title": "Harrison Ford and Karen Allen in Indiana Jones and the Raiders of the Lost Ark (1981)",
+                "image": "https://imdb-api.com/images/original/MV5BMjA3MTk1MjExMl5BMl5BanBnXkFtZTcwMDQ4MzczMw@@._V1_Ratio1.0000_AL_.jpg"
+            },
+            {
+                "title": "Harrison Ford in Indiana Jones and the Raiders of the Lost Ark (1981)",
+                "image": "https://imdb-api.com/images/original/MV5BMTcwMTcwNTM5OV5BMl5BanBnXkFtZTcwMTQ4MzczMw@@._V1_Ratio1.0000_AL_.jpg"
+            },
+            {
+                "title": "Harrison Ford and Steven Spielberg in Indiana Jones and the Raiders of the Lost Ark (1981)",
+                "image": "https://imdb-api.com/images/original/MV5BMTMwNzk2ODEyMV5BMl5BanBnXkFtZTcwMzQ4MzczMw@@._V1_Ratio1.5000_AL_.jpg"
+            },
+            {
+                "title": "Harrison Ford and Karen Allen in Indiana Jones and the Raiders of the Lost Ark (1981)",
+                "image": "https://imdb-api.com/images/original/MV5BMTQxMzg3NDI0OV5BMl5BanBnXkFtZTcwNDQ4MzczMw@@._V1_Ratio1.5000_AL_.jpg"
+            },
+            {
+                "title": "Steven Spielberg in Indiana Jones and the Raiders of the Lost Ark (1981)",
+                "image": "https://imdb-api.com/images/original/MV5BMTM0NTc2MDUwMF5BMl5BanBnXkFtZTcwNjQ4MzczMw@@._V1_Ratio1.5000_AL_.jpg"
+            },
+            {
+                "title": "Harrison Ford and Karen Allen in Indiana Jones and the Raiders of the Lost Ark (1981)",
+                "image": "https://imdb-api.com/images/original/MV5BMTczODAyMDQ4MF5BMl5BanBnXkFtZTcwNzQ4MzczMw@@._V1_Ratio1.4800_AL_.jpg"
+            },
+            {
+                "title": "Harrison Ford and Karen Allen in Indiana Jones and the Raiders of the Lost Ark (1981)",
+                "image": "https://imdb-api.com/images/original/MV5BMTM5NzY3MDgyOF5BMl5BanBnXkFtZTcwODQ4MzczMw@@._V1_Ratio1.5000_AL_.jpg"
+            },
+            {
+                "title": "Karen Allen in Indiana Jones and the Raiders of the Lost Ark (1981)",
+                "image": "https://imdb-api.com/images/original/MV5BMTgwNTIxMDk0Ml5BMl5BanBnXkFtZTcwOTQ4MzczMw@@._V1_Ratio1.4800_AL_.jpg"
+            },
+            {
+                "title": "Karen Allen in Indiana Jones and the Raiders of the Lost Ark (1981)",
+                "image": "https://imdb-api.com/images/original/MV5BMTkxNjY4Mjk0OF5BMl5BanBnXkFtZTcwMDU4MzczMw@@._V1_Ratio1.0000_AL_.jpg"
+            },
+            {
+                "title": "Harrison Ford in Indiana Jones and the Raiders of the Lost Ark (1981)",
+                "image": "https://imdb-api.com/images/original/MV5BOTkxMzQyMTY3Nl5BMl5BanBnXkFtZTcwMTU4MzczMw@@._V1_Ratio1.4600_AL_.jpg"
+            },
+            {
+                "title": "Harrison Ford in Indiana Jones and the Raiders of the Lost Ark (1981)",
+                "image": "https://imdb-api.com/images/original/MV5BMTExNDE3MTgxOTReQTJeQWpwZ15BbWU3MDI1ODM3MzM@._V1_Ratio1.4800_AL_.jpg"
+            },
+            {
+                "title": "Harrison Ford in Indiana Jones and the Raiders of the Lost Ark (1981)",
+                "image": "https://imdb-api.com/images/original/MV5BMjExMDQ1ODM3MF5BMl5BanBnXkFtZTcwOTY4MzczMw@@._V1_Ratio1.0000_AL_.jpg"
+            },
+            {
+                "title": "Indiana Jones and the Raiders of the Lost Ark (1981)",
+                "image": "https://imdb-api.com/images/original/MV5BMTc4MjU5MzcxOV5BMl5BanBnXkFtZTcwODY4MzczMw@@._V1_Ratio1.5000_AL_.jpg"
+            },
+            {
+                "title": "Indiana Jones and the Raiders of the Lost Ark (1981)",
+                "image": "https://imdb-api.com/images/original/MV5BMTMwNTg4NjE0M15BMl5BanBnXkFtZTcwMDc4MzczMw@@._V1_Ratio2.0000_AL_.jpg"
+            },
+            {
+                "title": "Indiana Jones and the Raiders of the Lost Ark (1981)",
+                "image": "https://imdb-api.com/images/original/MV5BMTUyMTM0MDIwN15BMl5BanBnXkFtZTcwMTc4MzczMw@@._V1_Ratio1.0000_AL_.jpg"
+            },
+            {
+                "title": "George Lucas and Steven Spielberg in Indiana Jones and the Raiders of the Lost Ark (1981)",
+                "image": "https://imdb-api.com/images/original/MV5BMTM2MzQ3MzgxOV5BMl5BanBnXkFtZTcwMjc4MzczMw@@._V1_Ratio1.0000_AL_.jpg"
+            },
+            {
+                "title": "Harrison Ford and George Lucas in Indiana Jones and the Raiders of the Lost Ark (1981)",
+                "image": "https://imdb-api.com/images/original/MV5BMTM2NTExMDA3N15BMl5BanBnXkFtZTcwMzc4MzczMw@@._V1_Ratio1.2400_AL_.jpg"
+            }
+        ],
+        "errorMessage": ""
+    },
+    "trailer": {
+        "imDbId": "tt0082971",
+        "title": "Raiders of the Lost Ark",
+        "fullTitle": "Raiders of the Lost Ark (1981)",
+        "type": "Movie",
+        "year": "1981",
+        "videoId": "vi3747396377",
+        "videoTitle": "Official HD Trailer",
+        "videoDescription": null,
+        "thumbnailUrl": "https://m.media-amazon.com/images/M/MV5BOGFhNTAyYjMtNGJlNi00NWFmLTllNTgtYzdhZjE5NmU4MTQ4XkEyXkFqcGdeQXJoYW5uYWg@._V1_.jpg",
+        "uploadDate": "09/14/2018 22:27:11",
+        "link": "https://www.imdb.com/video/vi3747396377",
+        "linkEmbed": "https://www.imdb.com/video/imdb/vi3747396377/imdb/embed",
+        "errorMessage": ""
+    },
+    "boxOffice": {
+        "budget": "$18,000,000 (estimated)",
+        "openingWeekendUSA": "$8,305,823, 14 June 1981",
+        "grossUSA": "$248,159,971",
+        "cumulativeWorldwideGross": "$389,925,971"
+    },
+    "tagline": "Indiana Jones - the new hero from the creators of JAWS and STAR WARS.",
+    "keywords": "ark of the covenant,nazi,indiana jones,archeologist,damsel in distress",
+    "keywordList": [
+        "ark of the covenant",
+        "nazi",
+        "indiana jones",
+        "archeologist",
+        "damsel in distress"
+    ],
+    "similars": [
+        {
+            "id": "tt0097576",
+            "title": "Indiana Jones and the Last Crusade",
+            "fullTitle": "Indiana Jones and the Last Crusade (1989)",
+            "year": "1989",
+            "image": "https://imdb-api.com/images/original/MV5BMjNkMzc2N2QtNjVlNS00ZTk5LTg0MTgtODY2MDAwNTMwZjBjXkEyXkFqcGdeQXVyNDk3NzU2MTQ@._V1_Ratio0.6737_AL_.jpg",
+            "plot": "In 1938, after his father Professor Henry Jones, Sr. goes missing while pursuing the Holy Grail, Professor Henry \"Indiana\" Jones, Jr. finds himself up against Adolf Hitler's Nazis again to stop them from obtaining its powers.",
+            "directors": "Steven Spielberg",
+            "stars": "Harrison Ford, Sean Connery, Alison Doody",
+            "genres": "Action, Adventure",
+            "imDbRating": "8.2"
+        },
+        {
+            "id": "tt0087469",
+            "title": "Indiana Jones and the Temple of Doom",
+            "fullTitle": "Indiana Jones and the Temple of Doom (1984)",
+            "year": "1984",
+            "image": "https://imdb-api.com/images/original/MV5BMGI1NTk2ZWMtMmI0YS00Yzg0LTljMzgtZTg4YjkyY2E5Zjc0XkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_Ratio0.6737_AL_.jpg",
+            "plot": "In 1935, Indiana Jones arrives in India, still part of the British Empire, and is asked to find a mystical stone. He then stumbles upon a secret cult committing enslavement and human sacrifices in the catacombs of an ancient palace.",
+            "directors": "Steven Spielberg",
+            "stars": "Harrison Ford, Kate Capshaw, Ke Huy Quan",
+            "genres": "Action, Adventure",
+            "imDbRating": "7.6"
+        },
+        {
+            "id": "tt0367882",
+            "title": "Indiana Jones and the Kingdom of the Crystal Skull",
+            "fullTitle": "Indiana Jones and the Kingdom of the Crystal Skull (2008)",
+            "year": "2008",
+            "image": "https://imdb-api.com/images/original/MV5BZDIzNzM5MDUtZmI5MC00NGQ5LWFlNzEtYzE3ODIxNDI3ZmNhXkEyXkFqcGdeQXVyNjQ4ODE4MzQ@._V1_Ratio0.6737_AL_.jpg",
+            "plot": "In 1957, archaeologist and adventurer Dr. Henry \"Indiana\" Jones, Jr. is called back into action and becomes entangled in a Soviet plot to uncover the secret behind mysterious artifacts known as the Crystal Skulls.",
+            "directors": "Steven Spielberg",
+            "stars": "Harrison Ford, Cate Blanchett, Shia LaBeouf",
+            "genres": "Action, Adventure",
+            "imDbRating": "6.1"
+        },
+        {
+            "id": "tt0088763",
+            "title": "Back to the Future",
+            "fullTitle": "Back to the Future (1985)",
+            "year": "1985",
+            "image": "https://imdb-api.com/images/original/MV5BZmU0M2Y1OGUtZjIxNi00ZjBkLTg1MjgtOWIyNThiZWIwYjRiXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_Ratio0.6737_AL_.jpg",
+            "plot": "Marty McFly, a 17-year-old high school student, is accidentally sent thirty years into the past in a time-traveling DeLorean invented by his close friend, the eccentric scientist Doc Brown.",
+            "directors": "Robert Zemeckis",
+            "stars": "Michael J. Fox, Christopher Lloyd, Lea Thompson",
+            "genres": "Adventure, Comedy, Sci-Fi",
+            "imDbRating": "8.5"
+        },
+        {
+            "id": "tt0076759",
+            "title": "Star Wars: Episode IV - A New Hope",
+            "fullTitle": "Star Wars: Episode IV - A New Hope (1977)",
+            "year": "1977",
+            "image": "https://imdb-api.com/images/original/MV5BNzVlY2MwMjktM2E4OS00Y2Y3LWE3ZjctYzhkZGM3YzA1ZWM2XkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_Ratio0.6737_AL_.jpg",
+            "plot": "Luke Skywalker joins forces with a Jedi Knight, a cocky pilot, a Wookiee and two droids to save the galaxy from the Empire's world-destroying battle station, while also attempting to rescue Princess Leia from the mysterious Darth Vader.",
+            "directors": "George Lucas",
+            "stars": "Mark Hamill, Harrison Ford, Carrie Fisher",
+            "genres": "Action, Adventure, Fantasy",
+            "imDbRating": "8.6"
+        },
+        {
+            "id": "tt0086190",
+            "title": "Star Wars: Episode VI - Return of the Jedi",
+            "fullTitle": "Star Wars: Episode VI - Return of the Jedi (1983)",
+            "year": "1983",
+            "image": "https://imdb-api.com/images/original/MV5BOWZlMjFiYzgtMTUzNC00Y2IzLTk1NTMtZmNhMTczNTk0ODk1XkEyXkFqcGdeQXVyNTAyODkwOQ@@._V1_Ratio0.6737_AL_.jpg",
+            "plot": "After a daring mission to rescue Han Solo from Jabba the Hutt, the Rebels dispatch to Endor to destroy the second Death Star. Meanwhile, Luke struggles to help Darth Vader back from the dark side without falling into the Emperor's trap.",
+            "directors": "Richard Marquand",
+            "stars": "Mark Hamill, Harrison Ford, Carrie Fisher",
+            "genres": "Action, Adventure, Fantasy",
+            "imDbRating": "8.3"
+        },
+        {
+            "id": "tt0080684",
+            "title": "Star Wars: Episode V - The Empire Strikes Back",
+            "fullTitle": "Star Wars: Episode V - The Empire Strikes Back (1980)",
+            "year": "1980",
+            "image": "https://imdb-api.com/images/original/MV5BYmU1NDRjNDgtMzhiMi00NjZmLTg5NGItZDNiZjU5NTU4OTE0XkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_Ratio0.6737_AL_.jpg",
+            "plot": "After the Rebels are brutally overpowered by the Empire on the ice planet Hoth, Luke Skywalker begins Jedi training with Yoda, while his friends are pursued by Darth Vader and a bounty hunter named Boba Fett all over the galaxy.",
+            "directors": "Irvin Kershner",
+            "stars": "Mark Hamill, Harrison Ford, Carrie Fisher",
+            "genres": "Action, Adventure, Fantasy",
+            "imDbRating": "8.7"
+        },
+        {
+            "id": "tt0107290",
+            "title": "Jurassic Park",
+            "fullTitle": "Jurassic Park (1993)",
+            "year": "1993",
+            "image": "https://imdb-api.com/images/original/MV5BMjM2MDgxMDg0Nl5BMl5BanBnXkFtZTgwNTM2OTM5NDE@._V1_Ratio0.6737_AL_.jpg",
+            "plot": "A pragmatic paleontologist visiting an almost complete theme park is tasked with protecting a couple of kids after a power failure causes the park's cloned dinosaurs to run loose.",
+            "directors": "Steven Spielberg",
+            "stars": "Sam Neill, Laura Dern, Jeff Goldblum",
+            "genres": "Action, Adventure, Sci-Fi",
+            "imDbRating": "8.1"
+        },
+        {
+            "id": "tt0078748",
+            "title": "Alien",
+            "fullTitle": "Alien (1979)",
+            "year": "1979",
+            "image": "https://imdb-api.com/images/original/MV5BMmQ2MmU3NzktZjAxOC00ZDZhLTk4YzEtMDMyMzcxY2IwMDAyXkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_Ratio0.6737_AL_.jpg",
+            "plot": "After a space merchant vessel receives an unknown transmission as a distress call, one of the crew is attacked by a mysterious life form and they soon realize that its life cycle has merely begun.",
+            "directors": "Ridley Scott",
+            "stars": "Sigourney Weaver, Tom Skerritt, John Hurt",
+            "genres": "Horror, Sci-Fi",
+            "imDbRating": "8.4"
+        },
+        {
+            "id": "tt0103064",
+            "title": "Terminator 2: Judgment Day",
+            "fullTitle": "Terminator 2: Judgment Day (1991)",
+            "year": "1991",
+            "image": "https://imdb-api.com/images/original/MV5BMGU2NzRmZjUtOGUxYS00ZjdjLWEwZWItY2NlM2JhNjkxNTFmXkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_Ratio0.6737_AL_.jpg",
+            "plot": "A cyborg, identical to the one who failed to kill Sarah Connor, must now protect her ten year old son, John Connor, from a more advanced and powerful cyborg.",
+            "directors": "James Cameron",
+            "stars": "Arnold Schwarzenegger, Linda Hamilton, Edward Furlong",
+            "genres": "Action, Sci-Fi",
+            "imDbRating": "8.5"
+        },
+        {
+            "id": "tt0095016",
+            "title": "Die Hard",
+            "fullTitle": "Die Hard (1988)",
+            "year": "1988",
+            "image": "https://imdb-api.com/images/original/MV5BZjRlNDUxZjAtOGQ4OC00OTNlLTgxNmQtYTBmMDgwZmNmNjkxXkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_Ratio0.6737_AL_.jpg",
+            "plot": "An NYPD officer tries to save his wife and several others taken hostage by German terrorists during a Christmas party at the Nakatomi Plaza in Los Angeles.",
+            "directors": "John McTiernan",
+            "stars": "Bruce Willis, Alan Rickman, Bonnie Bedelia",
+            "genres": "Action, Thriller",
+            "imDbRating": "8.2"
+        },
+        {
+            "id": "tt0172495",
+            "title": "Gladiator",
+            "fullTitle": "Gladiator (2000)",
+            "year": "2000",
+            "image": "https://imdb-api.com/images/original/MV5BMDliMmNhNDEtODUyOS00MjNlLTgxODEtN2U3NzIxMGVkZTA1L2ltYWdlXkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_Ratio0.6737_AL_.jpg",
+            "plot": "A former Roman General sets out to exact vengeance against the corrupt emperor who murdered his family and sent him into slavery.",
+            "directors": "Ridley Scott",
+            "stars": "Russell Crowe, Joaquin Phoenix, Connie Nielsen",
+            "genres": "Action, Adventure, Drama",
+            "imDbRating": "8.5"
+        }
+    ],
+    "tvSeriesInfo": null,
+    "tvEpisodeInfo": null,
+    "errorMessage": ""
+}

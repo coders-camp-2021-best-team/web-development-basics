@@ -1,0 +1,885 @@
+{
+    "id": "tt0056172",
+    "title": "Lawrence of Arabia",
+    "originalTitle": "",
+    "fullTitle": "Lawrence of Arabia (1962)",
+    "type": "Movie",
+    "year": "1962",
+    "image": "https://imdb-api.com/images/original/MV5BYWY5ZjhjNGYtZmI2Ny00ODM0LWFkNzgtZmI1YzA2N2MxMzA0XkEyXkFqcGdeQXVyNjUwNzk3NDc@._V1_Ratio0.6940_AL_.jpg",
+    "releaseDate": "1962-12-11",
+    "runtimeMins": "228",
+    "runtimeStr": "3h 48mins",
+    "plot": "Due to his knowledge of the native Bedouin tribes, British Lieutenant T.E. Lawrence is sent to Arabia to find Prince Faisal and serve as a liaison between the Arabs and the British in their fight against the Turks. With the aid of native Sherif Ali, Lawrence rebels against the orders of his superior officer and strikes out on a daring camel journey across the harsh desert to attack a well-guarded Turkish port.",
+    "plotLocal": "",
+    "plotLocalIsRtl": false,
+    "awards": "Top Rated Movies #114 | Won 7 Oscars. Another 24 wins & 14 nominations.",
+    "directors": "David Lean",
+    "directorList": [{ "id": "nm0000180", "name": "David Lean" }],
+    "writers": "T.E. Lawrence, Robert Bolt, Michael Wilson",
+    "writerList": [
+        { "id": "nm0493042", "name": "T.E. Lawrence" },
+        { "id": "nm0004122", "name": "Robert Bolt" },
+        { "id": "nm0933858", "name": "Michael Wilson" }
+    ],
+    "stars": "Peter O'Toole, Alec Guinness, Anthony Quinn, Jack Hawkins",
+    "starList": [
+        { "id": "nm0000564", "name": "Peter O'Toole" },
+        { "id": "nm0000027", "name": "Alec Guinness" },
+        { "id": "nm0000063", "name": "Anthony Quinn" },
+        { "id": "nm0370144", "name": "Jack Hawkins" }
+    ],
+    "actorList": [
+        {
+            "id": "nm0000564",
+            "image": "https://imdb-api.com/images/original/MV5BMjA0MDYyNzczN15BMl5BanBnXkFtZTYwNjMzNjMz._V1_Ratio0.7273_AL_.jpg",
+            "name": "Peter O'Toole",
+            "asCharacter": "Lawrence"
+        },
+        {
+            "id": "nm0000027",
+            "image": "https://imdb-api.com/images/original/MV5BMTIxMTA5OTI2M15BMl5BanBnXkFtZTYwNjEwNjU2._V1_Ratio0.7727_AL_.jpg",
+            "name": "Alec Guinness",
+            "asCharacter": "Prince Faisal"
+        },
+        {
+            "id": "nm0000063",
+            "image": "https://imdb-api.com/images/original/MV5BMTY2MTAxMzIxMV5BMl5BanBnXkFtZTYwODc3OTE2._V1_Ratio0.7273_AL_.jpg",
+            "name": "Anthony Quinn",
+            "asCharacter": "Auda Abu Tayi"
+        },
+        {
+            "id": "nm0370144",
+            "image": "https://imdb-api.com/images/original/MV5BMTU0MTk0NzI5OF5BMl5BanBnXkFtZTcwNTI1NjQwOA@@._V1_Ratio0.7273_AL_.jpg",
+            "name": "Jack Hawkins",
+            "asCharacter": "General Allenby"
+        },
+        {
+            "id": "nm0001725",
+            "image": "https://imdb-api.com/images/original/MV5BMTU0ODg3MjM0OF5BMl5BanBnXkFtZTYwNTM2MDU0._V1_Ratio0.7273_AL_.jpg",
+            "name": "Omar Sharif",
+            "asCharacter": "Sherif Ali"
+        },
+        {
+            "id": "nm0001207",
+            "image": "https://imdb-api.com/images/original/MV5BMTIwODAwMzM0M15BMl5BanBnXkFtZTYwNjc1MjI2._V1_Ratio0.7727_AL_.jpg",
+            "name": "José Ferrer",
+            "asCharacter": "Turkish Bey (as Jose Ferrer)"
+        },
+        {
+            "id": "nm0703033",
+            "image": "https://imdb-api.com/images/original/MV5BMjE0NzE5NjkyNl5BMl5BanBnXkFtZTcwMDg4NTUwOA@@._V1_Ratio0.7727_AL_.jpg",
+            "name": "Anthony Quayle",
+            "asCharacter": "Colonel Brighton"
+        },
+        {
+            "id": "nm0001647",
+            "image": "https://imdb-api.com/images/original/MV5BMTQwNDc3NjQ1OF5BMl5BanBnXkFtZTcwMjQ0NjI5Nw@@._V1_Ratio0.7273_AL_.jpg",
+            "name": "Claude Rains",
+            "asCharacter": "Mr. Dryden"
+        },
+        {
+            "id": "nm0447913",
+            "image": "https://imdb-api.com/images/original/MV5BZjNhMzU2OGMtNGQ5NC00MTA2LThmYmQtZGZjYTc3YjUwMzU1XkEyXkFqcGdeQXVyMzk3NTUwOQ@@._V1_Ratio0.8182_AL_.jpg",
+            "name": "Arthur Kennedy",
+            "asCharacter": "Jackson Bentley"
+        },
+        {
+            "id": "nm0938372",
+            "image": "https://imdb-api.com/images/original/MV5BMjAyNDgwNjYzNV5BMl5BanBnXkFtZTcwNzE2NzcwOA@@._V1_Ratio1.5000_AL_.jpg",
+            "name": "Donald Wolfit",
+            "asCharacter": "General Murray"
+        },
+        {
+            "id": "nm0424102",
+            "image": "https://imdb-api.com/images/original/MV5BZjMzYjczMGEtMmZhMS00ZTI1LTk3ODktYzA2NzljYzBmYTc3XkEyXkFqcGdeQXVyMTExNDQ2MTI@._V1_Ratio0.7727_AL_.jpg",
+            "name": "I.S. Johar",
+            "asCharacter": "Gasim"
+        },
+        {
+            "id": "nm0711633",
+            "image": "https://imdb-api.com/images/original/MV5BYmY0NDA2MDQtM2Y3NC00NDA5LTg2NzktNDViNjFiN2JiOWI2XkEyXkFqcGdeQXVyNTc3MjUzNTI@._V1_Ratio1.7727_AL_.jpg",
+            "name": "Gamil Ratib",
+            "asCharacter": "Majid"
+        },
+        {
+            "id": "nm0712935",
+            "image": "https://imdb-api.com/images/original/MV5BNjUxMDg4OTEzNV5BMl5BanBnXkFtZTgwOTI4NTM2MjE@._V1_Ratio1.3182_AL_.jpg",
+            "name": "Michel Ray",
+            "asCharacter": "Farraj"
+        },
+        {
+            "id": "nm0227249",
+            "image": "https://imdb-api.com/images/original/MV5BN2U4YWJmYTgtMjQzMy00MDdmLTg1M2UtOTU4ZjZjYmVhNWJlXkEyXkFqcGdeQXVyMjk3NTUyOTc@._V1_Ratio1.2273_AL_.jpg",
+            "name": "John Dimech",
+            "asCharacter": "Daud"
+        },
+        {
+            "id": "nm0596109",
+            "image": "https://imdb-api.com/images/original/MV5BNzU1MjUyNzQwMl5BMl5BanBnXkFtZTgwMjQ5OTc5MTE@._V1_Ratio1.7727_AL_.jpg",
+            "name": "Zia Mohyeddin",
+            "asCharacter": "Tafas"
+        }
+    ],
+    "fullCast": null,
+    "genres": "Adventure, Biography, Drama, History, War",
+    "genreList": [
+        { "key": "Adventure", "value": "Adventure" },
+        { "key": "Biography", "value": "Biography" },
+        { "key": "Drama", "value": "Drama" },
+        { "key": "History", "value": "History" },
+        { "key": "War", "value": "War" }
+    ],
+    "companies": "Horizon Pictures (II)",
+    "companyList": [{ "id": "co0103190", "name": "Horizon Pictures (II)" }],
+    "countries": "UK",
+    "countryList": [{ "key": "UK", "value": "UK" }],
+    "languages": "English, Arabic, Turkish",
+    "languageList": [
+        { "key": "English", "value": "English" },
+        { "key": "Arabic", "value": "Arabic" },
+        { "key": "Turkish", "value": "Turkish" }
+    ],
+    "contentRating": "Approved",
+    "imDbRating": "8.3",
+    "imDbRatingVotes": "271459",
+    "metacriticRating": "100",
+    "ratings": null,
+    "wikipedia": null,
+    "posters": {
+        "imDbId": "tt0056172",
+        "title": "Lawrence of Arabia",
+        "fullTitle": "Lawrence of Arabia (1962)",
+        "type": "Movie",
+        "year": "1962",
+        "posters": [
+            {
+                "id": "yBc8a5wQL7FmSra4TgcdNrBcoP9.jpg",
+                "link": "https://imdb-api.com/posters/original/yBc8a5wQL7FmSra4TgcdNrBcoP9.jpg",
+                "aspectRatio": 0.6667857142857143,
+                "language": "en",
+                "width": 1867,
+                "height": 2800
+            },
+            {
+                "id": "vOEbimiBaTQr9SDFfDHHWCZdZK2.jpg",
+                "link": "https://imdb-api.com/posters/original/vOEbimiBaTQr9SDFfDHHWCZdZK2.jpg",
+                "aspectRatio": 0.6666666666666666,
+                "language": "en",
+                "width": 2000,
+                "height": 3000
+            },
+            {
+                "id": "aT8KrHLdb6jPrrbu92vIXG6kV3A.jpg",
+                "link": "https://imdb-api.com/posters/original/aT8KrHLdb6jPrrbu92vIXG6kV3A.jpg",
+                "aspectRatio": 0.6666666666666666,
+                "language": "en",
+                "width": 2000,
+                "height": 3000
+            },
+            {
+                "id": "o0dLYpdPVbiX6bAhUe7Jzajxxhe.jpg",
+                "link": "https://imdb-api.com/posters/original/o0dLYpdPVbiX6bAhUe7Jzajxxhe.jpg",
+                "aspectRatio": 0.6666666666666666,
+                "language": "en",
+                "width": 1000,
+                "height": 1500
+            },
+            {
+                "id": "akKFDZvUGEeWbTLLmboeM0ny1BH.jpg",
+                "link": "https://imdb-api.com/posters/original/akKFDZvUGEeWbTLLmboeM0ny1BH.jpg",
+                "aspectRatio": 0.6666666666666666,
+                "language": "en",
+                "width": 1370,
+                "height": 2055
+            },
+            {
+                "id": "tkqLm95rgUsCaOSEWxoT2PESD1R.jpg",
+                "link": "https://imdb-api.com/posters/original/tkqLm95rgUsCaOSEWxoT2PESD1R.jpg",
+                "aspectRatio": 0.6659729448491155,
+                "language": "en",
+                "width": 1280,
+                "height": 1922
+            },
+            {
+                "id": "npPneQcB55wmoMLilnLD9RKXgFq.jpg",
+                "link": "https://imdb-api.com/posters/original/npPneQcB55wmoMLilnLD9RKXgFq.jpg",
+                "aspectRatio": 0.6666666666666666,
+                "language": "en",
+                "width": 2000,
+                "height": 3000
+            },
+            {
+                "id": "qzbO1oFdwBeSNyOJQxkzevp4oVf.jpg",
+                "link": "https://imdb-api.com/posters/original/qzbO1oFdwBeSNyOJQxkzevp4oVf.jpg",
+                "aspectRatio": 0.693,
+                "language": "en",
+                "width": 693,
+                "height": 1000
+            },
+            {
+                "id": "kAq5XH5sNTHmNASzzMO8L0cBAwC.jpg",
+                "link": "https://imdb-api.com/posters/original/kAq5XH5sNTHmNASzzMO8L0cBAwC.jpg",
+                "aspectRatio": 0.6666666666666666,
+                "language": "en",
+                "width": 500,
+                "height": 750
+            },
+            {
+                "id": "fhoreP1zn3FD48R0ZPplV1Yk9As.jpg",
+                "link": "https://imdb-api.com/posters/original/fhoreP1zn3FD48R0ZPplV1Yk9As.jpg",
+                "aspectRatio": 0.6756756756756757,
+                "language": "en",
+                "width": 1000,
+                "height": 1480
+            },
+            {
+                "id": "ilNxAvDZBakE839QPNClQRr13oi.jpg",
+                "link": "https://imdb-api.com/posters/original/ilNxAvDZBakE839QPNClQRr13oi.jpg",
+                "aspectRatio": 0.6996491228070175,
+                "language": "en",
+                "width": 997,
+                "height": 1425
+            },
+            {
+                "id": "kkSRW8Aj7QuORKJUoOvKcqjyxKh.jpg",
+                "link": "https://imdb-api.com/posters/original/kkSRW8Aj7QuORKJUoOvKcqjyxKh.jpg",
+                "aspectRatio": 0.6666666666666666,
+                "language": "en",
+                "width": 1000,
+                "height": 1500
+            },
+            {
+                "id": "2E1IMSym4Jw5RdkdY5Casy0Soug.jpg",
+                "link": "https://imdb-api.com/posters/original/2E1IMSym4Jw5RdkdY5Casy0Soug.jpg",
+                "aspectRatio": 0.6666666666666666,
+                "language": "en",
+                "width": 1000,
+                "height": 1500
+            },
+            {
+                "id": "a9hhPauDesDPTiQIyv7Z8A3yAA.jpg",
+                "link": "https://imdb-api.com/posters/original/a9hhPauDesDPTiQIyv7Z8A3yAA.jpg",
+                "aspectRatio": 0.6666666666666666,
+                "language": "en",
+                "width": 1000,
+                "height": 1500
+            },
+            {
+                "id": "ie3j6i3gg8GQx80d74DJhV3Gs1z.jpg",
+                "link": "https://imdb-api.com/posters/original/ie3j6i3gg8GQx80d74DJhV3Gs1z.jpg",
+                "aspectRatio": 0.6666666666666666,
+                "language": "en",
+                "width": 500,
+                "height": 750
+            },
+            {
+                "id": "kbkrxQ8FpJ09mMwgaLZG6HJ0xv4.jpg",
+                "link": "https://imdb-api.com/posters/original/kbkrxQ8FpJ09mMwgaLZG6HJ0xv4.jpg",
+                "aspectRatio": 0.6666666666666666,
+                "language": "en",
+                "width": 800,
+                "height": 1200
+            },
+            {
+                "id": "xRq9dfYTKTkpVi8M004R9SdVpDk.jpg",
+                "link": "https://imdb-api.com/posters/original/xRq9dfYTKTkpVi8M004R9SdVpDk.jpg",
+                "aspectRatio": 0.6666666666666666,
+                "language": "en",
+                "width": 2000,
+                "height": 3000
+            },
+            {
+                "id": "fudAqr5SIQz5XNrVqRcq117WXWT.jpg",
+                "link": "https://imdb-api.com/posters/original/fudAqr5SIQz5XNrVqRcq117WXWT.jpg",
+                "aspectRatio": 0.6666666666666666,
+                "language": "en",
+                "width": 1400,
+                "height": 2100
+            },
+            {
+                "id": "nGZ2fOAZWwVWVqj0lSvR1MlpL0D.jpg",
+                "link": "https://imdb-api.com/posters/original/nGZ2fOAZWwVWVqj0lSvR1MlpL0D.jpg",
+                "aspectRatio": 0.6666666666666666,
+                "language": "en",
+                "width": 1000,
+                "height": 1500
+            },
+            {
+                "id": "bmCnygJyxKF0GYisNzysttDBxnR.jpg",
+                "link": "https://imdb-api.com/posters/original/bmCnygJyxKF0GYisNzysttDBxnR.jpg",
+                "aspectRatio": 0.6666666666666666,
+                "language": "en",
+                "width": 800,
+                "height": 1200
+            },
+            {
+                "id": "pr2P9ijf3JqyV7RtnXXfEKtTUuJ.jpg",
+                "link": "https://imdb-api.com/posters/original/pr2P9ijf3JqyV7RtnXXfEKtTUuJ.jpg",
+                "aspectRatio": 0.666,
+                "language": "en",
+                "width": 666,
+                "height": 1000
+            },
+            {
+                "id": "AiAm0EtDvyGqNpVoieRw4u65vD1.jpg",
+                "link": "https://imdb-api.com/posters/original/AiAm0EtDvyGqNpVoieRw4u65vD1.jpg",
+                "aspectRatio": 0.6666666666666666,
+                "language": "en",
+                "width": 2000,
+                "height": 3000
+            },
+            {
+                "id": "5GReHMnonQJTb6J7kzG6FjrVzUl.jpg",
+                "link": "https://imdb-api.com/posters/original/5GReHMnonQJTb6J7kzG6FjrVzUl.jpg",
+                "aspectRatio": 0.6666666666666666,
+                "language": "en",
+                "width": 2000,
+                "height": 3000
+            },
+            {
+                "id": "6UZLoUcfzuW60HTY1mlvFySXZSO.jpg",
+                "link": "https://imdb-api.com/posters/original/6UZLoUcfzuW60HTY1mlvFySXZSO.jpg",
+                "aspectRatio": 0.6668975069252078,
+                "language": "en",
+                "width": 963,
+                "height": 1444
+            },
+            {
+                "id": "tGMkU5MS1P0bCTRJYMTVESiSH0o.jpg",
+                "link": "https://imdb-api.com/posters/original/tGMkU5MS1P0bCTRJYMTVESiSH0o.jpg",
+                "aspectRatio": 0.666,
+                "language": "en",
+                "width": 666,
+                "height": 1000
+            }
+        ],
+        "backdrops": [
+            {
+                "id": "v1MGuvJstnhVsBL3rM8zkUpXLLG.jpg",
+                "link": "https://imdb-api.com/posters/original/v1MGuvJstnhVsBL3rM8zkUpXLLG.jpg",
+                "aspectRatio": 1.7777777777777777,
+                "language": "en",
+                "width": 1920,
+                "height": 1080
+            },
+            {
+                "id": "pLdU1ftzhyryAdonI1rq2zXsyJd.jpg",
+                "link": "https://imdb-api.com/posters/original/pLdU1ftzhyryAdonI1rq2zXsyJd.jpg",
+                "aspectRatio": 1.7766666666666666,
+                "language": "en",
+                "width": 1599,
+                "height": 900
+            },
+            {
+                "id": "9Yht6Ho4y213OqeHBIQyuI919fT.jpg",
+                "link": "https://imdb-api.com/posters/original/9Yht6Ho4y213OqeHBIQyuI919fT.jpg",
+                "aspectRatio": 1.7777777777777777,
+                "language": "en",
+                "width": 1920,
+                "height": 1080
+            },
+            {
+                "id": "49EQNQuFY9YqBZaJuXtVVOiwYF5.jpg",
+                "link": "https://imdb-api.com/posters/original/49EQNQuFY9YqBZaJuXtVVOiwYF5.jpg",
+                "aspectRatio": 1.7781569965870307,
+                "language": "en",
+                "width": 1563,
+                "height": 879
+            },
+            {
+                "id": "6wmemKdbkOIaWfzz607K21R6qOh.jpg",
+                "link": "https://imdb-api.com/posters/original/6wmemKdbkOIaWfzz607K21R6qOh.jpg",
+                "aspectRatio": 1.7777777777777777,
+                "language": "en",
+                "width": 2000,
+                "height": 1125
+            },
+            {
+                "id": "mx2jS5Kaa5rmaldEFzKeKpDN9Q2.jpg",
+                "link": "https://imdb-api.com/posters/original/mx2jS5Kaa5rmaldEFzKeKpDN9Q2.jpg",
+                "aspectRatio": 1.7777777777777777,
+                "language": "en",
+                "width": 3840,
+                "height": 2160
+            },
+            {
+                "id": "aDXTDscviJu8RKCbV1Abnd8e4jP.jpg",
+                "link": "https://imdb-api.com/posters/original/aDXTDscviJu8RKCbV1Abnd8e4jP.jpg",
+                "aspectRatio": 1.7777777777777777,
+                "language": "en",
+                "width": 1920,
+                "height": 1080
+            },
+            {
+                "id": "dvMPSliyz58UAIEG29TqPE9sZfg.jpg",
+                "link": "https://imdb-api.com/posters/original/dvMPSliyz58UAIEG29TqPE9sZfg.jpg",
+                "aspectRatio": 1.7771084337349397,
+                "language": "en",
+                "width": 1770,
+                "height": 996
+            },
+            {
+                "id": "bCemdbdmGHjhJbvE5Z06rIeO1mx.jpg",
+                "link": "https://imdb-api.com/posters/original/bCemdbdmGHjhJbvE5Z06rIeO1mx.jpg",
+                "aspectRatio": 1.7777777777777777,
+                "language": "en",
+                "width": 1920,
+                "height": 1080
+            },
+            {
+                "id": "2qV8Lufv4iKiF429Z2lBvwYz3lv.jpg",
+                "link": "https://imdb-api.com/posters/original/2qV8Lufv4iKiF429Z2lBvwYz3lv.jpg",
+                "aspectRatio": 1.7777777777777777,
+                "language": "en",
+                "width": 3840,
+                "height": 2160
+            },
+            {
+                "id": "tZZ3tyKE8Y0jhMX8azOdAdHR1L5.jpg",
+                "link": "https://imdb-api.com/posters/original/tZZ3tyKE8Y0jhMX8azOdAdHR1L5.jpg",
+                "aspectRatio": 1.776551724137931,
+                "language": "en",
+                "width": 1288,
+                "height": 725
+            },
+            {
+                "id": "rXNzGfbPGstu0FDCQa62NPJFVfO.jpg",
+                "link": "https://imdb-api.com/posters/original/rXNzGfbPGstu0FDCQa62NPJFVfO.jpg",
+                "aspectRatio": 1.7777777777777777,
+                "language": "en",
+                "width": 2000,
+                "height": 1125
+            },
+            {
+                "id": "fEl2W6FvIxc65tMb4ox81C3KyON.jpg",
+                "link": "https://imdb-api.com/posters/original/fEl2W6FvIxc65tMb4ox81C3KyON.jpg",
+                "aspectRatio": 1.7777777777777777,
+                "language": "en",
+                "width": 2000,
+                "height": 1125
+            },
+            {
+                "id": "jneVwy88Ml9h8JXnHXruf7rsvTi.jpg",
+                "link": "https://imdb-api.com/posters/original/jneVwy88Ml9h8JXnHXruf7rsvTi.jpg",
+                "aspectRatio": 1.7777777777777777,
+                "language": "en",
+                "width": 2000,
+                "height": 1125
+            },
+            {
+                "id": "dDymQcT6PHxz53IxBnoxDjXJuNL.jpg",
+                "link": "https://imdb-api.com/posters/original/dDymQcT6PHxz53IxBnoxDjXJuNL.jpg",
+                "aspectRatio": 1.7777777777777777,
+                "language": "en",
+                "width": 2000,
+                "height": 1125
+            },
+            {
+                "id": "rONlcdvsVgGtgwCvX5RCezv3fKI.jpg",
+                "link": "https://imdb-api.com/posters/original/rONlcdvsVgGtgwCvX5RCezv3fKI.jpg",
+                "aspectRatio": 1.7777777777777777,
+                "language": "en",
+                "width": 1920,
+                "height": 1080
+            },
+            {
+                "id": "jrBQn0RUEVHNI1L9QLhfsksi9x2.jpg",
+                "link": "https://imdb-api.com/posters/original/jrBQn0RUEVHNI1L9QLhfsksi9x2.jpg",
+                "aspectRatio": 1.7777777777777777,
+                "language": "en",
+                "width": 1920,
+                "height": 1080
+            },
+            {
+                "id": "ja4qsFtjSGSJgeOkOPCOlc3aQyg.jpg",
+                "link": "https://imdb-api.com/posters/original/ja4qsFtjSGSJgeOkOPCOlc3aQyg.jpg",
+                "aspectRatio": 1.7777777777777777,
+                "language": "en",
+                "width": 1920,
+                "height": 1080
+            }
+        ],
+        "errorMessage": ""
+    },
+    "images": {
+        "imDbId": "tt0056172",
+        "title": "Lawrence of Arabia",
+        "fullTitle": "Lawrence of Arabia (1962)",
+        "type": "Movie",
+        "year": "1962",
+        "items": [
+            {
+                "title": "David Lean and Peter O'Toole in Lawrence of Arabia (1962)",
+                "image": "https://imdb-api.com/images/original/MV5BYmRiODBiMDgtZTRjMy00ZmFjLWJiNDQtYmJjNTgyYjA3ZmMxXkEyXkFqcGdeQXVyMDM2NDM2MQ@@._V1_Ratio1.3400_AL_.jpg"
+            },
+            {
+                "title": "Lawrence of Arabia (1962)",
+                "image": "https://imdb-api.com/images/original/MV5BMTQ2MzQ3NTg3MV5BMl5BanBnXkFtZTgwMTY3ODk5MTE@._V1_Ratio1.0000_AL_.jpg"
+            },
+            {
+                "title": "Peter O'Toole in Lawrence of Arabia (1962)",
+                "image": "https://imdb-api.com/images/original/MV5BMjI4NjcwNzE2Ml5BMl5BanBnXkFtZTgwMjY3ODk5MTE@._V1_Ratio1.9000_AL_.jpg"
+            },
+            {
+                "title": "Anthony Quinn, Peter O'Toole, and Omar Sharif in Lawrence of Arabia (1962)",
+                "image": "https://imdb-api.com/images/original/MV5BMTAwNjUyMDgxMTFeQTJeQWpwZ15BbWU4MDM2Nzg5OTEx._V1_Ratio2.3200_AL_.jpg"
+            },
+            {
+                "title": "Peter O'Toole in Lawrence of Arabia (1962)",
+                "image": "https://imdb-api.com/images/original/MV5BMjA1NDU1OTY3NF5BMl5BanBnXkFtZTgwNDY3ODk5MTE@._V1_Ratio1.5400_AL_.jpg"
+            },
+            {
+                "title": "Peter O'Toole and Zia Mohyeddin in Lawrence of Arabia (1962)",
+                "image": "https://imdb-api.com/images/original/MV5BNzU1MjUyNzQwMl5BMl5BanBnXkFtZTgwMjQ5OTc5MTE@._V1_Ratio1.7800_AL_.jpg"
+            },
+            {
+                "title": "Peter O'Toole and Zia Mohyeddin in Lawrence of Arabia (1962)",
+                "image": "https://imdb-api.com/images/original/MV5BMjE3NzkxNzU1N15BMl5BanBnXkFtZTgwOTM5OTc5MTE@._V1_Ratio1.7800_AL_.jpg"
+            },
+            {
+                "title": "Peter O'Toole in Lawrence of Arabia (1962)",
+                "image": "https://imdb-api.com/images/original/MV5BOTQ1MzExOTA5OV5BMl5BanBnXkFtZTgwMDQ5OTc5MTE@._V1_Ratio1.7800_AL_.jpg"
+            },
+            {
+                "title": "Anthony Quinn, Peter O'Toole, and Omar Sharif in Lawrence of Arabia (1962)",
+                "image": "https://imdb-api.com/images/original/MV5BMjA1MjI0Njc4NV5BMl5BanBnXkFtZTgwMTQ5OTc5MTE@._V1_Ratio1.7800_AL_.jpg"
+            },
+            {
+                "title": "Peter O'Toole in Lawrence of Arabia (1962)",
+                "image": "https://imdb-api.com/images/original/MV5BMTQ0MDI2OTk2Ml5BMl5BanBnXkFtZTgwODM5OTc5MTE@._V1_Ratio1.7800_AL_.jpg"
+            },
+            {
+                "title": "Auda's Guards",
+                "image": "https://imdb-api.com/images/original/MV5BMTg1Njc2MzE1MV5BMl5BanBnXkFtZTYwODU3Nzc2._V1_Ratio2.3000_AL_.jpg"
+            },
+            {
+                "title": "A caravan",
+                "image": "https://imdb-api.com/images/original/MV5BMjE3NTg4MDEzMF5BMl5BanBnXkFtZTYwMTY3Nzc2._V1_Ratio2.9200_AL_.jpg"
+            },
+            {
+                "title": "Alone in the desert",
+                "image": "https://imdb-api.com/images/original/MV5BNDY3ODEzOTc4NF5BMl5BanBnXkFtZTYwMjY3Nzc2._V1_Ratio3.1800_AL_.jpg"
+            },
+            {
+                "title": "Auda, Lawrence & Ali",
+                "image": "https://imdb-api.com/images/original/MV5BMTMxMzE1OTMwOF5BMl5BanBnXkFtZTYwNDY3Nzc2._V1_Ratio2.3200_AL_.jpg"
+            },
+            {
+                "title": "Peter O'Toole stars as T.E. Lawrence",
+                "image": "https://imdb-api.com/images/original/MV5BMjY3NzkxNjg5MV5BMl5BanBnXkFtZTYwNzY3Nzc2._V1_Ratio1.8400_AL_.jpg"
+            },
+            {
+                "title": "Lawrence, Majid & Ali",
+                "image": "https://imdb-api.com/images/original/MV5BOTkyNzM0ODMwNF5BMl5BanBnXkFtZTYwOTY3Nzc2._V1_Ratio2.5400_AL_.jpg"
+            },
+            {
+                "title": "The attack on the train",
+                "image": "https://imdb-api.com/images/original/MV5BMTQ5NzY5ODM0Ml5BMl5BanBnXkFtZTYwMTc3Nzc2._V1_Ratio1.9400_AL_.jpg"
+            },
+            {
+                "title": "Peter O'Toole stars as T.E. Lawrence",
+                "image": "https://imdb-api.com/images/original/MV5BMTc5MzUxODg5OV5BMl5BanBnXkFtZTYwMzc3Nzc2._V1_Ratio2.2400_AL_.jpg"
+            },
+            {
+                "title": "\"Lawrence of Arabia\" Peter O'Toole 1962 Paramount **I.V.",
+                "image": "https://imdb-api.com/images/original/MV5BMTkzNjg3NDM4OF5BMl5BanBnXkFtZTYwNzQxOTM2._V1_Ratio1.2400_AL_.jpg"
+            },
+            {
+                "title": "David Lean in Lawrence of Arabia (1962)",
+                "image": "https://imdb-api.com/images/original/MV5BMTU1MDYxNzM1OV5BMl5BanBnXkFtZTcwMTE1Mzg3Mw@@._V1_Ratio1.4400_AL_.jpg"
+            },
+            {
+                "title": "Lawrence of Arabia (1962)",
+                "image": "https://imdb-api.com/images/original/MV5BNGFjZmVlYTktZTg4My00OTMwLWJjMDgtNGJhNmMyNDM4ODRkXkEyXkFqcGdeQXVyODIyOTEyMzY@._V1_Ratio1.0000_AL_.jpg"
+            },
+            {
+                "title": "Lawrence of Arabia (1962)",
+                "image": "https://imdb-api.com/images/original/MV5BYjI0OTM2ZjQtZWE1YS00MmNhLTkzYWUtMmQwYWQzMTRkMTEwXkEyXkFqcGdeQXVyODc0OTEyNDU@._V1_Ratio1.0000_AL_.jpg"
+            },
+            {
+                "title": "Peter O'Toole in Lawrence of Arabia (1962)",
+                "image": "https://imdb-api.com/images/original/MV5BMTQ4MDI3Mzk5NV5BMl5BanBnXkFtZTcwMDMxODU2MQ@@._V1_Ratio1.0000_AL_.jpg"
+            },
+            {
+                "title": "Peter O'Toole in Lawrence of Arabia (1962)",
+                "image": "https://imdb-api.com/images/original/MV5BMTUxNjI2MTE4NF5BMl5BanBnXkFtZTcwODM4MDI2OA@@._V1_Ratio1.0000_AL_.jpg"
+            },
+            {
+                "title": "Lawrence of Arabia (1962)",
+                "image": "https://imdb-api.com/images/original/MV5BNzMyMTY1MTMzN15BMl5BanBnXkFtZTcwNjk3NTQxOA@@._V1_Ratio1.0000_AL_.jpg"
+            },
+            {
+                "title": "Peter O'Toole in Lawrence of Arabia (1962)",
+                "image": "https://imdb-api.com/images/original/MV5BMzAwMjM4NzA2OV5BMl5BanBnXkFtZTcwMDI0NzAwMQ@@._V1_Ratio1.0000_AL_.jpg"
+            },
+            {
+                "title": "Lawrence of Arabia (1962)",
+                "image": "https://imdb-api.com/images/original/MV5BMTM5NjI4MjI0OV5BMl5BanBnXkFtZTYwMjc1Mjg4._V1_Ratio1.0000_AL_.jpg"
+            },
+            {
+                "title": "Peter O'Toole in Lawrence of Arabia (1962)",
+                "image": "https://imdb-api.com/images/original/MV5BMjE5MjQ4OTIxMV5BMl5BanBnXkFtZTYwMzgwNTg4._V1_Ratio1.0000_AL_.jpg"
+            },
+            {
+                "title": "Lawrence of Arabia (1962)",
+                "image": "https://imdb-api.com/images/original/MV5BMTMwMzExOTU5N15BMl5BanBnXkFtZTYwMzc1MDk4._V1_Ratio1.0000_AL_.jpg"
+            },
+            {
+                "title": "Peter O'Toole in Lawrence of Arabia (1962)",
+                "image": "https://imdb-api.com/images/original/MV5BMTM2NDgyMDA3MF5BMl5BanBnXkFtZTYwMzM3NDk4._V1_Ratio1.0000_AL_.jpg"
+            },
+            {
+                "title": "Lawrence of Arabia (1962)",
+                "image": "https://imdb-api.com/images/original/MV5BODg5ODg3MTQ3N15BMl5BanBnXkFtZTYwNjIxNTE5._V1_Ratio1.0000_AL_.jpg"
+            },
+            {
+                "title": "Lawrence of Arabia (1962)",
+                "image": "https://imdb-api.com/images/original/MV5BMTkxNzk5NjQzNF5BMl5BanBnXkFtZTYwNzIxNTE5._V1_Ratio1.3200_AL_.jpg"
+            },
+            {
+                "title": "Lawrence of Arabia (1962)",
+                "image": "https://imdb-api.com/images/original/MV5BMTIyNDk1NzE4Ml5BMl5BanBnXkFtZTYwODIxNTE5._V1_Ratio1.0000_AL_.jpg"
+            },
+            {
+                "title": "Peter O'Toole, John Dimech, and Michel Ray in Lawrence of Arabia (1962)",
+                "image": "https://imdb-api.com/images/original/MV5BMTY2MTgyNjg0NV5BMl5BanBnXkFtZTYwOTIxNTE5._V1_Ratio1.3200_AL_.jpg"
+            },
+            {
+                "title": "Peter O'Toole, Claude Rains, and Donald Wolfit in Lawrence of Arabia (1962)",
+                "image": "https://imdb-api.com/images/original/MV5BOTY3MTkzNDc3Nl5BMl5BanBnXkFtZTYwMTMxNTE5._V1_Ratio1.3200_AL_.jpg"
+            },
+            {
+                "title": "Peter O'Toole in Lawrence of Arabia (1962)",
+                "image": "https://imdb-api.com/images/original/MV5BMTg0OTYwMzE0N15BMl5BanBnXkFtZTYwNzM3MjM5._V1_Ratio1.0000_AL_.jpg"
+            },
+            {
+                "title": "Peter O'Toole in Lawrence of Arabia (1962)",
+                "image": "https://imdb-api.com/images/original/MV5BMTQyMTcwNTI3Ml5BMl5BanBnXkFtZTYwMTc5MjM5._V1_Ratio1.0000_AL_.jpg"
+            },
+            {
+                "title": "Peter O'Toole in Lawrence of Arabia (1962)",
+                "image": "https://imdb-api.com/images/original/MV5BMjAwNTM0MjgwMl5BMl5BanBnXkFtZTYwODY1MzM5._V1_Ratio1.0000_AL_.jpg"
+            },
+            {
+                "title": "Peter O'Toole in Lawrence of Arabia (1962)",
+                "image": "https://imdb-api.com/images/original/MV5BMTgxMDA1MzAwM15BMl5BanBnXkFtZTYwMTU3MTQ5._V1_Ratio1.0000_AL_.jpg"
+            },
+            {
+                "title": "Peter O'Toole in Lawrence of Arabia (1962)",
+                "image": "https://imdb-api.com/images/original/MV5BMTI4NzM2NDMxOF5BMl5BanBnXkFtZTYwMDg4NjQ5._V1_Ratio1.0000_AL_.jpg"
+            },
+            {
+                "title": "Peter O'Toole in Lawrence of Arabia (1962)",
+                "image": "https://imdb-api.com/images/original/MV5BMjE1NjU2MTAxN15BMl5BanBnXkFtZTYwMDAwNjU5._V1_Ratio1.0000_AL_.jpg"
+            },
+            {
+                "title": "Peter O'Toole in Lawrence of Arabia (1962)",
+                "image": "https://imdb-api.com/images/original/MV5BOTIwNDY3NDM4OV5BMl5BanBnXkFtZTYwMDUzNTc5._V1_Ratio1.0000_AL_.jpg"
+            },
+            {
+                "title": "Peter O'Toole, Omar Sharif, Jack Hawkins, and Anthony Quayle in Lawrence of Arabia (1962)",
+                "image": "https://imdb-api.com/images/original/MV5BMTk3MzIzNjA5NV5BMl5BanBnXkFtZTYwODg1NDk5._V1_Ratio1.0000_AL_.jpg"
+            },
+            {
+                "title": "Peter O'Toole in Lawrence of Arabia (1962)",
+                "image": "https://imdb-api.com/images/original/MV5BMTYxNTg5NjIzOF5BMl5BanBnXkFtZTcwMzQzMzAwMQ@@._V1_Ratio1.0000_AL_.jpg"
+            },
+            {
+                "title": "Peter O'Toole in Lawrence of Arabia (1962)",
+                "image": "https://imdb-api.com/images/original/MV5BMTM3NjU2MTU3NF5BMl5BanBnXkFtZTcwOTIwODAyMQ@@._V1_Ratio1.0000_AL_.jpg"
+            },
+            {
+                "title": "Peter O'Toole in Lawrence of Arabia (1962)",
+                "image": "https://imdb-api.com/images/original/MV5BMTIyMTQ2OTUyNl5BMl5BanBnXkFtZTcwNzc3ODMyMQ@@._V1_Ratio1.0000_AL_.jpg"
+            },
+            {
+                "title": "Peter O'Toole in Lawrence of Arabia (1962)",
+                "image": "https://imdb-api.com/images/original/MV5BNjcwNzUwNDQ0OF5BMl5BanBnXkFtZTcwODE2MzQyMQ@@._V1_Ratio1.0000_AL_.jpg"
+            },
+            {
+                "title": "Peter O'Toole in Lawrence of Arabia (1962)",
+                "image": "https://imdb-api.com/images/original/MV5BMjA3NTgwMjU5N15BMl5BanBnXkFtZTcwNDY1MzkyMQ@@._V1_Ratio1.0000_AL_.jpg"
+            }
+        ],
+        "errorMessage": ""
+    },
+    "trailer": {
+        "imDbId": "tt0056172",
+        "title": "Lawrence of Arabia",
+        "fullTitle": "Lawrence of Arabia (1962)",
+        "type": "Movie",
+        "year": "1962",
+        "videoId": "vi1481310233",
+        "videoTitle": "Lawrence of Arabia - Trailer",
+        "videoDescription": "An epic rumination on a flamboyant and controversial British military figure and his conflicted loyalties during wartime service",
+        "thumbnailUrl": "https://m.media-amazon.com/images/M/MV5BMjEyNDY4OTA5Nl5BMl5BanBnXkFtZTgwODg3MjQyMzE@._V1_.jpg",
+        "uploadDate": "11/18/2008 13:55:07",
+        "link": "https://www.imdb.com/video/vi1481310233",
+        "linkEmbed": "https://www.imdb.com/video/imdb/vi1481310233/imdb/embed",
+        "errorMessage": ""
+    },
+    "boxOffice": {
+        "budget": "$15,000,000 (estimated)",
+        "openingWeekendUSA": "$20,846, 22 September 2002",
+        "grossUSA": "$45,306,425",
+        "cumulativeWorldwideGross": "$45,715,757"
+    },
+    "tagline": "BEST PICTURE OF THE YEAR WINNER OF 7 ACADEMY AWARDS (post-Oscar)",
+    "keywords": "desert,arab,bedouin,ottoman empire,british military",
+    "keywordList": [
+        "desert",
+        "arab",
+        "bedouin",
+        "ottoman empire",
+        "british military"
+    ],
+    "similars": [
+        {
+            "id": "tt0050212",
+            "title": "The Bridge on the River Kwai",
+            "fullTitle": "The Bridge on the River Kwai (1957)",
+            "year": "1957",
+            "image": "https://imdb-api.com/images/original/MV5BOGY5NmNlMmQtYzRlYy00NGQ5LWFkYjYtNzExZmQyMTg0ZDA0XkEyXkFqcGdeQXVyNDIzMzcwNjc@._V1_Ratio0.6737_AL_.jpg",
+            "plot": "British POWs are forced to build a railway bridge across the river Kwai for their Japanese captors, not knowing that the allied forces are planning to destroy it.",
+            "directors": "David Lean",
+            "stars": "William Holden, Alec Guinness, Jack Hawkins",
+            "genres": "Adventure, Drama, War",
+            "imDbRating": "8.1"
+        },
+        {
+            "id": "tt0052618",
+            "title": "Ben-Hur",
+            "fullTitle": "Ben-Hur (1959)",
+            "year": "1959",
+            "image": "https://imdb-api.com/images/original/MV5BNjgxY2JiZDYtZmMwOC00ZmJjLWJmODUtMTNmNWNmYWI5ODkwL2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyNjc1NTYyMjg@._V1_Ratio0.6737_AL_.jpg",
+            "plot": "After a Jewish prince is betrayed and sent into slavery by a Roman friend, he regains his freedom and comes back for revenge.",
+            "directors": "William Wyler",
+            "stars": "Charlton Heston, Jack Hawkins, Stephen Boyd",
+            "genres": "Adventure, Drama, History",
+            "imDbRating": "8.1"
+        },
+        {
+            "id": "tt0057115",
+            "title": "The Great Escape",
+            "fullTitle": "The Great Escape (1963)",
+            "year": "1963",
+            "image": "https://imdb-api.com/images/original/MV5BNzA2NmYxMWUtNzBlMC00MWM2LTkwNmQtYTFlZjQwODNhOWE0XkEyXkFqcGdeQXVyNTIzOTk5ODM@._V1_Ratio0.6737_AL_.jpg",
+            "plot": "Allied prisoners of war plan for several hundred of their number to escape from a German camp during World War II.",
+            "directors": "John Sturges",
+            "stars": "Steve McQueen, James Garner, Richard Attenborough",
+            "genres": "Adventure, Drama, History",
+            "imDbRating": "8.2"
+        },
+        {
+            "id": "tt0031381",
+            "title": "Gone with the Wind",
+            "fullTitle": "Gone with the Wind (1939)",
+            "year": "1939",
+            "image": "https://imdb-api.com/images/original/MV5BYjUyZWZkM2UtMzYxYy00ZmQ3LWFmZTQtOGE2YjBkNjA3YWZlXkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_Ratio0.6737_AL_.jpg",
+            "plot": "A manipulative woman and a roguish man conduct a turbulent romance during the American Civil War and Reconstruction periods.",
+            "directors": "Directors: Victor Fleming, George Cukor, and 1 more credit »",
+            "stars": "Clark Gable, Vivien Leigh, Thomas Mitchell",
+            "genres": "Certificate: Passed Drama, History, Romance",
+            "imDbRating": "8.1"
+        },
+        {
+            "id": "tt0070735",
+            "title": "The Sting",
+            "fullTitle": "The Sting (1973)",
+            "year": "1973",
+            "image": "https://imdb-api.com/images/original/MV5BNGU3NjQ4YTMtZGJjOS00YTQ3LThmNmItMTI5MDE2ODI3NzY3XkEyXkFqcGdeQXVyMjUzOTY1NTc@._V1_Ratio0.6737_AL_.jpg",
+            "plot": "Two grifters team up to pull off the ultimate con.",
+            "directors": "George Roy Hill",
+            "stars": "Paul Newman, Robert Redford, Robert Shaw",
+            "genres": "Comedy, Crime, Drama",
+            "imDbRating": "8.3"
+        },
+        {
+            "id": "tt0034583",
+            "title": "Casablanca",
+            "fullTitle": "Casablanca (1942)",
+            "year": "1942",
+            "image": "https://imdb-api.com/images/original/MV5BY2IzZGY2YmEtYzljNS00NTM5LTgwMzUtMzM1NjQ4NGI0OTk0XkEyXkFqcGdeQXVyNDYyMDk5MTU@._V1_Ratio0.6737_AL_.jpg",
+            "plot": "A cynical expatriate American cafe owner struggles to decide whether or not to help his former lover and her fugitive husband escape the Nazis in French Morocco.",
+            "directors": "Michael Curtiz",
+            "stars": "Humphrey Bogart, Ingrid Bergman, Paul Henreid",
+            "genres": "Drama, Romance, War",
+            "imDbRating": "8.5"
+        },
+        {
+            "id": "tt0053125",
+            "title": "North by Northwest",
+            "fullTitle": "North by Northwest (1959)",
+            "year": "1959",
+            "image": "https://imdb-api.com/images/original/MV5BZDA3NDExMTUtMDlhOC00MmQ5LWExZGUtYmI1NGVlZWI4OWNiXkEyXkFqcGdeQXVyNjc1NTYyMjg@._V1_Ratio0.6737_AL_.jpg",
+            "plot": "A New York City advertising executive goes on the run after being mistaken for a government agent by a group of foreign spies.",
+            "directors": "Alfred Hitchcock",
+            "stars": "Cary Grant, Eva Marie Saint, James Mason",
+            "genres": "Adventure, Mystery, Thriller",
+            "imDbRating": "8.3"
+        },
+        {
+            "id": "tt0056592",
+            "title": "To Kill a Mockingbird",
+            "fullTitle": "To Kill a Mockingbird (1962)",
+            "year": "1962",
+            "image": "https://imdb-api.com/images/original/MV5BNmVmYzcwNzMtMWM1NS00MWIyLThlMDEtYzUwZDgzODE1NmE2XkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_Ratio0.6737_AL_.jpg",
+            "plot": "Atticus Finch, a lawyer in the Depression-era South, defends a black man against an undeserved rape charge, and his children against prejudice.",
+            "directors": "Robert Mulligan",
+            "stars": "Gregory Peck, John Megna, Frank Overton",
+            "genres": "Crime, Drama",
+            "imDbRating": "8.2"
+        },
+        {
+            "id": "tt0045152",
+            "title": "Singin' in the Rain",
+            "fullTitle": "Singin' in the Rain (1952)",
+            "year": "1952",
+            "image": "https://imdb-api.com/images/original/MV5BZDRjNGViMjQtOThlMi00MTA3LThkYzQtNzJkYjBkMGE0YzE1XkEyXkFqcGdeQXVyNDYyMDk5MTU@._V1_Ratio0.6842_AL_.jpg",
+            "plot": "A silent film production company and cast make a difficult transition to sound.",
+            "directors": "Directors: Stanley Donen, Gene Kelly",
+            "stars": "Gene Kelly, Donald O'Connor, Debbie Reynolds",
+            "genres": "Comedy, Musical, Romance",
+            "imDbRating": "8.3"
+        },
+        {
+            "id": "tt0052357",
+            "title": "Vertigo",
+            "fullTitle": "Vertigo (1958)",
+            "year": "1958",
+            "image": "https://imdb-api.com/images/original/MV5BYTE4ODEwZDUtNDFjOC00NjAxLWEzYTQtYTI1NGVmZmFlNjdiL2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyNjc1NTYyMjg@._V1_Ratio0.6737_AL_.jpg",
+            "plot": "A former police detective juggles wrestling with his personal demons and becoming obsessed with a hauntingly beautiful woman.",
+            "directors": "Alfred Hitchcock",
+            "stars": "James Stewart, Kim Novak, Barbara Bel Geddes",
+            "genres": "Mystery, Romance, Thriller",
+            "imDbRating": "8.3"
+        },
+        {
+            "id": "tt0047396",
+            "title": "Rear Window",
+            "fullTitle": "Rear Window (1954)",
+            "year": "1954",
+            "image": "https://imdb-api.com/images/original/MV5BNGUxYWM3M2MtMGM3Mi00ZmRiLWE0NGQtZjE5ODI2OTJhNTU0XkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_Ratio0.6842_AL_.jpg",
+            "plot": "A wheelchair-bound photographer spies on his neighbors from his apartment window and becomes convinced one of them has committed murder.",
+            "directors": "Alfred Hitchcock",
+            "stars": "James Stewart, Grace Kelly, Wendell Corey",
+            "genres": "Mystery, Thriller",
+            "imDbRating": "8.4"
+        },
+        {
+            "id": "tt0077416",
+            "title": "The Deer Hunter",
+            "fullTitle": "The Deer Hunter (1978)",
+            "year": "1978",
+            "image": "https://imdb-api.com/images/original/MV5BNDhmNTA0ZDMtYjhkNS00NzEzLWIzYTItOGNkMTVmYjE2YmI3XkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_Ratio0.6737_AL_.jpg",
+            "plot": "An in-depth examination of the ways in which the U.S. Vietnam War impacts and disrupts the lives of people in a small industrial town in Pennsylvania.",
+            "directors": "Michael Cimino",
+            "stars": "Robert De Niro, Christopher Walken, John Cazale",
+            "genres": "Drama, War",
+            "imDbRating": "8.1"
+        }
+    ],
+    "tvSeriesInfo": null,
+    "tvEpisodeInfo": null,
+    "errorMessage": ""
+}

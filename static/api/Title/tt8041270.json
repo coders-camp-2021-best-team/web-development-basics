@@ -1,0 +1,636 @@
+{
+    "id": "tt8041270",
+    "title": "Jurassic World: Dominion",
+    "originalTitle": "",
+    "fullTitle": "Jurassic World: Dominion (2022)",
+    "type": "Movie",
+    "year": "2022",
+    "image": "https://imdb-api.com/images/original/MV5BMDhkODhmZjEtMmE5My00MTE1LTllZGItMDkwOTZlMjY1ZWUyXkEyXkFqcGdeQXVyODk4OTc3MTY@._V1_Ratio0.6762_AL_.jpg",
+    "releaseDate": "2022-06-10",
+    "runtimeMins": "",
+    "runtimeStr": "",
+    "plot": "Plot kept under wraps.",
+    "plotLocal": "",
+    "plotLocalIsRtl": false,
+    "awards": "",
+    "directors": "Colin Trevorrow",
+    "directorList": [{ "id": "nm1119880", "name": "Colin Trevorrow" }],
+    "writers": "Colin Trevorrow, Emily Carmichael, Derek Connolly",
+    "writerList": [
+        { "id": "nm1119880", "name": "Colin Trevorrow" },
+        { "id": "nm3045440", "name": "Emily Carmichael" },
+        { "id": "nm2081046", "name": "Derek Connolly" }
+    ],
+    "stars": "Chris Pratt, Bryce Dallas Howard, Jeff Goldblum",
+    "starList": [
+        { "id": "nm0695435", "name": "Chris Pratt" },
+        { "id": "nm0397171", "name": "Bryce Dallas Howard" },
+        { "id": "nm0000156", "name": "Jeff Goldblum" }
+    ],
+    "actorList": [
+        {
+            "id": "nm0695435",
+            "image": "https://imdb-api.com/images/original/MV5BNDU1NjU0MzA5NF5BMl5BanBnXkFtZTgwNTg5OTY2MjI@._V1_Ratio1.0000_AL_.jpg",
+            "name": "Chris Pratt",
+            "asCharacter": "Owen Gradyas Owen Grady"
+        },
+        {
+            "id": "nm0397171",
+            "image": "https://imdb-api.com/images/original/MV5BNzExZDkyNWItMDYzNS00MGVlLTllZTctMjYyZGE1MmY0MThhXkEyXkFqcGdeQXVyMDA4NzMyOA@@._V1_Ratio1.0000_AL_.jpg",
+            "name": "Bryce Dallas Howard",
+            "asCharacter": "Claire Dearingas Claire Dearing"
+        },
+        {
+            "id": "nm0000156",
+            "image": "https://imdb-api.com/images/original/MV5BY2ViNDIwNmUtZGQ5Ni00MDYxLWI5YTktNWU1NGRlYWQ1ZDg0XkEyXkFqcGdeQXVyOTAyMDgxODQ@._V1_Ratio1.0000_AL_.jpg",
+            "name": "Jeff Goldblum",
+            "asCharacter": "Ian Malcolmas Ian Malcolm"
+        },
+        {
+            "id": "nm0000554",
+            "image": "https://imdb-api.com/images/original/MV5BMjUyMTU0MzA0MF5BMl5BanBnXkFtZTgwNTA4MTQ4NjM@._V1_Ratio1.0000_AL_.jpg",
+            "name": "Sam Neill",
+            "asCharacter": "Alan Grantas Alan Grant"
+        },
+        {
+            "id": "nm1901842",
+            "image": "https://imdb-api.com/images/original/MV5BYmYxMjNkMjMtYmE0MC00NTZhLWFlYzgtOWNjZmRkMzMyNmU4XkEyXkFqcGdeQXVyMzExMTQxMQ@@._V1_Ratio1.0000_AL_.jpg",
+            "name": "Dichen Lachman",
+            "asCharacter": ""
+        },
+        {
+            "id": "nm0000368",
+            "image": "https://imdb-api.com/images/original/MV5BMjI3NzY0MDQxMF5BMl5BanBnXkFtZTcwNzMwMzcyNw@@._V1_Ratio1.0000_AL_.jpg",
+            "name": "Laura Dern",
+            "asCharacter": "Ellie Sattleras Ellie Sattler"
+        },
+        {
+            "id": "nm1082477",
+            "image": "https://imdb-api.com/images/original/MV5BMjI2MjE3MDQ3NV5BMl5BanBnXkFtZTcwOTY0NzU0Nw@@._V1_Ratio1.0000_AL_.jpg",
+            "name": "Omar Sy",
+            "asCharacter": "Barry Sembèneas Barry Sembène"
+        },
+        {
+            "id": "nm1986622",
+            "image": "https://imdb-api.com/images/original/MV5BODI2NjE5NjY4Nl5BMl5BanBnXkFtZTgwNjUyMjM5NzM@._V1_Ratio1.5143_AL_.jpg",
+            "name": "DeWanda Wise",
+            "asCharacter": ""
+        },
+        {
+            "id": "nm0000703",
+            "image": "https://imdb-api.com/images/original/MV5BMTYxNTEyMjEyOF5BMl5BanBnXkFtZTcwNjAwNTMwNA@@._V1_Ratio1.0000_AL_.jpg",
+            "name": "BD Wong",
+            "asCharacter": "Dr. Henry Wuas Dr. Henry Wu"
+        },
+        {
+            "id": "nm4427331",
+            "image": "https://imdb-api.com/images/original/MV5BMjE0MTU5MTcyNF5BMl5BanBnXkFtZTgwMjMwOTQ4NTM@._V1_Ratio1.0000_AL_.jpg",
+            "name": "Daniella Pineda",
+            "asCharacter": "Zia Rodriguezas Zia Rodriguez"
+        },
+        {
+            "id": "nm6819854",
+            "image": "https://imdb-api.com/images/original/MV5BNDI4Y2UzZTAtYWVhOS00MDhkLWFhNzAtOGVhNjcwMTM0MjQ2XkEyXkFqcGdeQXVyNTU2NjEwMzY@._V1_Ratio1.5000_AL_.jpg",
+            "name": "Justice Smith",
+            "asCharacter": "Franklin Webbas Franklin Webb"
+        },
+        {
+            "id": "nm1119340",
+            "image": "https://imdb-api.com/images/original/MV5BMjE3MTUwODU2Ml5BMl5BanBnXkFtZTcwODk5MTI4Nw@@._V1_Ratio1.0000_AL_.jpg",
+            "name": "Kristoffer Polaha",
+            "asCharacter": "Wyatt Huntleyas Wyatt Huntley"
+        },
+        {
+            "id": "nm0001714",
+            "image": "https://imdb-api.com/images/original/MV5BMTY4MjgxNzM1MV5BMl5BanBnXkFtZTcwMzU2ODQ1MQ@@._V1_Ratio1.0000_AL_.jpg",
+            "name": "Campbell Scott",
+            "asCharacter": "Lewis Dodgsonas Lewis Dodgson"
+        },
+        {
+            "id": "nm9830820",
+            "image": "https://imdb-api.com/images/original/MV5BMDk3MWRlNzEtZjYyYi00ZDY3LTg4Y2QtYWRlZDc1Zjk3ODYzXkEyXkFqcGdeQXVyNjUxMjc1OTM@._V1_Ratio1.0000_AL_.jpg",
+            "name": "Isabella Sermon",
+            "asCharacter": "Maisie Lockwoodas Maisie Lockwood"
+        },
+        {
+            "id": "nm2020278",
+            "image": "https://imdb-api.com/images/original/MV5BNDg4ZWM1YTItZWFmMC00YjRiLWE3MmMtMWZkY2FhZDU3ZDJiXkEyXkFqcGdeQXVyNTY0NTUxOQ@@._V1_Ratio1.0000_AL_.jpg",
+            "name": "Scott Haze",
+            "asCharacter": ""
+        },
+        {
+            "id": "nm6974206",
+            "image": "https://imdb-api.com/images/original/MV5BMjA1MzE2NTQ4OV5BMl5BanBnXkFtZTgwNDI5MzQ1NzM@._V1_Ratio1.0000_AL_.jpg",
+            "name": "Mamoudou Athie",
+            "asCharacter": ""
+        },
+        {
+            "id": "nm5582078",
+            "image": "https://imdb-api.com/images/original/MV5BYWNlZDNjOTYtNjM3YS00MjExLWJhODAtOWExNTQ5MmNlYmNmXkEyXkFqcGdeQXVyNDQwNDcyNDc@._V1_Ratio1.0000_AL_.jpg",
+            "name": "Elva Trill",
+            "asCharacter": "Charlotte Lockwoodas Charlotte Lockwood"
+        },
+        {
+            "id": "nm0203728",
+            "image": "https://imdb-api.com/images/original/MV5BYTg0MGVhOTItMWI1NC00MzU0LWExYmEtZTFlMTdlOTYxOWNkXkEyXkFqcGdeQXVyMjE5Mzk2MjA@._V1_Ratio1.0000_AL_.jpg",
+            "name": "Glynis Davies",
+            "asCharacter": "Carolyn O'Haraas Carolyn O'Hara"
+        }
+    ],
+    "fullCast": null,
+    "genres": "Action, Adventure, Sci-Fi",
+    "genreList": [
+        { "key": "Action", "value": "Action" },
+        { "key": "Adventure", "value": "Adventure" },
+        { "key": "Sci-Fi", "value": "Sci-Fi" }
+    ],
+    "companies": "Amblin Entertainment, Latina Pictures, Legendary Entertainment",
+    "companyList": [
+        { "id": "co0009119", "name": "Amblin Entertainment" },
+        { "id": "co0181591", "name": "Latina Pictures" },
+        { "id": "co0159111", "name": "Legendary Entertainment" }
+    ],
+    "countries": "USA",
+    "countryList": [{ "key": "USA", "value": "USA" }],
+    "languages": "English",
+    "languageList": [{ "key": "English", "value": "English" }],
+    "contentRating": "",
+    "imDbRating": "",
+    "imDbRatingVotes": "",
+    "metacriticRating": "",
+    "ratings": null,
+    "wikipedia": null,
+    "posters": {
+        "imDbId": "tt8041270",
+        "title": "Jurassic World: Dominion",
+        "fullTitle": "Jurassic World: Dominion (2022)",
+        "type": "Movie",
+        "year": "2022",
+        "posters": [
+            {
+                "id": "blO6k1NsYgPq4sQRZyWvi962FOo.jpg",
+                "link": "https://imdb-api.com/posters/original/blO6k1NsYgPq4sQRZyWvi962FOo.jpg",
+                "aspectRatio": 0.6666666666666666,
+                "language": "en",
+                "width": 750,
+                "height": 1125
+            },
+            {
+                "id": "n9dgFDOsIXUPzCkJsoy9J3Yc3O8.jpg",
+                "link": "https://imdb-api.com/posters/original/n9dgFDOsIXUPzCkJsoy9J3Yc3O8.jpg",
+                "aspectRatio": 0.6666666666666666,
+                "language": "en",
+                "width": 750,
+                "height": 1125
+            },
+            {
+                "id": "lz4PYhhcDvOcLu293dwRuHRvxoT.jpg",
+                "link": "https://imdb-api.com/posters/original/lz4PYhhcDvOcLu293dwRuHRvxoT.jpg",
+                "aspectRatio": 0.6666666666666666,
+                "language": "en",
+                "width": 758,
+                "height": 1137
+            },
+            {
+                "id": "uSpvMhxXaUHMdpZZnQ5qXL63957.jpg",
+                "link": "https://imdb-api.com/posters/original/uSpvMhxXaUHMdpZZnQ5qXL63957.jpg",
+                "aspectRatio": 0.6666666666666666,
+                "language": "en",
+                "width": 900,
+                "height": 1350
+            },
+            {
+                "id": "4lCQirdaxCHBCeTmwHw7zITx521.jpg",
+                "link": "https://imdb-api.com/posters/original/4lCQirdaxCHBCeTmwHw7zITx521.jpg",
+                "aspectRatio": 0.6666666666666666,
+                "language": "en",
+                "width": 500,
+                "height": 750
+            },
+            {
+                "id": "gfMkhcym5IVKSv23Occ0be7Qlk7.jpg",
+                "link": "https://imdb-api.com/posters/original/gfMkhcym5IVKSv23Occ0be7Qlk7.jpg",
+                "aspectRatio": 0.7066666666666667,
+                "language": "en",
+                "width": 636,
+                "height": 900
+            },
+            {
+                "id": "9Ihfyy6lZfBPtQAaBL20ebGTSb7.jpg",
+                "link": "https://imdb-api.com/posters/original/9Ihfyy6lZfBPtQAaBL20ebGTSb7.jpg",
+                "aspectRatio": 0.6316666666666667,
+                "language": "en",
+                "width": 758,
+                "height": 1200
+            },
+            {
+                "id": "eVMbz6UcNRb1T6hcV5diDtUonMw.jpg",
+                "link": "https://imdb-api.com/posters/original/eVMbz6UcNRb1T6hcV5diDtUonMw.jpg",
+                "aspectRatio": 0.6666666666666666,
+                "language": "en",
+                "width": 640,
+                "height": 960
+            },
+            {
+                "id": "qLhr69Ey0gqetrYA3Mpu4J4L9jK.jpg",
+                "link": "https://imdb-api.com/posters/original/qLhr69Ey0gqetrYA3Mpu4J4L9jK.jpg",
+                "aspectRatio": 0.6320810971973763,
+                "language": "en",
+                "width": 1060,
+                "height": 1677
+            },
+            {
+                "id": "6dslunkKkRD1KHfINOl7xoOWL8i.jpg",
+                "link": "https://imdb-api.com/posters/original/6dslunkKkRD1KHfINOl7xoOWL8i.jpg",
+                "aspectRatio": 0.631484794275492,
+                "language": "en",
+                "width": 1059,
+                "height": 1677
+            },
+            {
+                "id": "thKwXv2Bf2wADMkrPGvkSSqHSCb.jpg",
+                "link": "https://imdb-api.com/posters/original/thKwXv2Bf2wADMkrPGvkSSqHSCb.jpg",
+                "aspectRatio": 0.6666666666666666,
+                "language": "en",
+                "width": 800,
+                "height": 1200
+            },
+            {
+                "id": "uJUFvM2yX0t2IWPCimBkOKwXfA7.jpg",
+                "link": "https://imdb-api.com/posters/original/uJUFvM2yX0t2IWPCimBkOKwXfA7.jpg",
+                "aspectRatio": 0.6320153061224489,
+                "language": "en",
+                "width": 991,
+                "height": 1568
+            },
+            {
+                "id": "aSONMNb8Nt6mcxCg69JksiXcNDU.jpg",
+                "link": "https://imdb-api.com/posters/original/aSONMNb8Nt6mcxCg69JksiXcNDU.jpg",
+                "aspectRatio": 0.6668141592920354,
+                "language": "en",
+                "width": 1507,
+                "height": 2260
+            },
+            {
+                "id": "dj8oy52tYO3wp5QgaSwamMAFlLt.jpg",
+                "link": "https://imdb-api.com/posters/original/dj8oy52tYO3wp5QgaSwamMAFlLt.jpg",
+                "aspectRatio": 0.6320810971973763,
+                "language": "en",
+                "width": 1060,
+                "height": 1677
+            }
+        ],
+        "backdrops": [
+            {
+                "id": "flTnaBaW1UnQtzGEIoHR7C3OYfy.jpg",
+                "link": "https://imdb-api.com/posters/original/flTnaBaW1UnQtzGEIoHR7C3OYfy.jpg",
+                "aspectRatio": 1.7777777777777777,
+                "language": "en",
+                "width": 3840,
+                "height": 2160
+            },
+            {
+                "id": "j5PI0DHzMf8MaCwmMYBlGKwUocf.jpg",
+                "link": "https://imdb-api.com/posters/original/j5PI0DHzMf8MaCwmMYBlGKwUocf.jpg",
+                "aspectRatio": 1.7777777777777777,
+                "language": "en",
+                "width": 3840,
+                "height": 2160
+            },
+            {
+                "id": "hkvnOLKMDx2BSZGdPp2dEWO95W4.jpg",
+                "link": "https://imdb-api.com/posters/original/hkvnOLKMDx2BSZGdPp2dEWO95W4.jpg",
+                "aspectRatio": 1.7777777777777777,
+                "language": "en",
+                "width": 3840,
+                "height": 2160
+            },
+            {
+                "id": "wwCikYeZyyEJmxkI3dKYkAjnezO.jpg",
+                "link": "https://imdb-api.com/posters/original/wwCikYeZyyEJmxkI3dKYkAjnezO.jpg",
+                "aspectRatio": 1.7777777777777777,
+                "language": "en",
+                "width": 3840,
+                "height": 2160
+            },
+            {
+                "id": "2JIRHPB4Q3l684h6bVLal0cYPO6.jpg",
+                "link": "https://imdb-api.com/posters/original/2JIRHPB4Q3l684h6bVLal0cYPO6.jpg",
+                "aspectRatio": 1.7777777777777777,
+                "language": "en",
+                "width": 3840,
+                "height": 2160
+            },
+            {
+                "id": "9Fv41b6nEBGrSprFDVpO6GA94Wi.jpg",
+                "link": "https://imdb-api.com/posters/original/9Fv41b6nEBGrSprFDVpO6GA94Wi.jpg",
+                "aspectRatio": 1.7777777777777777,
+                "language": "en",
+                "width": 2560,
+                "height": 1440
+            },
+            {
+                "id": "c7J5LkhbSNz3rVlIa72uw9uwlKF.jpg",
+                "link": "https://imdb-api.com/posters/original/c7J5LkhbSNz3rVlIa72uw9uwlKF.jpg",
+                "aspectRatio": 1.7777777777777777,
+                "language": "en",
+                "width": 1280,
+                "height": 720
+            }
+        ],
+        "errorMessage": ""
+    },
+    "images": {
+        "imDbId": "tt8041270",
+        "title": "Jurassic World: Dominion",
+        "fullTitle": "Jurassic World: Dominion (2022)",
+        "type": "Movie",
+        "year": "2022",
+        "items": [
+            {
+                "title": "Jurassic World: Dominion (2022)",
+                "image": "https://imdb-api.com/images/original/MV5BYTM3ZDMwYTctZTcwNy00M2U1LTljM2EtMWM4MzRkNzI1MTJhXkEyXkFqcGdeQXVyODk4OTc3MTY@._V1_Ratio1.9000_AL_.jpg"
+            },
+            {
+                "title": "Jurassic World: Dominion (2022)",
+                "image": "https://imdb-api.com/images/original/MV5BZDIzMTU3MDEtYTNjMi00ODAwLTgzZTEtNzUzZTVjNzgyZWVlXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_Ratio2.0000_AL_.jpg"
+            },
+            {
+                "title": "Jurassic World: Dominion (2022)",
+                "image": "https://imdb-api.com/images/original/MV5BMDdlNzViZWQtODdlNy00N2Q1LTk4MDctY2Q4MmI4YWE1ZjAxXkEyXkFqcGdeQXVyODkzNTgxMDg@._V1_Ratio1.1600_AL_.jpg"
+            },
+            {
+                "title": "Jurassic World: Dominion (2022)",
+                "image": "https://imdb-api.com/images/original/MV5BMDhkODhmZjEtMmE5My00MTE1LTllZGItMDkwOTZlMjY1ZWUyXkEyXkFqcGdeQXVyODk4OTc3MTY@._V1_Ratio1.0000_AL_.jpg"
+            },
+            {
+                "title": "Jurassic World: Dominion (2022)",
+                "image": "https://imdb-api.com/images/original/MV5BYTdjMWQyMTYtY2IwMC00ODU1LTg3OGUtODZkNDU2YmM4ZTk3XkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_Ratio1.0000_AL_.jpg"
+            },
+            {
+                "title": "Jurassic World: Dominion (2022)",
+                "image": "https://imdb-api.com/images/original/MV5BMjQzZTA2MmEtNDcwYy00ZWE0LWFlODMtOWQ2MzRjNTgyYmVkXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_Ratio1.0000_AL_.jpg"
+            },
+            {
+                "title": "Sam Neill in Jurassic World: Dominion (2022)",
+                "image": "https://imdb-api.com/images/original/MV5BYjg2MDNhMmUtZGM3Yi00YmM0LWFlZTYtMzhiOTNmYmNhOWZiXkEyXkFqcGdeQXVyNjU2NTcyMzY@._V1_Ratio1.7800_AL_.jpg"
+            },
+            {
+                "title": "Jurassic World: Dominion (2022)",
+                "image": "https://imdb-api.com/images/original/MV5BOTUzNDhkOTAtOTBmYS00N2QxLThiMzUtMzNmYmFjYTMyNzk5XkEyXkFqcGdeQXVyMjA0NzcwMjI@._V1_Ratio1.9800_AL_.jpg"
+            },
+            {
+                "title": "Jurassic World: Dominion (2022)",
+                "image": "https://imdb-api.com/images/original/MV5BMDFjZWZjNzYtMzNkYS00OTY1LWI3NzMtY2Q1MDUyMzM4MTI1XkEyXkFqcGdeQXVyMjA0NzcwMjI@._V1_Ratio1.8600_AL_.jpg"
+            },
+            {
+                "title": "Jurassic World: Dominion (2022)",
+                "image": "https://imdb-api.com/images/original/MV5BMDcwZTdhNmYtYzM0ZC00MzJmLTlhNzEtZDYzODcxOWZiZmEzXkEyXkFqcGdeQXVyMjA0NzcwMjI@._V1_Ratio2.0000_AL_.jpg"
+            },
+            {
+                "title": "Isabella Sermon in Jurassic World: Dominion (2022)",
+                "image": "https://imdb-api.com/images/original/MV5BNjdkMWM2MWItNmQzNC00NzRjLWE1NWItYjgwYmVkMjYzZDM5XkEyXkFqcGdeQXVyNjU2NTcyMzY@._V1_Ratio1.0000_AL_.jpg"
+            },
+            {
+                "title": "Bryce Dallas Howard, Chris Pratt, and Isabella Sermon in Jurassic World: Dominion (2022)",
+                "image": "https://imdb-api.com/images/original/MV5BNzUyZDc1NGQtMzZkOS00ZDczLTlkMmYtYzk5MmI2M2YzMDFlXkEyXkFqcGdeQXVyNjU0MjIyMTU@._V1_Ratio1.2000_AL_.jpg"
+            },
+            {
+                "title": "Jurassic World: Dominion (2022)",
+                "image": "https://imdb-api.com/images/original/MV5BNzNiYTlmMTctNzA2ZS00NzkxLWFkMWMtODYzMDdjMjRlZDc1XkEyXkFqcGdeQXVyNzg0MzY0Nzc@._V1_Ratio1.0000_AL_.jpg"
+            },
+            {
+                "title": "Jurassic World: Dominion (2022)",
+                "image": "https://imdb-api.com/images/original/MV5BMTczMmFhMDgtZmNmNy00NGM4LWExZTUtNzVkMzU1Nzk0NWNiXkEyXkFqcGdeQXVyNzg0MzY0Nzc@._V1_Ratio1.3200_AL_.jpg"
+            },
+            {
+                "title": "Laura Dern, Chris Pratt, DeWanda Wise, and Isabella Sermon in Jurassic World: Dominion (2022)",
+                "image": "https://imdb-api.com/images/original/MV5BMzRmNGFkZjEtYTJkMS00YzQwLWIxYTAtYjQ1MGVkZmQ1NWE0XkEyXkFqcGdeQXVyNzg0MzY0Nzc@._V1_Ratio1.5000_AL_.jpg"
+            },
+            {
+                "title": "Jeff Goldblum, Laura Dern, Sam Neill, and Mamoudou Athie in Jurassic World: Dominion (2022)",
+                "image": "https://imdb-api.com/images/original/MV5BYzY4OTBiYTUtMGVhOC00MmRmLWJiYmYtMDYzMTM1MjQ3ZDQwXkEyXkFqcGdeQXVyNzg0MzY0Nzc@._V1_Ratio1.5000_AL_.jpg"
+            },
+            {
+                "title": "Jurassic World: Dominion (2022)",
+                "image": "https://imdb-api.com/images/original/MV5BNWJiZTIxOGQtZGJhMC00MWU0LTkyM2YtYTg2ZDU3YjhlZjA5XkEyXkFqcGdeQXVyNzg0MzY0Nzc@._V1_Ratio1.6800_AL_.jpg"
+            },
+            {
+                "title": "Jurassic World: Dominion (2022)",
+                "image": "https://imdb-api.com/images/original/MV5BMTI2M2JmMjEtODNlOC00OWRkLWFmNGYtNmQzNzI4MDY3YWNjXkEyXkFqcGdeQXVyNzg0MzY0Nzc@._V1_Ratio1.7600_AL_.jpg"
+            },
+            {
+                "title": "Jurassic World: Dominion (2022)",
+                "image": "https://imdb-api.com/images/original/MV5BMjNjNTQ5NmMtMTFlYy00YmEzLTg0NTktYjZmNGM3NjI3YzAwXkEyXkFqcGdeQXVyNzg0MzY0Nzc@._V1_Ratio1.0800_AL_.jpg"
+            },
+            {
+                "title": "Jurassic World: Dominion (2022)",
+                "image": "https://imdb-api.com/images/original/MV5BYjQ5ZmY2NjEtMzQxYi00NmZjLWI0YTktZTQ3NWMyM2YzNTY1XkEyXkFqcGdeQXVyMTA3MzgzMzQx._V1_Ratio1.0000_AL_.jpg"
+            },
+            {
+                "title": "Jurassic World: Dominion (2022)",
+                "image": "https://imdb-api.com/images/original/MV5BMDU4YmM3OTAtNmM3NS00MzkyLTlkNDAtODFiMjk0NmQ3NmUyXkEyXkFqcGdeQXVyMTA3MzgzMzQx._V1_Ratio1.5000_AL_.jpg"
+            },
+            {
+                "title": "Jurassic World: Dominion (2022)",
+                "image": "https://imdb-api.com/images/original/MV5BZTZmMDhhNTEtMjdjMC00ODgxLTkyN2ItNDc4Mzg0NWQxMmViXkEyXkFqcGdeQXVyMTA3MzgzMzQx._V1_Ratio1.5000_AL_.jpg"
+            },
+            {
+                "title": "Jurassic World: Dominion (2022)",
+                "image": "https://imdb-api.com/images/original/MV5BOGFhYjAxNjktYmFkMS00ZTM2LWI1YWItODE1NDI2MTc5MzI2XkEyXkFqcGdeQXVyMzAxNTc2NDc@._V1_Ratio1.5000_AL_.jpg"
+            },
+            {
+                "title": "Jurassic World: Dominion (2022)",
+                "image": "https://imdb-api.com/images/original/MV5BNmZhYjk1YzQtZjc3My00ZjNmLTgyYWItNmMzMTM3ZTE5ODc1XkEyXkFqcGdeQXVyNTM2NTY4NzU@._V1_Ratio1.0200_AL_.jpg"
+            },
+            {
+                "title": "Jeff Goldblum, Laura Dern, and Sam Neill at an event for Jurassic World: Dominion (2022)",
+                "image": "https://imdb-api.com/images/original/MV5BZGIxMWFhNTAtODBhMC00NWI0LTgzMzgtMzM1NjkyODMyMzQ1XkEyXkFqcGdeQXVyNjU2NTcyMzY@._V1_Ratio1.9000_AL_.jpg"
+            },
+            {
+                "title": "Jurassic World: Dominion (2022)",
+                "image": "https://imdb-api.com/images/original/MV5BM2FmNTJmMmYtZDI2Yy00Y2QyLWIwMTctZWIyNjhmMDQ3YjBiXkEyXkFqcGdeQXVyMTI3ODczNTk2._V1_Ratio1.0000_AL_.jpg"
+            },
+            {
+                "title": "Jurassic World: Dominion (2022)",
+                "image": "https://imdb-api.com/images/original/MV5BZDdjNjM5YzMtYzFjMy00MzAyLWI3ZTItOGVmNWQxNDU3MjNjXkEyXkFqcGdeQXVyNjU2NTcyMzY@._V1_Ratio1.0000_AL_.jpg"
+            },
+            {
+                "title": "Chris Pratt, Omar Sy, and Colin Trevorrow in Jurassic World: Dominion (2022)",
+                "image": "https://imdb-api.com/images/original/MV5BZmI2NGZkY2EtMDQxNi00YjRkLTlmYTctNzdiOWU3MDA5ZjExXkEyXkFqcGdeQXVyNjU2NTcyMzY@._V1_Ratio1.0000_AL_.jpg"
+            },
+            {
+                "title": "Jurassic World: Dominion (2022)",
+                "image": "https://imdb-api.com/images/original/MV5BZmI1YmZkMTItNWU5Mi00YzE5LTg5ODQtMDFhMzA2YWM5ZTEwXkEyXkFqcGdeQXVyMTI0NTE1Njg4._V1_Ratio1.0000_AL_.jpg"
+            },
+            {
+                "title": "Jurassic World: Dominion (2022)",
+                "image": "https://imdb-api.com/images/original/MV5BZTRhMmIyOWUtNzZmYS00N2FlLWJlYzMtYmQxYjdlZGFmMDFmXkEyXkFqcGdeQXVyNTk5NTQzNDI@._V1_Ratio1.0000_AL_.jpg"
+            },
+            {
+                "title": "Jeff Goldblum in Jurassic World: Dominion (2022)",
+                "image": "https://imdb-api.com/images/original/MV5BMTM0NTc4YjEtMzFlYy00ZDliLWE0MDctZTI3MjBkZGUyMjA0XkEyXkFqcGdeQXVyNjU2NTcyMzY@._V1_Ratio1.5000_AL_.jpg"
+            },
+            {
+                "title": "Colin Trevorrow and Isabella Sermon in Jurassic World: Dominion (2022)",
+                "image": "https://imdb-api.com/images/original/MV5BOThkYjdkNTctNjBiZi00NjZjLWEwMTItMDAyZWQ4NzliOGQ0XkEyXkFqcGdeQXVyNjU2NTcyMzY@._V1_Ratio1.7400_AL_.jpg"
+            }
+        ],
+        "errorMessage": ""
+    },
+    "trailer": {
+        "imDbId": "tt8041270",
+        "title": "Jurassic World: Dominion",
+        "fullTitle": "Jurassic World: Dominion (2022)",
+        "type": "Movie",
+        "year": "2022",
+        "videoId": null,
+        "videoTitle": null,
+        "videoDescription": null,
+        "thumbnailUrl": null,
+        "uploadDate": null,
+        "link": null,
+        "linkEmbed": null,
+        "errorMessage": "404 Not Founded Error"
+    },
+    "boxOffice": {
+        "budget": "$165,000,000 (estimated)",
+        "openingWeekendUSA": "",
+        "grossUSA": "",
+        "cumulativeWorldwideGross": ""
+    },
+    "tagline": "It all started here.",
+    "keywords": "sequel,sixth part,shared universe,jurassic park,actor reprises previous role",
+    "keywordList": [
+        "sequel",
+        "sixth part",
+        "shared universe",
+        "jurassic park",
+        "actor reprises previous role"
+    ],
+    "similars": [
+        {
+            "id": "tt4881806",
+            "title": "Jurassic World: Fallen Kingdom",
+            "fullTitle": "Jurassic World: Fallen Kingdom",
+            "year": "",
+            "image": "https://imdb-api.com/images/original/MV5BNzIxMjYwNDEwN15BMl5BanBnXkFtZTgwMzk5MDI3NTM@._V1_Ratio0.6763_AL_.jpg",
+            "plot": "",
+            "directors": "",
+            "stars": "",
+            "genres": "",
+            "imDbRating": "6.2"
+        },
+        {
+            "id": "tt0369610",
+            "title": "Jurassic World",
+            "fullTitle": "Jurassic World",
+            "year": "",
+            "image": "https://imdb-api.com/images/original/MV5BNzQ3OTY4NjAtNzM5OS00N2ZhLWJlOWUtYzYwZjNmOWRiMzcyXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_Ratio0.6763_AL_.jpg",
+            "plot": "",
+            "directors": "",
+            "stars": "",
+            "genres": "",
+            "imDbRating": "7.0"
+        },
+        {
+            "id": "tt8846310",
+            "title": "Jurassic World: Blue",
+            "fullTitle": "Jurassic World: Blue",
+            "year": "",
+            "image": "https://imdb-api.com/images/original/MV5BMDljZTk0ZTAtZGEwNy00ZjM4LTk5MzgtYzdmN2M5YWRhNGQzXkEyXkFqcGdeQXVyMTQ0ODI4NzY@._V1_Ratio1.7778_AL_.jpg",
+            "plot": "",
+            "directors": "",
+            "stars": "",
+            "genres": "",
+            "imDbRating": "7.5"
+        },
+        {
+            "id": "tt0163025",
+            "title": "Jurassic Park III",
+            "fullTitle": "Jurassic Park III",
+            "year": "",
+            "image": "https://imdb-api.com/images/original/MV5BZDMyZGJjOGItYjJkZC00MDVlLWE0Y2YtZGIwMDExYWE3MGQ3XkEyXkFqcGdeQXVyNDYyMDk5MTU@._V1_Ratio0.6763_AL_.jpg",
+            "plot": "",
+            "directors": "",
+            "stars": "",
+            "genres": "",
+            "imDbRating": "5.9"
+        },
+        {
+            "id": "tt5090568",
+            "title": "Transformers: Rise of the Beasts",
+            "fullTitle": "Transformers: Rise of the Beasts",
+            "year": "",
+            "image": "https://imdb-api.com/images/original/MV5BNWQ2MWU1ZWItYjkyNi00YmYwLWExMzAtZmZlMGNhMTg3OWI1XkEyXkFqcGdeQXVyMTEzMTI1Mjk3._V1_Ratio0.6763_AL_.jpg",
+            "plot": "",
+            "directors": "",
+            "stars": "",
+            "genres": "",
+            "imDbRating": ""
+        },
+        {
+            "id": "tt0119567",
+            "title": "The Lost World: Jurassic Park",
+            "fullTitle": "The Lost World: Jurassic Park",
+            "year": "",
+            "image": "https://imdb-api.com/images/original/MV5BMDFlMmM4Y2QtNDg1ZS00MWVlLTlmODgtZDdhYjY5YjdhN2M0XkEyXkFqcGdeQXVyNTI4MjkwNjA@._V1_Ratio0.6860_AL_.jpg",
+            "plot": "",
+            "directors": "",
+            "stars": "",
+            "genres": "",
+            "imDbRating": "6.6"
+        },
+        {
+            "id": "tt0107290",
+            "title": "Jurassic Park",
+            "fullTitle": "Jurassic Park",
+            "year": "",
+            "image": "https://imdb-api.com/images/original/MV5BMjM2MDgxMDg0Nl5BMl5BanBnXkFtZTgwNTM2OTM5NDE@._V1_Ratio0.6763_AL_.jpg",
+            "plot": "",
+            "directors": "",
+            "stars": "",
+            "genres": "",
+            "imDbRating": "8.1"
+        },
+        {
+            "id": "tt11570434",
+            "title": "Jurassic World: The Ride",
+            "fullTitle": "Jurassic World: The Ride",
+            "year": "",
+            "image": "https://imdb-api.com/images/original/MV5BYzY1ODI0ZjUtYmY0ZS00ZTdiLTg0MTMtMTc0YzUzZGE0MTUxXkEyXkFqcGdeQXVyOTEyNjIwMDk@._V1_Ratio1.5072_AL_.jpg",
+            "plot": "",
+            "directors": "",
+            "stars": "",
+            "genres": "",
+            "imDbRating": "6.4"
+        },
+        {
+            "id": "tt10648342",
+            "title": "Thor: Love and Thunder",
+            "fullTitle": "Thor: Love and Thunder",
+            "year": "",
+            "image": "https://imdb-api.com/images/original/MV5BMzZjMTIwNjYtYTg0ZS00ZDFjLTk3MDctMTY3ZTgwMjQ4MmFiXkEyXkFqcGdeQXVyNjg2NjQwMDQ@._V1_Ratio0.7053_AL_.jpg",
+            "plot": "",
+            "directors": "",
+            "stars": "",
+            "genres": "",
+            "imDbRating": ""
+        },
+        {
+            "id": "tt10942816",
+            "title": "Battle at Big Rock",
+            "fullTitle": "Battle at Big Rock",
+            "year": "",
+            "image": "https://imdb-api.com/images/original/MV5BYWVlYjExMDgtZGQ4Ni00MjVlLWI1YTQtNTAyYWI0M2Y4YTE3XkEyXkFqcGdeQXVyMDA4NzMyOA@@._V1_Ratio0.8019_AL_.jpg",
+            "plot": "",
+            "directors": "",
+            "stars": "",
+            "genres": "",
+            "imDbRating": "7.0"
+        }
+    ],
+    "tvSeriesInfo": null,
+    "tvEpisodeInfo": null,
+    "errorMessage": ""
+}

@@ -1,0 +1,844 @@
+{
+    "id": "tt0084787",
+    "title": "The Thing",
+    "originalTitle": "",
+    "fullTitle": "The Thing (1982)",
+    "type": "Movie",
+    "year": "1982",
+    "image": "https://imdb-api.com/images/original/MV5BNGViZWZmM2EtNGYzZi00ZDAyLTk3ODMtNzIyZTBjN2Y1NmM1XkEyXkFqcGdeQXVyNTAyODkwOQ@@._V1_Ratio0.6791_AL_.jpg",
+    "releaseDate": "1982-06-25",
+    "runtimeMins": "109",
+    "runtimeStr": "1h 49mins",
+    "plot": "A US research station, Antarctica, early-winter 1982. The base is suddenly buzzed by a helicopter from the nearby Norwegian research station. They are trying to kill a dog that has escaped from their base. After the destruction of the Norwegian chopper the members of the US team fly to the Norwegian base, only to discover them all dead or missing. They do find the remains of a strange creature the Norwegians burned. The Americans take it to their base and deduce that it is an alien life form. After a while it is apparent that the alien can take over and assimilate into other life forms, including humans, and can spread like a virus. This means that anyone at the base could be inhabited by The Thing, and tensions escalate.",
+    "plotLocal": "",
+    "plotLocalIsRtl": false,
+    "awards": "Top Rated Movies #160 | 3 nominations.",
+    "directors": "John Carpenter",
+    "directorList": [{ "id": "nm0000118", "name": "John Carpenter" }],
+    "writers": "Bill Lancaster, John W. Campbell Jr.",
+    "writerList": [
+        { "id": "nm0484111", "name": "Bill Lancaster" },
+        { "id": "nm0132168", "name": "John W. Campbell Jr." }
+    ],
+    "stars": "Kurt Russell, Wilford Brimley, Keith David, Richard Masur",
+    "starList": [
+        { "id": "nm0000621", "name": "Kurt Russell" },
+        { "id": "nm0000979", "name": "Wilford Brimley" },
+        { "id": "nm0202966", "name": "Keith David" },
+        { "id": "nm0557956", "name": "Richard Masur" }
+    ],
+    "actorList": [
+        {
+            "id": "nm0000621",
+            "image": "https://imdb-api.com/images/original/MV5BMTk3MjkxNzQwMV5BMl5BanBnXkFtZTYwNDk4ODM1._V1_Ratio0.7273_AL_.jpg",
+            "name": "Kurt Russell",
+            "asCharacter": "MacReady"
+        },
+        {
+            "id": "nm0000979",
+            "image": "https://imdb-api.com/images/original/MV5BMDIyMDg0M2ItZTU5Yi00MzM2LWFjYzItMWZlZjc1MDk3NmZlXkEyXkFqcGdeQXVyMTI3MDk3MzQ@._V1_Ratio1.8636_AL_.jpg",
+            "name": "Wilford Brimley",
+            "asCharacter": "Dr. Blair (as A. Wilford Brimley)"
+        },
+        {
+            "id": "nm0141953",
+            "image": "https://imdb-api.com/images/original/MV5BMTc3NTk1MjUzOV5BMl5BanBnXkFtZTcwMzgwMTQwOA@@._V1_Ratio0.7273_AL_.jpg",
+            "name": "T.K. Carter",
+            "asCharacter": "Nauls"
+        },
+        {
+            "id": "nm0166359",
+            "image": "https://imdb-api.com/images/original/MV5BMTkxNTU4OTExMV5BMl5BanBnXkFtZTgwMzU1ODI4ODE@._V1_Ratio0.7273_AL_.jpg",
+            "name": "David Clennon",
+            "asCharacter": "Palmer"
+        },
+        {
+            "id": "nm0202966",
+            "image": "https://imdb-api.com/images/original/MV5BMTI5OTU4ODI1MF5BMl5BanBnXkFtZTcwMjU1NjkyNA@@._V1_Ratio0.7727_AL_.jpg",
+            "name": "Keith David",
+            "asCharacter": "Childs"
+        },
+        {
+            "id": "nm0246004",
+            "image": "https://imdb-api.com/images/original/MV5BMTAzNTE2MjI5NDheQTJeQWpwZ15BbWU3MDY1OTk4MDg@._V1_Ratio0.7273_AL_.jpg",
+            "name": "Richard Dysart",
+            "asCharacter": "Dr. Copper"
+        },
+        {
+            "id": "nm0356251",
+            "image": "https://imdb-api.com/images/original/MV5BMTgwNjA2NTcyN15BMl5BanBnXkFtZTgwNTk2OTI0MjE@._V1_Ratio1.3182_AL_.jpg",
+            "name": "Charles Hallahan",
+            "asCharacter": "Vance Norris"
+        },
+        {
+            "id": "nm0540595",
+            "image": "https://imdb-api.com/images/original/MV5BMTY0NDg1MTI1NV5BMl5BanBnXkFtZTcwMDQ1ODQzOA@@._V1_Ratio0.7273_AL_.jpg",
+            "name": "Peter Maloney",
+            "asCharacter": "George Bennings"
+        },
+        {
+            "id": "nm0557956",
+            "image": "https://imdb-api.com/images/original/MV5BMjI4MzU5NTQyOF5BMl5BanBnXkFtZTcwNjk5NzkyOQ@@._V1_Ratio0.7273_AL_.jpg",
+            "name": "Richard Masur",
+            "asCharacter": "Clark"
+        },
+        {
+            "id": "nm0595567",
+            "image": "https://imdb-api.com/images/original/MV5BMTMyMTg1NTk0MV5BMl5BanBnXkFtZTcwODc4NDgwMw@@._V1_Ratio0.7727_AL_.jpg",
+            "name": "Donald Moffat",
+            "asCharacter": "Garry"
+        },
+        {
+            "id": "nm0689177",
+            "image": "https://imdb-api.com/images/original/MV5BMTI4NTIzNTIyMF5BMl5BanBnXkFtZTYwMDI4MTEz._V1_Ratio1.2273_AL_.jpg",
+            "name": "Joel Polis",
+            "asCharacter": "Fuchs"
+        },
+        {
+            "id": "nm0906640",
+            "image": "https://imdb-api.com/images/original/MV5BMTYxNjcwMjk4OV5BMl5BanBnXkFtZTYwODMwNDgy._V1_Ratio0.9091_AL_.jpg",
+            "name": "Thomas G. Waites",
+            "asCharacter": "Windows (as Thomas Waites)"
+        },
+        {
+            "id": "nm0919256",
+            "image": "https://imdb-api.com/images/original/MV5BZjI1NWI1YWEtZWJiNi00Njk3LWEyZjgtMmM1MjMwNDMwNDMyXkEyXkFqcGdeQXVyMjQwMDg0Ng@@._V1_Ratio1.2273_AL_.jpg",
+            "name": "Norbert Weisser",
+            "asCharacter": "Norwegian"
+        },
+        {
+            "id": "nm0290581",
+            "image": "https://imdb-api.com/images/original/MV5BMTIyNjI4MDkxOV5BMl5BanBnXkFtZTYwNjg0ODA0._V1_Ratio0.7273_AL_.jpg",
+            "name": "Larry Franco",
+            "asCharacter": "Norwegian Passenger with Rifle"
+        },
+        {
+            "id": "nm0410429",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Nate Irwin",
+            "asCharacter": "Helicopter Pilot"
+        }
+    ],
+    "fullCast": null,
+    "genres": "Horror, Mystery, Sci-Fi",
+    "genreList": [
+        { "key": "Horror", "value": "Horror" },
+        { "key": "Mystery", "value": "Mystery" },
+        { "key": "Sci-Fi", "value": "Sci-Fi" }
+    ],
+    "companies": "Universal Pictures, Turman-Foster Company",
+    "companyList": [
+        { "id": "co0005073", "name": "Universal Pictures" },
+        { "id": "co0004522", "name": "Turman-Foster Company" }
+    ],
+    "countries": "USA",
+    "countryList": [{ "key": "USA", "value": "USA" }],
+    "languages": "English, Norwegian",
+    "languageList": [
+        { "key": "English", "value": "English" },
+        { "key": "Norwegian", "value": "Norwegian" }
+    ],
+    "contentRating": "R",
+    "imDbRating": "8.1",
+    "imDbRatingVotes": "376424",
+    "metacriticRating": "57",
+    "ratings": null,
+    "wikipedia": null,
+    "posters": {
+        "imDbId": "tt0084787",
+        "title": "The Thing",
+        "fullTitle": "The Thing (1982)",
+        "type": "Movie",
+        "year": "1982",
+        "posters": [
+            {
+                "id": "tzGY49kseSE9QAKk47uuDGwnSCu.jpg",
+                "link": "https://imdb-api.com/posters/original/tzGY49kseSE9QAKk47uuDGwnSCu.jpg",
+                "aspectRatio": 0.6666666666666666,
+                "language": "en",
+                "width": 1000,
+                "height": 1500
+            },
+            {
+                "id": "qYPsN5o0M3NowtzCBayoGnpw5Sg.jpg",
+                "link": "https://imdb-api.com/posters/original/qYPsN5o0M3NowtzCBayoGnpw5Sg.jpg",
+                "aspectRatio": 0.6666666666666666,
+                "language": "en",
+                "width": 1000,
+                "height": 1500
+            },
+            {
+                "id": "q6YSEJzBUut7ix8uOAAFGBASpX3.jpg",
+                "link": "https://imdb-api.com/posters/original/q6YSEJzBUut7ix8uOAAFGBASpX3.jpg",
+                "aspectRatio": 0.6666666666666666,
+                "language": "en",
+                "width": 1000,
+                "height": 1500
+            },
+            {
+                "id": "a9RjXOIIB56k2rGoL3Fk3nRHHHQ.jpg",
+                "link": "https://imdb-api.com/posters/original/a9RjXOIIB56k2rGoL3Fk3nRHHHQ.jpg",
+                "aspectRatio": 0.6666666666666666,
+                "language": "en",
+                "width": 1400,
+                "height": 2100
+            },
+            {
+                "id": "qSc0hhU8V2Hstat9Pz3URJSJOnW.jpg",
+                "link": "https://imdb-api.com/posters/original/qSc0hhU8V2Hstat9Pz3URJSJOnW.jpg",
+                "aspectRatio": 0.6666666666666666,
+                "language": "en",
+                "width": 500,
+                "height": 750
+            },
+            {
+                "id": "5igJmGapeQxxIsQH36UjlEjzfGf.jpg",
+                "link": "https://imdb-api.com/posters/original/5igJmGapeQxxIsQH36UjlEjzfGf.jpg",
+                "aspectRatio": 0.6666666666666666,
+                "language": "en",
+                "width": 2000,
+                "height": 3000
+            },
+            {
+                "id": "cC4gOIW0UPwZS0FLm0anTwdbZEY.jpg",
+                "link": "https://imdb-api.com/posters/original/cC4gOIW0UPwZS0FLm0anTwdbZEY.jpg",
+                "aspectRatio": 0.6666666666666666,
+                "language": "en",
+                "width": 1400,
+                "height": 2100
+            },
+            {
+                "id": "46QAshuctSmc5YMc9lKeFeCK9aW.jpg",
+                "link": "https://imdb-api.com/posters/original/46QAshuctSmc5YMc9lKeFeCK9aW.jpg",
+                "aspectRatio": 0.6666666666666666,
+                "language": "en",
+                "width": 1200,
+                "height": 1800
+            },
+            {
+                "id": "ra5DcdlQ64JpsxizkmyypcG4Hfm.jpg",
+                "link": "https://imdb-api.com/posters/original/ra5DcdlQ64JpsxizkmyypcG4Hfm.jpg",
+                "aspectRatio": 0.6666666666666666,
+                "language": "en",
+                "width": 1440,
+                "height": 2160
+            },
+            {
+                "id": "qPkxO8Jrcyp0nPIvUSOW5yraS7p.jpg",
+                "link": "https://imdb-api.com/posters/original/qPkxO8Jrcyp0nPIvUSOW5yraS7p.jpg",
+                "aspectRatio": 0.6666666666666666,
+                "language": "en",
+                "width": 800,
+                "height": 1200
+            },
+            {
+                "id": "fg4Ime8IQqRQ9YFPApXXK2lDQ9S.jpg",
+                "link": "https://imdb-api.com/posters/original/fg4Ime8IQqRQ9YFPApXXK2lDQ9S.jpg",
+                "aspectRatio": 0.6666666666666666,
+                "language": "en",
+                "width": 1280,
+                "height": 1920
+            },
+            {
+                "id": "mMCmyly6qJkXa3UfvGjDIJZfZak.jpg",
+                "link": "https://imdb-api.com/posters/original/mMCmyly6qJkXa3UfvGjDIJZfZak.jpg",
+                "aspectRatio": 0.6666666666666666,
+                "language": "en",
+                "width": 1000,
+                "height": 1500
+            },
+            {
+                "id": "whk542hgOEbePhWKwOTMNVRkPFB.jpg",
+                "link": "https://imdb-api.com/posters/original/whk542hgOEbePhWKwOTMNVRkPFB.jpg",
+                "aspectRatio": 0.6666666666666666,
+                "language": "en",
+                "width": 1000,
+                "height": 1500
+            },
+            {
+                "id": "qhPlRsmTkF1fvZUW1Dqk1LNY9kl.jpg",
+                "link": "https://imdb-api.com/posters/original/qhPlRsmTkF1fvZUW1Dqk1LNY9kl.jpg",
+                "aspectRatio": 0.6666666666666666,
+                "language": "en",
+                "width": 1440,
+                "height": 2160
+            },
+            {
+                "id": "5rUlKwyW5wkWIqy72CAgME0ooOa.jpg",
+                "link": "https://imdb-api.com/posters/original/5rUlKwyW5wkWIqy72CAgME0ooOa.jpg",
+                "aspectRatio": 0.6666666666666666,
+                "language": "en",
+                "width": 1400,
+                "height": 2100
+            },
+            {
+                "id": "7LiUwyCb4wgzKXQ0RIg9yGiGMku.jpg",
+                "link": "https://imdb-api.com/posters/original/7LiUwyCb4wgzKXQ0RIg9yGiGMku.jpg",
+                "aspectRatio": 0.6668889629876625,
+                "language": "en",
+                "width": 2000,
+                "height": 2999
+            },
+            {
+                "id": "hkRZ4m2Cp7CKW9HxOlf07aDu9v3.jpg",
+                "link": "https://imdb-api.com/posters/original/hkRZ4m2Cp7CKW9HxOlf07aDu9v3.jpg",
+                "aspectRatio": 0.6666666666666666,
+                "language": "en",
+                "width": 500,
+                "height": 750
+            },
+            {
+                "id": "ekUhPgMdfdqGJAW3nueGZ9cvcck.jpg",
+                "link": "https://imdb-api.com/posters/original/ekUhPgMdfdqGJAW3nueGZ9cvcck.jpg",
+                "aspectRatio": 0.7111111111111111,
+                "language": "en",
+                "width": 640,
+                "height": 900
+            },
+            {
+                "id": "K9hDgWcVvVFol4rdrRnD64sLAz.jpg",
+                "link": "https://imdb-api.com/posters/original/K9hDgWcVvVFol4rdrRnD64sLAz.jpg",
+                "aspectRatio": 0.666875,
+                "language": "en",
+                "width": 1067,
+                "height": 1600
+            },
+            {
+                "id": "uIOZ1Ac8v73WVgZD5Pia4wofY58.jpg",
+                "link": "https://imdb-api.com/posters/original/uIOZ1Ac8v73WVgZD5Pia4wofY58.jpg",
+                "aspectRatio": 0.6666666666666666,
+                "language": "en",
+                "width": 1000,
+                "height": 1500
+            },
+            {
+                "id": "t3wWTpNnL2JB8x6xdHwebNNM4bd.jpg",
+                "link": "https://imdb-api.com/posters/original/t3wWTpNnL2JB8x6xdHwebNNM4bd.jpg",
+                "aspectRatio": 0.6666666666666666,
+                "language": "en",
+                "width": 1000,
+                "height": 1500
+            },
+            {
+                "id": "8V1hrlkgMU6vr6wq88XDd8tQ8eQ.jpg",
+                "link": "https://imdb-api.com/posters/original/8V1hrlkgMU6vr6wq88XDd8tQ8eQ.jpg",
+                "aspectRatio": 0.6666666666666666,
+                "language": "en",
+                "width": 1000,
+                "height": 1500
+            },
+            {
+                "id": "iC51iUArq8jYcMehJJZUJsLTMrD.jpg",
+                "link": "https://imdb-api.com/posters/original/iC51iUArq8jYcMehJJZUJsLTMrD.jpg",
+                "aspectRatio": 0.6666666666666666,
+                "language": "en",
+                "width": 1000,
+                "height": 1500
+            },
+            {
+                "id": "86bZrrtp39Oc2t7o4nzZuTlFoac.jpg",
+                "link": "https://imdb-api.com/posters/original/86bZrrtp39Oc2t7o4nzZuTlFoac.jpg",
+                "aspectRatio": 0.6666666666666666,
+                "language": "en",
+                "width": 1000,
+                "height": 1500
+            }
+        ],
+        "backdrops": [
+            {
+                "id": "lS9oEknIMaNvIm2zpXg5MXDDmZx.jpg",
+                "link": "https://imdb-api.com/posters/original/lS9oEknIMaNvIm2zpXg5MXDDmZx.jpg",
+                "aspectRatio": 1.7777777777777777,
+                "language": "en",
+                "width": 1920,
+                "height": 1080
+            },
+            {
+                "id": "r9leYNa8nTRCceZrZhP1DXkgKVb.jpg",
+                "link": "https://imdb-api.com/posters/original/r9leYNa8nTRCceZrZhP1DXkgKVb.jpg",
+                "aspectRatio": 1.7777777777777777,
+                "language": "en",
+                "width": 1920,
+                "height": 1080
+            },
+            {
+                "id": "os79jx8aFDoDvJr6RY9QHU4swwU.jpg",
+                "link": "https://imdb-api.com/posters/original/os79jx8aFDoDvJr6RY9QHU4swwU.jpg",
+                "aspectRatio": 1.7777777777777777,
+                "language": "en",
+                "width": 1920,
+                "height": 1080
+            },
+            {
+                "id": "fOl0FJ81VoQU0BlRgXA3aVeNlXE.jpg",
+                "link": "https://imdb-api.com/posters/original/fOl0FJ81VoQU0BlRgXA3aVeNlXE.jpg",
+                "aspectRatio": 1.7777777777777777,
+                "language": "en",
+                "width": 1920,
+                "height": 1080
+            },
+            {
+                "id": "6XzBqtnupPmDLMMkh6CKarfb3YB.jpg",
+                "link": "https://imdb-api.com/posters/original/6XzBqtnupPmDLMMkh6CKarfb3YB.jpg",
+                "aspectRatio": 1.7777777777777777,
+                "language": "en",
+                "width": 1920,
+                "height": 1080
+            },
+            {
+                "id": "udugzO9HsAlU925bdCoFyhourTY.jpg",
+                "link": "https://imdb-api.com/posters/original/udugzO9HsAlU925bdCoFyhourTY.jpg",
+                "aspectRatio": 1.7777777777777777,
+                "language": "en",
+                "width": 1920,
+                "height": 1080
+            },
+            {
+                "id": "o4fjw3bUd6OwooOhz0jud4UmcA6.jpg",
+                "link": "https://imdb-api.com/posters/original/o4fjw3bUd6OwooOhz0jud4UmcA6.jpg",
+                "aspectRatio": 1.7777777777777777,
+                "language": "en",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "id": "u2A11Lc4OVIjhSdAiJjtvOLCd2q.jpg",
+                "link": "https://imdb-api.com/posters/original/u2A11Lc4OVIjhSdAiJjtvOLCd2q.jpg",
+                "aspectRatio": 1.7777777777777777,
+                "language": "en",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "id": "vcZwCEOheQLvfcrbjGeqTjJYMhb.jpg",
+                "link": "https://imdb-api.com/posters/original/vcZwCEOheQLvfcrbjGeqTjJYMhb.jpg",
+                "aspectRatio": 1.7777777777777777,
+                "language": "en",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "id": "ypWFqKVspqQvh3zzRfa5ta0lj7A.jpg",
+                "link": "https://imdb-api.com/posters/original/ypWFqKVspqQvh3zzRfa5ta0lj7A.jpg",
+                "aspectRatio": 1.7777777777777777,
+                "language": "en",
+                "width": 1920,
+                "height": 1080
+            },
+            {
+                "id": "3eb63ISwxqVaJbSbkgUNfrfB2NS.jpg",
+                "link": "https://imdb-api.com/posters/original/3eb63ISwxqVaJbSbkgUNfrfB2NS.jpg",
+                "aspectRatio": 1.7777777777777777,
+                "language": "en",
+                "width": 1920,
+                "height": 1080
+            },
+            {
+                "id": "2AaztbdbQQZs3JqD3GM4DGrniLw.jpg",
+                "link": "https://imdb-api.com/posters/original/2AaztbdbQQZs3JqD3GM4DGrniLw.jpg",
+                "aspectRatio": 1.7777777777777777,
+                "language": "en",
+                "width": 1920,
+                "height": 1080
+            },
+            {
+                "id": "qTg8fjne0MdVKKtXLWw72qwKZBr.jpg",
+                "link": "https://imdb-api.com/posters/original/qTg8fjne0MdVKKtXLWw72qwKZBr.jpg",
+                "aspectRatio": 1.7777777777777777,
+                "language": "en",
+                "width": 1920,
+                "height": 1080
+            },
+            {
+                "id": "bg6Ma61jUkoALck50dQbKeJHS9U.jpg",
+                "link": "https://imdb-api.com/posters/original/bg6Ma61jUkoALck50dQbKeJHS9U.jpg",
+                "aspectRatio": 1.7777777777777777,
+                "language": "en",
+                "width": 1920,
+                "height": 1080
+            }
+        ],
+        "errorMessage": ""
+    },
+    "images": {
+        "imDbId": "tt0084787",
+        "title": "The Thing",
+        "fullTitle": "The Thing (1982)",
+        "type": "Movie",
+        "year": "1982",
+        "items": [
+            {
+                "title": "Keith David, Richard Dysart, Charles Hallahan, Peter Maloney, Donald Moffat, and Joel Polis in The Thing (1982)",
+                "image": "https://imdb-api.com/images/original/MV5BNzE0NGU2ZTQtYTJlZC00ODQ5LTg3NmYtMTdlMDk3YzViMDNiXkEyXkFqcGdeQXVyMTEyMjM2NDc2._V1_Ratio1.4800_AL_.jpg"
+            },
+            {
+                "title": "Kurt Russell in The Thing (1982)",
+                "image": "https://imdb-api.com/images/original/MV5BOTk4Mzg1Njg0Ml5BMl5BanBnXkFtZTgwMzQzMzE2NjM@._V1_Ratio1.4800_AL_.jpg"
+            },
+            {
+                "title": "Kurt Russell and Charles Hallahan in The Thing (1982)",
+                "image": "https://imdb-api.com/images/original/MV5BMTgxMjM2NDE5MF5BMl5BanBnXkFtZTgwODAwMDIwNTM@._V1_Ratio1.4800_AL_.jpg"
+            },
+            {
+                "title": "Kurt Russell in The Thing (1982)",
+                "image": "https://imdb-api.com/images/original/MV5BODQ3NDg5MDA0OV5BMl5BanBnXkFtZTgwMTEwMDIwNTM@._V1_Ratio1.4800_AL_.jpg"
+            },
+            {
+                "title": "Kurt Russell in The Thing (1982)",
+                "image": "https://imdb-api.com/images/original/MV5BMjAyMTczOTc2Ml5BMl5BanBnXkFtZTgwMjQ0MjczMjI@._V1_Ratio1.5000_AL_.jpg"
+            },
+            {
+                "title": "T.K. Carter, Charles Hallahan, Peter Maloney, Richard Masur, and Donald Moffat in The Thing (1982)",
+                "image": "https://imdb-api.com/images/original/MV5BMjMyNzc0MTI0NV5BMl5BanBnXkFtZTcwNTc4MTI2NQ@@._V1_Ratio1.2400_AL_.jpg"
+            },
+            {
+                "title": "Kurt Russell, T.K. Carter, and Donald Moffat in The Thing (1982)",
+                "image": "https://imdb-api.com/images/original/MV5BNDg3NDE4OTAzN15BMl5BanBnXkFtZTcwNjc4MTI2NQ@@._V1_Ratio1.2600_AL_.jpg"
+            },
+            {
+                "title": "The Thing (1982)",
+                "image": "https://imdb-api.com/images/original/MV5BMTY3MDQ1NzA4MV5BMl5BanBnXkFtZTcwNzc4MTI2NQ@@._V1_Ratio2.3200_AL_.jpg"
+            },
+            {
+                "title": "Charles Hallahan in The Thing (1982)",
+                "image": "https://imdb-api.com/images/original/MV5BMTQ4NDIzOTQ2N15BMl5BanBnXkFtZTcwODc4MTI2NQ@@._V1_Ratio2.3200_AL_.jpg"
+            },
+            {
+                "title": "Kurt Russell in The Thing (1982)",
+                "image": "https://imdb-api.com/images/original/MV5BMTQ0MDM0NjYzNF5BMl5BanBnXkFtZTcwOTc4MTI2NQ@@._V1_Ratio2.1200_AL_.jpg"
+            },
+            {
+                "title": "Kurt Russell in The Thing (1982)",
+                "image": "https://imdb-api.com/images/original/MV5BMTc2MjI0ODQ2OF5BMl5BanBnXkFtZTcwMDg4MTI2NQ@@._V1_Ratio2.3200_AL_.jpg"
+            },
+            {
+                "title": "Kurt Russell in The Thing (1982)",
+                "image": "https://imdb-api.com/images/original/MV5BNDEwMTY4NDEzN15BMl5BanBnXkFtZTcwMTg4MTI2NQ@@._V1_Ratio1.2400_AL_.jpg"
+            },
+            {
+                "title": "Kurt Russell in The Thing (1982)",
+                "image": "https://imdb-api.com/images/original/MV5BMTg3ODk5NzU0NF5BMl5BanBnXkFtZTcwMzg4MTI2NQ@@._V1_Ratio1.2200_AL_.jpg"
+            },
+            {
+                "title": "The Thing (1982)",
+                "image": "https://imdb-api.com/images/original/MV5BMTQ2NDUwODM5MV5BMl5BanBnXkFtZTcwNDg4MTI2NQ@@._V1_Ratio1.2200_AL_.jpg"
+            },
+            {
+                "title": "Charles Hallahan in The Thing (1982)",
+                "image": "https://imdb-api.com/images/original/MV5BMTkxOTgzMTY2N15BMl5BanBnXkFtZTcwNTg4MTI2NQ@@._V1_Ratio2.3600_AL_.jpg"
+            },
+            {
+                "title": "The Thing (1982)",
+                "image": "https://imdb-api.com/images/original/MV5BY2FiODliMDktMzE1YS00MWI4LWE2ZTItNWQ1MjljYmRhNWUzXkEyXkFqcGdeQXVyODIyOTEyMzY@._V1_Ratio1.0000_AL_.jpg"
+            },
+            {
+                "title": "The Thing (1982)",
+                "image": "https://imdb-api.com/images/original/MV5BZjRmM2JlYTQtYjAyOS00M2U2LWJiOWItZjQ5NzJhZWY4YzFhXkEyXkFqcGdeQXVyODc0OTEyNDU@._V1_Ratio1.0000_AL_.jpg"
+            },
+            {
+                "title": "The Thing (1982)",
+                "image": "https://imdb-api.com/images/original/MV5BMTAwNzY1NDQwMDNeQTJeQWpwZ15BbWU4MDA2MDczMTAx._V1_Ratio1.0000_AL_.jpg"
+            },
+            {
+                "title": "The Thing (1982)",
+                "image": "https://imdb-api.com/images/original/MV5BMTU4MjYxNzE1OF5BMl5BanBnXkFtZTgwMTYwNzMxMDE@._V1_Ratio1.0000_AL_.jpg"
+            },
+            {
+                "title": "The Thing (1982)",
+                "image": "https://imdb-api.com/images/original/MV5BMjA1NjMxMzY1Ml5BMl5BanBnXkFtZTgwMjYwNzMxMDE@._V1_Ratio1.0000_AL_.jpg"
+            },
+            {
+                "title": "The Thing (1982)",
+                "image": "https://imdb-api.com/images/original/MV5BMTkxMDA1MTA4Nl5BMl5BanBnXkFtZTcwOTkzNjk3OA@@._V1_Ratio1.0000_AL_.jpg"
+            },
+            {
+                "title": "The Thing (1982)",
+                "image": "https://imdb-api.com/images/original/MV5BMTg5MTIyNTE3Nl5BMl5BanBnXkFtZTYwNzc3NjE5._V1_Ratio1.0000_AL_.jpg"
+            },
+            {
+                "title": "The Thing (1982)",
+                "image": "https://imdb-api.com/images/original/MV5BMTI3NDYxMzA3MV5BMl5BanBnXkFtZTYwMDU4MTg4._V1_Ratio1.0000_AL_.jpg"
+            },
+            {
+                "title": "The Thing (1982)",
+                "image": "https://imdb-api.com/images/original/MV5BMTc3Njc1NjE4Nl5BMl5BanBnXkFtZTcwOTc4MjYxMQ@@._V1_Ratio1.0000_AL_.jpg"
+            },
+            {
+                "title": "The Thing (1982)",
+                "image": "https://imdb-api.com/images/original/MV5BMTUwNjk2NTI2MF5BMl5BanBnXkFtZTcwMzY3MTgxMQ@@._V1_Ratio1.0000_AL_.jpg"
+            },
+            {
+                "title": "The Thing (1982)",
+                "image": "https://imdb-api.com/images/original/MV5BMTQ1ODY5NTI0Ml5BMl5BanBnXkFtZTcwNzMxMzMyMQ@@._V1_Ratio1.0000_AL_.jpg"
+            },
+            {
+                "title": "The Thing (1982)",
+                "image": "https://imdb-api.com/images/original/MV5BMGFlMGY2NWItYjU0My00N2JmLWIwZTMtZmEwMDczZjQ4NjAwXkEyXkFqcGdeQXVyMTE4MDg3NTIz._V1_Ratio2.3800_AL_.jpg"
+            },
+            {
+                "title": "Kurt Russell, T.K. Carter, David Clennon, Keith David, Richard Dysart, Charles Hallahan, Donald Moffat, Joel Polis, and Thomas G. Waites in The Thing (1982)",
+                "image": "https://imdb-api.com/images/original/MV5BZjU4Y2Q3N2EtOWNlMi00MTM5LWFlYzItMzIzN2YzNmZkY2NlXkEyXkFqcGdeQXVyMTE4MDg3NTIz._V1_Ratio2.3400_AL_.jpg"
+            },
+            {
+                "title": "Donald Moffat in The Thing (1982)",
+                "image": "https://imdb-api.com/images/original/MV5BZWM4ZTI1N2EtZGU0MS00NjdkLWJkY2EtM2I3ODYxYjM2ZTQ4XkEyXkFqcGdeQXVyMTE4MDg3NTIz._V1_Ratio2.3600_AL_.jpg"
+            },
+            {
+                "title": "Kurt Russell in The Thing (1982)",
+                "image": "https://imdb-api.com/images/original/MV5BNWJiNWI0YmYtNmJiYS00NjEwLTg1OTktZDZhYTE4NjBhZTAwXkEyXkFqcGdeQXVyMTE4MDg3NTIz._V1_Ratio2.3800_AL_.jpg"
+            },
+            {
+                "title": "Richard Masur in The Thing (1982)",
+                "image": "https://imdb-api.com/images/original/MV5BMWMyYWQ3YTAtZDA4OS00NDg3LTliYzctNjc1OTQ4ODU1NTgyXkEyXkFqcGdeQXVyMTE4MDg3NTIz._V1_Ratio2.3600_AL_.jpg"
+            },
+            {
+                "title": "Wilford Brimley in The Thing (1982)",
+                "image": "https://imdb-api.com/images/original/MV5BYzA2ODdiODgtMzAyNy00MGM4LTgyZjMtZDBmOGNlZTJlNzI4XkEyXkFqcGdeQXVyMTE4MDg3NTIz._V1_Ratio2.3800_AL_.jpg"
+            },
+            {
+                "title": "Peter Maloney in The Thing (1982)",
+                "image": "https://imdb-api.com/images/original/MV5BNGFmZThhZjUtNzQxNS00YjY0LTlkMmMtZTI2NGJlOWQ3ZDJjXkEyXkFqcGdeQXVyMTE4MDg3NTIz._V1_Ratio2.3600_AL_.jpg"
+            },
+            {
+                "title": "The Thing (1982)",
+                "image": "https://imdb-api.com/images/original/MV5BODI4YjhiNDUtNzEyZi00NzlmLWE4MzktMTRmMjEwMmZlYjM0XkEyXkFqcGdeQXVyMTE4MDg3NTIz._V1_Ratio2.3800_AL_.jpg"
+            },
+            {
+                "title": "Kurt Russell, Wilford Brimley, Richard Dysart, Charles Hallahan, Peter Maloney, and Donald Moffat in The Thing (1982)",
+                "image": "https://imdb-api.com/images/original/MV5BMWEzYmM4OGEtZjEwYS00YTdkLTgxN2QtYzU0ZDJkNWE5ZWRmXkEyXkFqcGdeQXVyMTE4MDg3NTIz._V1_Ratio2.3600_AL_.jpg"
+            },
+            {
+                "title": "Thomas G. Waites in The Thing (1982)",
+                "image": "https://imdb-api.com/images/original/MV5BMWJjYzc2YTEtODMxYS00ODdjLThjNGUtZjViZGFhMzdkYTczXkEyXkFqcGdeQXVyMTE4MDg3NTIz._V1_Ratio2.3600_AL_.jpg"
+            },
+            {
+                "title": "Wilford Brimley in The Thing (1982)",
+                "image": "https://imdb-api.com/images/original/MV5BODlkOWZhYzQtYWI0OS00MTQ5LWFlNmItNTE3MWIwNzg5NGJmXkEyXkFqcGdeQXVyMTE4MDg3NTIz._V1_Ratio2.3800_AL_.jpg"
+            },
+            {
+                "title": "David Clennon in The Thing (1982)",
+                "image": "https://imdb-api.com/images/original/MV5BY2RmZmM2MWYtYjY2Yi00YjFkLThlYTYtYjg3YTYzYzFjYTkxXkEyXkFqcGdeQXVyMTE4MDg3NTIz._V1_Ratio2.3600_AL_.jpg"
+            },
+            {
+                "title": "Richard Masur and Jed in The Thing (1982)",
+                "image": "https://imdb-api.com/images/original/MV5BYWE2NmJjNzgtZjUyMS00N2EzLWI4MDktYmQxYmU2OWQ1Y2QxXkEyXkFqcGdeQXVyMTE4MDg3NTIz._V1_Ratio2.3600_AL_.jpg"
+            },
+            {
+                "title": "Jed in The Thing (1982)",
+                "image": "https://imdb-api.com/images/original/MV5BNDk1OTZmOGUtNjgxYS00MGNiLWEwY2ItMjgxNTgyZjNiMzhmXkEyXkFqcGdeQXVyMTE4MDg3NTIz._V1_Ratio2.3800_AL_.jpg"
+            },
+            {
+                "title": "The Thing (1982)",
+                "image": "https://imdb-api.com/images/original/MV5BYzg0MjQyNzEtY2ZkMC00MTczLWI0NGQtMGE1YWY0MzBiM2JiXkEyXkFqcGdeQXVyMTE4MDg3NTIz._V1_Ratio2.4400_AL_.jpg"
+            },
+            {
+                "title": "Joel Polis in The Thing (1982)",
+                "image": "https://imdb-api.com/images/original/MV5BM2IyOTgwMjMtYWRkNi00OTExLThhNDgtMGIzZDM2ZDQ3NjBkXkEyXkFqcGdeQXVyMTcwNTE1Ng@@._V1_Ratio2.3000_AL_.jpg"
+            },
+            {
+                "title": "David Clennon, Charles Hallahan, and Joel Polis in The Thing (1982)",
+                "image": "https://imdb-api.com/images/original/MV5BMDM5OTY2OWItMWI5MS00MmY0LWE1Y2YtNjZhOTVjNjY5MzBmXkEyXkFqcGdeQXVyMTcwNTE1Ng@@._V1_Ratio2.3600_AL_.jpg"
+            },
+            {
+                "title": "Thomas G. Waites in The Thing (1982)",
+                "image": "https://imdb-api.com/images/original/MV5BYzQwOWJjM2QtZmRhNS00YzUzLTljMzEtY2MyNTY0YmE0YWJiXkEyXkFqcGdeQXVyMTcwNTE1Ng@@._V1_Ratio2.3400_AL_.jpg"
+            },
+            {
+                "title": "Peter Maloney in The Thing (1982)",
+                "image": "https://imdb-api.com/images/original/MV5BZjU0M2I1MmMtNDk5Zi00ZDNkLTk1OGItNGMwYjY5YTRmZmZhXkEyXkFqcGdeQXVyMTcwNTE1Ng@@._V1_Ratio2.3400_AL_.jpg"
+            },
+            {
+                "title": "Peter Maloney in The Thing (1982)",
+                "image": "https://imdb-api.com/images/original/MV5BMWU2MWMwMTQtZTU0Yi00YjVjLThkODAtOWUwNDQwZTdjMzY0XkEyXkFqcGdeQXVyMTcwNTE1Ng@@._V1_Ratio2.3000_AL_.jpg"
+            },
+            {
+                "title": "Joel Polis in The Thing (1982)",
+                "image": "https://imdb-api.com/images/original/MV5BNDIwY2UyNmItZDQyNC00Y2VhLWJiYTEtYjkyMGJiNWYyOGU3XkEyXkFqcGdeQXVyMTcwNTE1Ng@@._V1_Ratio2.3400_AL_.jpg"
+            },
+            {
+                "title": "Richard Masur in The Thing (1982)",
+                "image": "https://imdb-api.com/images/original/MV5BNzlkZWFiOTAtOWI4ZC00NTNlLWFkYzUtNjE5NzIwNmVkNDQ2XkEyXkFqcGdeQXVyMTcwNTE1Ng@@._V1_Ratio2.3400_AL_.jpg"
+            }
+        ],
+        "errorMessage": ""
+    },
+    "trailer": {
+        "imDbId": "tt0084787",
+        "title": "The Thing",
+        "fullTitle": "The Thing (1982)",
+        "type": "Movie",
+        "year": "1982",
+        "videoId": "vi2298151193",
+        "videoTitle": "The Thing",
+        "videoDescription": "Scientists in the Antarctic are confronted by a shape-shifting alien that assumes the appearance of the people that it kills.",
+        "thumbnailUrl": "https://m.media-amazon.com/images/M/MV5BYzBhZmNmYzgtMmZkMC00ODYxLWJiYjctOGFkOTYwMWZhZDk4XkEyXkFqcGdeQWpvaG5oYXJ0._V1_.jpg",
+        "uploadDate": "04/11/2008 17:15:47",
+        "link": "https://www.imdb.com/video/vi2298151193",
+        "linkEmbed": "https://www.imdb.com/video/imdb/vi2298151193/imdb/embed",
+        "errorMessage": ""
+    },
+    "boxOffice": {
+        "budget": "$15,000,000 (estimated)",
+        "openingWeekendUSA": "$3,107,897, 27 June 1982",
+        "grossUSA": "$19,629,760",
+        "cumulativeWorldwideGross": "$19,632,053"
+    },
+    "tagline": "Look closely at your neighbour ... Trust no-one ... They might be THE THING [UK video box]",
+    "keywords": "antarctica,isolation,paranoia,body horror,alien creature",
+    "keywordList": [
+        "antarctica",
+        "isolation",
+        "paranoia",
+        "body horror",
+        "alien creature"
+    ],
+    "similars": [
+        {
+            "id": "tt0905372",
+            "title": "The Thing",
+            "fullTitle": "",
+            "year": "",
+            "image": "https://imdb-api.com/images/original/MV5BMTMxMjI0MzUyNl5BMl5BanBnXkFtZTcwNjc1NzE5NQ@@._V1_Ratio0.6737_AL_.jpg",
+            "plot": "At an Antarctica research site, the discovery of an alien craft leads to a confrontation between graduate student Kate Lloyd and scientist Dr. Sander Halvorson.",
+            "directors": "Matthijs van Heijningen Jr.",
+            "stars": "Mary Elizabeth Winstead, Joel Edgerton, Ulrich Thomsen",
+            "genres": "Horror, Mystery, Sci-Fi",
+            "imDbRating": "6.2"
+        },
+        {
+            "id": "tt0078748",
+            "title": "Alien",
+            "fullTitle": "Alien (1979)",
+            "year": "1979",
+            "image": "https://imdb-api.com/images/original/MV5BMmQ2MmU3NzktZjAxOC00ZDZhLTk4YzEtMDMyMzcxY2IwMDAyXkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_Ratio0.6737_AL_.jpg",
+            "plot": "After a space merchant vessel receives an unknown transmission as a distress call, one of the crew is attacked by a mysterious life form and they soon realize that its life cycle has merely begun.",
+            "directors": "Ridley Scott",
+            "stars": "Sigourney Weaver, Tom Skerritt, John Hurt",
+            "genres": "Horror, Sci-Fi",
+            "imDbRating": "8.4"
+        },
+        {
+            "id": "tt0090605",
+            "title": "Aliens",
+            "fullTitle": "Aliens (1986)",
+            "year": "1986",
+            "image": "https://imdb-api.com/images/original/MV5BZGU2OGY5ZTYtMWNhYy00NjZiLWI0NjUtZmNhY2JhNDRmODU3XkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_Ratio0.6737_AL_.jpg",
+            "plot": "Fifty-seven years after surviving an apocalyptic attack aboard her space vessel by merciless space creatures, Officer Ripley awakens from hyper-sleep and tries to warn anyone who will listen about the predators.",
+            "directors": "James Cameron",
+            "stars": "Sigourney Weaver, Michael Biehn, Carrie Henn",
+            "genres": "Action, Adventure, Sci-Fi",
+            "imDbRating": "8.3"
+        },
+        {
+            "id": "tt0081505",
+            "title": "The Shining",
+            "fullTitle": "The Shining (1980)",
+            "year": "1980",
+            "image": "https://imdb-api.com/images/original/MV5BZWFlYmY2MGEtZjVkYS00YzU4LTg0YjQtYzY1ZGE3NTA5NGQxXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_Ratio0.6737_AL_.jpg",
+            "plot": "A family heads to an isolated hotel for the winter where a sinister presence influences the father into violence, while his psychic son sees horrific forebodings from both past and future.",
+            "directors": "Stanley Kubrick",
+            "stars": "Jack Nicholson, Shelley Duvall, Danny Lloyd",
+            "genres": "Drama, Horror",
+            "imDbRating": "8.4"
+        },
+        {
+            "id": "tt0083658",
+            "title": "Blade Runner",
+            "fullTitle": "Blade Runner (1982)",
+            "year": "1982",
+            "image": "https://imdb-api.com/images/original/MV5BNzQzMzJhZTEtOWM4NS00MTdhLTg0YjgtMjM4MDRkZjUwZDBlXkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_Ratio0.6737_AL_.jpg",
+            "plot": "A blade runner must pursue and terminate four replicants who stole a ship in space, and have returned to Earth to find their creator.",
+            "directors": "Ridley Scott",
+            "stars": "Harrison Ford, Rutger Hauer, Sean Young",
+            "genres": "Action, Sci-Fi, Thriller",
+            "imDbRating": "8.1"
+        },
+        {
+            "id": "tt0077651",
+            "title": "Halloween",
+            "fullTitle": "Halloween (1978)",
+            "year": "1978",
+            "image": "https://imdb-api.com/images/original/MV5BNzk1OGU2NmMtNTdhZC00NjdlLWE5YTMtZTQ0MGExZTQzOGQyXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_Ratio0.6737_AL_.jpg",
+            "plot": "Fifteen years after murdering his sister on Halloween night 1963, Michael Myers escapes from a mental hospital and returns to the small town of Haddonfield, Illinois to kill again.",
+            "directors": "John Carpenter",
+            "stars": "Donald Pleasence, Jamie Lee Curtis, Tony Moran",
+            "genres": "Horror, Thriller",
+            "imDbRating": "7.7"
+        },
+        {
+            "id": "tt0107290",
+            "title": "Jurassic Park",
+            "fullTitle": "Jurassic Park (1993)",
+            "year": "1993",
+            "image": "https://imdb-api.com/images/original/MV5BMjM2MDgxMDg0Nl5BMl5BanBnXkFtZTgwNTM2OTM5NDE@._V1_Ratio0.6737_AL_.jpg",
+            "plot": "A pragmatic paleontologist visiting an almost complete theme park is tasked with protecting a couple of kids after a power failure causes the park's cloned dinosaurs to run loose.",
+            "directors": "Steven Spielberg",
+            "stars": "Sam Neill, Laura Dern, Jeff Goldblum",
+            "genres": "Action, Adventure, Sci-Fi",
+            "imDbRating": "8.1"
+        },
+        {
+            "id": "tt0082340",
+            "title": "Escape from New York",
+            "fullTitle": "Escape from New York (1981)",
+            "year": "1981",
+            "image": "https://imdb-api.com/images/original/MV5BMTUzMTY0Nzg0MV5BMl5BanBnXkFtZTgwMDU3MzQxMDE@._V1_Ratio0.6737_AL_.jpg",
+            "plot": "In 1997, when the U.S. president crashes into Manhattan, now a giant maximum security prison, a convicted bank robber is sent in to rescue him.",
+            "directors": "John Carpenter",
+            "stars": "Kurt Russell, Lee Van Cleef, Ernest Borgnine",
+            "genres": "Action, Adventure, Sci-Fi",
+            "imDbRating": "7.2"
+        },
+        {
+            "id": "tt0062622",
+            "title": "2001: A Space Odyssey",
+            "fullTitle": "2001: A Space Odyssey (1968)",
+            "year": "1968",
+            "image": "https://imdb-api.com/images/original/MV5BMmNlYzRiNDctZWNhMi00MzI4LThkZTctMTUzMmZkMmFmNThmXkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_Ratio0.6737_AL_.jpg",
+            "plot": "After discovering a mysterious artifact buried beneath the Lunar surface, mankind sets off on a quest to find its origins with help from intelligent supercomputer H.A.L. 9000.",
+            "directors": "Stanley Kubrick",
+            "stars": "Keir Dullea, Gary Lockwood, William Sylvester",
+            "genres": "Adventure, Sci-Fi",
+            "imDbRating": "8.3"
+        },
+        {
+            "id": "tt0167404",
+            "title": "The Sixth Sense",
+            "fullTitle": "The Sixth Sense (1999)",
+            "year": "1999",
+            "image": "https://imdb-api.com/images/original/MV5BMWM4NTFhYjctNzUyNi00NGMwLTk3NTYtMDIyNTZmMzRlYmQyXkEyXkFqcGdeQXVyMTAwMzUyOTc@._V1_Ratio0.6737_AL_.jpg",
+            "plot": "A boy who communicates with spirits seeks the help of a disheartened child psychologist.",
+            "directors": "M. Night Shyamalan",
+            "stars": "Bruce Willis, Haley Joel Osment, Toni Collette",
+            "genres": "Drama, Mystery, Thriller",
+            "imDbRating": "8.1"
+        },
+        {
+            "id": "tt0054215",
+            "title": "Psycho",
+            "fullTitle": "Psycho (1960)",
+            "year": "1960",
+            "image": "https://imdb-api.com/images/original/MV5BNTQwNDM1YzItNDAxZC00NWY2LTk0M2UtNDIwNWI5OGUyNWUxXkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_Ratio0.6737_AL_.jpg",
+            "plot": "A Phoenix secretary embezzles $40,000 from her employer's client, goes on the run, and checks into a remote motel run by a young man under the domination of his mother.",
+            "directors": "Alfred Hitchcock",
+            "stars": "Anthony Perkins, Janet Leigh, Vera Miles",
+            "genres": "Horror, Mystery, Thriller",
+            "imDbRating": "8.5"
+        },
+        {
+            "id": "tt0070047",
+            "title": "The Exorcist",
+            "fullTitle": "The Exorcist (1973)",
+            "year": "1973",
+            "image": "https://imdb-api.com/images/original/MV5BYjhmMGMxZDYtMTkyNy00YWVmLTgyYmUtYTU3ZjcwNTBjN2I1XkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_Ratio0.6737_AL_.jpg",
+            "plot": "When a 12-year-old girl is possessed by a mysterious entity, her mother seeks the help of two priests to save her.",
+            "directors": "William Friedkin",
+            "stars": "Ellen Burstyn, Max von Sydow, Linda Blair",
+            "genres": "Horror",
+            "imDbRating": "8"
+        }
+    ],
+    "tvSeriesInfo": null,
+    "tvEpisodeInfo": null,
+    "errorMessage": ""
+}

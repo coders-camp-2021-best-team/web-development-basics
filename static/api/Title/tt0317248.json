@@ -1,0 +1,706 @@
+{
+    "id": "tt0317248",
+    "title": "City of God",
+    "originalTitle": "Cidade de Deus",
+    "fullTitle": "City of God (2002)",
+    "type": "Movie",
+    "year": "2002",
+    "image": "https://imdb-api.com/images/original/MV5BOTMwYjc5ZmItYTFjZC00ZGQ3LTlkNTMtMjZiNTZlMWQzNzI5XkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_Ratio0.6791_AL_.jpg",
+    "releaseDate": "2002-08-30",
+    "runtimeMins": "130",
+    "runtimeStr": "2h 10mins",
+    "plot": "Brazil, 1960s, City of God. The Tender Trio robs motels and gas trucks. Younger kids watch and learn well...too well. 1970s: Li'l Zé has prospered very well and owns the city. He causes violence and fear as he wipes out rival gangs without mercy. His best friend Bené is the only one to keep him on the good side of sanity. Rocket has watched these two gain power for years, and he wants no part of it. he keeps getting swept up in the madness. All he wants to do is take pictures. 1980s: Things are out of control between the last two remaining gangs...will it ever end? Welcome to the City of God.",
+    "plotLocal": "",
+    "plotLocalIsRtl": false,
+    "awards": "Top Rated Movies #22 | Nominated for 4 Oscars. Another 74 wins & 46 nominations.",
+    "directors": "Fernando Meirelles, Kátia Lund",
+    "directorList": [
+        { "id": "nm0576987", "name": "Fernando Meirelles" },
+        { "id": "nm0526199", "name": "Kátia Lund" }
+    ],
+    "writers": "Paulo Lins, Bráulio Mantovani",
+    "writerList": [
+        { "id": "nm0513130", "name": "Paulo Lins" },
+        { "id": "nm1130251", "name": "Bráulio Mantovani" }
+    ],
+    "stars": "Alexandre Rodrigues, Leandro Firmino, Matheus Nachtergaele, Phellipe Haagensen",
+    "starList": [
+        { "id": "nm1179105", "name": "Alexandre Rodrigues" },
+        { "id": "nm1129884", "name": "Leandro Firmino" },
+        { "id": "nm0618690", "name": "Matheus Nachtergaele" },
+        { "id": "nm1249574", "name": "Phellipe Haagensen" }
+    ],
+    "actorList": [
+        {
+            "id": "nm1179105",
+            "image": "https://imdb-api.com/images/original/MV5BMTc5MzkzNzk5MV5BMl5BanBnXkFtZTcwMjc4MTE5Ng@@._V1_Ratio1.7727_AL_.jpg",
+            "name": "Alexandre Rodrigues",
+            "asCharacter": "Buscapé - Rocket"
+        },
+        {
+            "id": "nm1129884",
+            "image": "https://imdb-api.com/images/original/MV5BMTQ5MjM3ODIyM15BMl5BanBnXkFtZTcwNTMzNDY3Mw@@._V1_Ratio1.9545_AL_.jpg",
+            "name": "Leandro Firmino",
+            "asCharacter": "Zé Pequeno - Li'l Zé (as Leandro Firmino da Hora)"
+        },
+        {
+            "id": "nm1249574",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Phellipe Haagensen",
+            "asCharacter": "Bené - Benny"
+        },
+        {
+            "id": "nm1179683",
+            "image": "https://imdb-api.com/images/original/MV5BMTUwNjQxNDg5MV5BMl5BanBnXkFtZTcwNDc4MTE5Ng@@._V1_Ratio1.7727_AL_.jpg",
+            "name": "Douglas Silva",
+            "asCharacter": "Dadinho - Li'l Dice"
+        },
+        {
+            "id": "nm1178560",
+            "image": "https://imdb-api.com/images/original/MV5BMTY4MzAyMjUxNF5BMl5BanBnXkFtZTcwNjIwMTk2Mw@@._V1_Ratio1.7727_AL_.jpg",
+            "name": "Jonathan Haagensen",
+            "asCharacter": "Cabeleira - Shaggy"
+        },
+        {
+            "id": "nm0618690",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Matheus Nachtergaele",
+            "asCharacter": "Sandro Cenoura - Carrot"
+        },
+        {
+            "id": "nm1179580",
+            "image": "https://imdb-api.com/images/original/MV5BMTczOTc4NjkwMF5BMl5BanBnXkFtZTcwNjU2NzIwNw@@._V1_Ratio1.3182_AL_.jpg",
+            "name": "Seu Jorge",
+            "asCharacter": "Mané Galinha - Knockout Ned"
+        },
+        {
+            "id": "nm1403603",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Jefechander Suplino",
+            "asCharacter": "Alicate - Clipper"
+        },
+        {
+            "id": "nm0103797",
+            "image": "https://imdb-api.com/images/original/MV5BMTgwNjE4NzU4M15BMl5BanBnXkFtZTcwMDQ5NDI2MQ@@._V1_Ratio0.7273_AL_.jpg",
+            "name": "Alice Braga",
+            "asCharacter": "Angélica"
+        },
+        {
+            "id": "nm1248280",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Emerson Gomes",
+            "asCharacter": "Barbantinho - Stringy"
+        },
+        {
+            "id": "nm0646663",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Edson Oliveira",
+            "asCharacter": "Barbantinho Adulto - Older Stringy"
+        },
+        {
+            "id": "nm1249471",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Michel Gomes",
+            "asCharacter": "Bené Criança - Young Benny (as Michel De Souza Gomes)"
+        },
+        {
+            "id": "nm1368917",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Roberta Rodrigues",
+            "asCharacter": "Berenice - Bernice"
+        },
+        {
+            "id": "nm1404223",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Luis Otávio",
+            "asCharacter": "Buscapé Criança - Young Rocket"
+        },
+        {
+            "id": "nm1323565",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Kiko Marques",
+            "asCharacter": "Cabeção - Melonhead (as Maurício Marques)"
+        }
+    ],
+    "fullCast": null,
+    "genres": "Crime, Drama",
+    "genreList": [
+        { "key": "Crime", "value": "Crime" },
+        { "key": "Drama", "value": "Drama" }
+    ],
+    "companies": "O2 Filmes, VideoFilmes, Globo Filmes",
+    "companyList": [
+        { "id": "co0069394", "name": "O2 Filmes" },
+        { "id": "co0061824", "name": "VideoFilmes" },
+        { "id": "co0026273", "name": "Globo Filmes" }
+    ],
+    "countries": "Brazil, France, Germany",
+    "countryList": [
+        { "key": "Brazil", "value": "Brazil" },
+        { "key": "France", "value": "France" },
+        { "key": "Germany", "value": "Germany" }
+    ],
+    "languages": "Portuguese",
+    "languageList": [{ "key": "Portuguese", "value": "Portuguese" }],
+    "contentRating": "R",
+    "imDbRating": "8.6",
+    "imDbRatingVotes": "706638",
+    "metacriticRating": "79",
+    "ratings": null,
+    "wikipedia": null,
+    "posters": {
+        "imDbId": "tt0317248",
+        "title": "City of God",
+        "fullTitle": "City of God (2002)",
+        "type": "Movie",
+        "year": "2002",
+        "posters": [
+            {
+                "id": "k7eYdWvhYQyRQoU2TB2A2Xu2TfD.jpg",
+                "link": "https://imdb-api.com/posters/original/k7eYdWvhYQyRQoU2TB2A2Xu2TfD.jpg",
+                "aspectRatio": 0.6666666666666666,
+                "language": "en",
+                "width": 2000,
+                "height": 3000
+            },
+            {
+                "id": "yY8Fp644mPNX8HP8O7cu2ksMq3y.jpg",
+                "link": "https://imdb-api.com/posters/original/yY8Fp644mPNX8HP8O7cu2ksMq3y.jpg",
+                "aspectRatio": 0.7536507936507937,
+                "language": "en",
+                "width": 1187,
+                "height": 1575
+            },
+            {
+                "id": "4YEX7qUfg6kN2tHm84CMt2CEq9n.jpg",
+                "link": "https://imdb-api.com/posters/original/4YEX7qUfg6kN2tHm84CMt2CEq9n.jpg",
+                "aspectRatio": 0.6666666666666666,
+                "language": "en",
+                "width": 1400,
+                "height": 2100
+            },
+            {
+                "id": "zxVEkxgreRkFkh1rBK85T2JyxFY.jpg",
+                "link": "https://imdb-api.com/posters/original/zxVEkxgreRkFkh1rBK85T2JyxFY.jpg",
+                "aspectRatio": 0.6666666666666666,
+                "language": "en",
+                "width": 1400,
+                "height": 2100
+            },
+            {
+                "id": "uXW11ucX2Nup96QWFgiDYzEgXTN.jpg",
+                "link": "https://imdb-api.com/posters/original/uXW11ucX2Nup96QWFgiDYzEgXTN.jpg",
+                "aspectRatio": 0.6666666666666666,
+                "language": "en",
+                "width": 1800,
+                "height": 2700
+            },
+            {
+                "id": "mG7YgoeA4ortmwcrtbkIEQjexSB.jpg",
+                "link": "https://imdb-api.com/posters/original/mG7YgoeA4ortmwcrtbkIEQjexSB.jpg",
+                "aspectRatio": 0.6666666666666666,
+                "language": "en",
+                "width": 1000,
+                "height": 1500
+            },
+            {
+                "id": "6JSVePBTSEY7uknlWG4MfwhcVlT.jpg",
+                "link": "https://imdb-api.com/posters/original/6JSVePBTSEY7uknlWG4MfwhcVlT.jpg",
+                "aspectRatio": 0.6666666666666666,
+                "language": "en",
+                "width": 2000,
+                "height": 3000
+            },
+            {
+                "id": "77aJgm1VocHuNuEsH2L1gcy2vkI.jpg",
+                "link": "https://imdb-api.com/posters/original/77aJgm1VocHuNuEsH2L1gcy2vkI.jpg",
+                "aspectRatio": 0.6666666666666666,
+                "language": "en",
+                "width": 2000,
+                "height": 3000
+            },
+            {
+                "id": "4wga3nAnHEFZPZr62H2g3YDA8XZ.jpg",
+                "link": "https://imdb-api.com/posters/original/4wga3nAnHEFZPZr62H2g3YDA8XZ.jpg",
+                "aspectRatio": 0.6666666666666666,
+                "language": "en",
+                "width": 1800,
+                "height": 2700
+            },
+            {
+                "id": "wpeV1g1Xbty7uykINS9u1sEby9n.jpg",
+                "link": "https://imdb-api.com/posters/original/wpeV1g1Xbty7uykINS9u1sEby9n.jpg",
+                "aspectRatio": 0.6666666666666666,
+                "language": "en",
+                "width": 800,
+                "height": 1200
+            },
+            {
+                "id": "55MlBN93mdecFL40XaLGEZDof5H.jpg",
+                "link": "https://imdb-api.com/posters/original/55MlBN93mdecFL40XaLGEZDof5H.jpg",
+                "aspectRatio": 0.6666666666666666,
+                "language": "en",
+                "width": 800,
+                "height": 1200
+            },
+            {
+                "id": "fDT0lgPUUzHsWXi9otzbitvdnDE.jpg",
+                "link": "https://imdb-api.com/posters/original/fDT0lgPUUzHsWXi9otzbitvdnDE.jpg",
+                "aspectRatio": 0.6666666666666666,
+                "language": "en",
+                "width": 1800,
+                "height": 2700
+            },
+            {
+                "id": "eSTM65kqDJD9FCC9mhLll8yheIU.jpg",
+                "link": "https://imdb-api.com/posters/original/eSTM65kqDJD9FCC9mhLll8yheIU.jpg",
+                "aspectRatio": 0.6666666666666666,
+                "language": "en",
+                "width": 1000,
+                "height": 1500
+            }
+        ],
+        "backdrops": [
+            {
+                "id": "5p3aTxtUtZHCHwYsuycutmxIhND.jpg",
+                "link": "https://imdb-api.com/posters/original/5p3aTxtUtZHCHwYsuycutmxIhND.jpg",
+                "aspectRatio": 1.7777777777777777,
+                "language": "en",
+                "width": 1920,
+                "height": 1080
+            },
+            {
+                "id": "194dso1hBwQEgIU3fgS7mXHtFAj.jpg",
+                "link": "https://imdb-api.com/posters/original/194dso1hBwQEgIU3fgS7mXHtFAj.jpg",
+                "aspectRatio": 1.7777777777777777,
+                "language": "en",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "id": "6NWJLzckS3QR4g1mZacjQHZysVZ.jpg",
+                "link": "https://imdb-api.com/posters/original/6NWJLzckS3QR4g1mZacjQHZysVZ.jpg",
+                "aspectRatio": 1.7772511848341233,
+                "language": "en",
+                "width": 3000,
+                "height": 1688
+            },
+            {
+                "id": "AsoxSg4gkTFUpVUs4joxTxkUNKL.jpg",
+                "link": "https://imdb-api.com/posters/original/AsoxSg4gkTFUpVUs4joxTxkUNKL.jpg",
+                "aspectRatio": 1.7793594306049823,
+                "language": "en",
+                "width": 2000,
+                "height": 1124
+            },
+            {
+                "id": "cNhT3z8zpCegaZN09n3glPuwHEZ.jpg",
+                "link": "https://imdb-api.com/posters/original/cNhT3z8zpCegaZN09n3glPuwHEZ.jpg",
+                "aspectRatio": 1.7777777777777777,
+                "language": "en",
+                "width": 1920,
+                "height": 1080
+            },
+            {
+                "id": "rr0vFvjbAU7zaLjSRtUAxavH2bv.jpg",
+                "link": "https://imdb-api.com/posters/original/rr0vFvjbAU7zaLjSRtUAxavH2bv.jpg",
+                "aspectRatio": 1.7777777777777777,
+                "language": "en",
+                "width": 1920,
+                "height": 1080
+            },
+            {
+                "id": "cmyZfAGmtiYtKNwuXjmRn3fXRQA.jpg",
+                "link": "https://imdb-api.com/posters/original/cmyZfAGmtiYtKNwuXjmRn3fXRQA.jpg",
+                "aspectRatio": 1.7777777777777777,
+                "language": "en",
+                "width": 1600,
+                "height": 900
+            },
+            {
+                "id": "8ghL3aAGLzcFitCXGornEcpn3K5.jpg",
+                "link": "https://imdb-api.com/posters/original/8ghL3aAGLzcFitCXGornEcpn3K5.jpg",
+                "aspectRatio": 1.7777777777777777,
+                "language": "en",
+                "width": 1920,
+                "height": 1080
+            }
+        ],
+        "errorMessage": ""
+    },
+    "images": {
+        "imDbId": "tt0317248",
+        "title": "City of God",
+        "fullTitle": "City of God (2002)",
+        "type": "Movie",
+        "year": "2002",
+        "items": [
+            {
+                "title": "Leandro Firmino, Darlan Cunha, and Paulo 'Jacaré' César in City of God (2002)",
+                "image": "https://imdb-api.com/images/original/MV5BMjQ4MjgyNjAwNl5BMl5BanBnXkFtZTcwMTk2MzA1OQ@@._V1_Ratio1.8200_AL_.jpg"
+            },
+            {
+                "title": "Alexandre Rodrigues in City of God (2002)",
+                "image": "https://imdb-api.com/images/original/MV5BMTc5MzkzNzk5MV5BMl5BanBnXkFtZTcwMjc4MTE5Ng@@._V1_Ratio1.7800_AL_.jpg"
+            },
+            {
+                "title": "Douglas Silva in City of God (2002)",
+                "image": "https://imdb-api.com/images/original/MV5BMTUwNjQxNDg5MV5BMl5BanBnXkFtZTcwNDc4MTE5Ng@@._V1_Ratio1.7800_AL_.jpg"
+            },
+            {
+                "title": "Leandro Firmino and Paulo 'Jacaré' César in City of God (2002)",
+                "image": "https://imdb-api.com/images/original/MV5BMTQ5MjM3ODIyM15BMl5BanBnXkFtZTcwNTMzNDY3Mw@@._V1_Ratio1.9400_AL_.jpg"
+            },
+            {
+                "title": "Jonathan Haagensen and Roberta Rodrigues in City of God (2002)",
+                "image": "https://imdb-api.com/images/original/MV5BMTM2MjQ3NzcxOV5BMl5BanBnXkFtZTcwNjMzNDY3Mw@@._V1_Ratio1.9200_AL_.jpg"
+            },
+            {
+                "title": "Jonathan Haagensen, Renato de Souza, and Jefechander Suplino in City of God (2002)",
+                "image": "https://imdb-api.com/images/original/MV5BMTY4MzAyMjUxNF5BMl5BanBnXkFtZTcwNjIwMTk2Mw@@._V1_Ratio1.8000_AL_.jpg"
+            },
+            {
+                "title": "Alice Braga and Alexandre Rodrigues in City of God (2002)",
+                "image": "https://imdb-api.com/images/original/MV5BMTYwNDE4NjM0OF5BMl5BanBnXkFtZTcwNzIwMTk2Mw@@._V1_Ratio1.7600_AL_.jpg"
+            },
+            {
+                "title": "Fernando Meirelles at an event for City of God (2002)",
+                "image": "https://imdb-api.com/images/original/MV5BMjE0ODY2MzQyMV5BMl5BanBnXkFtZTYwNjAzNTI0._V1_Ratio1.0000_AL_.jpg"
+            },
+            {
+                "title": "Fernando Meirelles at an event for City of God (2002)",
+                "image": "https://imdb-api.com/images/original/MV5BMTY4NTY3ODMyOF5BMl5BanBnXkFtZTYwODAzNTI0._V1_Ratio1.0000_AL_.jpg"
+            },
+            {
+                "title": "Fernando Meirelles at an event for City of God (2002)",
+                "image": "https://imdb-api.com/images/original/MV5BMTk4NTI0NTYwMV5BMl5BanBnXkFtZTYwMDEzNTI0._V1_Ratio1.0000_AL_.jpg"
+            },
+            {
+                "title": "City of God (2002)",
+                "image": "https://imdb-api.com/images/original/MV5BZTFmMmE0NjYtYzAwMy00NWNiLTlhM2ItOTM0YjU2NzkyNjkzXkEyXkFqcGdeQXVyMTAyOTE2ODg0._V1_Ratio1.0000_AL_.jpg"
+            },
+            {
+                "title": "City of God (2002)",
+                "image": "https://imdb-api.com/images/original/MV5BODRkM2I1NzYtNTk2OS00YmNkLWE1M2YtYWQ2ODZiYTk3ODljXkEyXkFqcGdeQXVyNjI0MTA1MTM@._V1_Ratio1.0000_AL_.jpg"
+            },
+            {
+                "title": "Alice Braga in City of God (2002)",
+                "image": "https://imdb-api.com/images/original/MV5BMjA4ODQ3ODkzNV5BMl5BanBnXkFtZTYwOTc4NDI3._V1_Ratio1.0000_AL_.jpg"
+            },
+            {
+                "title": "City of God (2002)",
+                "image": "https://imdb-api.com/images/original/MV5BMTk1OTI2Njc5NV5BMl5BanBnXkFtZTcwNDIzMTkwOA@@._V1_Ratio1.0000_AL_.jpg"
+            },
+            {
+                "title": "City of God (2002)",
+                "image": "https://imdb-api.com/images/original/MV5BMTU3MDYxMTIxNl5BMl5BanBnXkFtZTcwNTI1ODQ4NA@@._V1_Ratio1.0000_AL_.jpg"
+            },
+            {
+                "title": "City of God (2002)",
+                "image": "https://imdb-api.com/images/original/MV5BMjcxNTAxNzE3NV5BMl5BanBnXkFtZTcwOTYwOTU4MQ@@._V1_Ratio1.0000_AL_.jpg"
+            },
+            {
+                "title": "City of God (2002)",
+                "image": "https://imdb-api.com/images/original/MV5BMjA4MjIzODM3Nl5BMl5BanBnXkFtZTcwODQ0NjEyMQ@@._V1_Ratio1.0000_AL_.jpg"
+            },
+            {
+                "title": "Leandro Firmino in City of God (2002)",
+                "image": "https://imdb-api.com/images/original/MV5BZmE4MDEwN2QtMzllZS00ODQxLWIzMGYtYzc3ODMwZDM2NmQ2XkEyXkFqcGdeQXVyMTI0MDI0OA@@._V1_Ratio1.5000_AL_.jpg"
+            },
+            {
+                "title": "Matheus Nachtergaele in City of God (2002)",
+                "image": "https://imdb-api.com/images/original/MV5BNTJhY2ZhZmEtNTk1My00ZWQ0LTk4YzItY2M4NThmMzhjZDQxXkEyXkFqcGdeQXVyOTc5MDI5NjE@._V1_Ratio1.8600_AL_.jpg"
+            },
+            {
+                "title": "City of God (2002)",
+                "image": "https://imdb-api.com/images/original/MV5BMjY5YmRkODQtYmUyMC00OGI5LTkwYzgtNzZmOTUwNWY5YTg0XkEyXkFqcGdeQXVyOTc5MDI5NjE@._V1_Ratio1.8600_AL_.jpg"
+            },
+            {
+                "title": "City of God (2002)",
+                "image": "https://imdb-api.com/images/original/MV5BODE1M2YzMzktMGEwOS00MGM1LThjYWQtZGI3ZTBkYmNmNGJmXkEyXkFqcGdeQXVyOTc5MDI5NjE@._V1_Ratio1.8600_AL_.jpg"
+            },
+            {
+                "title": "Douglas Silva in City of God (2002)",
+                "image": "https://imdb-api.com/images/original/MV5BOGE2YjU1MGItNWI1Ny00ZjJjLTk5MDEtMzVhZDQwZDkwNWJlXkEyXkFqcGdeQXVyOTc5MDI5NjE@._V1_Ratio1.8600_AL_.jpg"
+            },
+            {
+                "title": "City of God (2002)",
+                "image": "https://imdb-api.com/images/original/MV5BZGUxMzIwMDMtM2VhMi00MWMwLTkxZGQtOGY0YmMzMGU4YWZmXkEyXkFqcGdeQXVyOTc5MDI5NjE@._V1_Ratio2.0000_AL_.jpg"
+            },
+            {
+                "title": "Alice Braga and Alexandre Rodrigues in City of God (2002)",
+                "image": "https://imdb-api.com/images/original/MV5BYTc5MTkwMzctZjRkNy00ZTQxLWFhYzYtMDg1ZGJkNzg2ZjZjXkEyXkFqcGdeQXVyOTc5MDI5NjE@._V1_Ratio1.8600_AL_.jpg"
+            },
+            {
+                "title": "City of God (2002)",
+                "image": "https://imdb-api.com/images/original/MV5BMDc4YzM2ZTgtMjUzYy00YTBmLWFjMjUtYTQ1ZWY3ZGI5NGFmXkEyXkFqcGdeQXVyOTc5MDI5NjE@._V1_Ratio1.8600_AL_.jpg"
+            },
+            {
+                "title": "City of God (2002)",
+                "image": "https://imdb-api.com/images/original/MV5BYjVmNDFjMmItMWE5NC00YmEyLTg2Y2EtODEyM2ExYTZhNzE5XkEyXkFqcGdeQXVyOTc5MDI5NjE@._V1_Ratio1.9400_AL_.jpg"
+            },
+            {
+                "title": "Alice Braga and Phellipe Haagensen in City of God (2002)",
+                "image": "https://imdb-api.com/images/original/MV5BZmIzZjc4YjUtZjFmZi00NzNkLTgwNGYtNTgwMDRiMWJlYWZlXkEyXkFqcGdeQXVyOTc5MDI5NjE@._V1_Ratio1.8600_AL_.jpg"
+            },
+            {
+                "title": "City of God (2002)",
+                "image": "https://imdb-api.com/images/original/MV5BNDA2MjU1YmEtYWQ4MC00NWIwLWI5MTMtZmU5ZWE2NmE2YzU0XkEyXkFqcGdeQXVyOTc5MDI5NjE@._V1_Ratio1.9600_AL_.jpg"
+            },
+            {
+                "title": "City of God (2002)",
+                "image": "https://imdb-api.com/images/original/MV5BNzVkOWRmOTUtZDg4NC00MDI3LWI5ZjMtOTVkNWYzMTEyZTJjXkEyXkFqcGdeQXVyOTc5MDI5NjE@._V1_Ratio1.8600_AL_.jpg"
+            },
+            {
+                "title": "City of God (2002)",
+                "image": "https://imdb-api.com/images/original/MV5BNTg3NjM2NzctMTczYi00YWVjLThhOTktYzJmOWI0YzBkZjY2XkEyXkFqcGdeQXVyOTc5MDI5NjE@._V1_Ratio1.8600_AL_.jpg"
+            },
+            {
+                "title": "City of God (2002)",
+                "image": "https://imdb-api.com/images/original/MV5BYTI5NjMwY2UtYzk1NC00NDk0LWI3OGMtYzZiMDhjZTBlNDI3XkEyXkFqcGdeQXVyOTc5MDI5NjE@._V1_Ratio1.8600_AL_.jpg"
+            },
+            {
+                "title": "City of God (2002)",
+                "image": "https://imdb-api.com/images/original/MV5BY2RiYTUxNmMtNzhiOC00ZmQxLWI5Y2UtMTM4Y2M2ODRkNTlhXkEyXkFqcGdeQXVyOTc5MDI5NjE@._V1_Ratio1.8600_AL_.jpg"
+            },
+            {
+                "title": "Douglas Silva and Michel Gomes in City of God (2002)",
+                "image": "https://imdb-api.com/images/original/MV5BNmI3OTg2ODUtNDIwNS00ZGFlLWE5YzctMTQxZTZiNjgxYzU0XkEyXkFqcGdeQXVyOTc5MDI5NjE@._V1_Ratio1.8600_AL_.jpg"
+            },
+            {
+                "title": "Alice Braga and Alexandre Rodrigues in City of God (2002)",
+                "image": "https://imdb-api.com/images/original/MV5BYWJkOWMyYjgtYThiNy00MWVlLTg0YTYtYzFjMzA2MWJhZDI0XkEyXkFqcGdeQXVyOTc5MDI5NjE@._V1_Ratio1.8600_AL_.jpg"
+            },
+            {
+                "title": "Alice Braga, Leandro Firmino, and Phellipe Haagensen in City of God (2002)",
+                "image": "https://imdb-api.com/images/original/MV5BMzBiZjg1NWQtYWZmMC00MTQyLThlNjYtZTIyZGNiZTM5ZWQzXkEyXkFqcGdeQXVyOTc5MDI5NjE@._V1_Ratio1.8600_AL_.jpg"
+            },
+            {
+                "title": "Seu Jorge in City of God (2002)",
+                "image": "https://imdb-api.com/images/original/MV5BNzk0NDU4NzQtYzZhMy00MTFmLTk1MDItNjlmNGY4YTExMDk5XkEyXkFqcGdeQXVyOTc5MDI5NjE@._V1_Ratio1.8600_AL_.jpg"
+            },
+            {
+                "title": "Leandro Firmino in City of God (2002)",
+                "image": "https://imdb-api.com/images/original/MV5BMWM5ZDY1ZjgtYjY2Mi00Njk3LWEwODYtNjQzZWQ0ZDViNGRiXkEyXkFqcGdeQXVyOTc5MDI5NjE@._V1_Ratio1.8600_AL_.jpg"
+            },
+            {
+                "title": "City of God (2002)",
+                "image": "https://imdb-api.com/images/original/MV5BOTMyZGI0OGItMzNkOS00Njc2LWJmM2UtMGVlNDliNDU3OTBmXkEyXkFqcGdeQXVyOTc5MDI5NjE@._V1_Ratio1.9400_AL_.jpg"
+            },
+            {
+                "title": "Douglas Silva in City of God (2002)",
+                "image": "https://imdb-api.com/images/original/MV5BZGY5NjkwNTgtNzYwNC00MzA1LWExMzAtZDM3YjRkNjA0ZTQ3XkEyXkFqcGdeQXVyOTc5MDI5NjE@._V1_Ratio1.8600_AL_.jpg"
+            },
+            {
+                "title": "Leandro Firmino in City of God (2002)",
+                "image": "https://imdb-api.com/images/original/MV5BYzM4NGM5YzMtZDVhNi00ZTdkLWFlY2UtMzg5ZjYyOGE5MGJhXkEyXkFqcGdeQXVyOTc5MDI5NjE@._V1_Ratio1.8600_AL_.jpg"
+            },
+            {
+                "title": "Alexandre Rodrigues in City of God (2002)",
+                "image": "https://imdb-api.com/images/original/MV5BNDY0ZjQ3OWItODY1My00YWJiLTg4ZWEtOWVjYmYxNzljMGNmXkEyXkFqcGdeQXVyOTc5MDI5NjE@._V1_Ratio1.8600_AL_.jpg"
+            },
+            {
+                "title": "Alice Braga and Phellipe Haagensen in City of God (2002)",
+                "image": "https://imdb-api.com/images/original/MV5BODZlNDM2N2ItOTc5YS00OTcyLWFjNjQtNDc4MzcxYWU1YmIwXkEyXkFqcGdeQXVyOTc5MDI5NjE@._V1_Ratio1.8600_AL_.jpg"
+            },
+            {
+                "title": "Leandro Firmino in City of God (2002)",
+                "image": "https://imdb-api.com/images/original/MV5BNjdhNmE3MTgtOGM0MC00ZjU3LTgyODQtYWVkNzk3ZjBlNTlkXkEyXkFqcGdeQXVyOTc5MDI5NjE@._V1_Ratio1.8600_AL_.jpg"
+            },
+            {
+                "title": "Graziella Moretto and Alexandre Rodrigues in City of God (2002)",
+                "image": "https://imdb-api.com/images/original/MV5BNzkwMzU5NjItODE4Ny00YzZiLWJkZjUtNzdkYmU2MGYwMGY5XkEyXkFqcGdeQXVyOTc5MDI5NjE@._V1_Ratio1.8600_AL_.jpg"
+            },
+            {
+                "title": "Leandro Firmino in City of God (2002)",
+                "image": "https://imdb-api.com/images/original/MV5BOWFkZTA3NzctZDQ0OC00ZWU4LWIyMDMtNjBiNThiYTg5MWY5XkEyXkFqcGdeQXVyOTc5MDI5NjE@._V1_Ratio1.8600_AL_.jpg"
+            },
+            {
+                "title": "City of God (2002)",
+                "image": "https://imdb-api.com/images/original/MV5BNTNmMmM5ZjYtZTA5MS00NjQ2LThmNTQtN2IzMzdkYzZmZTlmXkEyXkFqcGdeQXVyOTc5MDI5NjE@._V1_Ratio1.8600_AL_.jpg"
+            },
+            {
+                "title": "City of God (2002)",
+                "image": "https://imdb-api.com/images/original/MV5BYWFkZjUxMDktZjI0MS00M2FjLTk2NWEtOGU1OWFkMTE2NjJiXkEyXkFqcGdeQXVyOTc5MDI5NjE@._V1_Ratio1.8600_AL_.jpg"
+            },
+            {
+                "title": "City of God (2002)",
+                "image": "https://imdb-api.com/images/original/MV5BYTQ2MzRmMzItZjhkOS00Mzc4LTgxNzctOTk2YzVmYWU0YmIwXkEyXkFqcGdeQXVyOTc5MDI5NjE@._V1_Ratio1.8600_AL_.jpg"
+            }
+        ],
+        "errorMessage": ""
+    },
+    "trailer": {
+        "imDbId": "tt0317248",
+        "title": "City of God",
+        "fullTitle": "City of God (2002)",
+        "type": "Movie",
+        "year": "2002",
+        "videoId": "vi1783208985",
+        "videoTitle": "City of God: Blu-Ray",
+        "videoDescription": "Trailer for City Of God",
+        "thumbnailUrl": "https://m.media-amazon.com/images/M/MV5BNTQzY2M4ZTctZWRjZS00NzlmLWI4YzgtMDUzZGU5YjlmYzkxXkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg",
+        "uploadDate": "09/23/2011 03:10:20",
+        "link": "https://www.imdb.com/video/vi1783208985",
+        "linkEmbed": "https://www.imdb.com/video/imdb/vi1783208985/imdb/embed",
+        "errorMessage": ""
+    },
+    "boxOffice": {
+        "budget": "BRL3,300,000 (estimated)",
+        "openingWeekendUSA": "$88,292, 19 January 2003",
+        "grossUSA": "$7,564,459",
+        "cumulativeWorldwideGross": "$30,680,793"
+    },
+    "tagline": "Based on a true story.",
+    "keywords": "photographer,slum,gang,brazil,favela",
+    "keywordList": ["photographer", "slum", "gang", "brazil", "favela"],
+    "similars": [
+        {
+            "id": "tt0118799",
+            "title": "Life Is Beautiful",
+            "fullTitle": "Life Is Beautiful (1997)",
+            "year": "1997",
+            "image": "https://imdb-api.com/images/original/MV5BYmJmM2Q4NmMtYThmNC00ZjRlLWEyZmItZTIwOTBlZDQ3NTQ1XkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_Ratio0.6737_AL_.jpg",
+            "plot": "When an open-minded Jewish librarian and his son become victims of the Holocaust, he uses a perfect mixture of will, humor, and imagination to protect his son from the dangers around their camp.",
+            "directors": "Roberto Benigni",
+            "stars": "Roberto Benigni, Nicoletta Braschi, Giorgio Cantarini",
+            "genres": "Comedy, Drama, Romance",
+            "imDbRating": "8.6"
+        },
+        {
+            "id": "tt0073486",
+            "title": "One Flew Over the Cuckoo's Nest",
+            "fullTitle": "One Flew Over the Cuckoo's Nest (1975)",
+            "year": "1975",
+            "image": "https://imdb-api.com/images/original/MV5BZjA0OWVhOTAtYWQxNi00YzNhLWI4ZjYtNjFjZTEyYjJlNDVlL2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_Ratio0.6737_AL_.jpg",
+            "plot": "A criminal pleads insanity and is admitted to a mental institution, where he rebels against the oppressive nurse and rallies up the scared patients.",
+            "directors": "Milos Forman",
+            "stars": "Jack Nicholson, Louise Fletcher, Michael Berryman",
+            "genres": "Drama",
+            "imDbRating": "8.7"
+        },
+        {
+            "id": "tt0120586",
+            "title": "American History X",
+            "fullTitle": "American History X (1998)",
+            "year": "1998",
+            "image": "https://imdb-api.com/images/original/MV5BZTJhN2FkYWEtMGI0My00YWM4LWI2MjAtM2UwNjY4MTI2ZTQyXkEyXkFqcGdeQXVyNjc3MjQzNTI@._V1_Ratio0.6737_AL_.jpg",
+            "plot": "A former neo-nazi skinhead tries to prevent his younger brother from going down the same wrong path that he did.",
+            "directors": "Tony Kaye",
+            "stars": "Edward Norton, Edward Furlong, Beverly D'Angelo",
+            "genres": "Drama",
+            "imDbRating": "8.5"
+        },
+        {
+            "id": "tt0099685",
+            "title": "Goodfellas",
+            "fullTitle": "Goodfellas (1990)",
+            "year": "1990",
+            "image": "https://imdb-api.com/images/original/MV5BY2NkZjEzMDgtN2RjYy00YzM1LWI4ZmQtMjIwYjFjNmI3ZGEwXkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_Ratio0.6737_AL_.jpg",
+            "plot": "The story of Henry Hill and his life in the mob, covering his relationship with his wife Karen Hill and his mob partners Jimmy Conway and Tommy DeVito in the Italian-American crime syndicate.",
+            "directors": "Martin Scorsese",
+            "stars": "Robert De Niro, Ray Liotta, Joe Pesci",
+            "genres": "Biography, Crime, Drama",
+            "imDbRating": "8.7"
+        },
+        {
+            "id": "tt0114369",
+            "title": "Se7en",
+            "fullTitle": "Se7en (1995)",
+            "year": "1995",
+            "image": "https://imdb-api.com/images/original/MV5BOTUwODM5MTctZjczMi00OTk4LTg3NWUtNmVhMTAzNTNjYjcyXkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_Ratio0.6737_AL_.jpg",
+            "plot": "Two detectives, a rookie and a veteran, hunt a serial killer who uses the seven deadly sins as his motives.",
+            "directors": "David Fincher",
+            "stars": "Morgan Freeman, Brad Pitt, Kevin Spacey",
+            "genres": "Crime, Drama, Mystery",
+            "imDbRating": "8.6"
+        },
+        {
+            "id": "tt0110413",
+            "title": "Léon: The Professional",
+            "fullTitle": "Léon: The Professional (1994)",
+            "year": "1994",
+            "image": "https://imdb-api.com/images/original/MV5BODllNWE0MmEtYjUwZi00ZjY3LThmNmQtZjZlMjI2YTZjYmQ0XkEyXkFqcGdeQXVyNTc1NTQxODI@._V1_Ratio0.6737_AL_.jpg",
+            "plot": "Mathilda, a 12-year-old girl, is reluctantly taken in by Léon, a professional assassin, after her family is murdered. An unusual relationship forms as she becomes his protégée and learns the assassin's trade.",
+            "directors": "Luc Besson",
+            "stars": "Jean Reno, Gary Oldman, Natalie Portman",
+            "genres": "Action, Crime, Drama",
+            "imDbRating": "8.5"
+        },
+        {
+            "id": "tt0137523",
+            "title": "Fight Club",
+            "fullTitle": "Fight Club (1999)",
+            "year": "1999",
+            "image": "https://imdb-api.com/images/original/MV5BMmEzNTkxYjQtZTc0MC00YTVjLTg5ZTEtZWMwOWVlYzY0NWIwXkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_Ratio0.6737_AL_.jpg",
+            "plot": "A nameless first person narrator (Edward Norton) attends support groups in attempt to subdue his emotional state and relieve his insomniac state. When he meets Marla (Helena Bonham Carter),... See full summary »",
+            "directors": "David Fincher",
+            "stars": "Brad Pitt, Edward Norton, Meat Loaf",
+            "genres": "Drama",
+            "imDbRating": "8.8"
+        },
+        {
+            "id": "tt0102926",
+            "title": "The Silence of the Lambs",
+            "fullTitle": "The Silence of the Lambs (1991)",
+            "year": "1991",
+            "image": "https://imdb-api.com/images/original/MV5BNjNhZTk0ZmEtNjJhMi00YzFlLWE1MmEtYzM1M2ZmMGMwMTU4XkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_Ratio0.6737_AL_.jpg",
+            "plot": "A young F.B.I. cadet must receive the help of an incarcerated and manipulative cannibal killer to help catch another serial killer, a madman who skins his victims.",
+            "directors": "Jonathan Demme",
+            "stars": "Jodie Foster, Anthony Hopkins, Lawrence A. Bonney",
+            "genres": "Crime, Drama, Thriller",
+            "imDbRating": "8.6"
+        },
+        {
+            "id": "tt0050083",
+            "title": "12 Angry Men",
+            "fullTitle": "12 Angry Men (1957)",
+            "year": "1957",
+            "image": "https://imdb-api.com/images/original/MV5BMWU4N2FjNzYtNTVkNC00NzQ0LTg0MjAtYTJlMjFhNGUxZDFmXkEyXkFqcGdeQXVyNjc1NTYyMjg@._V1_Ratio0.6737_AL_.jpg",
+            "plot": "A jury holdout attempts to prevent a miscarriage of justice by forcing his colleagues to reconsider the evidence.",
+            "directors": "Sidney Lumet",
+            "stars": "Henry Fonda, Lee J. Cobb, Martin Balsam",
+            "genres": "Crime, Drama",
+            "imDbRating": "9"
+        },
+        {
+            "id": "tt0253474",
+            "title": "The Pianist",
+            "fullTitle": "The Pianist (2002)",
+            "year": "2002",
+            "image": "https://imdb-api.com/images/original/MV5BOWRiZDIxZjktMTA1NC00MDQ2LWEzMjUtMTliZmY3NjQ3ODJiXkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_Ratio0.7263_AL_.jpg",
+            "plot": "A Polish Jewish musician struggles to survive the destruction of the Warsaw ghetto of World War II.",
+            "directors": "Roman Polanski",
+            "stars": "Adrien Brody, Thomas Kretschmann, Frank Finlay",
+            "genres": "Biography, Drama, Music",
+            "imDbRating": "8.5"
+        },
+        {
+            "id": "tt0114814",
+            "title": "The Usual Suspects",
+            "fullTitle": "The Usual Suspects (1995)",
+            "year": "1995",
+            "image": "https://imdb-api.com/images/original/MV5BYTViNjMyNmUtNDFkNC00ZDRlLThmMDUtZDU2YWE4NGI2ZjVmXkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_Ratio0.6737_AL_.jpg",
+            "plot": "A sole survivor tells of the twisty events leading up to a horrific gun battle on a boat, which began when five criminals met at a seemingly random police lineup.",
+            "directors": "Bryan Singer",
+            "stars": "Kevin Spacey, Gabriel Byrne, Chazz Palminteri",
+            "genres": "Crime, Mystery, Thriller",
+            "imDbRating": "8.5"
+        },
+        {
+            "id": "tt0110912",
+            "title": "Pulp Fiction",
+            "fullTitle": "Pulp Fiction (1994)",
+            "year": "1994",
+            "image": "https://imdb-api.com/images/original/MV5BNGNhMDIzZTUtNTBlZi00MTRlLWFjM2ItYzViMjE3YzI5MjljXkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_Ratio0.6842_AL_.jpg",
+            "plot": "The lives of two mob hitmen, a boxer, a gangster and his wife, and a pair of diner bandits intertwine in four tales of violence and redemption.",
+            "directors": "Quentin Tarantino",
+            "stars": "John Travolta, Uma Thurman, Samuel L. Jackson",
+            "genres": "Crime, Drama",
+            "imDbRating": "8.9"
+        }
+    ],
+    "tvSeriesInfo": null,
+    "tvEpisodeInfo": null,
+    "errorMessage": ""
+}

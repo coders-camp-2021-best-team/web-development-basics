@@ -1,0 +1,917 @@
+{
+    "id": "tt0081505",
+    "title": "The Shining",
+    "originalTitle": "",
+    "fullTitle": "The Shining (1980)",
+    "type": "Movie",
+    "year": "1980",
+    "image": "https://imdb-api.com/images/original/MV5BZWFlYmY2MGEtZjVkYS00YzU4LTg0YjQtYzY1ZGE3NTA5NGQxXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_Ratio0.6791_AL_.jpg",
+    "releaseDate": "1980-06-13",
+    "runtimeMins": "146",
+    "runtimeStr": "2h 26mins",
+    "plot": "Haunted by a persistent writer's block, the aspiring author and recovering alcoholic, Jack Torrance, drags his wife, Wendy, and his gifted son, Danny, up snow-capped Colorado's secluded Overlook Hotel after taking up a job as an off-season caretaker. As the cavernous hotel shuts down for the season, the manager gives Jack a grand tour, and the facility's chef, the ageing Mr Hallorann, has a fascinating chat with Danny about a rare psychic gift called \"The Shining\", making sure to warn him about the hotel's abandoned rooms, and, in particular, the off-limits Room 237. However, instead of overcoming the dismal creative rut, little by little, Jack starts losing his mind, trapped in an unforgiving environment of seemingly endless snowstorms, and a gargantuan silent prison riddled with strange occurrences and eerie visions. Now, the incessant voices inside Jack's head demand sacrifice. Is Jack capable of murder?",
+    "plotLocal": "",
+    "plotLocalIsRtl": false,
+    "awards": "Top Rated Movies #63 | 4 wins & 8 nominations.",
+    "directors": "Stanley Kubrick",
+    "directorList": [{ "id": "nm0000040", "name": "Stanley Kubrick" }],
+    "writers": "Stephen King, Stanley Kubrick, Diane Johnson",
+    "writerList": [
+        { "id": "nm0000175", "name": "Stephen King" },
+        { "id": "nm0000040", "name": "Stanley Kubrick" },
+        { "id": "nm0424956", "name": "Diane Johnson" }
+    ],
+    "stars": "Jack Nicholson, Shelley Duvall, Danny Lloyd, Scatman Crothers",
+    "starList": [
+        { "id": "nm0000197", "name": "Jack Nicholson" },
+        { "id": "nm0001167", "name": "Shelley Duvall" },
+        { "id": "nm0515950", "name": "Danny Lloyd" },
+        { "id": "nm0001079", "name": "Scatman Crothers" }
+    ],
+    "actorList": [
+        {
+            "id": "nm0000197",
+            "image": "https://imdb-api.com/images/original/MV5BMTQ3OTY0ODk0M15BMl5BanBnXkFtZTYwNzE4Njc4._V1_Ratio0.7273_AL_.jpg",
+            "name": "Jack Nicholson",
+            "asCharacter": "Jack Torrance"
+        },
+        {
+            "id": "nm0001167",
+            "image": "https://imdb-api.com/images/original/MV5BNjE4MTY1Mzk0N15BMl5BanBnXkFtZTgwOTQzNDE2MDE@._V1_Ratio0.7273_AL_.jpg",
+            "name": "Shelley Duvall",
+            "asCharacter": "Wendy Torrance"
+        },
+        {
+            "id": "nm0515950",
+            "image": "https://imdb-api.com/images/original/MV5BZDBkN2I0YTktY2I4Ni00MTQ1LWIwY2YtZDUzMzAwZDRmZDQ0XkEyXkFqcGdeQXVyNjUwNzk3NDc@._V1_Ratio1.7727_AL_.jpg",
+            "name": "Danny Lloyd",
+            "asCharacter": "Danny"
+        },
+        {
+            "id": "nm0001079",
+            "image": "https://imdb-api.com/images/original/MV5BMjEzNDY4OTU5N15BMl5BanBnXkFtZTcwNDU0MjYwOA@@._V1_Ratio0.7273_AL_.jpg",
+            "name": "Scatman Crothers",
+            "asCharacter": "Hallorann"
+        },
+        {
+            "id": "nm0625167",
+            "image": "https://imdb-api.com/images/original/MV5BMTU2NjU1NzM2NV5BMl5BanBnXkFtZTcwMjM3NTMxOA@@._V1_Ratio0.7727_AL_.jpg",
+            "name": "Barry Nelson",
+            "asCharacter": "Ullman"
+        },
+        {
+            "id": "nm0832104",
+            "image": "https://imdb-api.com/images/original/MV5BYWNlNTFiMDAtOWI5OC00YmVjLTlkMjgtZTg3NzM1MGUyM2E0XkEyXkFqcGdeQXVyNjUxMjc1OTM@._V1_Ratio1.7727_AL_.jpg",
+            "name": "Philip Stone",
+            "asCharacter": "Grady"
+        },
+        {
+            "id": "nm0877185",
+            "image": "https://imdb-api.com/images/original/MV5BMTM0Njk5MTk4Ml5BMl5BanBnXkFtZTcwODk4NDIwNA@@._V1_Ratio1.4545_AL_.jpg",
+            "name": "Joe Turkel",
+            "asCharacter": "Lloyd"
+        },
+        {
+            "id": "nm0413271",
+            "image": "https://imdb-api.com/images/original/MV5BMTg0Njg5MTEzOV5BMl5BanBnXkFtZTcwNDQ5NDE5Mw@@._V1_Ratio0.7727_AL_.jpg",
+            "name": "Anne Jackson",
+            "asCharacter": "Doctor"
+        },
+        {
+            "id": "nm0123748",
+            "image": "https://imdb-api.com/images/original/MV5BMTEwMDY1NTEzNjJeQTJeQWpwZ15BbWU3MDY0MTA0MDg@._V1_Ratio0.7273_AL_.jpg",
+            "name": "Tony Burton",
+            "asCharacter": "Durkin"
+        },
+        {
+            "id": "nm0067672",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Lia Beldam",
+            "asCharacter": "Young Woman in Bath"
+        },
+        {
+            "id": "nm0316862",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Billie Gibson",
+            "asCharacter": "Old Woman in Bath"
+        },
+        {
+            "id": "nm0219336",
+            "image": "https://imdb-api.com/images/original/MV5BNTM5NDgyNTcyN15BMl5BanBnXkFtZTcwODU4MzgwOA@@._V1_Ratio0.7273_AL_.jpg",
+            "name": "Barry Dennen",
+            "asCharacter": "Watson"
+        },
+        {
+            "id": "nm0062657",
+            "image": "https://imdb-api.com/images/original/MV5BNTcwNWFlZWYtMDM0My00NjcwLWEzOTUtZDg5ZGUzYWU1OGY4XkEyXkFqcGdeQXVyNjUxMjc1OTM@._V1_Ratio1.7727_AL_.jpg",
+            "name": "David Baxt",
+            "asCharacter": "Forest Ranger 1"
+        },
+        {
+            "id": "nm0715197",
+            "image": "https://imdb-api.com/images/original/MV5BMDFiMzFlMmUtNDIwMi00ZDExLWEwYTQtOWI3NTE2MzU0ZjkyXkEyXkFqcGdeQXVyNjUxMjc1OTM@._V1_Ratio1.7727_AL_.jpg",
+            "name": "Manning Redwood",
+            "asCharacter": "Forest Ranger 2"
+        },
+        {
+            "id": "nm0122767",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Lisa Burns",
+            "asCharacter": "Grady Daughter"
+        }
+    ],
+    "fullCast": null,
+    "genres": "Drama, Horror",
+    "genreList": [
+        { "key": "Drama", "value": "Drama" },
+        { "key": "Horror", "value": "Horror" }
+    ],
+    "companies": "Warner Bros., Hawk Films, Peregrine",
+    "companyList": [
+        { "id": "co0002663", "name": "Warner Bros." },
+        { "id": "co0113563", "name": "Hawk Films" },
+        { "id": "co0025454", "name": "Peregrine" }
+    ],
+    "countries": "UK, USA",
+    "countryList": [
+        { "key": "UK", "value": "UK" },
+        { "key": "USA", "value": "USA" }
+    ],
+    "languages": "English",
+    "languageList": [{ "key": "English", "value": "English" }],
+    "contentRating": "R",
+    "imDbRating": "8.4",
+    "imDbRatingVotes": "912092",
+    "metacriticRating": "66",
+    "ratings": null,
+    "wikipedia": null,
+    "posters": {
+        "imDbId": "tt0081505",
+        "title": "The Shining",
+        "fullTitle": "The Shining (1980)",
+        "type": "Movie",
+        "year": "1980",
+        "posters": [
+            {
+                "id": "b6ko0IKC8MdYBBPkkA1aBPLe2yz.jpg",
+                "link": "https://imdb-api.com/posters/original/b6ko0IKC8MdYBBPkkA1aBPLe2yz.jpg",
+                "aspectRatio": 0.6666666666666666,
+                "language": "en",
+                "width": 1400,
+                "height": 2100
+            },
+            {
+                "id": "nRj5511mZdTl4saWEPoj9QroTIu.jpg",
+                "link": "https://imdb-api.com/posters/original/nRj5511mZdTl4saWEPoj9QroTIu.jpg",
+                "aspectRatio": 0.6666666666666666,
+                "language": "en",
+                "width": 2000,
+                "height": 3000
+            },
+            {
+                "id": "ptymyRrTHYEIK1t4XeYnBIurJtz.jpg",
+                "link": "https://imdb-api.com/posters/original/ptymyRrTHYEIK1t4XeYnBIurJtz.jpg",
+                "aspectRatio": 0.6666666666666666,
+                "language": "en",
+                "width": 2000,
+                "height": 3000
+            },
+            {
+                "id": "io450N7H8iK2M79vZ4QWbm13MlA.jpg",
+                "link": "https://imdb-api.com/posters/original/io450N7H8iK2M79vZ4QWbm13MlA.jpg",
+                "aspectRatio": 0.6666666666666666,
+                "language": "en",
+                "width": 2000,
+                "height": 3000
+            },
+            {
+                "id": "5xcXvTErivIgRchsaw9qaT3NflE.jpg",
+                "link": "https://imdb-api.com/posters/original/5xcXvTErivIgRchsaw9qaT3NflE.jpg",
+                "aspectRatio": 0.6666666666666666,
+                "language": "en",
+                "width": 1000,
+                "height": 1500
+            },
+            {
+                "id": "dyRZE1GxbMI03HY8CweDXWHbVZg.jpg",
+                "link": "https://imdb-api.com/posters/original/dyRZE1GxbMI03HY8CweDXWHbVZg.jpg",
+                "aspectRatio": 0.6666666666666666,
+                "language": "en",
+                "width": 800,
+                "height": 1200
+            },
+            {
+                "id": "vJq1poTiRDFdLCSTCNrzQuPtnVz.jpg",
+                "link": "https://imdb-api.com/posters/original/vJq1poTiRDFdLCSTCNrzQuPtnVz.jpg",
+                "aspectRatio": 0.6662804171494786,
+                "language": "en",
+                "width": 575,
+                "height": 863
+            },
+            {
+                "id": "hljO0M5K6pmKZo9FPSi7g5Cck6B.jpg",
+                "link": "https://imdb-api.com/posters/original/hljO0M5K6pmKZo9FPSi7g5Cck6B.jpg",
+                "aspectRatio": 0.666073018699911,
+                "language": "en",
+                "width": 748,
+                "height": 1123
+            },
+            {
+                "id": "cMdyiZbDTIQvaFBxddh3URzM287.jpg",
+                "link": "https://imdb-api.com/posters/original/cMdyiZbDTIQvaFBxddh3URzM287.jpg",
+                "aspectRatio": 0.6666666666666666,
+                "language": "en",
+                "width": 2000,
+                "height": 3000
+            },
+            {
+                "id": "maB98h3jGYoAHDydxuLOQZdBQaN.jpg",
+                "link": "https://imdb-api.com/posters/original/maB98h3jGYoAHDydxuLOQZdBQaN.jpg",
+                "aspectRatio": 0.6666666666666666,
+                "language": "en",
+                "width": 574,
+                "height": 861
+            },
+            {
+                "id": "xazWoLealQwEgqZ89MLZklLZD3k.jpg",
+                "link": "https://imdb-api.com/posters/original/xazWoLealQwEgqZ89MLZklLZD3k.jpg",
+                "aspectRatio": 0.6666666666666666,
+                "language": "en",
+                "width": 2000,
+                "height": 3000
+            },
+            {
+                "id": "z85FBLwtYp452O6wEzDvocXIJG9.jpg",
+                "link": "https://imdb-api.com/posters/original/z85FBLwtYp452O6wEzDvocXIJG9.jpg",
+                "aspectRatio": 0.6666666666666666,
+                "language": "en",
+                "width": 2000,
+                "height": 3000
+            },
+            {
+                "id": "8LFbf5z5iZtcmkljFTYTPXFLWh8.jpg",
+                "link": "https://imdb-api.com/posters/original/8LFbf5z5iZtcmkljFTYTPXFLWh8.jpg",
+                "aspectRatio": 0.657922350472193,
+                "language": "en",
+                "width": 627,
+                "height": 953
+            },
+            {
+                "id": "hCE09C7pOYkiXVSY0HjAUcmTBh0.jpg",
+                "link": "https://imdb-api.com/posters/original/hCE09C7pOYkiXVSY0HjAUcmTBh0.jpg",
+                "aspectRatio": 0.7012622720897616,
+                "language": "en",
+                "width": 1000,
+                "height": 1426
+            },
+            {
+                "id": "94qnqeNFA87tAZMys62Bx0TCFZy.jpg",
+                "link": "https://imdb-api.com/posters/original/94qnqeNFA87tAZMys62Bx0TCFZy.jpg",
+                "aspectRatio": 0.6666666666666666,
+                "language": "en",
+                "width": 800,
+                "height": 1200
+            },
+            {
+                "id": "y9IR1otvdveNJLzXwaqSeshyLTM.jpg",
+                "link": "https://imdb-api.com/posters/original/y9IR1otvdveNJLzXwaqSeshyLTM.jpg",
+                "aspectRatio": 0.6666666666666666,
+                "language": "en",
+                "width": 1280,
+                "height": 1920
+            },
+            {
+                "id": "1gZxixTfWmhIpMCCkOs7u0ru3v5.jpg",
+                "link": "https://imdb-api.com/posters/original/1gZxixTfWmhIpMCCkOs7u0ru3v5.jpg",
+                "aspectRatio": 0.6598425196850394,
+                "language": "en",
+                "width": 838,
+                "height": 1270
+            },
+            {
+                "id": "yhmgGreofwlScPQt3uPoc48bpsL.jpg",
+                "link": "https://imdb-api.com/posters/original/yhmgGreofwlScPQt3uPoc48bpsL.jpg",
+                "aspectRatio": 0.6666666666666666,
+                "language": "en",
+                "width": 2000,
+                "height": 3000
+            },
+            {
+                "id": "gAG1B7T6PYjDxfI5b3xOQHrpWNl.jpg",
+                "link": "https://imdb-api.com/posters/original/gAG1B7T6PYjDxfI5b3xOQHrpWNl.jpg",
+                "aspectRatio": 0.6666666666666666,
+                "language": "en",
+                "width": 2000,
+                "height": 3000
+            },
+            {
+                "id": "7DGshQCul9mqnolQAMFq8916Ayn.jpg",
+                "link": "https://imdb-api.com/posters/original/7DGshQCul9mqnolQAMFq8916Ayn.jpg",
+                "aspectRatio": 0.6670212765957447,
+                "language": "en",
+                "width": 627,
+                "height": 940
+            },
+            {
+                "id": "ueQ6UbadZUjLh4Pk0Hx1aC07OJX.jpg",
+                "link": "https://imdb-api.com/posters/original/ueQ6UbadZUjLh4Pk0Hx1aC07OJX.jpg",
+                "aspectRatio": 0.6675,
+                "language": "en",
+                "width": 801,
+                "height": 1200
+            },
+            {
+                "id": "kYJJ5CoLiiSk91M1kmzzKWqiDqu.jpg",
+                "link": "https://imdb-api.com/posters/original/kYJJ5CoLiiSk91M1kmzzKWqiDqu.jpg",
+                "aspectRatio": 0.6666666666666666,
+                "language": "en",
+                "width": 1400,
+                "height": 2100
+            },
+            {
+                "id": "1KMX3yhRcjlNOo9VydKrg02eECG.jpg",
+                "link": "https://imdb-api.com/posters/original/1KMX3yhRcjlNOo9VydKrg02eECG.jpg",
+                "aspectRatio": 0.6666666666666666,
+                "language": "en",
+                "width": 800,
+                "height": 1200
+            },
+            {
+                "id": "tFK8VpbONP8xT1IpdiNGUGoClkf.jpg",
+                "link": "https://imdb-api.com/posters/original/tFK8VpbONP8xT1IpdiNGUGoClkf.jpg",
+                "aspectRatio": 0.6666666666666666,
+                "language": "en",
+                "width": 600,
+                "height": 900
+            }
+        ],
+        "backdrops": [
+            {
+                "id": "AdKA2F1SzYPhSZdEbjH1Zh75UVQ.jpg",
+                "link": "https://imdb-api.com/posters/original/AdKA2F1SzYPhSZdEbjH1Zh75UVQ.jpg",
+                "aspectRatio": 1.7777777777777777,
+                "language": "en",
+                "width": 1920,
+                "height": 1080
+            },
+            {
+                "id": "k1qmP045Mz0wu7BRY8v07rdEF65.jpg",
+                "link": "https://imdb-api.com/posters/original/k1qmP045Mz0wu7BRY8v07rdEF65.jpg",
+                "aspectRatio": 1.7775520568816658,
+                "language": "en",
+                "width": 3500,
+                "height": 1969
+            },
+            {
+                "id": "hWbC1ix65Ln7GySSvt6oe31A9GY.jpg",
+                "link": "https://imdb-api.com/posters/original/hWbC1ix65Ln7GySSvt6oe31A9GY.jpg",
+                "aspectRatio": 1.777150916784203,
+                "language": "en",
+                "width": 2520,
+                "height": 1418
+            },
+            {
+                "id": "mmd1HnuvAzFc4iuVJcnBrhDNEKr.jpg",
+                "link": "https://imdb-api.com/posters/original/mmd1HnuvAzFc4iuVJcnBrhDNEKr.jpg",
+                "aspectRatio": 1.7777777777777777,
+                "language": "en",
+                "width": 3840,
+                "height": 2160
+            },
+            {
+                "id": "5w8xkdlUCXS4BJ4b1LqRFCkm2S5.jpg",
+                "link": "https://imdb-api.com/posters/original/5w8xkdlUCXS4BJ4b1LqRFCkm2S5.jpg",
+                "aspectRatio": 1.7777777777777777,
+                "language": "en",
+                "width": 1920,
+                "height": 1080
+            },
+            {
+                "id": "vMSSeKBLdosDYlmABdSXRxZQUez.jpg",
+                "link": "https://imdb-api.com/posters/original/vMSSeKBLdosDYlmABdSXRxZQUez.jpg",
+                "aspectRatio": 1.7775520568816658,
+                "language": "en",
+                "width": 3500,
+                "height": 1969
+            },
+            {
+                "id": "dQMjySqD3rC8hSueCw3inXRJmIU.jpg",
+                "link": "https://imdb-api.com/posters/original/dQMjySqD3rC8hSueCw3inXRJmIU.jpg",
+                "aspectRatio": 1.7774502579218865,
+                "language": "en",
+                "width": 2412,
+                "height": 1357
+            },
+            {
+                "id": "9WyZkJjQOibjZUhKr4C6JlUZ5C1.jpg",
+                "link": "https://imdb-api.com/posters/original/9WyZkJjQOibjZUhKr4C6JlUZ5C1.jpg",
+                "aspectRatio": 1.7776998597475455,
+                "language": "en",
+                "width": 2535,
+                "height": 1426
+            },
+            {
+                "id": "bs3PHgG3FEapj1vT3SPnyeEU6Sy.jpg",
+                "link": "https://imdb-api.com/posters/original/bs3PHgG3FEapj1vT3SPnyeEU6Sy.jpg",
+                "aspectRatio": 1.777150916784203,
+                "language": "en",
+                "width": 2520,
+                "height": 1418
+            },
+            {
+                "id": "w62tFkuXKkAEV2xL5K1cDEVCSNc.jpg",
+                "link": "https://imdb-api.com/posters/original/w62tFkuXKkAEV2xL5K1cDEVCSNc.jpg",
+                "aspectRatio": 1.7762359063313096,
+                "language": "en",
+                "width": 2048,
+                "height": 1153
+            },
+            {
+                "id": "3N9UcnCJRyLE2B4ZTbxIpWqL4aQ.jpg",
+                "link": "https://imdb-api.com/posters/original/3N9UcnCJRyLE2B4ZTbxIpWqL4aQ.jpg",
+                "aspectRatio": 1.7777777777777777,
+                "language": "en",
+                "width": 2000,
+                "height": 1125
+            },
+            {
+                "id": "aqqk9IMTFD4sFVjpIKDdHOGVbVx.jpg",
+                "link": "https://imdb-api.com/posters/original/aqqk9IMTFD4sFVjpIKDdHOGVbVx.jpg",
+                "aspectRatio": 1.7777777777777777,
+                "language": "en",
+                "width": 2560,
+                "height": 1440
+            },
+            {
+                "id": "yQ7AR0T0dFJcEfR9g4J8vyeiHCl.jpg",
+                "link": "https://imdb-api.com/posters/original/yQ7AR0T0dFJcEfR9g4J8vyeiHCl.jpg",
+                "aspectRatio": 1.7772511848341233,
+                "language": "en",
+                "width": 3000,
+                "height": 1688
+            },
+            {
+                "id": "jWHagVuSoWOluZwPyFctAyU6NHd.jpg",
+                "link": "https://imdb-api.com/posters/original/jWHagVuSoWOluZwPyFctAyU6NHd.jpg",
+                "aspectRatio": 1.7777777777777777,
+                "language": "en",
+                "width": 3840,
+                "height": 2160
+            },
+            {
+                "id": "h2QvJMZjCWWC0QnMSsjKQJHXPB8.jpg",
+                "link": "https://imdb-api.com/posters/original/h2QvJMZjCWWC0QnMSsjKQJHXPB8.jpg",
+                "aspectRatio": 1.777150916784203,
+                "language": "en",
+                "width": 2520,
+                "height": 1418
+            },
+            {
+                "id": "3eBK57pZdc2zs4P8F3G00M1k25k.jpg",
+                "link": "https://imdb-api.com/posters/original/3eBK57pZdc2zs4P8F3G00M1k25k.jpg",
+                "aspectRatio": 1.7777777777777777,
+                "language": "en",
+                "width": 3840,
+                "height": 2160
+            },
+            {
+                "id": "eyVLGgir9AmEgD9wOYoTYsMHdzL.jpg",
+                "link": "https://imdb-api.com/posters/original/eyVLGgir9AmEgD9wOYoTYsMHdzL.jpg",
+                "aspectRatio": 1.7777777777777777,
+                "language": "en",
+                "width": 1920,
+                "height": 1080
+            },
+            {
+                "id": "fAcJcaSIAKBeNetqkfpyj4gGVfL.jpg",
+                "link": "https://imdb-api.com/posters/original/fAcJcaSIAKBeNetqkfpyj4gGVfL.jpg",
+                "aspectRatio": 1.7777777777777777,
+                "language": "en",
+                "width": 1920,
+                "height": 1080
+            },
+            {
+                "id": "mBELENvvSx5tAcCRCKfw8kzLOv8.jpg",
+                "link": "https://imdb-api.com/posters/original/mBELENvvSx5tAcCRCKfw8kzLOv8.jpg",
+                "aspectRatio": 1.7777777777777777,
+                "language": "en",
+                "width": 1920,
+                "height": 1080
+            },
+            {
+                "id": "xzN0wy7eO6evKpWM6sBKGiBEQxe.jpg",
+                "link": "https://imdb-api.com/posters/original/xzN0wy7eO6evKpWM6sBKGiBEQxe.jpg",
+                "aspectRatio": 1.7777777777777777,
+                "language": "en",
+                "width": 2560,
+                "height": 1440
+            },
+            {
+                "id": "9NG9ZuhOVCcNVXiIdn6LUTULROp.jpg",
+                "link": "https://imdb-api.com/posters/original/9NG9ZuhOVCcNVXiIdn6LUTULROp.jpg",
+                "aspectRatio": 1.7777777777777777,
+                "language": "en",
+                "width": 2560,
+                "height": 1440
+            },
+            {
+                "id": "nUU9Yx5m7d1u6TPTGy8ibfbkI1V.jpg",
+                "link": "https://imdb-api.com/posters/original/nUU9Yx5m7d1u6TPTGy8ibfbkI1V.jpg",
+                "aspectRatio": 1.7777777777777777,
+                "language": "en",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "id": "zArzwQqhLF5iKexcx24C4vaWAMM.jpg",
+                "link": "https://imdb-api.com/posters/original/zArzwQqhLF5iKexcx24C4vaWAMM.jpg",
+                "aspectRatio": 1.7777777777777777,
+                "language": "en",
+                "width": 1280,
+                "height": 720
+            }
+        ],
+        "errorMessage": ""
+    },
+    "images": {
+        "imDbId": "tt0081505",
+        "title": "The Shining",
+        "fullTitle": "The Shining (1980)",
+        "type": "Movie",
+        "year": "1980",
+        "items": [
+            {
+                "title": "Jack Nicholson, Shelley Duvall, and Danny Lloyd in The Shining (1980)",
+                "image": "https://imdb-api.com/images/original/MV5BMTc5MjM4Njg3Nl5BMl5BanBnXkFtZTgwNTk1NDU2NjM@._V1_Ratio1.2400_AL_.jpg"
+            },
+            {
+                "title": "Jack Nicholson in The Shining (1980)",
+                "image": "https://imdb-api.com/images/original/MV5BMTA0NzUxMjU3OTJeQTJeQWpwZ15BbWU4MDc5NTQ1NjYz._V1_Ratio1.2400_AL_.jpg"
+            },
+            {
+                "title": "Shelley Duvall in The Shining (1980)",
+                "image": "https://imdb-api.com/images/original/MV5BMTU3MTkwMjQ1MF5BMl5BanBnXkFtZTgwODk1NDU2NjM@._V1_Ratio1.2400_AL_.jpg"
+            },
+            {
+                "title": "Jack Nicholson, Vivian Kubrick, and Joe Turkel in The Shining (1980)",
+                "image": "https://imdb-api.com/images/original/MV5BMTU4NTY0MzUyMF5BMl5BanBnXkFtZTgwMDA2NDU2NjM@._V1_Ratio1.2400_AL_.jpg"
+            },
+            {
+                "title": "The Shining (1980)",
+                "image": "https://imdb-api.com/images/original/MV5BNzczMTIxMjk4Nl5BMl5BanBnXkFtZTgwOTMzMDYwNDI@._V1_Ratio1.7800_AL_.jpg"
+            },
+            {
+                "title": "Jack Nicholson in The Shining (1980)",
+                "image": "https://imdb-api.com/images/original/MV5BMTg0MzkzODUwNV5BMl5BanBnXkFtZTgwODM1MjEwNDI@._V1_Ratio1.2400_AL_.jpg"
+            },
+            {
+                "title": "Jack Nicholson in The Shining (1980)",
+                "image": "https://imdb-api.com/images/original/MV5BMTUxNTc1MjQ0NV5BMl5BanBnXkFtZTgwNTY1MjY5NzE@._V1_Ratio1.5000_AL_.jpg"
+            },
+            {
+                "title": "Jack Nicholson, Vivian Kubrick, Joe Turkel, Maxwell Craig, and George Holdcroft in The Shining (1980)",
+                "image": "https://imdb-api.com/images/original/MV5BMTUwNzI4NDc2Nl5BMl5BanBnXkFtZTgwNjY1MjY5NzE@._V1_Ratio1.4400_AL_.jpg"
+            },
+            {
+                "title": "Jack Nicholson in The Shining (1980)",
+                "image": "https://imdb-api.com/images/original/MV5BNzg3MzY3MzYxNF5BMl5BanBnXkFtZTgwODg1OTEwMjE@._V1_Ratio1.2000_AL_.jpg"
+            },
+            {
+                "title": "Scatman Crothers, Shelley Duvall, and Danny Lloyd in The Shining (1980)",
+                "image": "https://imdb-api.com/images/original/MV5BMTU0NTYxNjIzNl5BMl5BanBnXkFtZTcwNDk4NDIwNA@@._V1_Ratio1.4800_AL_.jpg"
+            },
+            {
+                "title": "Shelley Duvall and Danny Lloyd in The Shining (1980)",
+                "image": "https://imdb-api.com/images/original/MV5BMTMwODM3ODgxNl5BMl5BanBnXkFtZTcwNTk4NDIwNA@@._V1_Ratio1.4600_AL_.jpg"
+            },
+            {
+                "title": "Jack Nicholson in The Shining (1980)",
+                "image": "https://imdb-api.com/images/original/MV5BMTY2MjQxNDI2Ml5BMl5BanBnXkFtZTcwNjk4NDIwNA@@._V1_Ratio1.0000_AL_.jpg"
+            },
+            {
+                "title": "Joe Turkel in The Shining (1980)",
+                "image": "https://imdb-api.com/images/original/MV5BMTM0Njk5MTk4Ml5BMl5BanBnXkFtZTcwODk4NDIwNA@@._V1_Ratio1.4600_AL_.jpg"
+            },
+            {
+                "title": "Leon Vitali at an event for The Shining (1980)",
+                "image": "https://imdb-api.com/images/original/MV5BYjU4NjM4YWEtODI3My00YmFiLTg2MmEtMDE2MjVhZTRiYjg4XkEyXkFqcGdeQXVyMDM2NDM2MQ@@._V1_Ratio1.5000_AL_.jpg"
+            },
+            {
+                "title": "Tony Burton at an event for The Shining (1980)",
+                "image": "https://imdb-api.com/images/original/MV5BMTEwMDY1NTEzNjJeQTJeQWpwZ15BbWU3MDY0MTA0MDg@._V1_Ratio1.0000_AL_.jpg"
+            },
+            {
+                "title": "Jack Nicholson in The Shining (1980)",
+                "image": "https://imdb-api.com/images/original/MV5BM2M0NTNhNGMtMmVlMS00MDRjLWI5MzctYmVlNzdhMTQ0ZDE1XkEyXkFqcGdeQXVyMTAyOTE2ODg0._V1_Ratio1.0000_AL_.jpg"
+            },
+            {
+                "title": "Jack Nicholson in The Shining (1980)",
+                "image": "https://imdb-api.com/images/original/MV5BZGExY2QxNjYtZGNkZi00ZThiLWI0MWMtZjEyOGY4MDkyZWUzXkEyXkFqcGdeQXVyMTAzMDM4MjM0._V1_Ratio1.0000_AL_.jpg"
+            },
+            {
+                "title": "Shelley Duvall in The Shining (1980)",
+                "image": "https://imdb-api.com/images/original/MV5BMTkxNzkyNzAxNV5BMl5BanBnXkFtZTgwNzY0MjYzMzI@._V1_Ratio1.0000_AL_.jpg"
+            },
+            {
+                "title": "The Shining (1980)",
+                "image": "https://imdb-api.com/images/original/MV5BMTQ0ODI5Njg0NV5BMl5BanBnXkFtZTcwMTY3NzU4MQ@@._V1_Ratio1.0000_AL_.jpg"
+            },
+            {
+                "title": "Jack Nicholson in The Shining (1980)",
+                "image": "https://imdb-api.com/images/original/MV5BMTYxMDM1Mzc5MV5BMl5BanBnXkFtZTYwNDM0Mzg4._V1_Ratio1.0000_AL_.jpg"
+            },
+            {
+                "title": "Jack Nicholson in The Shining (1980)",
+                "image": "https://imdb-api.com/images/original/MV5BNzkxMTMxNTc4N15BMl5BanBnXkFtZTcwMTU3ODkxMQ@@._V1_Ratio1.0000_AL_.jpg"
+            },
+            {
+                "title": "Jack Nicholson and Shelley Duvall in The Shining (1980)",
+                "image": "https://imdb-api.com/images/original/MV5BOWNhNDZkMDQtMTIzMi00ZjAwLWJjZjAtM2Q1NTMyN2Y1YmZlXkEyXkFqcGdeQXVyMTI2MDU1NTM4._V1_Ratio1.7800_AL_.jpg"
+            },
+            {
+                "title": "Jack Nicholson and Shelley Duvall in The Shining (1980)",
+                "image": "https://imdb-api.com/images/original/MV5BM2QxNjU1ZGMtYWM1NS00YTdiLWExZmEtZDQ4ZWU1NGRmNTU0XkEyXkFqcGdeQXVyMTI2MDU1NTM4._V1_Ratio1.3200_AL_.jpg"
+            },
+            {
+                "title": "The Shining (1980)",
+                "image": "https://imdb-api.com/images/original/MV5BM2M5YWRkNTgtOTAwYi00YmZhLWI5OTUtNjBkZjBiY2I5Nzk1XkEyXkFqcGdeQXVyMTI2MDU1NTM4._V1_Ratio1.3200_AL_.jpg"
+            },
+            {
+                "title": "Shelley Duvall in The Shining (1980)",
+                "image": "https://imdb-api.com/images/original/MV5BYzMwYTBkYjQtZjgzZi00M2E0LTg0YjMtYjIzODM5ODU0OTFhXkEyXkFqcGdeQXVyMTI2MDU1NTM4._V1_Ratio1.3200_AL_.jpg"
+            },
+            {
+                "title": "Joe Turkel in The Shining (1980)",
+                "image": "https://imdb-api.com/images/original/MV5BOWU0MmUyNDMtN2ZiYS00NDVjLWIyN2MtNTc1NDk4ODkzMDc0XkEyXkFqcGdeQXVyMTI2MDU1NTM4._V1_Ratio1.7800_AL_.jpg"
+            },
+            {
+                "title": "Jack Nicholson in The Shining (1980)",
+                "image": "https://imdb-api.com/images/original/MV5BZDQ4MzkwYjYtMzU5OS00ZTFlLTg3MGYtOGRjNzBjYjEzNThhXkEyXkFqcGdeQXVyMTI2MDU1NTM4._V1_Ratio1.7800_AL_.jpg"
+            },
+            {
+                "title": "Jack Nicholson in The Shining (1980)",
+                "image": "https://imdb-api.com/images/original/MV5BYjg1NmU5ZWUtNTZjYi00NmI0LWFjMGItMmE3ZjlkOTk2MDQzXkEyXkFqcGdeQXVyMTI2MDU1NTM4._V1_Ratio1.7800_AL_.jpg"
+            },
+            {
+                "title": "Billie Gibson in The Shining (1980)",
+                "image": "https://imdb-api.com/images/original/MV5BYzYzNzVmMmItZWM2Yy00ZGZlLTgxOGYtMmQzYmI5NzdmNDQ2XkEyXkFqcGdeQXVyMTI2MDU1NTM4._V1_Ratio2.1400_AL_.jpg"
+            },
+            {
+                "title": "Jack Nicholson in The Shining (1980)",
+                "image": "https://imdb-api.com/images/original/MV5BZDQ4MzM3ZTAtNWUwNS00NjgyLWFlZTAtMzNjY2JhYmEzNDhhXkEyXkFqcGdeQXVyMTI2MDU1NTM4._V1_Ratio1.7800_AL_.jpg"
+            },
+            {
+                "title": "Lia Beldam in The Shining (1980)",
+                "image": "https://imdb-api.com/images/original/MV5BZmQyNjllZjItNDFlMi00ZGE1LWFmOTctMjMzMDkwNmNmYzU5XkEyXkFqcGdeQXVyMTI2MDU1NTM4._V1_Ratio1.8000_AL_.jpg"
+            },
+            {
+                "title": "Jack Nicholson and Lia Beldam in The Shining (1980)",
+                "image": "https://imdb-api.com/images/original/MV5BMTlkNzJkYzMtZmMxNC00ZDg1LWI2ZTEtZTQxYzhjOWNmZGQyXkEyXkFqcGdeQXVyMTI2MDU1NTM4._V1_Ratio2.0200_AL_.jpg"
+            },
+            {
+                "title": "Jack Nicholson and Lia Beldam in The Shining (1980)",
+                "image": "https://imdb-api.com/images/original/MV5BZjFiZDY3ZDYtN2QxMy00ZDBlLThiY2YtMDM4NjlmYmE4Zjc5XkEyXkFqcGdeQXVyMTI2MDU1NTM4._V1_Ratio1.2600_AL_.jpg"
+            },
+            {
+                "title": "Jack Nicholson in The Shining (1980)",
+                "image": "https://imdb-api.com/images/original/MV5BOGNlNmIzNDAtNjdiMS00MDEwLWJlZmQtMjc0ZGIwYTBiYTY3XkEyXkFqcGdeQXVyNjUwNzk3NDc@._V1_Ratio1.7600_AL_.jpg"
+            },
+            {
+                "title": "Jack Nicholson and Danny Lloyd in The Shining (1980)",
+                "image": "https://imdb-api.com/images/original/MV5BNGFkYzQwZjgtOGFkZS00MmMzLTkwOTUtNWI4YWQ1NzE3ZTE1XkEyXkFqcGdeQXVyNjUwNzk3NDc@._V1_Ratio1.7600_AL_.jpg"
+            },
+            {
+                "title": "Jack Nicholson and Danny Lloyd in The Shining (1980)",
+                "image": "https://imdb-api.com/images/original/MV5BODQ1MWYyNjktNWYzZi00MWUxLWExM2MtMTYyYjM3ZmM1MGExXkEyXkFqcGdeQXVyNjUwNzk3NDc@._V1_Ratio1.7600_AL_.jpg"
+            },
+            {
+                "title": "Jack Nicholson, Shelley Duvall, and Danny Lloyd in The Shining (1980)",
+                "image": "https://imdb-api.com/images/original/MV5BM2U1NGVmYjEtYTE2OS00ZmRlLWI4OTAtNGE3YTFiNmNhMzIxXkEyXkFqcGdeQXVyNjUwNzk3NDc@._V1_Ratio1.7600_AL_.jpg"
+            },
+            {
+                "title": "Danny Lloyd in The Shining (1980)",
+                "image": "https://imdb-api.com/images/original/MV5BMmUyMDMwOGMtNTE3YS00MWIxLWFmZDgtOTY3MGQzOGQxMjc1XkEyXkFqcGdeQXVyMTAzNTg1NjU4._V1_Ratio2.1600_AL_.jpg"
+            },
+            {
+                "title": "Shelley Duvall in The Shining (1980)",
+                "image": "https://imdb-api.com/images/original/MV5BNTBlYWZkOTYtZDllZS00YTgwLThkZWEtMzIwNDhlYmM1NzU3XkEyXkFqcGdeQXVyMTAzNTg1NjU4._V1_Ratio2.1600_AL_.jpg"
+            },
+            {
+                "title": "Shelley Duvall in The Shining (1980)",
+                "image": "https://imdb-api.com/images/original/MV5BN2VmMjYyYjYtMjk4ZC00MTExLTliZDctZThmNDNhMjhhNGQzXkEyXkFqcGdeQXVyMTAzNTg1NjU4._V1_Ratio2.1600_AL_.jpg"
+            },
+            {
+                "title": "Jack Nicholson and Shelley Duvall in The Shining (1980)",
+                "image": "https://imdb-api.com/images/original/MV5BMTA1YThlZGItMTUzYS00NzA3LTg3NWItYjk5OWFjNjRiNjFkXkEyXkFqcGdeQXVyMTAzNTg1NjU4._V1_Ratio2.1400_AL_.jpg"
+            },
+            {
+                "title": "The Shining (1980)",
+                "image": "https://imdb-api.com/images/original/MV5BYjRmNzUxYTYtNjIzZS00ZWIzLWJiZTgtOWJmOWM4ZjFkMmM4XkEyXkFqcGdeQXVyMTAzNTg1NjU4._V1_Ratio2.1600_AL_.jpg"
+            },
+            {
+                "title": "Shelley Duvall in The Shining (1980)",
+                "image": "https://imdb-api.com/images/original/MV5BNzA0ZTI2OGYtMjIxMi00NmQ3LTlmMDYtNjg2OWRiZWJhOTUyXkEyXkFqcGdeQXVyMTAzNTg1NjU4._V1_Ratio2.1800_AL_.jpg"
+            },
+            {
+                "title": "Jack Nicholson in The Shining (1980)",
+                "image": "https://imdb-api.com/images/original/MV5BNDhjOWQ1NmQtOGZiNy00MWFlLTg2NWMtYmNmZjZmNGM3ZTk1XkEyXkFqcGdeQXVyMTAzNTg1NjU4._V1_Ratio2.1000_AL_.jpg"
+            },
+            {
+                "title": "The Shining (1980)",
+                "image": "https://imdb-api.com/images/original/MV5BNDk2MTNlMTgtMDA5MS00YzlkLWIyZjEtYTAyMTg0ZTQ4MDVhXkEyXkFqcGdeQXVyMTAzNTg1NjU4._V1_Ratio2.1600_AL_.jpg"
+            },
+            {
+                "title": "Jack Nicholson and Shelley Duvall in The Shining (1980)",
+                "image": "https://imdb-api.com/images/original/MV5BMDdmYmM2NTktNjU2NS00ZDc2LWE1MmMtODRhNTA1YTNmMmZlXkEyXkFqcGdeQXVyMTAzNTg1NjU4._V1_Ratio2.1000_AL_.jpg"
+            },
+            {
+                "title": "Jack Nicholson in The Shining (1980)",
+                "image": "https://imdb-api.com/images/original/MV5BZDg2ZjI2ZDctZGY5Ny00NzQ2LThiZGEtYTdmMTY4ZTc5ZGQyXkEyXkFqcGdeQXVyMTAzNTg1NjU4._V1_Ratio2.1000_AL_.jpg"
+            },
+            {
+                "title": "Shelley Duvall in The Shining (1980)",
+                "image": "https://imdb-api.com/images/original/MV5BY2UxOTcxZjItYWRkMS00MTNkLTkzNGUtYTRjNGNlNjg4MDZhXkEyXkFqcGdeQXVyMTAzNTg1NjU4._V1_Ratio2.1600_AL_.jpg"
+            }
+        ],
+        "errorMessage": ""
+    },
+    "trailer": {
+        "imDbId": "tt0081505",
+        "title": "The Shining",
+        "fullTitle": "The Shining (1980)",
+        "type": "Movie",
+        "year": "1980",
+        "videoId": "vi1476002073",
+        "videoTitle": "The Shining",
+        "videoDescription": "Home Video Trailer from Warner Home Video",
+        "thumbnailUrl": "https://m.media-amazon.com/images/M/MV5BMGUxZWVmODQtZTRlOS00ZjM0LTkxZDUtZTQxYTBmYzAxNWU3XkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg",
+        "uploadDate": "04/11/2008 17:11:51",
+        "link": "https://www.imdb.com/video/vi1476002073",
+        "linkEmbed": "https://www.imdb.com/video/imdb/vi1476002073/imdb/embed",
+        "errorMessage": ""
+    },
+    "boxOffice": {
+        "budget": "$19,000,000 (estimated)",
+        "openingWeekendUSA": "$622,337, 26 May 1980",
+        "grossUSA": "$45,332,952",
+        "cumulativeWorldwideGross": "$46,998,772"
+    },
+    "tagline": "Stanley Kubrick's epic nightmare of horror",
+    "keywords": "haunted hotel,labyrinth,identical twins,hotel,snow",
+    "keywordList": [
+        "haunted hotel",
+        "labyrinth",
+        "identical twins",
+        "hotel",
+        "snow"
+    ],
+    "similars": [
+        {
+            "id": "tt0066921",
+            "title": "A Clockwork Orange",
+            "fullTitle": "A Clockwork Orange (1971)",
+            "year": "1971",
+            "image": "https://imdb-api.com/images/original/MV5BMTY3MjM1Mzc4N15BMl5BanBnXkFtZTgwODM0NzAxMDE@._V1_Ratio0.6737_AL_.jpg",
+            "plot": "In the future, a sadistic gang leader is imprisoned and volunteers for a conduct-aversion experiment, but it doesn't go as planned.",
+            "directors": "Stanley Kubrick",
+            "stars": "Malcolm McDowell, Patrick Magee, Michael Bates",
+            "genres": "Crime, Drama, Sci-Fi",
+            "imDbRating": "8.3"
+        },
+        {
+            "id": "tt0102926",
+            "title": "The Silence of the Lambs",
+            "fullTitle": "The Silence of the Lambs (1991)",
+            "year": "1991",
+            "image": "https://imdb-api.com/images/original/MV5BNjNhZTk0ZmEtNjJhMi00YzFlLWE1MmEtYzM1M2ZmMGMwMTU4XkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_Ratio0.6737_AL_.jpg",
+            "plot": "A young F.B.I. cadet must receive the help of an incarcerated and manipulative cannibal killer to help catch another serial killer, a madman who skins his victims.",
+            "directors": "Jonathan Demme",
+            "stars": "Jodie Foster, Anthony Hopkins, Lawrence A. Bonney",
+            "genres": "Crime, Drama, Thriller",
+            "imDbRating": "8.6"
+        },
+        {
+            "id": "tt0054215",
+            "title": "Psycho",
+            "fullTitle": "Psycho (1960)",
+            "year": "1960",
+            "image": "https://imdb-api.com/images/original/MV5BNTQwNDM1YzItNDAxZC00NWY2LTk0M2UtNDIwNWI5OGUyNWUxXkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_Ratio0.6737_AL_.jpg",
+            "plot": "A Phoenix secretary embezzles $40,000 from her employer's client, goes on the run, and checks into a remote motel run by a young man under the domination of his mother.",
+            "directors": "Alfred Hitchcock",
+            "stars": "Anthony Perkins, Janet Leigh, Vera Miles",
+            "genres": "Horror, Mystery, Thriller",
+            "imDbRating": "8.5"
+        },
+        {
+            "id": "tt0073486",
+            "title": "One Flew Over the Cuckoo's Nest",
+            "fullTitle": "One Flew Over the Cuckoo's Nest (1975)",
+            "year": "1975",
+            "image": "https://imdb-api.com/images/original/MV5BZjA0OWVhOTAtYWQxNi00YzNhLWI4ZjYtNjFjZTEyYjJlNDVlL2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_Ratio0.6737_AL_.jpg",
+            "plot": "A criminal pleads insanity and is admitted to a mental institution, where he rebels against the oppressive nurse and rallies up the scared patients.",
+            "directors": "Milos Forman",
+            "stars": "Jack Nicholson, Louise Fletcher, Michael Berryman",
+            "genres": "Drama",
+            "imDbRating": "8.7"
+        },
+        {
+            "id": "tt0078748",
+            "title": "Alien",
+            "fullTitle": "Alien (1979)",
+            "year": "1979",
+            "image": "https://imdb-api.com/images/original/MV5BMmQ2MmU3NzktZjAxOC00ZDZhLTk4YzEtMDMyMzcxY2IwMDAyXkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_Ratio0.6737_AL_.jpg",
+            "plot": "After a space merchant vessel receives an unknown transmission as a distress call, one of the crew is attacked by a mysterious life form and they soon realize that its life cycle has merely begun.",
+            "directors": "Ridley Scott",
+            "stars": "Sigourney Weaver, Tom Skerritt, John Hurt",
+            "genres": "Horror, Sci-Fi",
+            "imDbRating": "8.4"
+        },
+        {
+            "id": "tt1853728",
+            "title": "Django Unchained",
+            "fullTitle": "Django Unchained (2012)",
+            "year": "2012",
+            "image": "https://imdb-api.com/images/original/MV5BMjIyNTQ5NjQ1OV5BMl5BanBnXkFtZTcwODg1MDU4OA@@._V1_Ratio0.6737_AL_.jpg",
+            "plot": "With the help of a German bounty-hunter, a freed slave sets out to rescue his wife from a brutal plantation-owner in Mississippi.",
+            "directors": "Quentin Tarantino",
+            "stars": "Jamie Foxx, Christoph Waltz, Leonardo DiCaprio",
+            "genres": "Drama, Western",
+            "imDbRating": "8.4"
+        },
+        {
+            "id": "tt0062622",
+            "title": "2001: A Space Odyssey",
+            "fullTitle": "2001: A Space Odyssey (1968)",
+            "year": "1968",
+            "image": "https://imdb-api.com/images/original/MV5BMmNlYzRiNDctZWNhMi00MzI4LThkZTctMTUzMmZkMmFmNThmXkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_Ratio0.6737_AL_.jpg",
+            "plot": "After discovering a mysterious artifact buried beneath the Lunar surface, mankind sets off on a quest to find its origins with help from intelligent supercomputer H.A.L. 9000.",
+            "directors": "Stanley Kubrick",
+            "stars": "Keir Dullea, Gary Lockwood, William Sylvester",
+            "genres": "Adventure, Sci-Fi",
+            "imDbRating": "8.3"
+        },
+        {
+            "id": "tt0114369",
+            "title": "Se7en",
+            "fullTitle": "Se7en (1995)",
+            "year": "1995",
+            "image": "https://imdb-api.com/images/original/MV5BOTUwODM5MTctZjczMi00OTk4LTg3NWUtNmVhMTAzNTNjYjcyXkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_Ratio0.6737_AL_.jpg",
+            "plot": "Two detectives, a rookie and a veteran, hunt a serial killer who uses the seven deadly sins as his motives.",
+            "directors": "David Fincher",
+            "stars": "Morgan Freeman, Brad Pitt, Kevin Spacey",
+            "genres": "Crime, Drama, Mystery",
+            "imDbRating": "8.6"
+        },
+        {
+            "id": "tt0093058",
+            "title": "Full Metal Jacket",
+            "fullTitle": "Full Metal Jacket (1987)",
+            "year": "1987",
+            "image": "https://imdb-api.com/images/original/MV5BNzkxODk0NjEtYjc4Mi00ZDI0LTgyYjEtYzc1NDkxY2YzYTgyXkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_Ratio0.6737_AL_.jpg",
+            "plot": "A pragmatic U.S. Marine observes the dehumanizing effects the Vietnam War has on his fellow recruits from their brutal boot camp training to the bloody street fighting in Hue.",
+            "directors": "Stanley Kubrick",
+            "stars": "Matthew Modine, R. Lee Ermey, Vincent D'Onofrio",
+            "genres": "Drama, War",
+            "imDbRating": "8.3"
+        },
+        {
+            "id": "tt0105236",
+            "title": "Reservoir Dogs",
+            "fullTitle": "Reservoir Dogs (1992)",
+            "year": "1992",
+            "image": "https://imdb-api.com/images/original/MV5BZmExNmEwYWItYmQzOS00YjA5LTk2MjktZjEyZDE1Y2QxNjA1XkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_Ratio0.6737_AL_.jpg",
+            "plot": "When a simple jewelry heist goes horribly wrong, the surviving criminals begin to suspect that one of them is a police informant.",
+            "directors": "Quentin Tarantino",
+            "stars": "Harvey Keitel, Tim Roth, Michael Madsen",
+            "genres": "Crime, Drama, Thriller",
+            "imDbRating": "8.3"
+        },
+        {
+            "id": "tt0110912",
+            "title": "Pulp Fiction",
+            "fullTitle": "Pulp Fiction (1994)",
+            "year": "1994",
+            "image": "https://imdb-api.com/images/original/MV5BNGNhMDIzZTUtNTBlZi00MTRlLWFjM2ItYzViMjE3YzI5MjljXkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_Ratio0.6842_AL_.jpg",
+            "plot": "The lives of two mob hitmen, a boxer, a gangster and his wife, and a pair of diner bandits intertwine in four tales of violence and redemption.",
+            "directors": "Quentin Tarantino",
+            "stars": "John Travolta, Uma Thurman, Samuel L. Jackson",
+            "genres": "Crime, Drama",
+            "imDbRating": "8.9"
+        },
+        {
+            "id": "tt5606664",
+            "title": "Doctor Sleep",
+            "fullTitle": "Doctor Sleep (2019)",
+            "year": "2019",
+            "image": "https://imdb-api.com/images/original/MV5BYmY3NGJlYTItYmQ4OS00ZTEwLWIzODItMjMzNWU2MDE0NjZhXkEyXkFqcGdeQXVyMzQzMDA3MTI@._V1_Ratio0.6737_AL_.jpg",
+            "plot": "Years following the events of The Shining (1980), a now-adult Dan Torrance must protect a young girl with similar powers from a cult known as The True Knot, who prey on children with powers to remain immortal.",
+            "directors": "Mike Flanagan",
+            "stars": "Ewan McGregor, Rebecca Ferguson, Kyliegh Curran",
+            "genres": "Drama, Fantasy, Horror",
+            "imDbRating": "7.3"
+        }
+    ],
+    "tvSeriesInfo": null,
+    "tvEpisodeInfo": null,
+    "errorMessage": ""
+}

@@ -1,0 +1,554 @@
+{
+    "id": "tt7019842",
+    "title": "96",
+    "originalTitle": "",
+    "fullTitle": "96 (2018)",
+    "type": "Movie",
+    "year": "2018",
+    "image": "https://imdb-api.com/images/original/MV5BZTM1MGM3NjgtZjE4Mi00ZTNlLWI3ODAtNTViZjFmMDc3MjlhXkEyXkFqcGdeQXVyOTA3MTM0MTM@._V1_Ratio0.7313_AL_.jpg",
+    "releaseDate": "2018-10-03",
+    "runtimeMins": "158",
+    "runtimeStr": "2h 38min",
+    "plot": "Two high school sweethearts meet at a reunion after 22 years and reminisce about their past.",
+    "plotLocal": "",
+    "plotLocalIsRtl": false,
+    "awards": "Top Rated Indian Movies #11 | 12 wins & 11 nominations.",
+    "directors": "C. Prem Kumar",
+    "directorList": [{ "id": "nm4242320", "name": "C. Prem Kumar" }],
+    "writers": "C. Prem Kumar",
+    "writerList": [{ "id": "nm4242320", "name": "C. Prem Kumar" }],
+    "stars": "Vijay Sethupathi, Adithya Bhaskar, Trisha Krishnan, Gouri Kishan",
+    "starList": [
+        { "id": "nm4043111", "name": "Vijay Sethupathi" },
+        { "id": "nm10174308", "name": "Adithya Bhaskar" },
+        { "id": "nm1375534", "name": "Trisha Krishnan" },
+        { "id": "nm10174309", "name": "Gouri Kishan" }
+    ],
+    "actorList": [
+        {
+            "id": "nm4043111",
+            "image": "https://imdb-api.com/images/original/MV5BZjVlOWJlYTctZjI4YS00NGE0LWIzNGYtOGNlZjliNTRiMDJhXkEyXkFqcGdeQXVyMjYwMDk5NjE@._V1_Ratio0.7273_AL_.jpg",
+            "name": "Vijay Sethupathi",
+            "asCharacter": "Ramachandran 'Ram' Krishnamoorthy"
+        },
+        {
+            "id": "nm10174308",
+            "image": "https://imdb-api.com/images/original/MV5BYjFmZTg2ZjEtMzg4YS00ZGQxLWIwZjUtNzUzZDZjMzNjNzhkXkEyXkFqcGdeQXVyMzYxOTQ3MDg@._V1_Ratio0.7727_AL_.jpg",
+            "name": "Adithya Bhaskar",
+            "asCharacter": "Young Ramachandran 'Ram' Krishnamoorthy"
+        },
+        {
+            "id": "nm1375534",
+            "image": "https://imdb-api.com/images/original/MV5BNGZjMGM1MTgtZTAwMy00NmEwLTg5NTMtOGJlYjI3Y2UzMzVlXkEyXkFqcGdeQXVyMjYwMDk5NjE@._V1_Ratio0.7273_AL_.jpg",
+            "name": "Trisha Krishnan",
+            "asCharacter": "Janaki 'Janu' Devi Sugumar"
+        },
+        {
+            "id": "nm10174309",
+            "image": "https://imdb-api.com/images/original/MV5BNWNjODk3ZWUtOTc5YS00NDI5LWE3OWQtNjlkNjQ2NDg4MWFiXkEyXkFqcGdeQXVyMzYxOTQ3MDg@._V1_Ratio0.7727_AL_.jpg",
+            "name": "Gouri Kishan",
+            "asCharacter": "Young Janaki 'Janu' Devi Sugumar"
+        },
+        {
+            "id": "nm2011414",
+            "image": "https://imdb-api.com/images/original/MV5BYjE3N2RiOTYtYWYwYS00N2I2LTk3OTgtMjM4NzA4YTg1YWQzXkEyXkFqcGdeQXVyMzQ0NTk5NzU@._V1_Ratio0.9091_AL_.jpg",
+            "name": "Devadarshini Chetan",
+            "asCharacter": "Subhashini 'Subha'"
+        },
+        {
+            "id": "nm10174310",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Niyathi Kadambi",
+            "asCharacter": "Young Subhashini 'Subha'"
+        },
+        {
+            "id": "nm0417301",
+            "image": "https://imdb-api.com/images/original/MV5BMGQ4YmU0ODYtNjNmNS00Y2I1LTljOTktOGI5MjUwNzEwMTVjL2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyMjYwMDk5NjE@._V1_Ratio0.7727_AL_.jpg",
+            "name": "Janakaraj",
+            "asCharacter": "'Kaval Deivam', the school watchman (as Janagaraj)"
+        },
+        {
+            "id": "nm5408984",
+            "image": "https://imdb-api.com/images/original/MV5BN2E5ZTEyOTItZGFjMy00NDM5LTk2MDUtNzg5OWZhMTM3YWQ1XkEyXkFqcGdeQXVyMzYxOTQ3MDg@._V1_Ratio0.7727_AL_.jpg",
+            "name": "Bagavathi Perumal",
+            "asCharacter": "Murali"
+        },
+        {
+            "id": "nm12499707",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Surya",
+            "asCharacter": "Young Murali"
+        },
+        {
+            "id": "nm5408510",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Rajkumar",
+            "asCharacter": "Surya"
+        },
+        {
+            "id": "nm4820548",
+            "image": "https://imdb-api.com/images/original/MV5BMTQzNjMwMzcwN15BMl5BanBnXkFtZTcwMTAzOTY0OA@@._V1_Ratio1.5000_AL_.jpg",
+            "name": "Murugadass",
+            "asCharacter": "Sathiesh (as Aadukalam Murugadoss)"
+        },
+        {
+            "id": "nm11271121",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Gowthamraj",
+            "asCharacter": "Young Sathish"
+        },
+        {
+            "id": "nm9103031",
+            "image": "https://imdb-api.com/images/original/MV5BMTNkMDFjYTQtODI5Ni00Y2Y0LTlkYTItZjFlNjFlNjY3YzcyXkEyXkFqcGdeQXVyMjkxNzQ1NDI@._V1_Ratio0.7273_AL_.jpg",
+            "name": "Varsha Bollamma",
+            "asCharacter": "Prabha"
+        },
+        {
+            "id": "nm1688033",
+            "image": "https://imdb-api.com/images/original/MV5BOWVlNWM5NTktYzk4Yi00ZjhhLWJhMmMtNjg5NTg4ZmFhOTEyXkEyXkFqcGdeQXVyMzYxOTQ3MDg@._V1_Ratio1.0000_AL_.jpg",
+            "name": "Kavithalaya Krishnan",
+            "asCharacter": "Kalai Selvan, barber"
+        },
+        {
+            "id": "nm10174311",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Shyam Prasad",
+            "asCharacter": "Hotel Receptionist"
+        }
+    ],
+    "fullCast": null,
+    "genres": "Drama, Romance",
+    "genreList": [
+        { "key": "Drama", "value": "Drama" },
+        { "key": "Romance", "value": "Romance" }
+    ],
+    "companies": "Madras Enterprises",
+    "companyList": [{ "id": "co0458583", "name": "Madras Enterprises" }],
+    "countries": "India",
+    "countryList": [{ "key": "India", "value": "India" }],
+    "languages": "Tamil",
+    "languageList": [{ "key": "Tamil", "value": "Tamil" }],
+    "contentRating": "Not Rated",
+    "imDbRating": "8.6",
+    "imDbRatingVotes": "22448",
+    "metacriticRating": "",
+    "ratings": null,
+    "wikipedia": null,
+    "posters": {
+        "imDbId": "tt7019842",
+        "title": "96",
+        "fullTitle": "96 (2018)",
+        "type": "Movie",
+        "year": "2018",
+        "posters": [
+            {
+                "id": "nrVloCa2hCFOztRF1DZU2jnWIiQ.jpg",
+                "link": "https://imdb-api.com/posters/original/nrVloCa2hCFOztRF1DZU2jnWIiQ.jpg",
+                "aspectRatio": 0.6666666666666666,
+                "language": "en",
+                "width": 900,
+                "height": 1350
+            },
+            {
+                "id": "dYImzEquIZglfzDnJlHYdlUIeSo.jpg",
+                "link": "https://imdb-api.com/posters/original/dYImzEquIZglfzDnJlHYdlUIeSo.jpg",
+                "aspectRatio": 0.6666666666666666,
+                "language": "en",
+                "width": 2000,
+                "height": 3000
+            },
+            {
+                "id": "rZFtkKF10s4Uq0Z5A9z3ARW5rnk.jpg",
+                "link": "https://imdb-api.com/posters/original/rZFtkKF10s4Uq0Z5A9z3ARW5rnk.jpg",
+                "aspectRatio": 0.66640625,
+                "language": "en",
+                "width": 853,
+                "height": 1280
+            },
+            {
+                "id": "b3vldDqGZJNGnuySrruAg7F2i2e.jpg",
+                "link": "https://imdb-api.com/posters/original/b3vldDqGZJNGnuySrruAg7F2i2e.jpg",
+                "aspectRatio": 0.6666666666666666,
+                "language": "en",
+                "width": 900,
+                "height": 1350
+            }
+        ],
+        "backdrops": [
+            {
+                "id": "qzu94AvnZ1az30sTUuibx2bXpfs.jpg",
+                "link": "https://imdb-api.com/posters/original/qzu94AvnZ1az30sTUuibx2bXpfs.jpg",
+                "aspectRatio": 1.7802294792586055,
+                "language": "en",
+                "width": 2017,
+                "height": 1133
+            },
+            {
+                "id": "exJu48FYngKifMWKelNPr6hPFjU.jpg",
+                "link": "https://imdb-api.com/posters/original/exJu48FYngKifMWKelNPr6hPFjU.jpg",
+                "aspectRatio": 1.7802294792586055,
+                "language": "en",
+                "width": 2017,
+                "height": 1133
+            },
+            {
+                "id": "3cAaj6Z56zYaagyoAi55CGx6oHg.jpg",
+                "link": "https://imdb-api.com/posters/original/3cAaj6Z56zYaagyoAi55CGx6oHg.jpg",
+                "aspectRatio": 1.7770925110132159,
+                "language": "en",
+                "width": 2017,
+                "height": 1135
+            },
+            {
+                "id": "6robAxh5MrDVC8G5MAsXR78U1lH.jpg",
+                "link": "https://imdb-api.com/posters/original/6robAxh5MrDVC8G5MAsXR78U1lH.jpg",
+                "aspectRatio": 1.7777777777777777,
+                "language": "en",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "id": "t35gd4Lmw9suAAvTxnh1pMP41Yy.jpg",
+                "link": "https://imdb-api.com/posters/original/t35gd4Lmw9suAAvTxnh1pMP41Yy.jpg",
+                "aspectRatio": 1.7802294792586055,
+                "language": "en",
+                "width": 2017,
+                "height": 1133
+            }
+        ],
+        "errorMessage": ""
+    },
+    "images": {
+        "imDbId": "tt7019842",
+        "title": "96",
+        "fullTitle": "96 (2018)",
+        "type": "Movie",
+        "year": "2018",
+        "items": [
+            {
+                "title": "Trisha Krishnan and Vijay Sethupathi in 96 (2018)",
+                "image": "https://imdb-api.com/images/original/MV5BM2NkNWI2YjgtYzAzMi00MWMzLThiZDItOWRlM2QyNDdiZmJiXkEyXkFqcGdeQXVyMTA4NjE0NjEy._V1_Ratio1.0000_AL_.jpg"
+            },
+            {
+                "title": "Trisha Krishnan and Vijay Sethupathi in 96 (2018)",
+                "image": "https://imdb-api.com/images/original/MV5BYzY0OTVhZTMtYjAzNy00ODYzLTkxMzUtZmY2MWRlNTE1N2UyXkEyXkFqcGdeQXVyMTA4NjE0NjEy._V1_Ratio1.0000_AL_.jpg"
+            },
+            {
+                "title": "Trisha Krishnan and Vijay Sethupathi in 96 (2018)",
+                "image": "https://imdb-api.com/images/original/MV5BZmQ2OWFlZTMtMWI4My00OTAzLWIzN2ItNzZjZWU5YzNhYjI5XkEyXkFqcGdeQXVyNjQ0NTA3NjI@._V1_Ratio1.9800_AL_.jpg"
+            },
+            {
+                "title": "Vijay Sethupathi in 96 (2018)",
+                "image": "https://imdb-api.com/images/original/MV5BZWE2YTBlMGItN2QyZi00MTI5LTkzZDgtYjI5NTlmNjkyMjEzXkEyXkFqcGdeQXVyNjQ0NTA3NjI@._V1_Ratio2.0400_AL_.jpg"
+            },
+            {
+                "title": "Vijay Sethupathi in 96 (2018)",
+                "image": "https://imdb-api.com/images/original/MV5BODUzZDFkMTYtMTUxNi00Y2M0LTkzZmYtNWI5NmE0OGFkMjUzXkEyXkFqcGdeQXVyMjA4OTI5NDQ@._V1_Ratio1.7800_AL_.jpg"
+            },
+            {
+                "title": "Trisha Krishnan and Vijay Sethupathi in 96 (2018)",
+                "image": "https://imdb-api.com/images/original/MV5BMjQ1MjkwZDQtMzM4ZC00ODk5LTgwYmYtMWQxMGE0NGIyNDVlXkEyXkFqcGdeQXVyMjA4OTI5NDQ@._V1_Ratio1.5400_AL_.jpg"
+            },
+            {
+                "title": "Trisha Krishnan and Vijay Sethupathi in 96 (2018)",
+                "image": "https://imdb-api.com/images/original/MV5BZjRmYzk0NzMtMzQ4Zi00YmQ4LTlkOTUtNTY1ZTcxZDg1ZWUzXkEyXkFqcGdeQXVyMzYxOTQ3MDg@._V1_Ratio1.4200_AL_.jpg"
+            },
+            {
+                "title": "Vijay Sethupathi in 96 (2018)",
+                "image": "https://imdb-api.com/images/original/MV5BYzEzMDhmMTctNWY5NS00ZGQ4LTk3ZWItZWRhZGNmYjhiMjg0XkEyXkFqcGdeQXVyNzQxNDAyNzY@._V1_Ratio2.3600_AL_.jpg"
+            },
+            {
+                "title": "Trisha Krishnan in 96 (2018)",
+                "image": "https://imdb-api.com/images/original/MV5BNjQxODNlMWItZmRhZS00ZTQzLThmOWQtZDg1MDUwMjM4M2ZjXkEyXkFqcGdeQXVyMzYxOTQ3MDg@._V1_Ratio2.1000_AL_.jpg"
+            },
+            {
+                "title": "Trisha Krishnan and Vijay Sethupathi in 96 (2018)",
+                "image": "https://imdb-api.com/images/original/MV5BZDQwYmIxNDEtOThmZS00OGE5LTkzOTEtMTY3ZTQwZGI1NjdlXkEyXkFqcGdeQXVyMzYxOTQ3MDg@._V1_Ratio2.1200_AL_.jpg"
+            },
+            {
+                "title": "Trisha Krishnan and Vijay Sethupathi in 96 (2018)",
+                "image": "https://imdb-api.com/images/original/MV5BODA1Y2I5MmQtMmQ1Ny00NDAzLTlkNWQtMDI1ZjE2Mjk3ZDdmXkEyXkFqcGdeQXVyODE5NjYxMzQ@._V1_Ratio2.2400_AL_.jpg"
+            },
+            {
+                "title": "Trisha Krishnan and Vijay Sethupathi in 96 (2018)",
+                "image": "https://imdb-api.com/images/original/MV5BM2IxNGUxZTMtNDE0ZC00NGNiLTgyMGItMWQ5Y2YyYjdhY2RmXkEyXkFqcGdeQXVyODE5NjYxMzQ@._V1_Ratio1.8000_AL_.jpg"
+            },
+            {
+                "title": "Vijay Sethupathi in 96 (2018)",
+                "image": "https://imdb-api.com/images/original/MV5BYTQ1OTUxMzItNDVhOS00Y2ZhLWJkMTYtZGI0MDI3MGNjYjFmXkEyXkFqcGdeQXVyODE5NjYxMzQ@._V1_Ratio2.2000_AL_.jpg"
+            },
+            {
+                "title": "Vijay Sethupathi in 96 (2018)",
+                "image": "https://imdb-api.com/images/original/MV5BNmNlZmJiOGYtODQ3Yy00N2I3LThiODctZjg2OWQ5NTBhNWU4XkEyXkFqcGdeQXVyODE5NjYxMzQ@._V1_Ratio2.1800_AL_.jpg"
+            },
+            {
+                "title": "Trisha Krishnan and Vijay Sethupathi in 96 (2018)",
+                "image": "https://imdb-api.com/images/original/MV5BMDJkNTExZDAtNjc2OC00NGJkLWJiZmUtOWEyY2ViNDc3Nzg2XkEyXkFqcGdeQXVyMjA4OTI5NDQ@._V1_Ratio1.7800_AL_.jpg"
+            },
+            {
+                "title": "Trisha Krishnan and Vijay Sethupathi in 96 (2018)",
+                "image": "https://imdb-api.com/images/original/MV5BYzhjMjFhZDItOWFmMS00ODYzLWE2OWQtMWM1YTA4OWU5ZmViXkEyXkFqcGdeQXVyMjA4OTI5NDQ@._V1_Ratio1.5000_AL_.jpg"
+            },
+            {
+                "title": "Vijay Sethupathi in 96 (2018)",
+                "image": "https://imdb-api.com/images/original/MV5BMjUxNmM1ZDMtMTdlZS00NzU1LWFkNzctYjkxYzRhOGMzOGFiXkEyXkFqcGdeQXVyMjA4OTI5NDQ@._V1_Ratio1.5000_AL_.jpg"
+            },
+            {
+                "title": "Adithya Bhaskar and Gouri Kishan in 96 (2018)",
+                "image": "https://imdb-api.com/images/original/MV5BNDIyNmExMzMtNzBjNy00M2NjLWFhZDAtYTI2MDNiZDE0M2I4XkEyXkFqcGdeQXVyODgwMjQ1MzQ@._V1_Ratio1.8800_AL_.jpg"
+            },
+            {
+                "title": "Trisha Krishnan and Vijay Sethupathi in 96 (2018)",
+                "image": "https://imdb-api.com/images/original/MV5BOTgwYTc4MjgtMzU3NC00M2MyLThlMTktMGZjMzBlYjEzM2Y5XkEyXkFqcGdeQXVyODgwMjQ1MzQ@._V1_Ratio1.5000_AL_.jpg"
+            },
+            {
+                "title": "Trisha Krishnan and Vijay Sethupathi at an event for 96 (2018)",
+                "image": "https://imdb-api.com/images/original/MV5BN2Q1YTA3ZmQtMzdkMC00MmQ0LWFlMDktOWM0ZDE1ODE2ZmYxXkEyXkFqcGdeQXVyMjA4OTI5NDQ@._V1_Ratio1.5000_AL_.jpg"
+            },
+            {
+                "title": "Trisha Krishnan and Vijay Sethupathi at an event for 96 (2018)",
+                "image": "https://imdb-api.com/images/original/MV5BYWYzNTQ4MzgtZjFhMi00ZTVkLTk3MTktNDk4YWZjZWMyMDU5XkEyXkFqcGdeQXVyMjA4OTI5NDQ@._V1_Ratio1.5000_AL_.jpg"
+            },
+            {
+                "title": "Trisha Krishnan at an event for 96 (2018)",
+                "image": "https://imdb-api.com/images/original/MV5BYzY1ZGJmYTQtODk3ZS00ZjdmLWI1ODAtYjcwZTA0MzNmZGU5XkEyXkFqcGdeQXVyMjUxMTY3ODM@._V1_Ratio1.0000_AL_.jpg"
+            },
+            {
+                "title": "Trisha Krishnan and Vijay Sethupathi in 96 (2018)",
+                "image": "https://imdb-api.com/images/original/MV5BY2JmNzM3NWItYjhlNC00NWUyLTljN2QtMjY4MjZiY2ZjMjk3XkEyXkFqcGdeQXVyOTA0NTIzNzU@._V1_Ratio1.2200_AL_.jpg"
+            },
+            {
+                "title": "96 (2018)",
+                "image": "https://imdb-api.com/images/original/MV5BN2NjNzY4NTItNGRhNC00ZjY1LWExODMtYzNkNDgzZGViMGZhXkEyXkFqcGdeQXVyMjUxMTY3ODM@._V1_Ratio1.0000_AL_.jpg"
+            },
+            {
+                "title": "Trisha Krishnan and Vijay Sethupathi in 96 (2018)",
+                "image": "https://imdb-api.com/images/original/MV5BYzdkYzNmNTgtZGQ0OC00OTI3LWI4OTctYzM3MTJlMGQyMjY1XkEyXkFqcGdeQXVyOTA0NTIzNzU@._V1_Ratio1.0000_AL_.jpg"
+            },
+            {
+                "title": "Trisha Krishnan and Vijay Sethupathi in 96 (2018)",
+                "image": "https://imdb-api.com/images/original/MV5BMDU2YWZlOTAtZTEzYi00YjAxLTgyYzItMGZlNjEzMWIxYmFiXkEyXkFqcGdeQXVyOTA3MTM0MTM@._V1_Ratio1.0000_AL_.jpg"
+            },
+            {
+                "title": "Trisha Krishnan and Vijay Sethupathi in 96 (2018)",
+                "image": "https://imdb-api.com/images/original/MV5BYTNmNjE3NzYtZWU0Ni00MDA2LWI3NmMtNGVlYjdhM2M5N2NiXkEyXkFqcGdeQXVyOTA3MTM0MTM@._V1_Ratio1.0000_AL_.jpg"
+            },
+            {
+                "title": "Trisha Krishnan and Vijay Sethupathi in 96 (2018)",
+                "image": "https://imdb-api.com/images/original/MV5BZjk5MDBjOGItNjAyMi00NTk1LTgyZWEtMzUxNTMzNTQ4MmM0XkEyXkFqcGdeQXVyOTA3MTM0MTM@._V1_Ratio1.0000_AL_.jpg"
+            },
+            {
+                "title": "Trisha Krishnan and Vijay Sethupathi in 96 (2018)",
+                "image": "https://imdb-api.com/images/original/MV5BZTM1MGM3NjgtZjE4Mi00ZTNlLWI3ODAtNTViZjFmMDc3MjlhXkEyXkFqcGdeQXVyOTA3MTM0MTM@._V1_Ratio1.0000_AL_.jpg"
+            },
+            {
+                "title": "Trisha Krishnan and Vijay Sethupathi in 96 (2018)",
+                "image": "https://imdb-api.com/images/original/MV5BZjRiNGQwZTgtOGUyYy00MjUxLTllZTctMzdhNjc1MTBlZjgwXkEyXkFqcGdeQXVyOTA3MTM0MTM@._V1_Ratio1.0000_AL_.jpg"
+            },
+            {
+                "title": "Trisha Krishnan and Vijay Sethupathi in 96 (2018)",
+                "image": "https://imdb-api.com/images/original/MV5BZjE2MjZiYzItOTliNi00YTk0LWFkYjctYzZkMzY2NjJiZGM1XkEyXkFqcGdeQXVyOTA3MTM0MTM@._V1_Ratio1.0000_AL_.jpg"
+            },
+            {
+                "title": "Trisha Krishnan and Vijay Sethupathi in 96 (2018)",
+                "image": "https://imdb-api.com/images/original/MV5BOGMwZThmNWMtM2ZkMC00OTZiLWFmOGItYTIzNGUzNDQ2ZWI0XkEyXkFqcGdeQXVyODk1MzE5NDA@._V1_Ratio1.0000_AL_.jpg"
+            },
+            {
+                "title": "Trisha Krishnan and Vijay Sethupathi in 96 (2018)",
+                "image": "https://imdb-api.com/images/original/MV5BNTQxZDA3MjItZDVhZC00OGQxLWI0NWYtYzhhOTk1MTFmMTYxXkEyXkFqcGdeQXVyNTc5OTMwOTQ@._V1_Ratio1.0000_AL_.jpg"
+            },
+            {
+                "title": "Trisha Krishnan and Vijay Sethupathi in 96 (2018)",
+                "image": "https://imdb-api.com/images/original/MV5BYTBmMDQ0ZmYtYWU5Zi00ZmY3LTkyZTItOWFiY2I3YzdkYzgxXkEyXkFqcGdeQXVyODE5NjYxMzQ@._V1_Ratio1.0000_AL_.jpg"
+            },
+            {
+                "title": "Vijay Sethupathi in 96 (2018)",
+                "image": "https://imdb-api.com/images/original/MV5BZjlkMzVlODMtYmUzMC00MDg3LTgwOWQtZTk5NGRhYzYzODAzXkEyXkFqcGdeQXVyODE5NjYxMzQ@._V1_Ratio1.3200_AL_.jpg"
+            },
+            {
+                "title": "96 (2018)",
+                "image": "https://imdb-api.com/images/original/MV5BNzU0NzAyNWEtNDkxNC00NWNmLWFkOWEtYWY2NDg5Zjk0OTA5XkEyXkFqcGdeQXVyMzYxOTQ3MDg@._V1_Ratio1.0000_AL_.jpg"
+            }
+        ],
+        "errorMessage": ""
+    },
+    "trailer": {
+        "imDbId": "tt7019842",
+        "title": "96",
+        "fullTitle": "96 (2018)",
+        "type": "Movie",
+        "year": "2018",
+        "videoId": "vi639417113",
+        "videoTitle": "96 Trailer",
+        "videoDescription": null,
+        "thumbnailUrl": "https://m.media-amazon.com/images/M/MV5BNWVlODk4M2MtZjdiOC00NWZhLThjOGMtZWYzMjQzMzQ0NTkwXkEyXkFqcGdeQXRodW1ibmFpbC1pbml0aWFsaXplcg@@._V1_.jpg",
+        "uploadDate": "08/24/2018 16:46:41",
+        "link": "https://www.imdb.com/video/vi639417113",
+        "linkEmbed": "https://www.imdb.com/video/imdb/vi639417113/imdb/embed",
+        "errorMessage": ""
+    },
+    "boxOffice": {
+        "budget": "",
+        "openingWeekendUSA": "",
+        "grossUSA": "",
+        "cumulativeWorldwideGross": "$616,333"
+    },
+    "tagline": "",
+    "keywords": "schoolgirl romance,school days,school life,school desk,unadulterated love",
+    "keywordList": [
+        "schoolgirl romance",
+        "school days",
+        "school life",
+        "school desk",
+        "unadulterated love"
+    ],
+    "similars": [
+        {
+            "id": "tt6148156",
+            "title": "Vikram Vedha",
+            "fullTitle": "Vikram Vedha (2017)",
+            "year": "2017",
+            "image": "https://imdb-api.com/images/original/MV5BY2FiMTFmMzMtZDI2ZC00NDQyLWExYTUtOWNmZWM1ZDg5YjVjXkEyXkFqcGdeQXVyODIwMDI1NjM@._V1_Ratio0.6737_AL_.jpg",
+            "plot": "Vikram, a no-nonsense police officer, accompanied by Simon, his partner, is on the hunt to capture Vedha, a smuggler and a murderer. Vedha tries to change Vikram's life, which leads to a conflict.",
+            "directors": "Directors: Gayatri, Pushkar",
+            "stars": "Madhavan, Vijay Sethupathi, Shraddha Srinath",
+            "genres": "Action, Crime, Drama",
+            "imDbRating": "8.4"
+        },
+        {
+            "id": "tt9900782",
+            "title": "Kaithi",
+            "fullTitle": "Kaithi (2019)",
+            "year": "2019",
+            "image": "https://imdb-api.com/images/original/MV5BMzNjMDhmYzEtM2YxOC00NzZjLThkODctZjI4M2UyOWIyOTZmXkEyXkFqcGdeQXVyNzcxMzI4Njk@._V1_Ratio0.6737_AL_.jpg",
+            "plot": "Dilli, an ex-convict, endeavours to meet his daughter for the first time after leaving prison. However, his attempts are interrupted due to a drug raid planned by Inspector Bejoy.",
+            "directors": "Lokesh Kanagaraj",
+            "stars": "Karthi, Narain, Ramana",
+            "genres": "Action, Thriller",
+            "imDbRating": "8.5"
+        },
+        {
+            "id": "tt7060344",
+            "title": "Raatchasan",
+            "fullTitle": "Raatchasan (2018)",
+            "year": "2018",
+            "image": "https://imdb-api.com/images/original/MV5BMjU2NzIzMjYtMGE2ZS00YzgzLWE5MzgtZTFiYTlmOWNlYmJkXkEyXkFqcGdeQXVyODIwMDI1NjM@._V1_Ratio0.7368_AL_.jpg",
+            "plot": "A sub-inspector sets out in pursuit of a mysterious serial killer who targets teen school girls and murders them brutally.",
+            "directors": "Ram Kumar",
+            "stars": "Vishnu Vishal, Amala Paul, Radha Ravi",
+            "genres": "Action, Crime, Thriller",
+            "imDbRating": "8.5"
+        },
+        {
+            "id": "tt9477520",
+            "title": "Asuran",
+            "fullTitle": "Asuran (2019)",
+            "year": "2019",
+            "image": "https://imdb-api.com/images/original/MV5BMTQ3YWY1MzQtNDA3OC00MDY1LTk3ZmMtMzNjZmFjY2FhYWNhXkEyXkFqcGdeQXVyODIwMDI1NjM@._V1_Ratio0.7053_AL_.jpg",
+            "plot": "The teenage son of a farmer from an underprivileged caste kills a rich, upper caste landlord. Will the farmer, a loving father and a pacifist by heart, be able to save his hot-blooded son is the rest of the story.",
+            "directors": "Vetrimaaran",
+            "stars": "Dhanush, Manju Warrier, Prakash Raj",
+            "genres": "Action, Drama",
+            "imDbRating": "8.5"
+        },
+        {
+            "id": "tt8176054",
+            "title": "Pariyerum Perumal",
+            "fullTitle": "Pariyerum Perumal (2018)",
+            "year": "2018",
+            "image": "https://imdb-api.com/images/original/MV5BYTI3ZmIyMjYtZTcwZC00N2Q1LTg1ZTEtNjZjYWQ5NTU1NTA1XkEyXkFqcGdeQXVyODIwMDI1NjM@._V1_Ratio0.6737_AL_.jpg",
+            "plot": "A law student from a lower caste begins a friendship with his classmate, a girl who belongs to a higher caste, and the men in her family start giving him trouble over this.",
+            "directors": "Directors: Mari Selvaraj, Prabunath",
+            "stars": "Kathir, Anandhi, Yogi Babu",
+            "genres": "Drama",
+            "imDbRating": "8.8"
+        },
+        {
+            "id": "tt5959980",
+            "title": "Vada Chennai",
+            "fullTitle": "Vada Chennai (2018)",
+            "year": "2018",
+            "image": "https://imdb-api.com/images/original/MV5BYTA4Yjc1OTgtODU3YS00MTQ5LTljM2EtN2JiYzI2MmI2MmVkXkEyXkFqcGdeQXVyODIwMDI1NjM@._V1_Ratio0.7158_AL_.jpg",
+            "plot": "A young carrom player in north Chennai becomes a reluctant participant in a war between two warring gangsters.",
+            "directors": "Vetrimaaran",
+            "stars": "Dhanush, Ameer Sultan, Radha Ravi",
+            "genres": "Action, Crime, Drama",
+            "imDbRating": "8.5"
+        },
+        {
+            "id": "tt4987556",
+            "title": "Thani Oruvan",
+            "fullTitle": "Thani Oruvan (2015)",
+            "year": "2015",
+            "image": "https://imdb-api.com/images/original/MV5BMzgwZjcyZjItN2Q5Mi00NTM3LTg0YmMtMmQ2NmVmY2Y4MzY0XkEyXkFqcGdeQXVyOTA0NTIzNzU@._V1_Ratio0.6737_AL_.jpg",
+            "plot": "Siddharth Abimanyu, an influential scientist, is involved in various illegal medical practices. Mithran, an efficient IPS officer, decides to expose him.",
+            "directors": "Mohan Raja",
+            "stars": "Jayam Ravi, Arvind Swamy, Nayanthara",
+            "genres": "Action, Crime, Thriller",
+            "imDbRating": "8.4"
+        },
+        {
+            "id": "tt7019942",
+            "title": "Super Deluxe",
+            "fullTitle": "Super Deluxe (2019)",
+            "year": "2019",
+            "image": "https://imdb-api.com/images/original/MV5BYjcwMTcxMjQtY2E3Ny00NDk2LWE4MTYtMDg0MDNlZTE2ZTYyXkEyXkFqcGdeQXVyMjkxNzQ1NDI@._V1_Ratio0.7474_AL_.jpg",
+            "plot": "An unfaithful newly-wed wife, an estranged father, a priest and an angry son suddenly find themselves in the most unexpected predicaments, each poised to experience their destiny, all on one fateful day.",
+            "directors": "Thiagarajan Kumararaja",
+            "stars": "Vijay Sethupathi, Samantha Akkineni, Fahadh Faasil",
+            "genres": "Comedy, Crime, Drama",
+            "imDbRating": "8.4"
+        },
+        {
+            "id": "tt8948790",
+            "title": "Jersey",
+            "fullTitle": "Jersey (2019)",
+            "year": "2019",
+            "image": "https://imdb-api.com/images/original/MV5BYjc0MWFiYTMtNmYyOS00ODczLWEyMzItNzI4YjY0YjJjZGVjXkEyXkFqcGdeQXVyNzEwNjg3MjE@._V1_Ratio0.7158_AL_.jpg",
+            "plot": "A failed cricketer decides to revive his cricketing career in his late 30's despite everyone being skeptical of his ability to do so.",
+            "directors": "Gowtam Tinnanuri",
+            "stars": "Nani, Shraddha Srinath, Sathyaraj",
+            "genres": "Drama, Sport",
+            "imDbRating": "8.6"
+        },
+        {
+            "id": "tt7060460",
+            "title": "Theeran Adhigaram Ondru",
+            "fullTitle": "Theeran Adhigaram Ondru (2017)",
+            "year": "2017",
+            "image": "https://imdb-api.com/images/original/MV5BNGFkYTM4NzQtNWE3Yy00NTM2LWI1MDktYTg5NTIxMzQ5MmE4XkEyXkFqcGdeQXVyODIwMDI1NjM@._V1_Ratio0.6737_AL_.jpg",
+            "plot": "Theeran, a police officer, is entrusted with the task to solve the mystery behind a series of murders. The only clue left behind is that all the murders are committed in the same pattern.",
+            "directors": "H. Vinoth",
+            "stars": "Karthi, Rakul Preet Singh, Abhimanyu Singh",
+            "genres": "Action, Crime, Thriller",
+            "imDbRating": "8.2"
+        },
+        {
+            "id": "tt0367495",
+            "title": "Anbe Sivam",
+            "fullTitle": "Anbe Sivam (2003)",
+            "year": "2003",
+            "image": "https://imdb-api.com/images/original/MV5BMjQwZWQwYjItNTIzNy00NmE5LWE1NjctZDE5MzgyMzY5YjljXkEyXkFqcGdeQXVyOTA0NTIzNzU@._V1_Ratio0.6737_AL_.jpg",
+            "plot": "Two men, one young and arrogant, the other damaged - physically but not spiritually - by life, are thrown together by circumstances, and find that they are in some ways bound together by fate.",
+            "directors": "Sundar C.",
+            "stars": "Kamal Haasan, Madhavan, Kiran Rathod",
+            "genres": "Adventure, Comedy, Drama",
+            "imDbRating": "8.7"
+        },
+        {
+            "id": "tt4991384",
+            "title": "Visaaranai",
+            "fullTitle": "Visaaranai (2015)",
+            "year": "2015",
+            "image": "https://imdb-api.com/images/original/MV5BYjRkMDVmZGItZTUwOS00ODdjLWEwM2ItYTNjYTJkODg1MThhXkEyXkFqcGdeQXVyODIwMDI1NjM@._V1_Ratio0.7263_AL_.jpg",
+            "plot": "Four labourers are tortured by the police to confess to a theft they have not committed.",
+            "directors": "Vetrimaaran",
+            "stars": "Dinesh, Samuthirakani, Anandhi",
+            "genres": "Crime, Drama, Thriller",
+            "imDbRating": "8.5"
+        }
+    ],
+    "tvSeriesInfo": null,
+    "tvEpisodeInfo": null,
+    "errorMessage": ""
+}

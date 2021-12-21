@@ -1,0 +1,644 @@
+{
+    "id": "tt0169858",
+    "title": "Neon Genesis Evangelion: The End of Evangelion",
+    "originalTitle": "Shin seiki Evangelion Gekijô-ban: Air/Magokoro wo, kimi ni",
+    "fullTitle": "Neon Genesis Evangelion: The End of Evangelion (1997)",
+    "type": "Movie",
+    "year": "1997",
+    "image": "https://imdb-api.com/images/original/MV5BZjJhMThkNTQtNjkxNy00MDdjLTg4MWQtMTI2MmQ3MDVmODUzXkEyXkFqcGdeQXVyMTAwOTA3NzY3._V1_Ratio0.7015_AL_.jpg",
+    "releaseDate": "2019-06-21",
+    "runtimeMins": "87",
+    "runtimeStr": "1h 27mins",
+    "plot": "After the defeat of the final Angel, Shinji Ikari falls into a deep depression. When SEELE orders the JSSDF to make a surprise attack on NERV's headquarters, Gendo Ikari retreats down into Terminal Dogma along with Rei Ayanami, where he begins to advance his own plans for the Human Instrumentality Project. Eventually, Shinji is pushed to the limits of his sanity as he is forced to decide the fate of humanity.",
+    "plotLocal": "",
+    "plotLocalIsRtl": false,
+    "awards": "2 wins.",
+    "directors": "Hideaki Anno, Kazuya Tsurumaki",
+    "directorList": [
+        { "id": "nm0030417", "name": "Hideaki Anno" },
+        { "id": "nm0875453", "name": "Kazuya Tsurumaki" }
+    ],
+    "writers": "Hideaki Anno",
+    "writerList": [{ "id": "nm0030417", "name": "Hideaki Anno" }],
+    "stars": "Megumi Ogata, Megumi Hayashibara, Yûko Miyamura, Kotono Mitsuishi",
+    "starList": [
+        { "id": "nm0644527", "name": "Megumi Ogata" },
+        { "id": "nm0370677", "name": "Megumi Hayashibara" },
+        { "id": "nm0594436", "name": "Yûko Miyamura" },
+        { "id": "nm0594074", "name": "Kotono Mitsuishi" }
+    ],
+    "actorList": [
+        {
+            "id": "nm0644527",
+            "image": "https://imdb-api.com/images/original/MV5BMTE3NGNkNzYtNzI2Zi00ZTgwLTk1NjctODljOTEzNjNjMjA2XkEyXkFqcGdeQXVyMzM4MjM0Nzg@._V1_Ratio0.8636_AL_.jpg",
+            "name": "Megumi Ogata",
+            "asCharacter": "Shinji Ikari (voice)"
+        },
+        {
+            "id": "nm0370677",
+            "image": "https://imdb-api.com/images/original/MV5BNGFlZWIzMTQtZDkxMS00YTM0LTg4Y2QtMTgxN2MyMzUzMGUzXkEyXkFqcGdeQXVyMzM4MjM0Nzg@._V1_Ratio0.7273_AL_.jpg",
+            "name": "Megumi Hayashibara",
+            "asCharacter": "Rei Ayanami / Yui Ikari (voice)"
+        },
+        {
+            "id": "nm0594436",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Yûko Miyamura",
+            "asCharacter": "Asuka Langley Sôryû (voice)"
+        },
+        {
+            "id": "nm0594074",
+            "image": "https://imdb-api.com/images/original/MV5BMzU0MzgwNTEtNjJmNi00OGJlLWFkMjUtZTdhZGM1MjM3ODFmXkEyXkFqcGdeQXVyMzM4MjM0Nzg@._V1_Ratio0.7273_AL_.jpg",
+            "name": "Kotono Mitsuishi",
+            "asCharacter": "Misato Katsuragi (voice)"
+        },
+        {
+            "id": "nm0945372",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Yuriko Yamaguchi",
+            "asCharacter": "Ritsuko Akagi (voice)"
+        },
+        {
+            "id": "nm0846192",
+            "image": "https://imdb-api.com/images/original/MV5BZjliMDY4OWItNjBhNi00ZmIyLWIwMDQtZThmZWQ5ZjQ5N2RmXkEyXkFqcGdeQXVyNDQxNjcxNQ@@._V1_Ratio1.0000_AL_.jpg",
+            "name": "Fumihiko Tachiki",
+            "asCharacter": "Gendô Ikari (voice)"
+        },
+        {
+            "id": "nm0410907",
+            "image": "https://imdb-api.com/images/original/MV5BYmRlNDE2ZDItY2Y2YS00ZjVhLWEzOGItMGVmMzllYmQ5Mjg0XkEyXkFqcGdeQXVyMzM4MjM0Nzg@._V1_Ratio0.7273_AL_.jpg",
+            "name": "Akira Ishida",
+            "asCharacter": "Kaworu Nagisa (voice)"
+        },
+        {
+            "id": "nm0457952",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Motomu Kiyokawa",
+            "asCharacter": "Kôzô Fuyutsuki (voice)"
+        },
+        {
+            "id": "nm0611212",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Mugihito",
+            "asCharacter": "Keel Lorentz (voice)"
+        },
+        {
+            "id": "nm0468729",
+            "image": "https://imdb-api.com/images/original/MV5BMWIwMzhiYmYtNWEyOS00NWZjLTgwYTAtZTRhZjI2OGNlZjhjXkEyXkFqcGdeQXVyNDQxNjcxNQ@@._V1_Ratio0.7273_AL_.jpg",
+            "name": "Takehito Koyasu",
+            "asCharacter": "Shigeru Aoba (voice)"
+        },
+        {
+            "id": "nm0951300",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Hiro Yûki",
+            "asCharacter": "Makoto Hyûga (voice)"
+        },
+        {
+            "id": "nm0619179",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Miki Nagasawa",
+            "asCharacter": "Maya Ibuki (voice)"
+        },
+        {
+            "id": "nm0818111",
+            "image": "https://imdb-api.com/images/original/MV5BOWI0MmJhNWMtZDc0Yy00NGJkLTg2YmUtN2FlODcxMDY5ODc2XkEyXkFqcGdeQXVyNTkzODE0OA@@._V1_Ratio1.5000_AL_.jpg",
+            "name": "Spike Spencer",
+            "asCharacter": "Shinji Ikari (voice)"
+        },
+        {
+            "id": "nm0935313",
+            "image": "https://imdb-api.com/images/original/MV5BMjRlNTVkZWQtNWMyNC00ZTYyLTgwOGEtZTdhYjZlZDhiZWYxXkEyXkFqcGdeQXVyMzM4MjM0Nzg@._V1_Ratio0.7273_AL_.jpg",
+            "name": "Amanda Winn Lee",
+            "asCharacter": "Rei Ayanami / Yui Ikari (voice) (as Amanda Winn)"
+        },
+        {
+            "id": "nm0335674",
+            "image": "https://imdb-api.com/images/original/MV5BMjA1OTY1NzE1MV5BMl5BanBnXkFtZTcwODU2MTYxMw@@._V1_Ratio0.7273_AL_.jpg",
+            "name": "Tiffany Grant",
+            "asCharacter": "Asuka Langley Sohryuu (voice)"
+        }
+    ],
+    "fullCast": null,
+    "genres": "Animation, Action, Drama, Fantasy, Sci-Fi",
+    "genreList": [
+        { "key": "Animation", "value": "Animation" },
+        { "key": "Action", "value": "Action" },
+        { "key": "Drama", "value": "Drama" },
+        { "key": "Fantasy", "value": "Fantasy" },
+        { "key": "Sci-Fi", "value": "Sci-Fi" }
+    ],
+    "companies": "Gainax, Kadokawa Shoten Publishing Co., Movic",
+    "companyList": [
+        { "id": "co0071695", "name": "Gainax" },
+        { "id": "co0060607", "name": "Kadokawa Shoten Publishing Co." },
+        { "id": "co0031068", "name": "Movic" }
+    ],
+    "countries": "Japan",
+    "countryList": [{ "key": "Japan", "value": "Japan" }],
+    "languages": "Japanese",
+    "languageList": [{ "key": "Japanese", "value": "Japanese" }],
+    "contentRating": "R",
+    "imDbRating": "8.1",
+    "imDbRatingVotes": "40952",
+    "metacriticRating": "",
+    "ratings": null,
+    "wikipedia": null,
+    "posters": {
+        "imDbId": "tt0169858",
+        "title": "Neon Genesis Evangelion: The End of Evangelion",
+        "fullTitle": "Neon Genesis Evangelion: The End of Evangelion (1997)",
+        "type": "Movie",
+        "year": "1997",
+        "posters": [
+            {
+                "id": "m9PTii0XWCIKZBBrCrOn8RLTK0w.jpg",
+                "link": "https://imdb-api.com/posters/original/m9PTii0XWCIKZBBrCrOn8RLTK0w.jpg",
+                "aspectRatio": 0.6666666666666666,
+                "language": "en",
+                "width": 1000,
+                "height": 1500
+            },
+            {
+                "id": "j6G24dqI4WgUtChhWjfnI4lnmiK.jpg",
+                "link": "https://imdb-api.com/posters/original/j6G24dqI4WgUtChhWjfnI4lnmiK.jpg",
+                "aspectRatio": 0.6663573085846868,
+                "language": "en",
+                "width": 1436,
+                "height": 2155
+            },
+            {
+                "id": "pSxSr4gs9LgG2IfkFbfvUZN9REp.jpg",
+                "link": "https://imdb-api.com/posters/original/pSxSr4gs9LgG2IfkFbfvUZN9REp.jpg",
+                "aspectRatio": 0.7075,
+                "language": "en",
+                "width": 1415,
+                "height": 2000
+            }
+        ],
+        "backdrops": [
+            {
+                "id": "AfyuI3glMCBDFmNPj9PY6DwbgGp.jpg",
+                "link": "https://imdb-api.com/posters/original/AfyuI3glMCBDFmNPj9PY6DwbgGp.jpg",
+                "aspectRatio": 1.7777777777777777,
+                "language": "en",
+                "width": 1920,
+                "height": 1080
+            },
+            {
+                "id": "ykt7gY0jy7t3uHNnFjvqlZWXsqB.jpg",
+                "link": "https://imdb-api.com/posters/original/ykt7gY0jy7t3uHNnFjvqlZWXsqB.jpg",
+                "aspectRatio": 1.7777777777777777,
+                "language": "en",
+                "width": 1600,
+                "height": 900
+            },
+            {
+                "id": "hyaLMOol8xju70zr5glK6JaprER.jpg",
+                "link": "https://imdb-api.com/posters/original/hyaLMOol8xju70zr5glK6JaprER.jpg",
+                "aspectRatio": 1.7777777777777777,
+                "language": "en",
+                "width": 2560,
+                "height": 1440
+            },
+            {
+                "id": "xLMJCCSatxENpHO9rLW9yD8A12C.jpg",
+                "link": "https://imdb-api.com/posters/original/xLMJCCSatxENpHO9rLW9yD8A12C.jpg",
+                "aspectRatio": 1.7777777777777777,
+                "language": "en",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "id": "naea7os3PDyrlrLk9vnskFKxx3n.jpg",
+                "link": "https://imdb-api.com/posters/original/naea7os3PDyrlrLk9vnskFKxx3n.jpg",
+                "aspectRatio": 1.7777777777777777,
+                "language": "en",
+                "width": 1920,
+                "height": 1080
+            },
+            {
+                "id": "nwSyFnZORd5ptu0RClAMgsF5dkE.jpg",
+                "link": "https://imdb-api.com/posters/original/nwSyFnZORd5ptu0RClAMgsF5dkE.jpg",
+                "aspectRatio": 1.7777777777777777,
+                "language": "en",
+                "width": 1920,
+                "height": 1080
+            },
+            {
+                "id": "dSUdIy710l3C6UqjqQXA1aQ9K6n.jpg",
+                "link": "https://imdb-api.com/posters/original/dSUdIy710l3C6UqjqQXA1aQ9K6n.jpg",
+                "aspectRatio": 1.7777777777777777,
+                "language": "en",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "id": "5ClI2ZgU7gwhZGpSwU95nUFxf1A.jpg",
+                "link": "https://imdb-api.com/posters/original/5ClI2ZgU7gwhZGpSwU95nUFxf1A.jpg",
+                "aspectRatio": 1.7777777777777777,
+                "language": "en",
+                "width": 1920,
+                "height": 1080
+            },
+            {
+                "id": "bhg1XuSFQEn2Xy8Ivvl21ceJfnG.jpg",
+                "link": "https://imdb-api.com/posters/original/bhg1XuSFQEn2Xy8Ivvl21ceJfnG.jpg",
+                "aspectRatio": 1.7777777777777777,
+                "language": "en",
+                "width": 1920,
+                "height": 1080
+            },
+            {
+                "id": "y5r7blCMVdWFHYtoRkztwoRhlMa.jpg",
+                "link": "https://imdb-api.com/posters/original/y5r7blCMVdWFHYtoRkztwoRhlMa.jpg",
+                "aspectRatio": 1.7777777777777777,
+                "language": "en",
+                "width": 1280,
+                "height": 720
+            }
+        ],
+        "errorMessage": ""
+    },
+    "images": {
+        "imDbId": "tt0169858",
+        "title": "Neon Genesis Evangelion: The End of Evangelion",
+        "fullTitle": "Neon Genesis Evangelion: The End of Evangelion (1997)",
+        "type": "Movie",
+        "year": "1997",
+        "items": [
+            {
+                "title": "Neon Genesis Evangelion: The End of Evangelion (1997)",
+                "image": "https://imdb-api.com/images/original/MV5BMTQ1MDMyMDE1NV5BMl5BanBnXkFtZTYwMTAwNDk5._V1_Ratio1.0000_AL_.jpg"
+            },
+            {
+                "title": "Neon Genesis Evangelion: The End of Evangelion (1997)",
+                "image": "https://imdb-api.com/images/original/MV5BMzU4NDYzMTUwMV5BMl5BanBnXkFtZTcwMzcyNjkxMQ@@._V1_Ratio1.0000_AL_.jpg"
+            },
+            {
+                "title": "Neon Genesis Evangelion: The End of Evangelion (1997)",
+                "image": "https://imdb-api.com/images/original/MV5BMTg2MDM5MDIyM15BMl5BanBnXkFtZTcwNTI1NDAzMQ@@._V1_Ratio1.0000_AL_.jpg"
+            },
+            {
+                "title": "Kotono Mitsuishi in Neon Genesis Evangelion: The End of Evangelion (1997)",
+                "image": "https://imdb-api.com/images/original/MV5BYjdlMzc0YzctYTQ2OC00MDg4LTljYmQtYzEzNmZjYjlhNTE2XkEyXkFqcGdeQXVyODc5MTI0NjU@._V1_Ratio1.7800_AL_.jpg"
+            },
+            {
+                "title": "Megumi Hayashibara in Neon Genesis Evangelion: The End of Evangelion (1997)",
+                "image": "https://imdb-api.com/images/original/MV5BYjdmNmRmNjQtYmFjNS00MmIzLWI1NDUtMDYzMWI2ZTc4MGIzXkEyXkFqcGdeQXVyODc5MTI0NjU@._V1_Ratio1.7800_AL_.jpg"
+            },
+            {
+                "title": "Yuriko Yamaguchi in Neon Genesis Evangelion: The End of Evangelion (1997)",
+                "image": "https://imdb-api.com/images/original/MV5BYjBmY2IyMWQtZmFlYy00NGZlLTljMWMtYzQ3NTZlNmVlMmY1XkEyXkFqcGdeQXVyODc5MTI0NjU@._V1_Ratio1.7800_AL_.jpg"
+            },
+            {
+                "title": "Neon Genesis Evangelion: The End of Evangelion (1997)",
+                "image": "https://imdb-api.com/images/original/MV5BNjE2ZWFkYjYtOGFhYi00ZDBmLWExZWUtNGU0YzdiMjE3MjUyXkEyXkFqcGdeQXVyODc5MTI0NjU@._V1_Ratio1.7800_AL_.jpg"
+            },
+            {
+                "title": "Kotono Mitsuishi in Neon Genesis Evangelion: The End of Evangelion (1997)",
+                "image": "https://imdb-api.com/images/original/MV5BMWEyMGEzZTEtMjVhYS00ZmM4LWEzZDEtY2VhOTJkMWRhNmQwXkEyXkFqcGdeQXVyODc5MTI0NjU@._V1_Ratio1.7800_AL_.jpg"
+            },
+            {
+                "title": "Kotono Mitsuishi in Neon Genesis Evangelion: The End of Evangelion (1997)",
+                "image": "https://imdb-api.com/images/original/MV5BMDEyYzk4M2ItNDhjMS00NDk0LThmNWEtYmE4M2E2NWYwNWFmXkEyXkFqcGdeQXVyODc5MTI0NjU@._V1_Ratio1.7800_AL_.jpg"
+            },
+            {
+                "title": "Kotono Mitsuishi and Megumi Ogata in Neon Genesis Evangelion: The End of Evangelion (1997)",
+                "image": "https://imdb-api.com/images/original/MV5BMjQwZDYyNzctMWRhZC00ZmYzLWFlYzYtYjNlYWRjNTM4ZGM1XkEyXkFqcGdeQXVyODc5MTI0NjU@._V1_Ratio1.7800_AL_.jpg"
+            },
+            {
+                "title": "Kotono Mitsuishi in Neon Genesis Evangelion: The End of Evangelion (1997)",
+                "image": "https://imdb-api.com/images/original/MV5BN2MxN2Q2OWItNDkxNS00NWNhLWEyOWMtNjlhMTA4OWJkMTFmXkEyXkFqcGdeQXVyODc5MTI0NjU@._V1_Ratio1.7800_AL_.jpg"
+            },
+            {
+                "title": "Fumihiko Tachiki in Neon Genesis Evangelion: The End of Evangelion (1997)",
+                "image": "https://imdb-api.com/images/original/MV5BNjZkMDYwMzUtZWYzMC00NGMyLWE3MWMtMzdlNzNlNzEwZDI4XkEyXkFqcGdeQXVyODc5MTI0NjU@._V1_Ratio1.7800_AL_.jpg"
+            },
+            {
+                "title": "Neon Genesis Evangelion: The End of Evangelion (1997)",
+                "image": "https://imdb-api.com/images/original/MV5BNDg5NWI2MjYtMWIyNS00ZGM0LWJlODYtZDA3N2EwYzMzYTdlXkEyXkFqcGdeQXVyODc5MTI0NjU@._V1_Ratio1.7800_AL_.jpg"
+            },
+            {
+                "title": "Neon Genesis Evangelion: The End of Evangelion (1997)",
+                "image": "https://imdb-api.com/images/original/MV5BMDc0NDMxZGItYWE0Yi00MDU5LTljYjctNzZjMWViZTIyMmJhXkEyXkFqcGdeQXVyODc5MTI0NjU@._V1_Ratio1.7800_AL_.jpg"
+            },
+            {
+                "title": "Neon Genesis Evangelion: The End of Evangelion (1997)",
+                "image": "https://imdb-api.com/images/original/MV5BYzMzN2M3MjctNDQ3Yi00YjUwLWJhMGItNzlmNDcwYzRmMmUzXkEyXkFqcGdeQXVyODc5MTI0NjU@._V1_Ratio1.7800_AL_.jpg"
+            },
+            {
+                "title": "Neon Genesis Evangelion: The End of Evangelion (1997)",
+                "image": "https://imdb-api.com/images/original/MV5BMGNjNmIyYTQtZGMyOS00YThlLTllMmItZGZlZmRlNTEyZTdlXkEyXkFqcGdeQXVyODc5MTI0NjU@._V1_Ratio1.7800_AL_.jpg"
+            },
+            {
+                "title": "Megumi Hayashibara in Neon Genesis Evangelion: The End of Evangelion (1997)",
+                "image": "https://imdb-api.com/images/original/MV5BZDdmMzk2ZTctNTY5NS00MjJiLTgyMTItNzllN2E2ODIxMzQxXkEyXkFqcGdeQXVyODc5MTI0NjU@._V1_Ratio1.7800_AL_.jpg"
+            },
+            {
+                "title": "Megumi Ogata in Neon Genesis Evangelion: The End of Evangelion (1997)",
+                "image": "https://imdb-api.com/images/original/MV5BMzlhZjBjNzgtYmFkNy00YzgxLWJiYWUtMjYxOTZmZWJjOTRjXkEyXkFqcGdeQXVyODc5MTI0NjU@._V1_Ratio1.7800_AL_.jpg"
+            },
+            {
+                "title": "Megumi Hayashibara in Neon Genesis Evangelion: The End of Evangelion (1997)",
+                "image": "https://imdb-api.com/images/original/MV5BOTdlNDMzYTgtOGRjZS00YjMwLWE4YjgtNGFkN2MzZjMxMzA2XkEyXkFqcGdeQXVyODc5MTI0NjU@._V1_Ratio1.7800_AL_.jpg"
+            },
+            {
+                "title": "Neon Genesis Evangelion: The End of Evangelion (1997)",
+                "image": "https://imdb-api.com/images/original/MV5BMWZhMTNlN2UtOGVlOC00MGRkLWFiYzQtZjExYWYwZmRlMDE5XkEyXkFqcGdeQXVyODc5MTI0NjU@._V1_Ratio1.7800_AL_.jpg"
+            },
+            {
+                "title": "Megumi Hayashibara, Kotono Mitsuishi, Yûko Miyamura, Miki Nagasawa, Megumi Ogata, and Yuriko Yamaguchi in Neon Genesis Evangelion: The End of Evangelion (1997)",
+                "image": "https://imdb-api.com/images/original/MV5BNDM1ZmI2ZTYtMmFmZS00MDFhLWI4NjYtNzMxM2Y1M2MxODE4XkEyXkFqcGdeQXVyODc5MTI0NjU@._V1_Ratio1.7800_AL_.jpg"
+            },
+            {
+                "title": "Neon Genesis Evangelion: The End of Evangelion (1997)",
+                "image": "https://imdb-api.com/images/original/MV5BZDcyNjczNTctMTZjYS00M2ZmLWI2NTItOTM5MzgwYzIxYzQ1XkEyXkFqcGdeQXVyODc5MTI0NjU@._V1_Ratio1.7800_AL_.jpg"
+            },
+            {
+                "title": "Megumi Ogata in Neon Genesis Evangelion: The End of Evangelion (1997)",
+                "image": "https://imdb-api.com/images/original/MV5BMjYwZmE5YjktYjQ3YS00NzUwLTg3ZjQtY2Y1ZTNhZjIxYmEyXkEyXkFqcGdeQXVyODc5MTI0NjU@._V1_Ratio1.7800_AL_.jpg"
+            },
+            {
+                "title": "Neon Genesis Evangelion: The End of Evangelion (1997)",
+                "image": "https://imdb-api.com/images/original/MV5BN2JiNDljYmEtMDQ1Ni00ZTViLTkzYjktMjBhNzM3OTNkNDhiXkEyXkFqcGdeQXVyODMyNTM0MjM@._V1_Ratio1.7800_AL_.jpg"
+            },
+            {
+                "title": "Neon Genesis Evangelion: The End of Evangelion (1997)",
+                "image": "https://imdb-api.com/images/original/MV5BYThjNjRhZDEtNWMwMS00MGI3LWFmOGYtNjFmZGI0ZjM3YmYwXkEyXkFqcGdeQXVyMTEwNDU1MzEy._V1_Ratio1.7800_AL_.jpg"
+            },
+            {
+                "title": "Neon Genesis Evangelion: The End of Evangelion (1997)",
+                "image": "https://imdb-api.com/images/original/MV5BMDhlNmVkNGQtZWMxMy00N2M3LThkZDktZmNlMzQ0NzllZDVlXkEyXkFqcGdeQXVyODY2NjU2MzE@._V1_Ratio1.7800_AL_.jpg"
+            },
+            {
+                "title": "Neon Genesis Evangelion: The End of Evangelion (1997)",
+                "image": "https://imdb-api.com/images/original/MV5BOWYxODg1N2UtOGUzMi00NzVlLWE1ZTItYmNhNzFkM2JhNGRiXkEyXkFqcGdeQXVyODY2NjU2MzE@._V1_Ratio1.7800_AL_.jpg"
+            },
+            {
+                "title": "Neon Genesis Evangelion: The End of Evangelion (1997)",
+                "image": "https://imdb-api.com/images/original/MV5BNWU2N2E1YzgtOGJkNC00NTQzLTlkMDUtNDA0ZDM2N2M5NWI2XkEyXkFqcGdeQXVyODY2NjU2MzE@._V1_Ratio1.7800_AL_.jpg"
+            },
+            {
+                "title": "Neon Genesis Evangelion: The End of Evangelion (1997)",
+                "image": "https://imdb-api.com/images/original/MV5BMGY0ODVkYjQtMzk5MC00MTkwLTlmNjItM2VkZDMwMTY5OGU1XkEyXkFqcGdeQXVyODY2NjU2MzE@._V1_Ratio1.7800_AL_.jpg"
+            },
+            {
+                "title": "Neon Genesis Evangelion: The End of Evangelion (1997)",
+                "image": "https://imdb-api.com/images/original/MV5BZDNlZTNmOGItMzdhZS00MTczLTgxYjMtYTlmNmQwYzYyMjMwXkEyXkFqcGdeQXVyODY2NjU2MzE@._V1_Ratio1.7800_AL_.jpg"
+            },
+            {
+                "title": "Neon Genesis Evangelion: The End of Evangelion (1997)",
+                "image": "https://imdb-api.com/images/original/MV5BYWQ5MjY3MTctOTFkZi00MTRiLWE0ODItOTNlODg1YzkwM2E3XkEyXkFqcGdeQXVyODY2NjU2MzE@._V1_Ratio1.7800_AL_.jpg"
+            },
+            {
+                "title": "Neon Genesis Evangelion: The End of Evangelion (1997)",
+                "image": "https://imdb-api.com/images/original/MV5BYmJkZWIwNzAtNWQ1NS00N2U3LWFiMmItY2MwMjAwY2UyMDY2XkEyXkFqcGdeQXVyODY2NjU2MzE@._V1_Ratio1.7800_AL_.jpg"
+            },
+            {
+                "title": "Neon Genesis Evangelion: The End of Evangelion (1997)",
+                "image": "https://imdb-api.com/images/original/MV5BZTcwNWY3OWYtYjFmNy00M2JjLWJmODgtNTQyOTk5Y2M2ZDAxXkEyXkFqcGdeQXVyODY2NjU2MzE@._V1_Ratio1.7800_AL_.jpg"
+            },
+            {
+                "title": "Neon Genesis Evangelion: The End of Evangelion (1997)",
+                "image": "https://imdb-api.com/images/original/MV5BMmNiNTJhNWQtMGVhMi00Y2U3LTgxMTEtNmNjYjg3NzIzNWVjXkEyXkFqcGdeQXVyODY2NjU2MzE@._V1_Ratio1.7800_AL_.jpg"
+            },
+            {
+                "title": "Neon Genesis Evangelion: The End of Evangelion (1997)",
+                "image": "https://imdb-api.com/images/original/MV5BYmJjMjIxNTctM2QyOC00N2I5LWFhZjUtY2JkMDU4OWI3MDk2XkEyXkFqcGdeQXVyODY2NjU2MzE@._V1_Ratio1.7800_AL_.jpg"
+            },
+            {
+                "title": "Neon Genesis Evangelion: The End of Evangelion (1997)",
+                "image": "https://imdb-api.com/images/original/MV5BY2Y5ZThlNzItNTMxOS00ZDk1LTgwNWMtNjdhNTVlZjY5NzIwXkEyXkFqcGdeQXVyODY2NjU2MzE@._V1_Ratio1.7800_AL_.jpg"
+            },
+            {
+                "title": "Neon Genesis Evangelion: The End of Evangelion (1997)",
+                "image": "https://imdb-api.com/images/original/MV5BNTAyZDNkNjItZTdkNi00MmZlLWEyNjktOTllZmI1YTk5MDUzXkEyXkFqcGdeQXVyODY2NjU2MzE@._V1_Ratio1.7800_AL_.jpg"
+            },
+            {
+                "title": "Neon Genesis Evangelion: The End of Evangelion (1997)",
+                "image": "https://imdb-api.com/images/original/MV5BMTk4YTk1YzEtOWU2Yy00NzJhLWJkZmYtMmFmNDNjMmViNzdmXkEyXkFqcGdeQXVyODY2NjU2MzE@._V1_Ratio1.7800_AL_.jpg"
+            },
+            {
+                "title": "Neon Genesis Evangelion: The End of Evangelion (1997)",
+                "image": "https://imdb-api.com/images/original/MV5BZWZjYmE2ZTgtMTNkNS00YjFmLTk5ZTUtYWNmYzU2YWQ1OWMxXkEyXkFqcGdeQXVyODY2NjU2MzE@._V1_Ratio1.7800_AL_.jpg"
+            },
+            {
+                "title": "Neon Genesis Evangelion: The End of Evangelion (1997)",
+                "image": "https://imdb-api.com/images/original/MV5BNDgzNDVkZmItOTQyZC00MzVkLTgyZDktMDBhYjkwZmIxZGZjXkEyXkFqcGdeQXVyODY2NjU2MzE@._V1_Ratio1.7800_AL_.jpg"
+            },
+            {
+                "title": "Megumi Ogata in Neon Genesis Evangelion: The End of Evangelion (1997)",
+                "image": "https://imdb-api.com/images/original/MV5BZTA2NzcyZTEtYjVjMi00YjA1LWFjYTgtMGZiMTgwMzdjNGYyXkEyXkFqcGdeQXVyODY2NjU2MzE@._V1_Ratio1.7800_AL_.jpg"
+            },
+            {
+                "title": "Kotono Mitsuishi and Megumi Ogata in Neon Genesis Evangelion: The End of Evangelion (1997)",
+                "image": "https://imdb-api.com/images/original/MV5BNzNjYmE2MDQtNmZmNi00ZWE0LTkyNzYtOGRiZWIwOGM0ZjQ1XkEyXkFqcGdeQXVyODY2NjU2MzE@._V1_Ratio1.7800_AL_.jpg"
+            },
+            {
+                "title": "Megumi Ogata in Neon Genesis Evangelion: The End of Evangelion (1997)",
+                "image": "https://imdb-api.com/images/original/MV5BNTI2ZDFkYTQtMjc5ZC00ZGJjLTgwNjYtMWY4YTkxOWU3Yjg3XkEyXkFqcGdeQXVyODY2NjU2MzE@._V1_Ratio1.7800_AL_.jpg"
+            },
+            {
+                "title": "Neon Genesis Evangelion: The End of Evangelion (1997)",
+                "image": "https://imdb-api.com/images/original/MV5BZWY1NWQzOTctMzBiYS00YmQxLTg2MDMtZTFkNjRmYzgzZjI3XkEyXkFqcGdeQXVyODY2NjU2MzE@._V1_Ratio1.7800_AL_.jpg"
+            },
+            {
+                "title": "Megumi Hayashibara, Akira Ishida, and Megumi Ogata in Neon Genesis Evangelion: The End of Evangelion (1997)",
+                "image": "https://imdb-api.com/images/original/MV5BYmVjMjRhNTMtMzBjOS00NGJkLWFlODAtZGEwZWVkZjgwNzQ3XkEyXkFqcGdeQXVyODY2NjU2MzE@._V1_Ratio1.7800_AL_.jpg"
+            },
+            {
+                "title": "Kotono Mitsuishi and Megumi Ogata in Neon Genesis Evangelion: The End of Evangelion (1997)",
+                "image": "https://imdb-api.com/images/original/MV5BMjRlZTRiZWYtY2Y1YS00NDhmLTg5OGItMjdjMzI4NTRjNzQ0XkEyXkFqcGdeQXVyODY2NjU2MzE@._V1_Ratio1.7800_AL_.jpg"
+            },
+            {
+                "title": "Megumi Hayashibara in Neon Genesis Evangelion: The End of Evangelion (1997)",
+                "image": "https://imdb-api.com/images/original/MV5BNzM0MTg3MTctOThlMy00MTMyLWI4YmEtOWVmYjVhYWZjMzg1XkEyXkFqcGdeQXVyODY2NjU2MzE@._V1_Ratio1.7800_AL_.jpg"
+            },
+            {
+                "title": "Megumi Hayashibara in Neon Genesis Evangelion: The End of Evangelion (1997)",
+                "image": "https://imdb-api.com/images/original/MV5BN2VmYThmMWEtOTRkZC00ZmNlLTkwYTUtOTY3Y2VkYjUzYTc0XkEyXkFqcGdeQXVyODY2NjU2MzE@._V1_Ratio1.7800_AL_.jpg"
+            }
+        ],
+        "errorMessage": ""
+    },
+    "trailer": {
+        "imDbId": "tt0169858",
+        "title": "Neon Genesis Evangelion: The End of Evangelion",
+        "fullTitle": "Neon Genesis Evangelion: The End of Evangelion (1997)",
+        "type": "Movie",
+        "year": "1997",
+        "videoId": "vi883818777",
+        "videoTitle": "Neon Genesis Evangelion: End of Evangelion",
+        "videoDescription": "Home Video Trailer from Manga",
+        "thumbnailUrl": "https://m.media-amazon.com/images/M/MV5BNWNlMjdmZDQtZjg3ZC00YmI3LTg5ZGUtMTU2YjM2NDNiNGEyXkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg",
+        "uploadDate": "04/11/2008 14:29:30",
+        "link": "https://www.imdb.com/video/vi883818777",
+        "linkEmbed": "https://www.imdb.com/video/imdb/vi883818777/imdb/embed",
+        "errorMessage": ""
+    },
+    "boxOffice": {
+        "budget": "",
+        "openingWeekendUSA": "",
+        "grossUSA": "",
+        "cumulativeWorldwideGross": ""
+    },
+    "tagline": "Do you really want to stay here?",
+    "keywords": "depression,cult film,gore,sexual reference,psychological",
+    "keywordList": [
+        "depression",
+        "cult film",
+        "gore",
+        "sexual reference",
+        "psychological"
+    ],
+    "similars": [
+        {
+            "id": "tt0112159",
+            "title": "Neon Genesis Evangelion",
+            "fullTitle": "Neon Genesis Evangelion (1995–1996)",
+            "year": "1995–1996",
+            "image": "https://imdb-api.com/images/original/MV5BYjY1Y2ZmNDctZWQ3Yy00MTE3LTk2M2QtMjQ0MDA5ODVjMDEyXkEyXkFqcGdeQXVyNTA4NzY1MzY@._V1_Ratio0.6737_AL_.jpg",
+            "plot": "A teenage boy finds himself recruited as a member of an elite team of pilots by his father.",
+            "directors": "",
+            "stars": "Megumi Ogata, Megumi Hayashibara, Kotono Mitsuishi",
+            "genres": "Animation, Action, Drama",
+            "imDbRating": "8.5"
+        },
+        {
+            "id": "tt0169880",
+            "title": "Neon Genesis Evangelion: Death &amp; Rebirth",
+            "fullTitle": "Neon Genesis Evangelion: Death &amp; Rebirth (1997)",
+            "year": "1997",
+            "image": "https://imdb-api.com/images/original/MV5BYTA4NzAwYWQtZGYzMC00OTBmLTg2MmItNDQ4ODk0ODI2OTlhXkEyXkFqcGdeQXVyNTAyODkwOQ@@._V1_Ratio0.6737_AL_.jpg",
+            "plot": "A recap of the first 24 episodes of Neon Genesis Evangelion, followed by a 30-minute continuation of the plot that would later form the first third of The End of Evangelion.",
+            "directors": "Directors: Hideaki Anno, Masayuki, and 1 more credit »",
+            "stars": "Megumi Ogata, Megumi Hayashibara, Yûko Miyamura",
+            "genres": "Animation, Action, Drama",
+            "imDbRating": "7.5"
+        },
+        {
+            "id": "tt0923811",
+            "title": "Evangelion: 1.0 You Are (Not) Alone",
+            "fullTitle": "Evangelion: 1.0 You Are (Not) Alone (2007)",
+            "year": "2007",
+            "image": "https://imdb-api.com/images/original/MV5BMzRjMjg3ZTMtMTk4Yy00YjRhLWI4ZWQtM2JhYjZlNTViNWYzXkEyXkFqcGdeQXVyMzIwNDY4NDI@._V1_Ratio0.6947_AL_.jpg",
+            "plot": "The fate of the world is threatened by seemingly monstrous entities known as Angels. NERV is an organisation set up to counter this threat and it is up to young pilots to protect Earth but exactly what are the real motives behind NERV?",
+            "directors": "Directors: Masayuki, Kazuya Tsurumaki, and 1 more credit »",
+            "stars": "Megumi Ogata, Megumi Hayashibara, Kotono Mitsuishi",
+            "genres": "Animation, Action, Drama",
+            "imDbRating": "7.7"
+        },
+        {
+            "id": "tt0860906",
+            "title": "Evangelion: 2.0 You Can (Not) Advance",
+            "fullTitle": "Evangelion: 2.0 You Can (Not) Advance (2009)",
+            "year": "2009",
+            "image": "https://imdb-api.com/images/original/MV5BMmRkMjllZTMtNzEwZS00YTRhLThmMTItNTE0MDhmZTExZmI1XkEyXkFqcGdeQXVyNTAyODkwOQ@@._V1_Ratio0.7053_AL_.jpg",
+            "plot": "Under constant attack by Angels, NERV introduces two new pilots: the mysterious Makinami Mari Illustrous and the intense Asuka Langley Shikinami. Parallel to the incursion, Gendo Ikari and ... See full summary »",
+            "directors": "Directors: Masayuki, Kazuya Tsurumaki, and 1 more credit »",
+            "stars": "Kotono Mitsuishi, Megumi Ogata, Megumi Hayashibara",
+            "genres": "Animation, Action, Drama",
+            "imDbRating": "8"
+        },
+        {
+            "id": "tt0860907",
+            "title": "Evangelion: 3.0 You Can (Not) Redo",
+            "fullTitle": "Evangelion: 3.0 You Can (Not) Redo (2012)",
+            "year": "2012",
+            "image": "https://imdb-api.com/images/original/MV5BZjNkNmFmNGYtNGRlNC00MmVjLTliYzYtMGQ3ODExMWU4OTQ4XkEyXkFqcGdeQXVyNTAyODkwOQ@@._V1_Ratio0.7053_AL_.jpg",
+            "plot": "14 years have passed since the near third impact. Most of the world has changed except Shinji Ikari who awakens, unaged in a new and strange environment. Misato has formed a group that has ... See full summary »",
+            "directors": "Directors: Mahiro Maeda, Masayuki, and 2 more credits »",
+            "stars": "Megumi Ogata, Megumi Hayashibara, Yûko Miyamura",
+            "genres": "Animation, Action, Drama",
+            "imDbRating": "7"
+        },
+        {
+            "id": "tt2458948",
+            "title": "Evangelion: 3.0+1.0 Thrice Upon a Time",
+            "fullTitle": "Evangelion: 3.0+1.0 Thrice Upon a Time (2021)",
+            "year": "2021",
+            "image": "https://imdb-api.com/images/original/MV5BMTIzNzM2ZTItN2VhZi00YTBhLWIyM2YtZmFmYTE5N2Y1MzViXkEyXkFqcGdeQXVyNDU1OTQ5NTU@._V1_Ratio0.7053_AL_.jpg",
+            "plot": "Shinji Ikari is still adrift after losing his will to live, but the place he arrives at teaches him what it means to hope. Finally, the Instrumentality Project is set in motion and Wille ... See full summary »",
+            "directors": "Directors: Mahiro Maeda, Katsuichi Nakayama, and 2 more credits »",
+            "stars": "Megumi Hayashibara, Megumi Ogata, Yûko Miyamura",
+            "genres": "Animation, Action, Drama",
+            "imDbRating": "8.3"
+        },
+        {
+            "id": "tt0094625",
+            "title": "Akira",
+            "fullTitle": "Akira (1988)",
+            "year": "1988",
+            "image": "https://imdb-api.com/images/original/MV5BM2ZiZTk1ODgtMTZkNS00NTYxLWIxZTUtNWExZGYwZTRjODViXkEyXkFqcGdeQXVyMTE2MzA3MDM@._V1_Ratio0.6737_AL_.jpg",
+            "plot": "A secret military project endangers Neo-Tokyo when it turns a biker gang member into a rampaging psychic psychopath who can only be stopped by two teenagers and a group of psychics.",
+            "directors": "Katsuhiro Ôtomo",
+            "stars": "Mitsuo Iwata, Nozomu Sasaki, Mami Koyama",
+            "genres": "Animation, Action, Sci-Fi",
+            "imDbRating": "8"
+        },
+        {
+            "id": "tt12894100",
+            "title": "Neon Genesis Evangelion: Genesis 0:0 - In the Beginning",
+            "fullTitle": "Neon Genesis Evangelion: Genesis 0:0 - In the Beginning (Video 1995)",
+            "year": "Video 1995",
+            "image": "https://imdb-api.com/images/original/MV5BNmMwOGMzYTMtZmVjZC00ODgzLWJlNjEtOGU0NjY0MjMwMTQ5XkEyXkFqcGdeQXVyMTEwNDU1MzEy._V1_Ratio0.6737_AL_.jpg",
+            "plot": "A promotional VHS tape showing clips from the first few episodes of Evangelion before the series was released.",
+            "directors": "Directors: Hideaki Anno, Kazuya Tsurumaki",
+            "stars": "Megumi Hayashibara, Kotono Mitsuishi, Yûko Miyamura",
+            "genres": "Animation, Short, Action",
+            "imDbRating": "9.1"
+        },
+        {
+            "id": "tt13645944",
+            "title": "Revival of Evangelion",
+            "fullTitle": "Revival of Evangelion (1998)",
+            "year": "1998",
+            "image": "https://imdb-api.com/images/original/MV5BOTA4NDVhM2EtNzg0NC00Mjk3LTkwNmItYTgwNWNlZmEyNTgxXkEyXkFqcGdeQXVyMTEwNDU1MzEy._V1_Ratio0.6737_AL_.jpg",
+            "plot": "A compilation of Neon Genesis Evangelion: Death and Rebirth and Neon Genesis Evangelion: The End of Evangelion.",
+            "directors": "Directors: Hideaki Anno, Masayuki, and 1 more credit »",
+            "stars": "Megumi Hayashibara, Akira Ishida, Tetsuya Iwanaga",
+            "genres": "Animation, Action, Drama",
+            "imDbRating": "8"
+        },
+        {
+            "id": "tt0113568",
+            "title": "Ghost in the Shell",
+            "fullTitle": "Ghost in the Shell (1995)",
+            "year": "1995",
+            "image": "https://imdb-api.com/images/original/MV5BYWRiYjQyOGItNzQ1Mi00MGI1LWE3NjItNTg1ZDQwNjUwNDM2XkEyXkFqcGdeQXVyNTAyODkwOQ@@._V1_Ratio0.6737_AL_.jpg",
+            "plot": "A cyborg policewoman and her partner hunt a mysterious and powerful hacker called the Puppet Master.",
+            "directors": "Mamoru Oshii",
+            "stars": "Atsuko Tanaka, Iemasa Kayumi, Akio Ôtsuka",
+            "genres": "Animation, Action, Crime",
+            "imDbRating": "8"
+        },
+        {
+            "id": "tt0156887",
+            "title": "Perfect Blue",
+            "fullTitle": "Perfect Blue (1997)",
+            "year": "1997",
+            "image": "https://imdb-api.com/images/original/MV5BMmMzOWNhNTYtYmY0My00OGJiLWIzNDUtZWRhNGY0NWFjNzFmXkEyXkFqcGdeQXVyNjUxMDQ0MTg@._V1_Ratio0.6737_AL_.jpg",
+            "plot": "A pop singer gives up her career to become an actress, but she slowly goes insane when she starts being stalked by an obsessed fan and what seems to be a ghost of her past.",
+            "directors": "Satoshi Kon",
+            "stars": "Junko Iwao, Rica Matsumoto, Shinpachi Tsuji",
+            "genres": "Animation, Crime, Mystery",
+            "imDbRating": "8"
+        },
+        {
+            "id": "tt0087544",
+            "title": "Nausicaä of the Valley of the Wind",
+            "fullTitle": "Nausicaä of the Valley of the Wind (1984)",
+            "year": "1984",
+            "image": "https://imdb-api.com/images/original/MV5BZTI3NmJmYTQtNDg4NS00M2VlLTgzZDAtZWIwZDcyOWY5YzIzXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_Ratio0.6737_AL_.jpg",
+            "plot": "Warrior and pacifist Princess Nausicaä desperately struggles to prevent two warring nations from destroying themselves and their dying planet.",
+            "directors": "Hayao Miyazaki",
+            "stars": "Sumi Shimamoto, Mahito Tsujimura, Hisako Kyôda",
+            "genres": "Animation, Adventure, Fantasy",
+            "imDbRating": "8.1"
+        }
+    ],
+    "tvSeriesInfo": null,
+    "tvEpisodeInfo": null,
+    "errorMessage": ""
+}

@@ -1,0 +1,927 @@
+{
+    "id": "tt0095016",
+    "title": "Die Hard",
+    "originalTitle": "",
+    "fullTitle": "Die Hard (1988)",
+    "type": "Movie",
+    "year": "1988",
+    "image": "https://imdb-api.com/images/original/MV5BZjRlNDUxZjAtOGQ4OC00OTNlLTgxNmQtYTBmMDgwZmNmNjkxXkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_Ratio0.6791_AL_.jpg",
+    "releaseDate": "1988-07-20",
+    "runtimeMins": "132",
+    "runtimeStr": "2h 12mins",
+    "plot": "NYPD cop John McClane goes on a Christmas vacation to visit his wife Holly in Los Angeles where she works for the Nakatomi Corporation. While they are at the Nakatomi headquarters for a Christmas party, a group of robbers led by Hans Gruber take control of the building and hold everyone hostage, with the exception of John, while they plan to perform a lucrative heist. Unable to escape and with no immediate police response, John is forced to take matters into his own hands.",
+    "plotLocal": "",
+    "plotLocalIsRtl": false,
+    "awards": "Top Rated Movies #126 | Nominated for 4 Oscars. Another 8 wins & 2 nominations.",
+    "directors": "John McTiernan",
+    "directorList": [{ "id": "nm0001532", "name": "John McTiernan" }],
+    "writers": "Roderick Thorp, Jeb Stuart, Steven E. de Souza",
+    "writerList": [
+        { "id": "nm0861636", "name": "Roderick Thorp" },
+        { "id": "nm0835732", "name": "Jeb Stuart" },
+        { "id": "nm0211823", "name": "Steven E. de Souza" }
+    ],
+    "stars": "Bruce Willis, Alan Rickman, Bonnie Bedelia, Reginald VelJohnson",
+    "starList": [
+        { "id": "nm0000246", "name": "Bruce Willis" },
+        { "id": "nm0000614", "name": "Alan Rickman" },
+        { "id": "nm0000889", "name": "Bonnie Bedelia" },
+        { "id": "nm0001817", "name": "Reginald VelJohnson" }
+    ],
+    "actorList": [
+        {
+            "id": "nm0000246",
+            "image": "https://imdb-api.com/images/original/MV5BMjA0MjMzMTE5OF5BMl5BanBnXkFtZTcwMzQ2ODE3Mw@@._V1_Ratio0.8182_AL_.jpg",
+            "name": "Bruce Willis",
+            "asCharacter": "John McClane"
+        },
+        {
+            "id": "nm0000889",
+            "image": "https://imdb-api.com/images/original/MV5BNzEyOTA4MTM5OV5BMl5BanBnXkFtZTcwNTQ4NTQzMQ@@._V1_Ratio0.7273_AL_.jpg",
+            "name": "Bonnie Bedelia",
+            "asCharacter": "Holly Gennaro McClane"
+        },
+        {
+            "id": "nm0001817",
+            "image": "https://imdb-api.com/images/original/MV5BMjI4MTY1MjE4OF5BMl5BanBnXkFtZTcwNzEyNTA4Nw@@._V1_Ratio0.7273_AL_.jpg",
+            "name": "Reginald VelJohnson",
+            "asCharacter": "Sgt. Al Powell"
+        },
+        {
+            "id": "nm0322339",
+            "image": "https://imdb-api.com/images/original/MV5BODc1MzYwNjE1Nl5BMl5BanBnXkFtZTYwMDAyMTkz._V1_Ratio0.7273_AL_.jpg",
+            "name": "Paul Gleason",
+            "asCharacter": "Dwayne T. Robinson"
+        },
+        {
+            "id": "nm0924636",
+            "image": "https://imdb-api.com/images/original/MV5BZDA2ZjljNmEtYzRmNC00Y2IzLWJmYTgtYjM5MGM5MWMzOTU3XkEyXkFqcGdeQXVyNjUxMjc1OTM@._V1_Ratio0.7273_AL_.jpg",
+            "name": "De'voreaux White",
+            "asCharacter": "Argyle"
+        },
+        {
+            "id": "nm0040472",
+            "image": "https://imdb-api.com/images/original/MV5BMTk4MjE2NDUzOV5BMl5BanBnXkFtZTgwNjE5OTM5NzE@._V1_Ratio0.7273_AL_.jpg",
+            "name": "William Atherton",
+            "asCharacter": "Thornburg"
+        },
+        {
+            "id": "nm0000952",
+            "image": "https://imdb-api.com/images/original/MV5BMTI1MTIwNTk2M15BMl5BanBnXkFtZTYwNjQ2NTEz._V1_Ratio0.7273_AL_.jpg",
+            "name": "Hart Bochner",
+            "asCharacter": "Ellis"
+        },
+        {
+            "id": "nm0793363",
+            "image": "https://imdb-api.com/images/original/MV5BMTQwMTI2NDg2OV5BMl5BanBnXkFtZTcwNzg4MzkxOA@@._V1_Ratio0.7273_AL_.jpg",
+            "name": "James Shigeta",
+            "asCharacter": "Takagi"
+        },
+        {
+            "id": "nm0000614",
+            "image": "https://imdb-api.com/images/original/MV5BMTUwNTc4MTg4Ml5BMl5BanBnXkFtZTcwNDY2MjkxOA@@._V1_Ratio0.7273_AL_.jpg",
+            "name": "Alan Rickman",
+            "asCharacter": "Hans Gruber"
+        },
+        {
+            "id": "nm0324231",
+            "image": "https://imdb-api.com/images/original/MV5BMTQzOTE5NzcxMF5BMl5BanBnXkFtZTcwOTY5NzkyOA@@._V1_Ratio0.7273_AL_.jpg",
+            "name": "Alexander Godunov",
+            "asCharacter": "Karl"
+        },
+        {
+            "id": "nm0236525",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Bruno Doyon",
+            "asCharacter": "Franco"
+        },
+        {
+            "id": "nm0936591",
+            "image": "https://imdb-api.com/images/original/MV5BMjA1MTM4NjY5MV5BMl5BanBnXkFtZTcwMjMzNjAyOA@@._V1_Ratio0.7273_AL_.jpg",
+            "name": "Andreas Wisniewski",
+            "asCharacter": "Tony"
+        },
+        {
+            "id": "nm0319739",
+            "image": "https://imdb-api.com/images/original/MV5BMjQwNjMzNzMwM15BMl5BanBnXkFtZTcwNTIzNjQwOA@@._V1_Ratio0.7273_AL_.jpg",
+            "name": "Clarence Gilyard Jr.",
+            "asCharacter": "Theo"
+        },
+        {
+            "id": "nm0687270",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Joey Plewa",
+            "asCharacter": "Alexander"
+        },
+        {
+            "id": "nm0127960",
+            "image": "https://imdb-api.com/images/original/MV5BMTI3Mjc1MjI5MV5BMl5BanBnXkFtZTcwMDc2NzUyMQ@@._V1_Ratio0.7273_AL_.jpg",
+            "name": "Lorenzo Caccialanza",
+            "asCharacter": "Marco"
+        }
+    ],
+    "fullCast": null,
+    "genres": "Action, Thriller",
+    "genreList": [
+        { "key": "Action", "value": "Action" },
+        { "key": "Thriller", "value": "Thriller" }
+    ],
+    "companies": "Twentieth Century Fox, Gordon Company, Silver Pictures",
+    "companyList": [
+        { "id": "co0000756", "name": "Twentieth Century Fox" },
+        { "id": "co0119038", "name": "Gordon Company" },
+        { "id": "co0019968", "name": "Silver Pictures" }
+    ],
+    "countries": "USA",
+    "countryList": [{ "key": "USA", "value": "USA" }],
+    "languages": "English, German, Italian, Japanese",
+    "languageList": [
+        { "key": "English", "value": "English" },
+        { "key": "German", "value": "German" },
+        { "key": "Italian", "value": "Italian" },
+        { "key": "Japanese", "value": "Japanese" }
+    ],
+    "contentRating": "R",
+    "imDbRating": "8.2",
+    "imDbRatingVotes": "801368",
+    "metacriticRating": "72",
+    "ratings": null,
+    "wikipedia": null,
+    "posters": {
+        "imDbId": "tt0095016",
+        "title": "Die Hard",
+        "fullTitle": "Die Hard (1988)",
+        "type": "Movie",
+        "year": "1988",
+        "posters": [
+            {
+                "id": "yFihWxQcmqcaBR31QM6Y8gT6aYV.jpg",
+                "link": "https://imdb-api.com/posters/original/yFihWxQcmqcaBR31QM6Y8gT6aYV.jpg",
+                "aspectRatio": 0.667,
+                "language": "en",
+                "width": 667,
+                "height": 1000
+            },
+            {
+                "id": "en3CrfafbioUTr7x1iipQAx5akD.jpg",
+                "link": "https://imdb-api.com/posters/original/en3CrfafbioUTr7x1iipQAx5akD.jpg",
+                "aspectRatio": 0.6666666666666666,
+                "language": "en",
+                "width": 2000,
+                "height": 3000
+            },
+            {
+                "id": "dLl1Ad7MvuSfEvrwsRgUOVjbfmT.jpg",
+                "link": "https://imdb-api.com/posters/original/dLl1Ad7MvuSfEvrwsRgUOVjbfmT.jpg",
+                "aspectRatio": 0.6666666666666666,
+                "language": "en",
+                "width": 2000,
+                "height": 3000
+            },
+            {
+                "id": "p5hURTvac8sxLRhe5hLchvfy5Pu.jpg",
+                "link": "https://imdb-api.com/posters/original/p5hURTvac8sxLRhe5hLchvfy5Pu.jpg",
+                "aspectRatio": 0.675,
+                "language": "en",
+                "width": 675,
+                "height": 1000
+            },
+            {
+                "id": "MlGGHWQWOaA9yeLfNRmRbgwMzC.jpg",
+                "link": "https://imdb-api.com/posters/original/MlGGHWQWOaA9yeLfNRmRbgwMzC.jpg",
+                "aspectRatio": 0.6666666666666666,
+                "language": "en",
+                "width": 2000,
+                "height": 3000
+            },
+            {
+                "id": "2P66FM9Ka3K73D6vncby3TiuD8n.jpg",
+                "link": "https://imdb-api.com/posters/original/2P66FM9Ka3K73D6vncby3TiuD8n.jpg",
+                "aspectRatio": 0.6666666666666666,
+                "language": "en",
+                "width": 1000,
+                "height": 1500
+            },
+            {
+                "id": "1NnCbaFaWgHczKjH5Eii46VmpPp.jpg",
+                "link": "https://imdb-api.com/posters/original/1NnCbaFaWgHczKjH5Eii46VmpPp.jpg",
+                "aspectRatio": 0.6666666666666666,
+                "language": "en",
+                "width": 1410,
+                "height": 2115
+            },
+            {
+                "id": "8l6OXK3FfFHY3k79LyEopuaj5yL.jpg",
+                "link": "https://imdb-api.com/posters/original/8l6OXK3FfFHY3k79LyEopuaj5yL.jpg",
+                "aspectRatio": 0.6666666666666666,
+                "language": "en",
+                "width": 1000,
+                "height": 1500
+            },
+            {
+                "id": "aSe23Pj5g2ba9zM8CPIF7OaVBFA.jpg",
+                "link": "https://imdb-api.com/posters/original/aSe23Pj5g2ba9zM8CPIF7OaVBFA.jpg",
+                "aspectRatio": 0.6666666666666666,
+                "language": "en",
+                "width": 1000,
+                "height": 1500
+            },
+            {
+                "id": "aJCpHDC6RoGz7d1Fzayl019xnxX.jpg",
+                "link": "https://imdb-api.com/posters/original/aJCpHDC6RoGz7d1Fzayl019xnxX.jpg",
+                "aspectRatio": 0.6666666666666666,
+                "language": "en",
+                "width": 2000,
+                "height": 3000
+            },
+            {
+                "id": "1fq1IpnuVqkD5BMuaXAUW0eVB21.jpg",
+                "link": "https://imdb-api.com/posters/original/1fq1IpnuVqkD5BMuaXAUW0eVB21.jpg",
+                "aspectRatio": 0.6666666666666666,
+                "language": "en",
+                "width": 2000,
+                "height": 3000
+            },
+            {
+                "id": "5yuKTtwMNHnYTFdevbBSmjzeh3e.jpg",
+                "link": "https://imdb-api.com/posters/original/5yuKTtwMNHnYTFdevbBSmjzeh3e.jpg",
+                "aspectRatio": 0.6666666666666666,
+                "language": "en",
+                "width": 1200,
+                "height": 1800
+            },
+            {
+                "id": "vkhXCs0vTGZOdkZcs0AcP1TiEOc.jpg",
+                "link": "https://imdb-api.com/posters/original/vkhXCs0vTGZOdkZcs0AcP1TiEOc.jpg",
+                "aspectRatio": 0.6661665416354089,
+                "language": "en",
+                "width": 888,
+                "height": 1333
+            },
+            {
+                "id": "6suRv0mLNlPoCQVzrjjyUtCOlk3.jpg",
+                "link": "https://imdb-api.com/posters/original/6suRv0mLNlPoCQVzrjjyUtCOlk3.jpg",
+                "aspectRatio": 0.7012622720897616,
+                "language": "en",
+                "width": 1000,
+                "height": 1426
+            },
+            {
+                "id": "usPlVgaFjus6SWCZDmSHQKQZZZx.jpg",
+                "link": "https://imdb-api.com/posters/original/usPlVgaFjus6SWCZDmSHQKQZZZx.jpg",
+                "aspectRatio": 0.6666666666666666,
+                "language": "en",
+                "width": 1000,
+                "height": 1500
+            },
+            {
+                "id": "Tvf9xblodLJl54weBUb4MtwVax.jpg",
+                "link": "https://imdb-api.com/posters/original/Tvf9xblodLJl54weBUb4MtwVax.jpg",
+                "aspectRatio": 0.6666666666666666,
+                "language": "en",
+                "width": 1000,
+                "height": 1500
+            },
+            {
+                "id": "y7hCyQ0LG9KnPWJbsYZQvhkrUo8.jpg",
+                "link": "https://imdb-api.com/posters/original/y7hCyQ0LG9KnPWJbsYZQvhkrUo8.jpg",
+                "aspectRatio": 0.6666666666666666,
+                "language": "en",
+                "width": 2000,
+                "height": 3000
+            },
+            {
+                "id": "sa26o5Q7t8GvGdvO0rUQ4bntJno.jpg",
+                "link": "https://imdb-api.com/posters/original/sa26o5Q7t8GvGdvO0rUQ4bntJno.jpg",
+                "aspectRatio": 0.6666666666666666,
+                "language": "en",
+                "width": 1000,
+                "height": 1500
+            },
+            {
+                "id": "wCuI38M6cPxGpHjpBtffT8Q94LF.jpg",
+                "link": "https://imdb-api.com/posters/original/wCuI38M6cPxGpHjpBtffT8Q94LF.jpg",
+                "aspectRatio": 0.6666666666666666,
+                "language": "en",
+                "width": 1400,
+                "height": 2100
+            },
+            {
+                "id": "bH1IYhM8ekO0r0IXQCDh7rbfLwC.jpg",
+                "link": "https://imdb-api.com/posters/original/bH1IYhM8ekO0r0IXQCDh7rbfLwC.jpg",
+                "aspectRatio": 0.6666666666666666,
+                "language": "en",
+                "width": 1000,
+                "height": 1500
+            },
+            {
+                "id": "8BAv63teDtsCFPydDfO8gJFf21t.jpg",
+                "link": "https://imdb-api.com/posters/original/8BAv63teDtsCFPydDfO8gJFf21t.jpg",
+                "aspectRatio": 0.6666666666666666,
+                "language": "en",
+                "width": 1400,
+                "height": 2100
+            },
+            {
+                "id": "luUIoLKFikGHk3imKtvjErgNJNZ.jpg",
+                "link": "https://imdb-api.com/posters/original/luUIoLKFikGHk3imKtvjErgNJNZ.jpg",
+                "aspectRatio": 0.7012622720897616,
+                "language": "en",
+                "width": 1000,
+                "height": 1426
+            },
+            {
+                "id": "mC31oHguwup7gxDiqjxZ6wm8PXB.jpg",
+                "link": "https://imdb-api.com/posters/original/mC31oHguwup7gxDiqjxZ6wm8PXB.jpg",
+                "aspectRatio": 0.6666666666666666,
+                "language": "en",
+                "width": 1400,
+                "height": 2100
+            },
+            {
+                "id": "8bkQsIF1ePV1uXo4Nzzl1ObqUVr.jpg",
+                "link": "https://imdb-api.com/posters/original/8bkQsIF1ePV1uXo4Nzzl1ObqUVr.jpg",
+                "aspectRatio": 0.6666666666666666,
+                "language": "en",
+                "width": 1400,
+                "height": 2100
+            },
+            {
+                "id": "6JevfGbPNcWiSLLzKVwogKewzEj.jpg",
+                "link": "https://imdb-api.com/posters/original/6JevfGbPNcWiSLLzKVwogKewzEj.jpg",
+                "aspectRatio": 0.6666666666666666,
+                "language": "en",
+                "width": 1000,
+                "height": 1500
+            },
+            {
+                "id": "zvSYZlDoxmD4RZk2mPz8ZfcYBZx.jpg",
+                "link": "https://imdb-api.com/posters/original/zvSYZlDoxmD4RZk2mPz8ZfcYBZx.jpg",
+                "aspectRatio": 0.6666666666666666,
+                "language": "en",
+                "width": 1000,
+                "height": 1500
+            },
+            {
+                "id": "dck7liO3TjutAlIhftqmKsOr3ZG.jpg",
+                "link": "https://imdb-api.com/posters/original/dck7liO3TjutAlIhftqmKsOr3ZG.jpg",
+                "aspectRatio": 0.6553333333333333,
+                "language": "en",
+                "width": 983,
+                "height": 1500
+            },
+            {
+                "id": "yqmrRMRUU9fwUfnE3V4D00zkaZB.jpg",
+                "link": "https://imdb-api.com/posters/original/yqmrRMRUU9fwUfnE3V4D00zkaZB.jpg",
+                "aspectRatio": 0.667,
+                "language": "en",
+                "width": 667,
+                "height": 1000
+            },
+            {
+                "id": "gyHD1RtDA57Mr2ad1Ggef9L6FOb.jpg",
+                "link": "https://imdb-api.com/posters/original/gyHD1RtDA57Mr2ad1Ggef9L6FOb.jpg",
+                "aspectRatio": 0.7502548419979612,
+                "language": "en",
+                "width": 736,
+                "height": 981
+            },
+            {
+                "id": "YbwNPqB4kvl3Xipx36jrKDr3TU.jpg",
+                "link": "https://imdb-api.com/posters/original/YbwNPqB4kvl3Xipx36jrKDr3TU.jpg",
+                "aspectRatio": 0.704,
+                "language": "en",
+                "width": 528,
+                "height": 750
+            },
+            {
+                "id": "qU69Tse0mftTBEI77kKZ6FPc1rV.jpg",
+                "link": "https://imdb-api.com/posters/original/qU69Tse0mftTBEI77kKZ6FPc1rV.jpg",
+                "aspectRatio": 0.6666666666666666,
+                "language": "en",
+                "width": 700,
+                "height": 1050
+            },
+            {
+                "id": "JNo7qSrsH4C6qtKJD7mjhcJfCH.jpg",
+                "link": "https://imdb-api.com/posters/original/JNo7qSrsH4C6qtKJD7mjhcJfCH.jpg",
+                "aspectRatio": 0.66625,
+                "language": "en",
+                "width": 1066,
+                "height": 1600
+            },
+            {
+                "id": "pAXXEpyhWXrnsHdL9fizj3sNTbc.jpg",
+                "link": "https://imdb-api.com/posters/original/pAXXEpyhWXrnsHdL9fizj3sNTbc.jpg",
+                "aspectRatio": 0.6666666666666666,
+                "language": "en",
+                "width": 506,
+                "height": 759
+            },
+            {
+                "id": "aCLyINKcGE0xStI3LdF92HMUtnh.jpg",
+                "link": "https://imdb-api.com/posters/original/aCLyINKcGE0xStI3LdF92HMUtnh.jpg",
+                "aspectRatio": 0.6770480704129993,
+                "language": "en",
+                "width": 1000,
+                "height": 1477
+            },
+            {
+                "id": "42YsfY61Mn4GMf4pDVb11eW1hrx.jpg",
+                "link": "https://imdb-api.com/posters/original/42YsfY61Mn4GMf4pDVb11eW1hrx.jpg",
+                "aspectRatio": 0.6666666666666666,
+                "language": "en",
+                "width": 1000,
+                "height": 1500
+            },
+            {
+                "id": "uEUZkSZzx3nojMOPvnvrcAsUHud.jpg",
+                "link": "https://imdb-api.com/posters/original/uEUZkSZzx3nojMOPvnvrcAsUHud.jpg",
+                "aspectRatio": 0.6716417910447762,
+                "language": "en",
+                "width": 1080,
+                "height": 1608
+            },
+            {
+                "id": "cjqZNwoBvLF9uXAUJKN2d4Q0FWu.jpg",
+                "link": "https://imdb-api.com/posters/original/cjqZNwoBvLF9uXAUJKN2d4Q0FWu.jpg",
+                "aspectRatio": 0.6666666666666666,
+                "language": "en",
+                "width": 1000,
+                "height": 1500
+            },
+            {
+                "id": "9NzlVxuTWaTZLMfRjsrSN3wTvPX.jpg",
+                "link": "https://imdb-api.com/posters/original/9NzlVxuTWaTZLMfRjsrSN3wTvPX.jpg",
+                "aspectRatio": 0.6846709775580069,
+                "language": "en",
+                "width": 1800,
+                "height": 2629
+            },
+            {
+                "id": "o4ReujU3xPn6iEIV3Xc0OCaFzye.jpg",
+                "link": "https://imdb-api.com/posters/original/o4ReujU3xPn6iEIV3Xc0OCaFzye.jpg",
+                "aspectRatio": 0.6964426877470355,
+                "language": "en",
+                "width": 1762,
+                "height": 2530
+            }
+        ],
+        "backdrops": [
+            {
+                "id": "qyNEqB6gl9V2GkiT88Pu36mqHnR.jpg",
+                "link": "https://imdb-api.com/posters/original/qyNEqB6gl9V2GkiT88Pu36mqHnR.jpg",
+                "aspectRatio": 1.7777777777777777,
+                "language": "en",
+                "width": 1920,
+                "height": 1080
+            },
+            {
+                "id": "yw55hiqnDOwZiXpkraXu114rmGz.jpg",
+                "link": "https://imdb-api.com/posters/original/yw55hiqnDOwZiXpkraXu114rmGz.jpg",
+                "aspectRatio": 1.7777777777777777,
+                "language": "en",
+                "width": 1920,
+                "height": 1080
+            },
+            {
+                "id": "hQ0k6RJwcWLJEHfP5vxrDpMiRdk.jpg",
+                "link": "https://imdb-api.com/posters/original/hQ0k6RJwcWLJEHfP5vxrDpMiRdk.jpg",
+                "aspectRatio": 1.7777777777777777,
+                "language": "en",
+                "width": 1920,
+                "height": 1080
+            },
+            {
+                "id": "oIwfoUFfWfESn0Y8u8jv9lc8li1.jpg",
+                "link": "https://imdb-api.com/posters/original/oIwfoUFfWfESn0Y8u8jv9lc8li1.jpg",
+                "aspectRatio": 1.7777777777777777,
+                "language": "en",
+                "width": 3840,
+                "height": 2160
+            },
+            {
+                "id": "tlCjsgRQgylZfdwTt4jroa89Y3d.jpg",
+                "link": "https://imdb-api.com/posters/original/tlCjsgRQgylZfdwTt4jroa89Y3d.jpg",
+                "aspectRatio": 1.7777777777777777,
+                "language": "en",
+                "width": 1920,
+                "height": 1080
+            },
+            {
+                "id": "bvk2AAH64lP2YZs02Q3jskfHT8j.jpg",
+                "link": "https://imdb-api.com/posters/original/bvk2AAH64lP2YZs02Q3jskfHT8j.jpg",
+                "aspectRatio": 1.7777777777777777,
+                "language": "en",
+                "width": 3840,
+                "height": 2160
+            },
+            {
+                "id": "wmZ8pFXE27lsDerL1EsG3O8rkVA.jpg",
+                "link": "https://imdb-api.com/posters/original/wmZ8pFXE27lsDerL1EsG3O8rkVA.jpg",
+                "aspectRatio": 1.778698224852071,
+                "language": "en",
+                "width": 1503,
+                "height": 845
+            },
+            {
+                "id": "aNtj7fSZ5pVUdr5lJkFMMTyfHtv.jpg",
+                "link": "https://imdb-api.com/posters/original/aNtj7fSZ5pVUdr5lJkFMMTyfHtv.jpg",
+                "aspectRatio": 1.7761194029850746,
+                "language": "en",
+                "width": 1428,
+                "height": 804
+            },
+            {
+                "id": "pu6Qrx2gUOvcuaGYN7MzruUfKvo.jpg",
+                "link": "https://imdb-api.com/posters/original/pu6Qrx2gUOvcuaGYN7MzruUfKvo.jpg",
+                "aspectRatio": 1.7767220902612826,
+                "language": "en",
+                "width": 1496,
+                "height": 842
+            }
+        ],
+        "errorMessage": ""
+    },
+    "images": {
+        "imDbId": "tt0095016",
+        "title": "Die Hard",
+        "fullTitle": "Die Hard (1988)",
+        "type": "Movie",
+        "year": "1988",
+        "items": [
+            {
+                "title": "Bruce Willis in Die Hard (1988)",
+                "image": "https://imdb-api.com/images/original/MV5BZjJjYjA0ODctYmQyZi00ZWIyLWE4M2ItNTNhZDU3NzE1OWM2XkEyXkFqcGdeQXVyMDM2NDM2MQ@@._V1_Ratio1.5000_AL_.jpg"
+            },
+            {
+                "title": "Bruce Willis and Andreas Wisniewski in Die Hard (1988)",
+                "image": "https://imdb-api.com/images/original/MV5BODcyY2JiNTUtN2JmOC00MDA2LTk5ODEtY2RlMzkwYzI3Mzc0XkEyXkFqcGdeQXVyMDc2NTEzMw@@._V1_Ratio1.4600_AL_.jpg"
+            },
+            {
+                "title": "Alan Rickman and Bonnie Bedelia in Die Hard (1988)",
+                "image": "https://imdb-api.com/images/original/MV5BYjU2YTlhYzUtM2FkMC00ZTc3LWE3MGItZWUxZDM4NDg0YzY3XkEyXkFqcGdeQXVyMDc2NTEzMw@@._V1_Ratio1.5000_AL_.jpg"
+            },
+            {
+                "title": "Bruce Willis in Die Hard (1988)",
+                "image": "https://imdb-api.com/images/original/MV5BZDIyZmE0ZmQtNmJkYy00N2RlLWJiMWUtYTBjMzA3OWQyMWFlXkEyXkFqcGdeQXVyMDc2NTEzMw@@._V1_Ratio1.7800_AL_.jpg"
+            },
+            {
+                "title": "Bruce Willis, Bonnie Bedelia, and Reginald VelJohnson in Die Hard (1988)",
+                "image": "https://imdb-api.com/images/original/MV5BMTU1ODE3NzcyN15BMl5BanBnXkFtZTgwNjY3ODIwMjE@._V1_Ratio1.5000_AL_.jpg"
+            },
+            {
+                "title": "Bruce Willis in Die Hard (1988)",
+                "image": "https://imdb-api.com/images/original/MV5BMTI5NTU0ODA4NF5BMl5BanBnXkFtZTcwNDM2NDAxMw@@._V1_Ratio1.2600_AL_.jpg"
+            },
+            {
+                "title": "Alan Rickman and Bonnie Bedelia in Die Hard (1988)",
+                "image": "https://imdb-api.com/images/original/MV5BMTcwMzQ1MTgxMl5BMl5BanBnXkFtZTYwMTI3ODg2._V1_Ratio1.4400_AL_.jpg"
+            },
+            {
+                "title": "Alan Rickman, Bruno Doyon, and Wilhelm von Homburg in Die Hard (1988)",
+                "image": "https://imdb-api.com/images/original/MV5BMTMwMjk5MzMzOV5BMl5BanBnXkFtZTYwNDI3ODg2._V1_Ratio1.2600_AL_.jpg"
+            },
+            {
+                "title": "Bruce Willis in Die Hard (1988)",
+                "image": "https://imdb-api.com/images/original/MV5BNDM4MTU1Njk0Nl5BMl5BanBnXkFtZTYwNTI3ODg2._V1_Ratio1.0000_AL_.jpg"
+            },
+            {
+                "title": "Terry Leonard in Die Hard (1988)",
+                "image": "https://imdb-api.com/images/original/MV5BN2U5NWE2NWItYjMzNy00MzYyLWI1MDgtNWE1MDk3NDc3MjJlXkEyXkFqcGdeQXVyMTA3MzQ4MTc0._V1_Ratio1.4200_AL_.jpg"
+            },
+            {
+                "title": "Die Hard (1988)",
+                "image": "https://imdb-api.com/images/original/MV5BMjAxNzQyNDQ0OV5BMl5BanBnXkFtZTcwMzUzNzY5OA@@._V1_Ratio1.0000_AL_.jpg"
+            },
+            {
+                "title": "Hans Buhringer in Die Hard (1988)",
+                "image": "https://imdb-api.com/images/original/MV5BMTM1MjI5NDg0MV5BMl5BanBnXkFtZTcwNDc0MTkyMQ@@._V1_Ratio1.2800_AL_.jpg"
+            },
+            {
+                "title": "Bruce Willis in Die Hard (1988)",
+                "image": "https://imdb-api.com/images/original/MV5BZDljZGUyNDQtOWMwOC00ZGJlLTgzZGEtNjZhYTM5ODJlYjBmXkEyXkFqcGdeQXVyMTYzMDM0NTU@._V1_Ratio1.0000_AL_.jpg"
+            },
+            {
+                "title": "Bruce Willis in Die Hard (1988)",
+                "image": "https://imdb-api.com/images/original/MV5BOGYyMmRhMmQtNzM0Ni00N2I5LTg1ZmMtNmE3OWZiYjhmMTk3XkEyXkFqcGdeQXVyMTYzMDM0NTU@._V1_Ratio1.0000_AL_.jpg"
+            },
+            {
+                "title": "Bruce Willis in Die Hard (1988)",
+                "image": "https://imdb-api.com/images/original/MV5BNzVjMThiZTQtOGEyMC00NzJiLWI3OGItNjIwZmJkOWM4NDFiXkEyXkFqcGdeQXVyMTYzMDM0NTU@._V1_Ratio1.0000_AL_.jpg"
+            },
+            {
+                "title": "Bruce Willis in Die Hard (1988)",
+                "image": "https://imdb-api.com/images/original/MV5BNGY3YTAyYWItYWQ1Zi00NDA0LWIzMTAtMWNjY2ZhOTRhOTgxXkEyXkFqcGdeQXVyMTYzMDM0NTU@._V1_Ratio1.0000_AL_.jpg"
+            },
+            {
+                "title": "Die Hard (1988)",
+                "image": "https://imdb-api.com/images/original/MV5BMjIzMzUwMTY0OV5BMl5BanBnXkFtZTgwMDQzMjkwMTE@._V1_Ratio1.0000_AL_.jpg"
+            },
+            {
+                "title": "Bruce Willis in Die Hard (1988)",
+                "image": "https://imdb-api.com/images/original/MV5BMTY4ODM0OTc2M15BMl5BanBnXkFtZTcwNzE0MTk3OA@@._V1_Ratio1.0000_AL_.jpg"
+            },
+            {
+                "title": "Bruce Willis in Die Hard (1988)",
+                "image": "https://imdb-api.com/images/original/MV5BMTIxNTY3NjM0OV5BMl5BanBnXkFtZTcwNzg5MzY0MQ@@._V1_Ratio1.0000_AL_.jpg"
+            },
+            {
+                "title": "Bruce Willis in Die Hard (1988)",
+                "image": "https://imdb-api.com/images/original/MV5BMTA4MjcyOTUxOTleQTJeQWpwZ15BbWU2MDIxNjExOQ@@._V1_Ratio1.0000_AL_.jpg"
+            },
+            {
+                "title": "Bruce Willis in Die Hard (1988)",
+                "image": "https://imdb-api.com/images/original/MV5BMTk0ZGY2MTItODY5Zi00YjQ0LTliYzctYTA4NDNmOGQ4MzIyXkEyXkFqcGdeQXVyNjUxMjc1OTM@._V1_Ratio2.3600_AL_.jpg"
+            },
+            {
+                "title": "Die Hard (1988)",
+                "image": "https://imdb-api.com/images/original/MV5BZGI3NGJjOTYtZGM2MS00MTRkLWFjMGUtZWY5YzNkMTgwMmRhXkEyXkFqcGdeQXVyMTE1ODU2Nzcx._V1_Ratio2.4400_AL_.jpg"
+            },
+            {
+                "title": "Die Hard (1988)",
+                "image": "https://imdb-api.com/images/original/MV5BNDMyOTgyNTMtNDcxNS00ODBhLWI5MjctMmU0MDBhZTVhYzZmXkEyXkFqcGdeQXVyMTE1ODU2Nzcx._V1_Ratio2.4200_AL_.jpg"
+            },
+            {
+                "title": "Hart Bochner in Die Hard (1988)",
+                "image": "https://imdb-api.com/images/original/MV5BMWZjMWU0MDgtNjkzMS00ZTU5LThkMTQtYTZhYzJlMzA3YWYyXkEyXkFqcGdeQXVyMTE4MDg3NTIz._V1_Ratio2.4000_AL_.jpg"
+            },
+            {
+                "title": "Al Leong in Die Hard (1988)",
+                "image": "https://imdb-api.com/images/original/MV5BNTBlYTIyZTktNmJhNi00YmU1LTk3MjctMWExYzEyNWQ0MmU3XkEyXkFqcGdeQXVyMTE4MDg3NTIz._V1_Ratio2.4000_AL_.jpg"
+            },
+            {
+                "title": "Alan Rickman in Die Hard (1988)",
+                "image": "https://imdb-api.com/images/original/MV5BNWYxOWZmNWUtZmNjMC00Njg5LWFmMzctMjBhY2YwMTlhNTQ2XkEyXkFqcGdeQXVyMTE4MDg3NTIz._V1_Ratio2.4000_AL_.jpg"
+            },
+            {
+                "title": "Paul Gleason in Die Hard (1988)",
+                "image": "https://imdb-api.com/images/original/MV5BZThkZGY3MDctMmMyNi00NjZkLWFlZjEtZTBmYWU1NGUyZGZmXkEyXkFqcGdeQXVyMTE4MDg3NTIz._V1_Ratio2.4000_AL_.jpg"
+            },
+            {
+                "title": "Alan Rickman in Die Hard (1988)",
+                "image": "https://imdb-api.com/images/original/MV5BMzFiYjFkMjItZjdkOS00MzE3LWFiZjItZDVlZGU5NGYzM2I3XkEyXkFqcGdeQXVyMTE4MDg3NTIz._V1_Ratio2.4000_AL_.jpg"
+            },
+            {
+                "title": "Clarence Gilyard Jr. in Die Hard (1988)",
+                "image": "https://imdb-api.com/images/original/MV5BNTRjMDRkNWItMzkyYy00NWEzLThjNTgtY2JiOWE0NmFlZTA1XkEyXkFqcGdeQXVyMTE4MDg3NTIz._V1_Ratio2.4000_AL_.jpg"
+            },
+            {
+                "title": "Hart Bochner in Die Hard (1988)",
+                "image": "https://imdb-api.com/images/original/MV5BY2JhNWJkMjctMzdjNC00ZTFjLTllZDAtYWZhYWE3ZDMyMzk4XkEyXkFqcGdeQXVyMTE4MDg3NTIz._V1_Ratio2.4000_AL_.jpg"
+            },
+            {
+                "title": "Bruce Willis in Die Hard (1988)",
+                "image": "https://imdb-api.com/images/original/MV5BYmNiZWE0YzEtYjAxMS00YWZjLWIxNmMtZWUwOGVjMjU5NDQ4XkEyXkFqcGdeQXVyMTE4MDg3NTIz._V1_Ratio2.4000_AL_.jpg"
+            },
+            {
+                "title": "Bruce Willis in Die Hard (1988)",
+                "image": "https://imdb-api.com/images/original/MV5BNmNlMzMwMGMtZmRhNS00NGVkLWI1YmMtMGQ4OWYxMmU5MjdjXkEyXkFqcGdeQXVyMTE4MDg3NTIz._V1_Ratio2.4200_AL_.jpg"
+            },
+            {
+                "title": "Kip Waldo in Die Hard (1988)",
+                "image": "https://imdb-api.com/images/original/MV5BMjdjMWQzODQtYWRhZS00ODBlLThjMzktZWZlMzI1OGY4NmU0XkEyXkFqcGdeQXVyMTE4MDg3NTIz._V1_Ratio2.4200_AL_.jpg"
+            },
+            {
+                "title": "Reginald VelJohnson in Die Hard (1988)",
+                "image": "https://imdb-api.com/images/original/MV5BZDRjNTVjNDUtMmQxNi00OTQwLWFmNGItOTI5Yzc5MjM3MmExXkEyXkFqcGdeQXVyMTE4MDg3NTIz._V1_Ratio2.4400_AL_.jpg"
+            },
+            {
+                "title": "Andreas Wisniewski in Die Hard (1988)",
+                "image": "https://imdb-api.com/images/original/MV5BNjU0YTNkM2QtNTIzMy00ZTNhLWJmNmEtMTJhZTMyMmFlMGU1XkEyXkFqcGdeQXVyMTE4MDg3NTIz._V1_Ratio2.4200_AL_.jpg"
+            },
+            {
+                "title": "Andreas Wisniewski in Die Hard (1988)",
+                "image": "https://imdb-api.com/images/original/MV5BYmJkM2ZiMzYtZWRjZi00NjYxLWIxMjctOWNkZjY1MmQ4ZTk3XkEyXkFqcGdeQXVyMTE4MDg3NTIz._V1_Ratio2.4200_AL_.jpg"
+            },
+            {
+                "title": "Bruce Willis in Die Hard (1988)",
+                "image": "https://imdb-api.com/images/original/MV5BZWM4YTE3M2QtMTNiYS00OTdjLTg3OTUtNDI4NjZjMTliMzUwXkEyXkFqcGdeQXVyMTE4MDg3NTIz._V1_Ratio2.4000_AL_.jpg"
+            },
+            {
+                "title": "Alan Rickman and Alexander Godunov in Die Hard (1988)",
+                "image": "https://imdb-api.com/images/original/MV5BNTI0YjlkMzMtNWI2YS00YTU1LTk4M2MtYjZiZGViYzE3NzFmXkEyXkFqcGdeQXVyMTE4MDg3NTIz._V1_Ratio2.4200_AL_.jpg"
+            },
+            {
+                "title": "James Shigeta in Die Hard (1988)",
+                "image": "https://imdb-api.com/images/original/MV5BNTY4MWMwNWUtMmNiZC00MjZiLWFmMmYtNGEyNTlkZjY2NDE5XkEyXkFqcGdeQXVyMTE4MDg3NTIz._V1_Ratio2.4000_AL_.jpg"
+            },
+            {
+                "title": "Alan Rickman in Die Hard (1988)",
+                "image": "https://imdb-api.com/images/original/MV5BNjRmNGExYmYtM2M4OS00ZTEyLTlhN2ItMjNjYzcwNDllNzRmXkEyXkFqcGdeQXVyMTE4MDg3NTIz._V1_Ratio2.4200_AL_.jpg"
+            },
+            {
+                "title": "Bruce Willis in Die Hard (1988)",
+                "image": "https://imdb-api.com/images/original/MV5BNTg4ZjQwMDgtZmI4OC00NzQ1LWEyZDgtYmY4OGI4NGZmOGI2XkEyXkFqcGdeQXVyMTE4MDg3NTIz._V1_Ratio2.4000_AL_.jpg"
+            },
+            {
+                "title": "Bonnie Bedelia in Die Hard (1988)",
+                "image": "https://imdb-api.com/images/original/MV5BMDRiZmNhZTEtNjcxNS00ZDZlLWE4NmItOGJiYjQ1MmFkOWI3XkEyXkFqcGdeQXVyMTE4MDg3NTIz._V1_Ratio2.4200_AL_.jpg"
+            },
+            {
+                "title": "Bonnie Bedelia in Die Hard (1988)",
+                "image": "https://imdb-api.com/images/original/MV5BNzk2ZDdjMmMtODczMi00ZTk3LWJhMjctZGUwYjJhOTA0NTliXkEyXkFqcGdeQXVyMTE4MDg3NTIz._V1_Ratio2.4000_AL_.jpg"
+            },
+            {
+                "title": "De'voreaux White in Die Hard (1988)",
+                "image": "https://imdb-api.com/images/original/MV5BMzJlOTQzMDktZDgxZi00ZGRmLWFlZTgtOWRkNTJkOWQxMDBhXkEyXkFqcGdeQXVyMTE4MDg3NTIz._V1_Ratio2.4200_AL_.jpg"
+            },
+            {
+                "title": "Bonnie Bedelia in Die Hard (1988)",
+                "image": "https://imdb-api.com/images/original/MV5BOTc0MmNiOWItMmExYy00Y2U0LTg5NDQtYmIxMDllZDcxZjcwXkEyXkFqcGdeQXVyMTE4MDg3NTIz._V1_Ratio2.4200_AL_.jpg"
+            },
+            {
+                "title": "Betty Carvalho in Die Hard (1988)",
+                "image": "https://imdb-api.com/images/original/MV5BOTJhMjcwYzQtZTQ2Ni00ZGYzLWExOTctZjc2YTMwNzUyOGVjXkEyXkFqcGdeQXVyMTE4MDg3NTIz._V1_Ratio2.4000_AL_.jpg"
+            },
+            {
+                "title": "Die Hard (1988)",
+                "image": "https://imdb-api.com/images/original/MV5BNDM2ZDM1ZTItZTIyMi00MDNmLTkwNjItODJlNTRjMmMzODZhXkEyXkFqcGdeQXVyMTE4MDg3NTIz._V1_Ratio2.4000_AL_.jpg"
+            },
+            {
+                "title": "Taylor Fry in Die Hard (1988)",
+                "image": "https://imdb-api.com/images/original/MV5BMTQ1MGUyMWItYzYxMC00YTEzLWJiNWItOTQ0M2Q3MzgwMzBlXkEyXkFqcGdeQXVyMTE4MDg3NTIz._V1_Ratio2.4000_AL_.jpg"
+            }
+        ],
+        "errorMessage": ""
+    },
+    "trailer": {
+        "imDbId": "tt0095016",
+        "title": "Die Hard",
+        "fullTitle": "Die Hard (1988)",
+        "type": "Movie",
+        "year": "1988",
+        "videoId": null,
+        "videoTitle": null,
+        "videoDescription": null,
+        "thumbnailUrl": null,
+        "uploadDate": null,
+        "link": null,
+        "linkEmbed": null,
+        "errorMessage": "404 Not Founded Error"
+    },
+    "boxOffice": {
+        "budget": "$28,000,000 (estimated)",
+        "openingWeekendUSA": "$601,851, 17 July 1988",
+        "grossUSA": "$83,844,093",
+        "cumulativeWorldwideGross": "$141,603,197"
+    },
+    "tagline": "Suspense, Excitement, Adventure, On every level!",
+    "keywords": "hostage,one against many,christmas,los angeles california,heist",
+    "keywordList": [
+        "hostage",
+        "one against many",
+        "christmas",
+        "los angeles california",
+        "heist"
+    ],
+    "similars": [
+        {
+            "id": "tt0099423",
+            "title": "Die Hard 2",
+            "fullTitle": "Die Hard 2 (1990)",
+            "year": "1990",
+            "image": "https://imdb-api.com/images/original/MV5BMzMzYzk3ZTEtZDg0My00MTY5LWE3ZmQtYzNhYjhjN2RhZGRjL2ltYWdlXkEyXkFqcGdeQXVyNTAyODkwOQ@@._V1_Ratio0.6737_AL_.jpg",
+            "plot": "John McClane attempts to avert disaster as rogue military operatives seize control of Dulles International Airport in Washington, D.C.",
+            "directors": "Renny Harlin",
+            "stars": "Bruce Willis, William Atherton, Bonnie Bedelia",
+            "genres": "Action, Thriller",
+            "imDbRating": "7.2"
+        },
+        {
+            "id": "tt0112864",
+            "title": "Die Hard with a Vengeance",
+            "fullTitle": "Die Hard with a Vengeance (1995)",
+            "year": "1995",
+            "image": "https://imdb-api.com/images/original/MV5BZjI0ZWFiMmQtMjRlZi00ZmFhLWI4NmYtMjQ5YmY0MzIyMzRiXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_Ratio0.6737_AL_.jpg",
+            "plot": "John McClane and a Harlem store owner are targeted by German terrorist Simon in New York City, where he plans to rob the Federal Reserve Building.",
+            "directors": "John McTiernan",
+            "stars": "Bruce Willis, Jeremy Irons, Samuel L. Jackson",
+            "genres": "Action, Adventure, Thriller",
+            "imDbRating": "7.6"
+        },
+        {
+            "id": "tt0097576",
+            "title": "Indiana Jones and the Last Crusade",
+            "fullTitle": "Indiana Jones and the Last Crusade (1989)",
+            "year": "1989",
+            "image": "https://imdb-api.com/images/original/MV5BMjNkMzc2N2QtNjVlNS00ZTk5LTg0MTgtODY2MDAwNTMwZjBjXkEyXkFqcGdeQXVyNDk3NzU2MTQ@._V1_Ratio0.6737_AL_.jpg",
+            "plot": "In 1938, after his father Professor Henry Jones, Sr. goes missing while pursuing the Holy Grail, Professor Henry \"Indiana\" Jones, Jr. finds himself up against Adolf Hitler's Nazis again to stop them from obtaining its powers.",
+            "directors": "Steven Spielberg",
+            "stars": "Harrison Ford, Sean Connery, Alison Doody",
+            "genres": "Action, Adventure",
+            "imDbRating": "8.2"
+        },
+        {
+            "id": "tt0082971",
+            "title": "Indiana Jones and the Raiders of the Lost Ark",
+            "fullTitle": "Indiana Jones and the Raiders of the Lost Ark (1981)",
+            "year": "1981",
+            "image": "https://imdb-api.com/images/original/MV5BMjA0ODEzMTc1Nl5BMl5BanBnXkFtZTcwODM2MjAxNA@@._V1_Ratio0.6737_AL_.jpg",
+            "plot": "In 1936, archaeologist and adventurer Indiana Jones is hired by the U.S. government to find the Ark of the Covenant before Adolf Hitler's Nazis can obtain its awesome powers.",
+            "directors": "Steven Spielberg",
+            "stars": "Harrison Ford, Karen Allen, Paul Freeman",
+            "genres": "Action, Adventure",
+            "imDbRating": "8.4"
+        },
+        {
+            "id": "tt0337978",
+            "title": "Live Free or Die Hard",
+            "fullTitle": "Live Free or Die Hard (2007)",
+            "year": "2007",
+            "image": "https://imdb-api.com/images/original/MV5BNDQxMDE1OTg4NV5BMl5BanBnXkFtZTcwMTMzOTQzMw@@._V1_Ratio0.6737_AL_.jpg",
+            "plot": "John McClane and a young hacker join forces to take down master cyber-terrorist Thomas Gabriel in Washington D.C.",
+            "directors": "Len Wiseman",
+            "stars": "Bruce Willis, Justin Long, Timothy Olyphant",
+            "genres": "Action, Thriller",
+            "imDbRating": "7.1"
+        },
+        {
+            "id": "tt0107290",
+            "title": "Jurassic Park",
+            "fullTitle": "Jurassic Park (1993)",
+            "year": "1993",
+            "image": "https://imdb-api.com/images/original/MV5BMjM2MDgxMDg0Nl5BMl5BanBnXkFtZTgwNTM2OTM5NDE@._V1_Ratio0.6737_AL_.jpg",
+            "plot": "A pragmatic paleontologist visiting an almost complete theme park is tasked with protecting a couple of kids after a power failure causes the park's cloned dinosaurs to run loose.",
+            "directors": "Steven Spielberg",
+            "stars": "Sam Neill, Laura Dern, Jeff Goldblum",
+            "genres": "Action, Adventure, Sci-Fi",
+            "imDbRating": "8.1"
+        },
+        {
+            "id": "tt0103064",
+            "title": "Terminator 2: Judgment Day",
+            "fullTitle": "Terminator 2: Judgment Day (1991)",
+            "year": "1991",
+            "image": "https://imdb-api.com/images/original/MV5BMGU2NzRmZjUtOGUxYS00ZjdjLWEwZWItY2NlM2JhNjkxNTFmXkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_Ratio0.6737_AL_.jpg",
+            "plot": "A cyborg, identical to the one who failed to kill Sarah Connor, must now protect her ten year old son, John Connor, from a more advanced and powerful cyborg.",
+            "directors": "James Cameron",
+            "stars": "Arnold Schwarzenegger, Linda Hamilton, Edward Furlong",
+            "genres": "Action, Sci-Fi",
+            "imDbRating": "8.5"
+        },
+        {
+            "id": "tt0167404",
+            "title": "The Sixth Sense",
+            "fullTitle": "The Sixth Sense (1999)",
+            "year": "1999",
+            "image": "https://imdb-api.com/images/original/MV5BMWM4NTFhYjctNzUyNi00NGMwLTk3NTYtMDIyNTZmMzRlYmQyXkEyXkFqcGdeQXVyMTAwMzUyOTc@._V1_Ratio0.6737_AL_.jpg",
+            "plot": "A boy who communicates with spirits seeks the help of a disheartened child psychologist.",
+            "directors": "M. Night Shyamalan",
+            "stars": "Bruce Willis, Haley Joel Osment, Toni Collette",
+            "genres": "Drama, Mystery, Thriller",
+            "imDbRating": "8.1"
+        },
+        {
+            "id": "tt0088763",
+            "title": "Back to the Future",
+            "fullTitle": "Back to the Future (1985)",
+            "year": "1985",
+            "image": "https://imdb-api.com/images/original/MV5BZmU0M2Y1OGUtZjIxNi00ZjBkLTg1MjgtOWIyNThiZWIwYjRiXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_Ratio0.6737_AL_.jpg",
+            "plot": "Marty McFly, a 17-year-old high school student, is accidentally sent thirty years into the past in a time-traveling DeLorean invented by his close friend, the eccentric scientist Doc Brown.",
+            "directors": "Robert Zemeckis",
+            "stars": "Michael J. Fox, Christopher Lloyd, Lea Thompson",
+            "genres": "Adventure, Comedy, Sci-Fi",
+            "imDbRating": "8.5"
+        },
+        {
+            "id": "tt0086190",
+            "title": "Star Wars: Episode VI - Return of the Jedi",
+            "fullTitle": "Star Wars: Episode VI - Return of the Jedi (1983)",
+            "year": "1983",
+            "image": "https://imdb-api.com/images/original/MV5BOWZlMjFiYzgtMTUzNC00Y2IzLTk1NTMtZmNhMTczNTk0ODk1XkEyXkFqcGdeQXVyNTAyODkwOQ@@._V1_Ratio0.6737_AL_.jpg",
+            "plot": "After a daring mission to rescue Han Solo from Jabba the Hutt, the Rebels dispatch to Endor to destroy the second Death Star. Meanwhile, Luke struggles to help Darth Vader back from the dark side without falling into the Emperor's trap.",
+            "directors": "Richard Marquand",
+            "stars": "Mark Hamill, Harrison Ford, Carrie Fisher",
+            "genres": "Action, Adventure, Fantasy",
+            "imDbRating": "8.3"
+        },
+        {
+            "id": "tt0078748",
+            "title": "Alien",
+            "fullTitle": "Alien (1979)",
+            "year": "1979",
+            "image": "https://imdb-api.com/images/original/MV5BMmQ2MmU3NzktZjAxOC00ZDZhLTk4YzEtMDMyMzcxY2IwMDAyXkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_Ratio0.6737_AL_.jpg",
+            "plot": "After a space merchant vessel receives an unknown transmission as a distress call, one of the crew is attacked by a mysterious life form and they soon realize that its life cycle has merely begun.",
+            "directors": "Ridley Scott",
+            "stars": "Sigourney Weaver, Tom Skerritt, John Hurt",
+            "genres": "Horror, Sci-Fi",
+            "imDbRating": "8.4"
+        },
+        {
+            "id": "tt0075148",
+            "title": "Rocky",
+            "fullTitle": "Rocky (1976)",
+            "year": "1976",
+            "image": "https://imdb-api.com/images/original/MV5BMTY5MDMzODUyOF5BMl5BanBnXkFtZTcwMTQ3NTMyNA@@._V1_Ratio0.6737_AL_.jpg",
+            "plot": "A small-time boxer gets a supremely rare chance to fight a heavyweight champion in a bout in which he strives to go the distance for his self-respect.",
+            "directors": "John G. Avildsen",
+            "stars": "Sylvester Stallone, Talia Shire, Burt Young",
+            "genres": "Drama, Sport",
+            "imDbRating": "8.1"
+        }
+    ],
+    "tvSeriesInfo": null,
+    "tvEpisodeInfo": null,
+    "errorMessage": ""
+}

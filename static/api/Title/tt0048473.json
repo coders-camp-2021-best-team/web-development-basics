@@ -1,0 +1,586 @@
+{
+    "id": "tt0048473",
+    "title": "Pather Panchali",
+    "originalTitle": "",
+    "fullTitle": "Pather Panchali (1955)",
+    "type": "Movie",
+    "year": "1955",
+    "image": "https://imdb-api.com/images/original/MV5BNDE5YmMxYjEtZjNjNC00NjM2LWE2ZjctOTkyNGMxODRiMGNiXkEyXkFqcGdeQXVyNTgyNTA4MjM@._V1_Ratio0.7090_AL_.jpg",
+    "releaseDate": "1955-08-26",
+    "runtimeMins": "125",
+    "runtimeStr": "2h 5min",
+    "plot": "The story of a young boy, Apu, and life in his small Indian village. His parents are quite poor - his father Harihar, a writer and poet, gave away the family's fruit orchard to settle his brother's debts. His sister Durga and an old aunt also still lives with them. His mother Sarbojaya bears the brunt of the family's situation. She scrapes by and sells her personal possessions to put food on the table and has to bear the taunts of her neighbors as Durga is always stealing fruit from their orchard. Things get worse when Harihar disappears for five months and Durga falls ill. Even after Harihar returns, the family is left with few alternatives.",
+    "plotLocal": "",
+    "plotLocalIsRtl": false,
+    "awards": "Top Rated Movies #79 | Nominated for 1 BAFTA Film Award. Another 11 wins & 1 nomination.",
+    "directors": "Satyajit Ray",
+    "directorList": [{ "id": "nm0006249", "name": "Satyajit Ray" }],
+    "writers": "Bibhutibhushan Bandyopadhyay, Satyajit Ray",
+    "writerList": [
+        { "id": "nm0051808", "name": "Bibhutibhushan Bandyopadhyay" },
+        { "id": "nm0006249", "name": "Satyajit Ray" }
+    ],
+    "stars": "Kanu Bannerjee, Karuna Bannerjee, Subir Banerjee, Chunibala Devi",
+    "starList": [
+        { "id": "nm0052333", "name": "Kanu Bannerjee" },
+        { "id": "nm0052334", "name": "Karuna Bannerjee" },
+        { "id": "nm0052343", "name": "Subir Banerjee" },
+        { "id": "nm0222447", "name": "Chunibala Devi" }
+    ],
+    "actorList": [
+        {
+            "id": "nm0052333",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Kanu Bannerjee",
+            "asCharacter": "Harihar Ray (as Kanu Bandyopadhyay)"
+        },
+        {
+            "id": "nm0052334",
+            "image": "https://imdb-api.com/images/original/MV5BMTg1MzAzMDg0OV5BMl5BanBnXkFtZTgwMjYzMTI1NTE@._V1_Ratio1.3636_AL_.jpg",
+            "name": "Karuna Bannerjee",
+            "asCharacter": "Sarbojaya Ray (as Karuna Bandopadhyay)"
+        },
+        {
+            "id": "nm0222447",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Chunibala Devi",
+            "asCharacter": "Indir Thakrun"
+        },
+        {
+            "id": "nm0201871",
+            "image": "https://imdb-api.com/images/original/MV5BMTQ5NjQzMDQyMl5BMl5BanBnXkFtZTgwNTQzMTI1NTE@._V1_Ratio1.3636_AL_.jpg",
+            "name": "Uma Das Gupta",
+            "asCharacter": "Durga (as Uma Dasgupta)"
+        },
+        {
+            "id": "nm0052343",
+            "image": "https://imdb-api.com/images/original/MV5BYzQyZjVjOTItYjg1MS00ZTE1LWI5NDMtZDAyOTQ2MGIxNjBiXkEyXkFqcGdeQXVyNDUzOTQ5MjY@._V1_Ratio1.5909_AL_.jpg",
+            "name": "Subir Banerjee",
+            "asCharacter": "Apu Ray (as Subir Bandopadhyay)"
+        },
+        {
+            "id": "nm0051846",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Runki Banerjee",
+            "asCharacter": "Little Durga (as Runki Bandopadhyay)"
+        },
+        {
+            "id": "nm0222480",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Reba Devi",
+            "asCharacter": "Seja Thakrun"
+        },
+        {
+            "id": "nm0222436",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Aparna Devi",
+            "asCharacter": "Nilmoni's wife"
+        },
+        {
+            "id": "nm0149831",
+            "image": "https://imdb-api.com/images/original/MV5BZjk2YzJhMjQtNGJiYS00NjBlLWE2MGItMjc4YjVhZDVhNWJkXkEyXkFqcGdeQXVyNDUzOTQ5MjY@._V1_Ratio0.7727_AL_.jpg",
+            "name": "Tulsi Chakraborty",
+            "asCharacter": "Prasanna, school teacher"
+        },
+        {
+            "id": "nm0051836",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Haren Banerjee",
+            "asCharacter": "Chinibas, Sweet-seller (as Haren Bandyopadhyay)"
+        },
+        {
+            "id": "nm5580026",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Rampada Das",
+            "asCharacter": ""
+        },
+        {
+            "id": "nm0222467",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Nibhanani Devi",
+            "asCharacter": "Dasi Thakurun"
+        },
+        {
+            "id": "nm0304346",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Rama Gangopadhaya",
+            "asCharacter": "Ranu Mookerjee"
+        },
+        {
+            "id": "nm0304351",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Roma Ganguli",
+            "asCharacter": "Roma (as Rama Gangopadhyay)"
+        },
+        {
+            "id": "nm0611518",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Binoy Mukherjee",
+            "asCharacter": "Baidyanath Majumdar (as Binoy Mukhopadhyay)"
+        }
+    ],
+    "fullCast": null,
+    "genres": "Drama",
+    "genreList": [{ "key": "Drama", "value": "Drama" }],
+    "companies": "Government of West Bengal",
+    "companyList": [{ "id": "co0035609", "name": "Government of West Bengal" }],
+    "countries": "India",
+    "countryList": [{ "key": "India", "value": "India" }],
+    "languages": "Bengali",
+    "languageList": [{ "key": "Bengali", "value": "Bengali" }],
+    "contentRating": "Not Rated",
+    "imDbRating": "8.6",
+    "imDbRatingVotes": "26094",
+    "metacriticRating": "",
+    "ratings": null,
+    "wikipedia": null,
+    "posters": {
+        "imDbId": "tt0048473",
+        "title": "Pather Panchali",
+        "fullTitle": "Pather Panchali (1955)",
+        "type": "Movie",
+        "year": "1955",
+        "posters": [
+            {
+                "id": "frZj5djlU9hFEjMcL21RJZVuG5O.jpg",
+                "link": "https://imdb-api.com/posters/original/frZj5djlU9hFEjMcL21RJZVuG5O.jpg",
+                "aspectRatio": 0.6666666666666666,
+                "language": "en",
+                "width": 2000,
+                "height": 3000
+            },
+            {
+                "id": "2L8MnPgCQ5XO3UDtZtqorMXpfUC.jpg",
+                "link": "https://imdb-api.com/posters/original/2L8MnPgCQ5XO3UDtZtqorMXpfUC.jpg",
+                "aspectRatio": 0.6666666666666666,
+                "language": "en",
+                "width": 2000,
+                "height": 3000
+            },
+            {
+                "id": "5FcLMJynFAhGGgqLsNkC61UgR2F.jpg",
+                "link": "https://imdb-api.com/posters/original/5FcLMJynFAhGGgqLsNkC61UgR2F.jpg",
+                "aspectRatio": 0.6666666666666666,
+                "language": "en",
+                "width": 1000,
+                "height": 1500
+            }
+        ],
+        "backdrops": [
+            {
+                "id": "tyy4SVwSNTrOHMzt7HxA92xdmMl.jpg",
+                "link": "https://imdb-api.com/posters/original/tyy4SVwSNTrOHMzt7HxA92xdmMl.jpg",
+                "aspectRatio": 1.7777777777777777,
+                "language": "en",
+                "width": 1600,
+                "height": 900
+            },
+            {
+                "id": "5y02tLfILTSZUBXB3kwVgxFKTRs.jpg",
+                "link": "https://imdb-api.com/posters/original/5y02tLfILTSZUBXB3kwVgxFKTRs.jpg",
+                "aspectRatio": 1.7777777777777777,
+                "language": "en",
+                "width": 1600,
+                "height": 900
+            },
+            {
+                "id": "fD1tLt47HyhOHp9qjuGQ6SUNYQI.jpg",
+                "link": "https://imdb-api.com/posters/original/fD1tLt47HyhOHp9qjuGQ6SUNYQI.jpg",
+                "aspectRatio": 1.7777777777777777,
+                "language": "en",
+                "width": 1600,
+                "height": 900
+            },
+            {
+                "id": "ibJuTdFmYGOiiUzJ5HzHU4EAuf1.jpg",
+                "link": "https://imdb-api.com/posters/original/ibJuTdFmYGOiiUzJ5HzHU4EAuf1.jpg",
+                "aspectRatio": 1.7777777777777777,
+                "language": "en",
+                "width": 1600,
+                "height": 900
+            }
+        ],
+        "errorMessage": ""
+    },
+    "images": {
+        "imDbId": "tt0048473",
+        "title": "Pather Panchali",
+        "fullTitle": "Pather Panchali (1955)",
+        "type": "Movie",
+        "year": "1955",
+        "items": [
+            {
+                "title": "Uma Das Gupta in Pather Panchali (1955)",
+                "image": "https://imdb-api.com/images/original/MV5BMTQ5NjQzMDQyMl5BMl5BanBnXkFtZTgwNTQzMTI1NTE@._V1_Ratio1.3600_AL_.jpg"
+            },
+            {
+                "title": "Subir Banerjee in Pather Panchali (1955)",
+                "image": "https://imdb-api.com/images/original/MV5BNjY4ODQxMTEyN15BMl5BanBnXkFtZTgwNjQzMTI1NTE@._V1_Ratio1.3800_AL_.jpg"
+            },
+            {
+                "title": "Subir Banerjee in Pather Panchali (1955)",
+                "image": "https://imdb-api.com/images/original/MV5BMTQ4NTUwOTk3MF5BMl5BanBnXkFtZTgwNzQzMTI1NTE@._V1_Ratio1.3600_AL_.jpg"
+            },
+            {
+                "title": "Subir Banerjee and Uma Das Gupta in Pather Panchali (1955)",
+                "image": "https://imdb-api.com/images/original/MV5BMTY1Mjk4OTc0NV5BMl5BanBnXkFtZTgwODQzMTI1NTE@._V1_Ratio1.3800_AL_.jpg"
+            },
+            {
+                "title": "Pather Panchali (1955)",
+                "image": "https://imdb-api.com/images/original/MV5BMTJlNGU2NTUtN2M1ZS00NDU1LTg0YmMtNWZhNjEzYjNkM2ExXkEyXkFqcGdeQXVyODIyOTEyMzY@._V1_Ratio1.0000_AL_.jpg"
+            },
+            {
+                "title": "Subir Banerjee and Uma Das Gupta in Pather Panchali (1955)",
+                "image": "https://imdb-api.com/images/original/MV5BZjU1ZWY5NTktNDliMC00NGFjLWE4ODUtZDJhMTgxNGI1MmVhXkEyXkFqcGdeQXVyODg0MDk2Njk@._V1_Ratio2.0000_AL_.jpg"
+            },
+            {
+                "title": "Pather Panchali (1955)",
+                "image": "https://imdb-api.com/images/original/MV5BMDQzZGNlMmEtMGJhMy00YzliLTk3MGEtYWM0NzJkZmI2YTkzXkEyXkFqcGdeQXVyODg0MDk2Njk@._V1_Ratio2.0000_AL_.jpg"
+            },
+            {
+                "title": "Pather Panchali (1955)",
+                "image": "https://imdb-api.com/images/original/MV5BNjdmOTViNzctMTI2Yi00ZDlkLTlmYzAtMjkzNDEyN2U3ZjU1XkEyXkFqcGdeQXVyODg0MDk2Njk@._V1_Ratio2.0000_AL_.jpg"
+            },
+            {
+                "title": "Pather Panchali (1955)",
+                "image": "https://imdb-api.com/images/original/MV5BOWI1OTFmZGMtNzVkNS00MzZiLTg0OWUtMjM5OTZkNzQwYmZhXkEyXkFqcGdeQXVyODg0MDk2Njk@._V1_Ratio2.0000_AL_.jpg"
+            },
+            {
+                "title": "Pather Panchali (1955)",
+                "image": "https://imdb-api.com/images/original/MV5BM2NkYTY3OGUtYWI5MC00NzYwLWFkNGUtYzFjMTdjZGQwNTRjXkEyXkFqcGdeQXVyODg0MDk2Njk@._V1_Ratio2.0000_AL_.jpg"
+            },
+            {
+                "title": "Pather Panchali (1955)",
+                "image": "https://imdb-api.com/images/original/MV5BMzFhMTgyODgtYmExYi00ZGU3LWEzN2MtODg1YTI2NmRkMTE0XkEyXkFqcGdeQXVyODg0MDk2Njk@._V1_Ratio2.0000_AL_.jpg"
+            },
+            {
+                "title": "Pather Panchali (1955)",
+                "image": "https://imdb-api.com/images/original/MV5BYmY5MmUwZmQtMDFiNy00NjRmLTkwZWQtYjhhOTg2NDA5MTYzXkEyXkFqcGdeQXVyODg0MDk2Njk@._V1_Ratio2.0000_AL_.jpg"
+            },
+            {
+                "title": "Chunibala Devi in Pather Panchali (1955)",
+                "image": "https://imdb-api.com/images/original/MV5BMGMwNmY5MWQtMWQwMC00NjJkLTgwNmEtYjM0NDU3YzU5NTNkXkEyXkFqcGdeQXVyODg0MDk2Njk@._V1_Ratio2.0000_AL_.jpg"
+            },
+            {
+                "title": "Pather Panchali (1955)",
+                "image": "https://imdb-api.com/images/original/MV5BZDgxODRjZjktM2EwYi00YzdjLWJkMWMtNDdiM2ZkNmQ5OGRkXkEyXkFqcGdeQXVyODg0MDk2Njk@._V1_Ratio2.0000_AL_.jpg"
+            },
+            {
+                "title": "Pather Panchali (1955)",
+                "image": "https://imdb-api.com/images/original/MV5BYmVhNjRiZWEtYTlhZi00Nzk4LWJmYTItYTZjYTJjNzYzN2NkXkEyXkFqcGdeQXVyODg0MDk2Njk@._V1_Ratio2.0000_AL_.jpg"
+            },
+            {
+                "title": "Pather Panchali (1955)",
+                "image": "https://imdb-api.com/images/original/MV5BYTBjMWFlNzEtNjQ3Yy00Yjk0LWIyN2YtYWJiYTA1M2NjOWIzXkEyXkFqcGdeQXVyODg0MDk2Njk@._V1_Ratio2.0000_AL_.jpg"
+            },
+            {
+                "title": "Pather Panchali (1955)",
+                "image": "https://imdb-api.com/images/original/MV5BM2M3YzIwNDYtZjM4ZS00MjYzLWI2NzktMTU2OGFkNDVhODgzXkEyXkFqcGdeQXVyODg0MDk2Njk@._V1_Ratio2.0000_AL_.jpg"
+            },
+            {
+                "title": "Pather Panchali (1955)",
+                "image": "https://imdb-api.com/images/original/MV5BMjFlZWMwYjAtZGRjNy00MGM1LThmZWQtYzg0Y2ExODE4ZDBkXkEyXkFqcGdeQXVyODg0MDk2Njk@._V1_Ratio2.0000_AL_.jpg"
+            },
+            {
+                "title": "Pather Panchali (1955)",
+                "image": "https://imdb-api.com/images/original/MV5BYWVmMTEwZGItNzIzNy00YzBlLTg4NmMtMDcwMDI1M2RkODI5XkEyXkFqcGdeQXVyODg0MDk2Njk@._V1_Ratio2.0000_AL_.jpg"
+            },
+            {
+                "title": "Pather Panchali (1955)",
+                "image": "https://imdb-api.com/images/original/MV5BYTQ5Y2ZlZjAtZWQ2Ni00YzU1LWJlZTAtZjAyZjczODEyMWFhXkEyXkFqcGdeQXVyODg0MDk2Njk@._V1_Ratio2.0000_AL_.jpg"
+            },
+            {
+                "title": "Karuna Bannerjee in Pather Panchali (1955)",
+                "image": "https://imdb-api.com/images/original/MV5BODM4NTljNGUtOWQxZi00MzU5LTk3Y2EtM2ZlMjY3MzJjNTQxXkEyXkFqcGdeQXVyODg0MDk2Njk@._V1_Ratio2.0000_AL_.jpg"
+            },
+            {
+                "title": "Kanu Bannerjee in Pather Panchali (1955)",
+                "image": "https://imdb-api.com/images/original/MV5BYmJiNGNiZjktZGI2Mi00NjRkLWI3YjctMWJiMzdhNmJlZTdlXkEyXkFqcGdeQXVyODg0MDk2Njk@._V1_Ratio2.0000_AL_.jpg"
+            },
+            {
+                "title": "Subir Banerjee in Pather Panchali (1955)",
+                "image": "https://imdb-api.com/images/original/MV5BMGNhZGI4YTctZjRhNC00N2JjLTg0NjItOWRhNTllOGM0MWFhXkEyXkFqcGdeQXVyODg0MDk2Njk@._V1_Ratio2.0000_AL_.jpg"
+            },
+            {
+                "title": "Pather Panchali (1955)",
+                "image": "https://imdb-api.com/images/original/MV5BMTk3MmI3YjYtZDBkZC00YTY0LWIzMTEtZGY3MjhhYWU0NGYwXkEyXkFqcGdeQXVyODg0MDk2Njk@._V1_Ratio2.0000_AL_.jpg"
+            },
+            {
+                "title": "Uma Das Gupta in Pather Panchali (1955)",
+                "image": "https://imdb-api.com/images/original/MV5BMmM5MTE2ZjAtMGQwNy00YjFiLTg5MDctOTIyZTE4N2NkOGQ4XkEyXkFqcGdeQXVyNjk3MjI4NDg@._V1_Ratio1.7800_AL_.jpg"
+            },
+            {
+                "title": "Karuna Bannerjee in Pather Panchali (1955)",
+                "image": "https://imdb-api.com/images/original/MV5BMjY5ZmE0MTUtNGE4ZC00NWU1LTlhOTctYTcyMjkxY2FjNjM1XkEyXkFqcGdeQXVyMTA2ODMzMDU@._V1_Ratio1.7800_AL_.jpg"
+            },
+            {
+                "title": "Karuna Bannerjee, Subir Banerjee, and Uma Das Gupta in Pather Panchali (1955)",
+                "image": "https://imdb-api.com/images/original/MV5BMzI4NTg3MjUtNTk0Ni00ZDIwLTg2NWEtZWVlMGMzMzIzZmI4XkEyXkFqcGdeQXVyMTA2ODMzMDU@._V1_Ratio1.3000_AL_.jpg"
+            },
+            {
+                "title": "Uma Das Gupta in Pather Panchali (1955)",
+                "image": "https://imdb-api.com/images/original/MV5BZWJmMTViYzAtZjBlZi00MGMxLWJiZTgtMjM4MGQ5Njc1MjgyXkEyXkFqcGdeQXVyMTA2ODMzMDU@._V1_Ratio1.5000_AL_.jpg"
+            },
+            {
+                "title": "Karuna Bannerjee, Subir Banerjee, and Uma Das Gupta in Pather Panchali (1955)",
+                "image": "https://imdb-api.com/images/original/MV5BZTE4MzYyNmUtOTU1Ny00MTZmLWJkNjEtMWVlMDE0Y2NkOGE4XkEyXkFqcGdeQXVyMTA2ODMzMDU@._V1_Ratio1.2600_AL_.jpg"
+            },
+            {
+                "title": "Subir Banerjee in Pather Panchali (1955)",
+                "image": "https://imdb-api.com/images/original/MV5BNDYwNjc4YWQtMzEwNS00NjA5LWE1YTUtYzg2Y2I2ZTdiZDY4XkEyXkFqcGdeQXVyMTA2ODMzMDU@._V1_Ratio1.3200_AL_.jpg"
+            },
+            {
+                "title": "Runki Banerjee in Pather Panchali (1955)",
+                "image": "https://imdb-api.com/images/original/MV5BM2JiZmQxZWYtOGM3ZS00YmFiLTljODAtMWM1NjIzNDlhOGI1XkEyXkFqcGdeQXVyMTA2ODMzMDU@._V1_Ratio1.2400_AL_.jpg"
+            },
+            {
+                "title": "Uma Das Gupta in Pather Panchali (1955)",
+                "image": "https://imdb-api.com/images/original/MV5BODNjZGU2ZmUtNzZjNy00YjEwLTg0MTEtOWFlNGQ4MTVlNWM3XkEyXkFqcGdeQXVyMTA2ODMzMDU@._V1_Ratio1.3400_AL_.jpg"
+            },
+            {
+                "title": "Kanu Bannerjee, Karuna Bannerjee, and Subir Banerjee in Pather Panchali (1955)",
+                "image": "https://imdb-api.com/images/original/MV5BOWEyMjdhZWItODk0OS00ZWRhLTg0NTAtYzg0OTI0ZTA3MjAzXkEyXkFqcGdeQXVyMjM2NjU5Njg@._V1_Ratio1.7800_AL_.jpg"
+            },
+            {
+                "title": "Uma Das Gupta in Pather Panchali (1955)",
+                "image": "https://imdb-api.com/images/original/MV5BZTA5YzU1MzQtMmExZS00NWJlLWFmZGUtMWVkY2RiNTNjYzk1XkEyXkFqcGdeQXVyMjM2NjU5Njg@._V1_Ratio1.5000_AL_.jpg"
+            },
+            {
+                "title": "Uma Das Gupta and Chunibala Devi in Pather Panchali (1955)",
+                "image": "https://imdb-api.com/images/original/MV5BYmE1YTU4NjUtOTVhOS00NmZiLThiMGMtMDdkMDhjNjkxOTE3XkEyXkFqcGdeQXVyMjM2NjU5Njg@._V1_Ratio1.4000_AL_.jpg"
+            },
+            {
+                "title": "Subir Banerjee in Pather Panchali (1955)",
+                "image": "https://imdb-api.com/images/original/MV5BYzQyZjVjOTItYjg1MS00ZTE1LWI5NDMtZDAyOTQ2MGIxNjBiXkEyXkFqcGdeQXVyNDUzOTQ5MjY@._V1_Ratio1.6000_AL_.jpg"
+            },
+            {
+                "title": "Pather Panchali (1955)",
+                "image": "https://imdb-api.com/images/original/MV5BMWU2NGY3YzktNjJkYi00YjM3LTg3OWUtZjg1NThjMjA2ZmIxXkEyXkFqcGdeQXVyNTgyNTA4MjM@._V1_Ratio1.0000_AL_.jpg"
+            },
+            {
+                "title": "Pather Panchali (1955)",
+                "image": "https://imdb-api.com/images/original/MV5BNGQzNDY2NzgtODFhMy00NDdmLTg0MTMtY2IwMDEwZmI1OTM3XkEyXkFqcGdeQXVyNTgyNTA4MjM@._V1_Ratio1.0000_AL_.jpg"
+            },
+            {
+                "title": "Pather Panchali (1955)",
+                "image": "https://imdb-api.com/images/original/MV5BNWZmNjJlMjAtMjJmMi00NGUzLThjOTgtN2I2N2E0ODNlZDBiXkEyXkFqcGdeQXVyODg0MDk2Njk@._V1_Ratio2.0000_AL_.jpg"
+            },
+            {
+                "title": "Satyajit Ray in Pather Panchali (1955)",
+                "image": "https://imdb-api.com/images/original/MV5BNmE1Nzk1MDAtODM5ZS00NGQyLTgwYTMtZDUzYmE1MWFlZGMyXkEyXkFqcGdeQXVyMTA2ODMzMDU@._V1_Ratio1.5000_AL_.jpg"
+            },
+            {
+                "title": "Satyajit Ray in Pather Panchali (1955)",
+                "image": "https://imdb-api.com/images/original/MV5BZjRiODI1MGUtYTM2Yi00MmEzLWEwNmQtZmYwZjA2NjkwZDIzXkEyXkFqcGdeQXVyMTA2ODMzMDU@._V1_Ratio1.4000_AL_.jpg"
+            },
+            {
+                "title": "Satyajit Ray and Karuna Bannerjee in Pather Panchali (1955)",
+                "image": "https://imdb-api.com/images/original/MV5BOGJiZTQyMjktZmU5OS00MjFlLTg5ZDMtMmM0ZDA0NzJhOTI5XkEyXkFqcGdeQXVyMTA2ODMzMDU@._V1_Ratio1.4800_AL_.jpg"
+            },
+            {
+                "title": "Satyajit Ray in Pather Panchali (1955)",
+                "image": "https://imdb-api.com/images/original/MV5BMjU0YmQ4MDAtYmZmOC00ZTAxLWEyNjItZDdlOThmMThjOTMwXkEyXkFqcGdeQXVyMjM2NjU5Njg@._V1_Ratio1.7600_AL_.jpg"
+            },
+            {
+                "title": "Satyajit Ray in Pather Panchali (1955)",
+                "image": "https://imdb-api.com/images/original/MV5BN2QyMDkzMWEtZmI3OS00MTIzLWI2MWItZmY3ZDY5ZjE3ZWI2XkEyXkFqcGdeQXVyNDUzOTQ5MjY@._V1_Ratio1.4800_AL_.jpg"
+            },
+            {
+                "title": "Subir Banerjee and Uma Das Gupta at an event for Pather Panchali (1955)",
+                "image": "https://imdb-api.com/images/original/MV5BNTI2M2YyYzItN2VjOC00YWJhLThlZTktYTM3MzkwNWQyYTc5XkEyXkFqcGdeQXVyMzkwNzk5Nzc@._V1_Ratio1.3600_AL_.jpg"
+            },
+            {
+                "title": "Runki Banerjee at an event for Pather Panchali (1955)",
+                "image": "https://imdb-api.com/images/original/MV5BMTNkNWFjODItNjNhYS00MzY2LTkxMDAtNTdlMjJjMmE1ODc3XkEyXkFqcGdeQXVyMzkwNzk5Nzc@._V1_Ratio1.4000_AL_.jpg"
+            },
+            {
+                "title": "Subir Banerjee at an event for Pather Panchali (1955)",
+                "image": "https://imdb-api.com/images/original/MV5BZWZiYjUxMDgtNDc3ZS00MTM0LWE2ZjctZDEzZWZhMTNhNjFmXkEyXkFqcGdeQXVyMzkwNzk5Nzc@._V1_Ratio1.3600_AL_.jpg"
+            },
+            {
+                "title": "Runki Banerjee in Pather Panchali (1955)",
+                "image": "https://imdb-api.com/images/original/MV5BODI4MWU3MzctMDU4OS00MTRhLTlhNWYtNGVlMDY2YzI1MjIyXkEyXkFqcGdeQXVyODg0MDk2Njk@._V1_Ratio2.0000_AL_.jpg"
+            }
+        ],
+        "errorMessage": ""
+    },
+    "trailer": {
+        "imDbId": "tt0048473",
+        "title": "Pather Panchali",
+        "fullTitle": "Pather Panchali (1955)",
+        "type": "Movie",
+        "year": "1955",
+        "videoId": "vi3114774553",
+        "videoTitle": "Apu Trilogy",
+        "videoDescription": "Apu Trilogy",
+        "thumbnailUrl": "https://m.media-amazon.com/images/M/MV5BMTg1OTg5NTYxN15BMl5BanBnXkFtZTgwNDA4MjY1NTE@._V1_.jpg",
+        "uploadDate": "05/02/2015 10:44:21",
+        "link": "https://www.imdb.com/video/vi3114774553",
+        "linkEmbed": "https://www.imdb.com/video/imdb/vi3114774553/imdb/embed",
+        "errorMessage": ""
+    },
+    "boxOffice": {
+        "budget": "",
+        "openingWeekendUSA": "$16,064, 10 May 2015",
+        "grossUSA": "$134,241",
+        "cumulativeWorldwideGross": "$135,342"
+    },
+    "tagline": "The Saga of an Indian Family",
+    "keywords": "village,leaving home,first part,rural setting,family relationships",
+    "keywordList": [
+        "village",
+        "leaving home",
+        "first part",
+        "rural setting",
+        "family relationships"
+    ],
+    "similars": [
+        {
+            "id": "tt0052572",
+            "title": "The World of Apu",
+            "fullTitle": "The World of Apu (1959)",
+            "year": "1959",
+            "image": "https://imdb-api.com/images/original/MV5BN2VlOGI5N2MtMjcwMS00MTQ2LWFmMTEtNDlmMzllOGQ2M2E3XkEyXkFqcGdeQXVyMTMzNzYyNTM0._V1_Ratio0.6737_AL_.jpg",
+            "plot": "This final installment in Satyajit Ray's Apu Trilogy follows Apu's life as an orphaned adult aspiring to be a writer.",
+            "directors": "Satyajit Ray",
+            "stars": "Soumitra Chatterjee, Sharmila Tagore, Alok Chakravarty",
+            "genres": "Drama",
+            "imDbRating": "8.5"
+        },
+        {
+            "id": "tt0048956",
+            "title": "Aparajito",
+            "fullTitle": "Aparajito (1956)",
+            "year": "1956",
+            "image": "https://imdb-api.com/images/original/MV5BNjk3MjA0ZWMtYjExMS00MjM1LWI4MjMtZDk2NzQ1NTY1MGY1XkEyXkFqcGdeQXVyMTMzNzYyNTM0._V1_Ratio0.6737_AL_.jpg",
+            "plot": "Following his father's death, a boy leaves home to study in Calcutta, while his mother must face a life alone.",
+            "directors": "Satyajit Ray",
+            "stars": "Pinaki Sengupta, Smaran Ghosal, Kamala Adhikari",
+            "genres": "Drama",
+            "imDbRating": "8.4"
+        },
+        {
+            "id": "tt0060742",
+            "title": "Nayak: The Hero",
+            "fullTitle": "Nayak: The Hero (1966)",
+            "year": "1966",
+            "image": "https://imdb-api.com/images/original/MV5BYzBmYTI3ZWMtMTBlOS00M2JhLThiNDQtYjQ3ZWM4MzNkYjE1XkEyXkFqcGdeQXVyNTgyNTA4MjM@._V1_Ratio0.7158_AL_.jpg",
+            "plot": "En route to Delhi to receive an award, a Bengali film star reevaluates his success through his fellow passengers, dreams and past experiences.",
+            "directors": "Satyajit Ray",
+            "stars": "Uttam Kumar, Sharmila Tagore, Bireswar Sen",
+            "genres": "Drama",
+            "imDbRating": "8.3"
+        },
+        {
+            "id": "tt0057935",
+            "title": "Charulata",
+            "fullTitle": "Charulata (1964)",
+            "year": "1964",
+            "image": "https://imdb-api.com/images/original/MV5BNzE1NjhiMDktOWE1ZS00YmQ3LWFjM2UtMDYzZjEyZWZkZWZjXkEyXkFqcGdeQXVyNDUzOTQ5MjY@._V1_Ratio0.6737_AL_.jpg",
+            "plot": "The lonely wife of a newspaper editor falls in love with her visiting cousin-in-law, who shares her love for literature.",
+            "directors": "Satyajit Ray",
+            "stars": "Soumitra Chatterjee, Madhabi Mukherjee, Shailen Mukherjee",
+            "genres": "Drama, Romance",
+            "imDbRating": "8.2"
+        },
+        {
+            "id": "tt12361178",
+            "title": "Drishyam 2",
+            "fullTitle": "Drishyam 2 (2021)",
+            "year": "2021",
+            "image": "https://imdb-api.com/images/original/MV5BM2RiZDVjYWEtZGNhYy00ZGU0LTgwZjMtZTJmNmMyNGQ5NGYyXkEyXkFqcGdeQXVyNjY1MTg4Mzc@._V1_Ratio0.6737_AL_.jpg",
+            "plot": "A gripping tale of an investigation and a family which is threatened by it. Will Georgekutty be able to protect his family this time?",
+            "directors": "Jeethu Joseph",
+            "stars": "Mohanlal, Meena, Ansiba",
+            "genres": "Crime, Drama, Thriller",
+            "imDbRating": "8.7"
+        },
+        {
+            "id": "tt0093603",
+            "title": "Nayakan",
+            "fullTitle": "Nayakan (1987)",
+            "year": "1987",
+            "image": "https://imdb-api.com/images/original/MV5BZmFiYjJkNTEtZDdlMi00YTA5LTk1YTYtMDgxM2M2MTRmNGFhXkEyXkFqcGdeQXVyNjc5Mjg4Nzc@._V1_Ratio0.6737_AL_.jpg",
+            "plot": "A common man's struggles against a corrupt police force put him on the wrong side of the law. He becomes a don, who is loved and respected by many, but his growing power and influence exact a heavy toll.",
+            "directors": "Mani Ratnam",
+            "stars": "Kamal Haasan, Saranya Ponvannan, Delhi Ganesh",
+            "genres": "Crime, Drama",
+            "imDbRating": "8.7"
+        },
+        {
+            "id": "tt0079221",
+            "title": "Hanky Panky",
+            "fullTitle": "Hanky Panky (1979)",
+            "year": "1979",
+            "image": "https://imdb-api.com/images/original/MV5BMjA4OTczODgxNF5BMl5BanBnXkFtZTgwMDAzMTU2NDE@._V1_Ratio0.7474_AL_.jpg",
+            "plot": "A man's simple lie to secure his job escalates into more complex lies when his orthodox boss gets suspicious.",
+            "directors": "Hrishikesh Mukherjee",
+            "stars": "Amol Palekar, Bindiya Goswami, Deven Verma",
+            "genres": "Comedy, Romance",
+            "imDbRating": "8.5"
+        },
+        {
+            "id": "tt0052046",
+            "title": "The Philosopher's Stone",
+            "fullTitle": "The Philosopher's Stone (1958)",
+            "year": "1958",
+            "image": "https://imdb-api.com/images/original/MV5BZTMzMWJiMmEtY2ZlMy00OTJmLWExNjctOTYwYTQxMDk5MzM0XkEyXkFqcGdeQXVyNDUzOTQ5MjY@._V1_Ratio0.7263_AL_.jpg",
+            "plot": "An underpaid middle-aged clerk finds a 'parash pathar', a stone that changes iron to gold on touch.",
+            "directors": "Satyajit Ray",
+            "stars": "Tulsi Chakraborty, Kali Bannerjee, Ranibala",
+            "genres": "Comedy",
+            "imDbRating": "7.7"
+        },
+        {
+            "id": "tt0101279",
+            "title": "The Stranger",
+            "fullTitle": "The Stranger (1991)",
+            "year": "1991",
+            "image": "https://imdb-api.com/images/original/MV5BYzliMzVhZWMtZTFkNy00YmNlLWJkMGYtZWEyZmM2ZTVhMWQwXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_Ratio0.7053_AL_.jpg",
+            "plot": "A well-off family is paid an unexpected, and rather unwanted, visit by a man claiming to be the woman's long-lost uncle. The initial suspicion with which they greet the man slowly dissolves... See full summary »",
+            "directors": "Satyajit Ray",
+            "stars": "Utpal Dutt, Dipankar Dey, Mamata Shankar",
+            "genres": "Drama",
+            "imDbRating": "8.1"
+        },
+        {
+            "id": "tt0051792",
+            "title": "The Music Room",
+            "fullTitle": "The Music Room (1958)",
+            "year": "1958",
+            "image": "https://imdb-api.com/images/original/MV5BYjc5ZmI4MDktZDJjMi00YmYxLTgxODUtMjIxZjhmMjljODZkXkEyXkFqcGdeQXVyNTgyNTA4MjM@._V1_Ratio0.6737_AL_.jpg",
+            "plot": "Depicts the end days of a decadent zamindar (landlord) in Bengal, and his efforts to uphold his family prestige even when faced with economic adversity.",
+            "directors": "Satyajit Ray",
+            "stars": "Chhabi Biswas, Sardar Akhtar, Gangapada Basu",
+            "genres": "Drama, Music",
+            "imDbRating": "8"
+        },
+        {
+            "id": "tt0057565",
+            "title": "High and Low",
+            "fullTitle": "High and Low (1963)",
+            "year": "1963",
+            "image": "https://imdb-api.com/images/original/MV5BOTI4NTNhZDMtMWNkZi00MTRmLWJmZDQtMmJkMGVmZTEzODlhXkEyXkFqcGdeQXVyNjc1NTYyMjg@._V1_Ratio0.6737_AL_.jpg",
+            "plot": "An executive of a shoe company becomes a victim of extortion when his chauffeur's son is kidnapped and held for ransom.",
+            "directors": "Akira Kurosawa",
+            "stars": "Toshirô Mifune, Yutaka Sada, Tatsuya Nakadai",
+            "genres": "Crime, Drama, Mystery",
+            "imDbRating": "8.4"
+        },
+        {
+            "id": "tt3417422",
+            "title": "Drishyam",
+            "fullTitle": "Drishyam (2013)",
+            "year": "2013",
+            "image": "https://imdb-api.com/images/original/MV5BYmY3MzYwMGUtOWMxYS00OGVhLWFjNmUtYzlkNGVmY2ZkMjA3XkEyXkFqcGdeQXVyMTExNDQ2MTI@._V1_Ratio0.7579_AL_.jpg",
+            "plot": "A man goes to extreme lengths to save his family from punishment after the family commits an accidental crime.",
+            "directors": "Jeethu Joseph",
+            "stars": "Mohanlal, Meena, Asha Sharath",
+            "genres": "Crime, Drama, Thriller",
+            "imDbRating": "8.3"
+        }
+    ],
+    "tvSeriesInfo": null,
+    "tvEpisodeInfo": null,
+    "errorMessage": ""
+}

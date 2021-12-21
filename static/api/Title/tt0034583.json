@@ -1,0 +1,817 @@
+{
+    "id": "tt0034583",
+    "title": "Casablanca",
+    "originalTitle": "",
+    "fullTitle": "Casablanca (1942)",
+    "type": "Movie",
+    "year": "1942",
+    "image": "https://imdb-api.com/images/original/MV5BY2IzZGY2YmEtYzljNS00NTM5LTgwMzUtMzM1NjQ4NGI0OTk0XkEyXkFqcGdeQXVyNDYyMDk5MTU@._V1_Ratio0.6791_AL_.jpg",
+    "releaseDate": "1943-01-23",
+    "runtimeMins": "102",
+    "runtimeStr": "1h 42mins",
+    "plot": "The story of Rick Blaine, a cynical world-weary ex-patriate who runs a nightclub in Casablanca, Morocco during the early stages of WWII. Despite the pressure he constantly receives from the local authorities, Rick's cafe has become a kind of haven for refugees seeking to obtain illicit letters that will help them escape to America. But when Ilsa, a former lover of Rick's, and her husband, show up to his cafe one day, Rick faces a tough challenge which will bring up unforeseen complications, heartbreak and ultimately an excruciating decision to make.",
+    "plotLocal": "",
+    "plotLocalIsRtl": false,
+    "awards": "Top Rated Movies #49 | Won 3 Oscars. Another 7 wins & 9 nominations.",
+    "directors": "Michael Curtiz",
+    "directorList": [{ "id": "nm0002031", "name": "Michael Curtiz" }],
+    "writers": "Julius J. Epstein, Philip G. Epstein, Howard Koch, Murray Burnett, Joan Alison, Casey Robinson",
+    "writerList": [
+        { "id": "nm0258493", "name": "Julius J. Epstein" },
+        { "id": "nm0258525", "name": "Philip G. Epstein" },
+        { "id": "nm0462321", "name": "Howard Koch" },
+        { "id": "nm0122417", "name": "Murray Burnett" },
+        { "id": "nm0019706", "name": "Joan Alison" },
+        { "id": "nm0732452", "name": "Casey Robinson" }
+    ],
+    "stars": "Humphrey Bogart, Ingrid Bergman, Paul Henreid, Claude Rains",
+    "starList": [
+        { "id": "nm0000007", "name": "Humphrey Bogart" },
+        { "id": "nm0000006", "name": "Ingrid Bergman" },
+        { "id": "nm0002134", "name": "Paul Henreid" },
+        { "id": "nm0001647", "name": "Claude Rains" }
+    ],
+    "actorList": [
+        {
+            "id": "nm0000007",
+            "image": "https://imdb-api.com/images/original/MV5BMTIyOTE3MDM5Ml5BMl5BanBnXkFtZTYwMzA2MTM2._V1_Ratio0.7727_AL_.jpg",
+            "name": "Humphrey Bogart",
+            "asCharacter": "Rick Blaine"
+        },
+        {
+            "id": "nm0000006",
+            "image": "https://imdb-api.com/images/original/MV5BMTYzMTgzMTIwOV5BMl5BanBnXkFtZTYwNzI5MzI2._V1_Ratio0.7727_AL_.jpg",
+            "name": "Ingrid Bergman",
+            "asCharacter": "Ilsa Lund"
+        },
+        {
+            "id": "nm0002134",
+            "image": "https://imdb-api.com/images/original/MV5BMjMyOTQ0ODg1NF5BMl5BanBnXkFtZTcwMjM2MjYwOA@@._V1_Ratio0.7727_AL_.jpg",
+            "name": "Paul Henreid",
+            "asCharacter": "Victor Laszlo"
+        },
+        {
+            "id": "nm0001647",
+            "image": "https://imdb-api.com/images/original/MV5BMTQwNDc3NjQ1OF5BMl5BanBnXkFtZTcwMjQ0NjI5Nw@@._V1_Ratio0.7273_AL_.jpg",
+            "name": "Claude Rains",
+            "asCharacter": "Captain Louis Renault"
+        },
+        {
+            "id": "nm0891998",
+            "image": "https://imdb-api.com/images/original/MV5BNDQyMTk3OTM1OV5BMl5BanBnXkFtZTcwNDc5MzQ3OA@@._V1_Ratio0.7273_AL_.jpg",
+            "name": "Conrad Veidt",
+            "asCharacter": "Major Heinrich Strasser"
+        },
+        {
+            "id": "nm0002113",
+            "image": "https://imdb-api.com/images/original/MV5BOTU1MDc1NTc4MF5BMl5BanBnXkFtZTcwNTA5NDYwOA@@._V1_Ratio0.8636_AL_.jpg",
+            "name": "Sydney Greenstreet",
+            "asCharacter": "Signor Ferrari"
+        },
+        {
+            "id": "nm0000048",
+            "image": "https://imdb-api.com/images/original/MV5BMTI2MzM0ODQwOV5BMl5BanBnXkFtZTYwMjYwNjI2._V1_Ratio0.7273_AL_.jpg",
+            "name": "Peter Lorre",
+            "asCharacter": "Ugarte"
+        },
+        {
+            "id": "nm0757064",
+            "image": "https://imdb-api.com/images/original/MV5BMTA5MjU0NTczMTleQTJeQWpwZ15BbWU3MDUxOTQ2MDg@._V1_Ratio0.7273_AL_.jpg",
+            "name": "S.Z. Sakall",
+            "asCharacter": "Carl (as S.K. Sakall)"
+        },
+        {
+            "id": "nm0495495",
+            "image": "https://imdb-api.com/images/original/MV5BMTk1MjUxODQ2OF5BMl5BanBnXkFtZTgwNzUxNzE5ODE@._V1_Ratio0.7727_AL_.jpg",
+            "name": "Madeleine Lebeau",
+            "asCharacter": "Yvonne (as Madeleine LeBeau)"
+        },
+        {
+            "id": "nm0933330",
+            "image": "https://imdb-api.com/images/original/MV5BODcxOTE5MTgyNl5BMl5BanBnXkFtZTcwNzg4NDYwOA@@._V1_Ratio0.7727_AL_.jpg",
+            "name": "Dooley Wilson",
+            "asCharacter": "Sam"
+        },
+        {
+            "id": "nm0656226",
+            "image": "https://imdb-api.com/images/original/MV5BMTcyNDA0MzE3Nl5BMl5BanBnXkFtZTcwNDY4NDYzMQ@@._V1_Ratio0.7273_AL_.jpg",
+            "name": "Joy Page",
+            "asCharacter": "Annina Brandel"
+        },
+        {
+            "id": "nm0702798",
+            "image": "https://imdb-api.com/images/original/MV5BMjEyNjg1NTM5Ml5BMl5BanBnXkFtZTcwNjkxNzYxOA@@._V1_Ratio0.7273_AL_.jpg",
+            "name": "John Qualen",
+            "asCharacter": "Berger"
+        },
+        {
+            "id": "nm0455893",
+            "image": "https://imdb-api.com/images/original/MV5BYmY2YTUzMDgtOGVmYS00Yjc4LWE5ZWUtM2FhNjc5ZWEzZDljXkEyXkFqcGdeQXVyMDMxMjQwMw@@._V1_Ratio0.7273_AL_.jpg",
+            "name": "Leonid Kinskey",
+            "asCharacter": "Sascha"
+        },
+        {
+            "id": "nm0092290",
+            "image": "https://imdb-api.com/images/original/MV5BYWM2NzNmZTctYjJkNi00YjBjLWIyMjgtNjMyMWYxNDZlZmI0XkEyXkFqcGdeQXVyNTk5NzQ5Ng@@._V1_Ratio1.2727_AL_.jpg",
+            "name": "Curt Bois",
+            "asCharacter": "Pickpocket"
+        }
+    ],
+    "fullCast": null,
+    "genres": "Drama, Romance, War",
+    "genreList": [
+        { "key": "Drama", "value": "Drama" },
+        { "key": "Romance", "value": "Romance" },
+        { "key": "War", "value": "War" }
+    ],
+    "companies": "Warner Bros.",
+    "companyList": [{ "id": "co0002663", "name": "Warner Bros." }],
+    "countries": "USA",
+    "countryList": [{ "key": "USA", "value": "USA" }],
+    "languages": "English, French, German, Italian",
+    "languageList": [
+        { "key": "English", "value": "English" },
+        { "key": "French", "value": "French" },
+        { "key": "German", "value": "German" },
+        { "key": "Italian", "value": "Italian" }
+    ],
+    "contentRating": "PG",
+    "imDbRating": "8.5",
+    "imDbRatingVotes": "528373",
+    "metacriticRating": "100",
+    "ratings": null,
+    "wikipedia": null,
+    "posters": {
+        "imDbId": "tt0034583",
+        "title": "Casablanca",
+        "fullTitle": "Casablanca (1942)",
+        "type": "Movie",
+        "year": "1942",
+        "posters": [
+            {
+                "id": "5K7cOHoay2mZusSLezBOY0Qxh8a.jpg",
+                "link": "https://imdb-api.com/posters/original/5K7cOHoay2mZusSLezBOY0Qxh8a.jpg",
+                "aspectRatio": 0.6666666666666666,
+                "language": "en",
+                "width": 1000,
+                "height": 1500
+            },
+            {
+                "id": "pQjUifS7GXimKOtRwPf8nXWw1bd.jpg",
+                "link": "https://imdb-api.com/posters/original/pQjUifS7GXimKOtRwPf8nXWw1bd.jpg",
+                "aspectRatio": 0.6666666666666666,
+                "language": "en",
+                "width": 1200,
+                "height": 1800
+            },
+            {
+                "id": "lGCEKlJo2CnWydQj7aamY7s1S7Q.jpg",
+                "link": "https://imdb-api.com/posters/original/lGCEKlJo2CnWydQj7aamY7s1S7Q.jpg",
+                "aspectRatio": 0.6666666666666666,
+                "language": "en",
+                "width": 2000,
+                "height": 3000
+            },
+            {
+                "id": "uECNe5EolG7l9HxDmwl6NDt0vuI.jpg",
+                "link": "https://imdb-api.com/posters/original/uECNe5EolG7l9HxDmwl6NDt0vuI.jpg",
+                "aspectRatio": 0.6666666666666666,
+                "language": "en",
+                "width": 1000,
+                "height": 1500
+            },
+            {
+                "id": "am75sozznAGR4Q93OumO80QNgiF.jpg",
+                "link": "https://imdb-api.com/posters/original/am75sozznAGR4Q93OumO80QNgiF.jpg",
+                "aspectRatio": 0.6666666666666666,
+                "language": "en",
+                "width": 1236,
+                "height": 1854
+            },
+            {
+                "id": "m9tut4CqlBUWwnWQIu90pZB7Hn0.jpg",
+                "link": "https://imdb-api.com/posters/original/m9tut4CqlBUWwnWQIu90pZB7Hn0.jpg",
+                "aspectRatio": 0.6666666666666666,
+                "language": "en",
+                "width": 2000,
+                "height": 3000
+            },
+            {
+                "id": "iXZrXBfh4G99pH9g3iTPvaLTJmv.jpg",
+                "link": "https://imdb-api.com/posters/original/iXZrXBfh4G99pH9g3iTPvaLTJmv.jpg",
+                "aspectRatio": 0.6669098869025903,
+                "language": "en",
+                "width": 1828,
+                "height": 2741
+            },
+            {
+                "id": "gcZYjQyNg37BLaBOkbqDQR6tPng.jpg",
+                "link": "https://imdb-api.com/posters/original/gcZYjQyNg37BLaBOkbqDQR6tPng.jpg",
+                "aspectRatio": 0.6666666666666666,
+                "language": "en",
+                "width": 1916,
+                "height": 2874
+            },
+            {
+                "id": "oIvRrHDHXOnEiR4vgio5pb2d9Nm.jpg",
+                "link": "https://imdb-api.com/posters/original/oIvRrHDHXOnEiR4vgio5pb2d9Nm.jpg",
+                "aspectRatio": 0.6667899408284024,
+                "language": "en",
+                "width": 1803,
+                "height": 2704
+            },
+            {
+                "id": "saxjui6epX9dUf7Z7G9U7HuPhqz.jpg",
+                "link": "https://imdb-api.com/posters/original/saxjui6epX9dUf7Z7G9U7HuPhqz.jpg",
+                "aspectRatio": 0.6666666666666666,
+                "language": "en",
+                "width": 2000,
+                "height": 3000
+            },
+            {
+                "id": "AchjK0rBHt7Ddu0zqzMUlYk6FfB.jpg",
+                "link": "https://imdb-api.com/posters/original/AchjK0rBHt7Ddu0zqzMUlYk6FfB.jpg",
+                "aspectRatio": 0.6666666666666666,
+                "language": "en",
+                "width": 2000,
+                "height": 3000
+            },
+            {
+                "id": "uGwaGjJVJBbCv5sIIsmYf09RqHz.jpg",
+                "link": "https://imdb-api.com/posters/original/uGwaGjJVJBbCv5sIIsmYf09RqHz.jpg",
+                "aspectRatio": 0.6752037252619325,
+                "language": "en",
+                "width": 580,
+                "height": 859
+            },
+            {
+                "id": "oyGRZVIthHJjc98ekKpeWpDh8Ws.jpg",
+                "link": "https://imdb-api.com/posters/original/oyGRZVIthHJjc98ekKpeWpDh8Ws.jpg",
+                "aspectRatio": 0.6666666666666666,
+                "language": "en",
+                "width": 960,
+                "height": 1440
+            },
+            {
+                "id": "6PijtxF6DUUVs3OoLVnYavYWbxS.jpg",
+                "link": "https://imdb-api.com/posters/original/6PijtxF6DUUVs3OoLVnYavYWbxS.jpg",
+                "aspectRatio": 0.6666666666666666,
+                "language": "en",
+                "width": 1600,
+                "height": 2400
+            }
+        ],
+        "backdrops": [
+            {
+                "id": "bln0pnieTax3KrEpG5ZjN3fi1sw.jpg",
+                "link": "https://imdb-api.com/posters/original/bln0pnieTax3KrEpG5ZjN3fi1sw.jpg",
+                "aspectRatio": 1.7777777777777777,
+                "language": "en",
+                "width": 1920,
+                "height": 1080
+            },
+            {
+                "id": "wOfzdzC0QZyhUIlyjeMuUYSb8Ax.jpg",
+                "link": "https://imdb-api.com/posters/original/wOfzdzC0QZyhUIlyjeMuUYSb8Ax.jpg",
+                "aspectRatio": 1.7777777777777777,
+                "language": "en",
+                "width": 2000,
+                "height": 1125
+            },
+            {
+                "id": "mc26tzMwoNMntP1wgUGJ5RMVanB.jpg",
+                "link": "https://imdb-api.com/posters/original/mc26tzMwoNMntP1wgUGJ5RMVanB.jpg",
+                "aspectRatio": 1.7776523702031604,
+                "language": "en",
+                "width": 1575,
+                "height": 886
+            },
+            {
+                "id": "rrsG3xYrWifoduZtsIZ4ntoDfBY.jpg",
+                "link": "https://imdb-api.com/posters/original/rrsG3xYrWifoduZtsIZ4ntoDfBY.jpg",
+                "aspectRatio": 1.7777777777777777,
+                "language": "en",
+                "width": 1920,
+                "height": 1080
+            },
+            {
+                "id": "hyYMXtGhKJbHzqZUZyojzdaTTO2.jpg",
+                "link": "https://imdb-api.com/posters/original/hyYMXtGhKJbHzqZUZyojzdaTTO2.jpg",
+                "aspectRatio": 1.7777777777777777,
+                "language": "en",
+                "width": 1920,
+                "height": 1080
+            },
+            {
+                "id": "pZHkItteb4oiQKfV6uDMl9PIYGL.jpg",
+                "link": "https://imdb-api.com/posters/original/pZHkItteb4oiQKfV6uDMl9PIYGL.jpg",
+                "aspectRatio": 1.7777777777777777,
+                "language": "en",
+                "width": 1920,
+                "height": 1080
+            },
+            {
+                "id": "sylXi9qVR7pgBkqyFiDHdhWKuo9.jpg",
+                "link": "https://imdb-api.com/posters/original/sylXi9qVR7pgBkqyFiDHdhWKuo9.jpg",
+                "aspectRatio": 1.7777777777777777,
+                "language": "en",
+                "width": 1920,
+                "height": 1080
+            },
+            {
+                "id": "lM3DSGEewgQM66KCEeJ79VjcrDy.jpg",
+                "link": "https://imdb-api.com/posters/original/lM3DSGEewgQM66KCEeJ79VjcrDy.jpg",
+                "aspectRatio": 1.7765237020316027,
+                "language": "en",
+                "width": 1574,
+                "height": 886
+            },
+            {
+                "id": "lruHzoBv0ZTEgC43rs9g9aEjJPI.jpg",
+                "link": "https://imdb-api.com/posters/original/lruHzoBv0ZTEgC43rs9g9aEjJPI.jpg",
+                "aspectRatio": 1.7765237020316027,
+                "language": "en",
+                "width": 1574,
+                "height": 886
+            },
+            {
+                "id": "ougnSOcz9VQumhJycLSPv9ecz7z.jpg",
+                "link": "https://imdb-api.com/posters/original/ougnSOcz9VQumhJycLSPv9ecz7z.jpg",
+                "aspectRatio": 1.7777777777777777,
+                "language": "en",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "id": "t6t4UKHUlegQIt8oE05YSw1ROOt.jpg",
+                "link": "https://imdb-api.com/posters/original/t6t4UKHUlegQIt8oE05YSw1ROOt.jpg",
+                "aspectRatio": 1.7763904653802498,
+                "language": "en",
+                "width": 1565,
+                "height": 881
+            },
+            {
+                "id": "uuMy5EQquuclcQej11mLdeQiPNO.jpg",
+                "link": "https://imdb-api.com/posters/original/uuMy5EQquuclcQej11mLdeQiPNO.jpg",
+                "aspectRatio": 1.7763904653802498,
+                "language": "en",
+                "width": 1565,
+                "height": 881
+            },
+            {
+                "id": "lddKOCOu6EaQBllJpqxuWOgvpVq.jpg",
+                "link": "https://imdb-api.com/posters/original/lddKOCOu6EaQBllJpqxuWOgvpVq.jpg",
+                "aspectRatio": 1.777710843373494,
+                "language": "en",
+                "width": 2951,
+                "height": 1660
+            },
+            {
+                "id": "pdsHeQJUjMd3ZJ1o7DFfrs92vUL.jpg",
+                "link": "https://imdb-api.com/posters/original/pdsHeQJUjMd3ZJ1o7DFfrs92vUL.jpg",
+                "aspectRatio": 1.7777777777777777,
+                "language": "en",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "id": "lonZz9uxFBDMRpjqW3RhattfwE2.jpg",
+                "link": "https://imdb-api.com/posters/original/lonZz9uxFBDMRpjqW3RhattfwE2.jpg",
+                "aspectRatio": 1.7777777777777777,
+                "language": "en",
+                "width": 1920,
+                "height": 1080
+            },
+            {
+                "id": "ipb524EGkrNotAXRpX0PH6wQR5n.jpg",
+                "link": "https://imdb-api.com/posters/original/ipb524EGkrNotAXRpX0PH6wQR5n.jpg",
+                "aspectRatio": 1.7777777777777777,
+                "language": "en",
+                "width": 1920,
+                "height": 1080
+            },
+            {
+                "id": "qOM3c2nPADz1NXnw2KkyxJJCHAn.jpg",
+                "link": "https://imdb-api.com/posters/original/qOM3c2nPADz1NXnw2KkyxJJCHAn.jpg",
+                "aspectRatio": 1.7777777777777777,
+                "language": "en",
+                "width": 1920,
+                "height": 1080
+            },
+            {
+                "id": "nEFGyS2Y9dpoGg9jdY7CIvZ4yrI.jpg",
+                "link": "https://imdb-api.com/posters/original/nEFGyS2Y9dpoGg9jdY7CIvZ4yrI.jpg",
+                "aspectRatio": 1.777509068923821,
+                "language": "en",
+                "width": 1470,
+                "height": 827
+            },
+            {
+                "id": "j65IzG43eBm44ogNiryioRcsba2.jpg",
+                "link": "https://imdb-api.com/posters/original/j65IzG43eBm44ogNiryioRcsba2.jpg",
+                "aspectRatio": 1.7777777777777777,
+                "language": "en",
+                "width": 1920,
+                "height": 1080
+            },
+            {
+                "id": "spoTSsNvuvjwXvgrU0w6TXikmdG.jpg",
+                "link": "https://imdb-api.com/posters/original/spoTSsNvuvjwXvgrU0w6TXikmdG.jpg",
+                "aspectRatio": 1.7777777777777777,
+                "language": "en",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "id": "3WJmibc0Roqtys6J79AGS67Z1SK.jpg",
+                "link": "https://imdb-api.com/posters/original/3WJmibc0Roqtys6J79AGS67Z1SK.jpg",
+                "aspectRatio": 1.7777777777777777,
+                "language": "en",
+                "width": 1280,
+                "height": 720
+            }
+        ],
+        "errorMessage": ""
+    },
+    "images": {
+        "imDbId": "tt0034583",
+        "title": "Casablanca",
+        "fullTitle": "Casablanca (1942)",
+        "type": "Movie",
+        "year": "1942",
+        "items": [
+            {
+                "title": "Ingrid Bergman, Humphrey Bogart, and Michael Curtiz in Casablanca (1942)",
+                "image": "https://imdb-api.com/images/original/MV5BNzI4MWRiODgtMTI5MS00ZDZlLTg5OWMtOTljNDk5ZWMzMTJmXkEyXkFqcGdeQXVyMDc2NTEzMw@@._V1_Ratio1.0000_AL_.jpg"
+            },
+            {
+                "title": "Humphrey Bogart and Dooley Wilson in Casablanca (1942)",
+                "image": "https://imdb-api.com/images/original/MV5BMjE2MDMxNzk0NV5BMl5BanBnXkFtZTgwMjI1MTI2NDM@._V1_Ratio1.2400_AL_.jpg"
+            },
+            {
+                "title": "Humphrey Bogart and Melie Chang in Casablanca (1942)",
+                "image": "https://imdb-api.com/images/original/MV5BMTg4ODYyODcxM15BMl5BanBnXkFtZTgwMzI1MTI2NDM@._V1_Ratio1.2600_AL_.jpg"
+            },
+            {
+                "title": "Ingrid Bergman, Humphrey Bogart, and Dooley Wilson in Casablanca (1942)",
+                "image": "https://imdb-api.com/images/original/MV5BMTkxOTc1NjI0Ml5BMl5BanBnXkFtZTgwODA1MTI2NDM@._V1_Ratio1.2400_AL_.jpg"
+            },
+            {
+                "title": "Humphrey Bogart, Claude Rains, and Conrad Veidt in Casablanca (1942)",
+                "image": "https://imdb-api.com/images/original/MV5BMTk4NDUxNzI1MV5BMl5BanBnXkFtZTgwOTA1MTI2NDM@._V1_Ratio1.2400_AL_.jpg"
+            },
+            {
+                "title": "Ingrid Bergman, Humphrey Bogart, Claude Rains, and Paul Henreid in Casablanca (1942)",
+                "image": "https://imdb-api.com/images/original/MV5BMjE2OTA3OTkxNF5BMl5BanBnXkFtZTgwMDE1MTI2NDM@._V1_Ratio1.0000_AL_.jpg"
+            },
+            {
+                "title": "Sydney Greenstreet in Casablanca (1942)",
+                "image": "https://imdb-api.com/images/original/MV5BMjA2MzY0MjU4N15BMl5BanBnXkFtZTgwMTE1MTI2NDM@._V1_Ratio1.0000_AL_.jpg"
+            },
+            {
+                "title": "Ingrid Bergman, Humphrey Bogart, Claude Rains, and Paul Henreid in Casablanca (1942)",
+                "image": "https://imdb-api.com/images/original/MV5BMzYxNjMxOTA3MV5BMl5BanBnXkFtZTgwMjE1MTI2NDM@._V1_Ratio1.2800_AL_.jpg"
+            },
+            {
+                "title": "Humphrey Bogart in Casablanca (1942)",
+                "image": "https://imdb-api.com/images/original/MV5BMTg5Mzg3MzI4Ml5BMl5BanBnXkFtZTgwMzE1MTI2NDM@._V1_Ratio1.0000_AL_.jpg"
+            },
+            {
+                "title": "Claude Rains in Casablanca (1942)",
+                "image": "https://imdb-api.com/images/original/MV5BNjQ2NjM4NDA1M15BMl5BanBnXkFtZTgwNDE1MTI2NDM@._V1_Ratio1.0000_AL_.jpg"
+            },
+            {
+                "title": "Humphrey Bogart and Sydney Greenstreet in Casablanca (1942)",
+                "image": "https://imdb-api.com/images/original/MV5BMjE3MzQzMjU1MV5BMl5BanBnXkFtZTgwNTE1MTI2NDM@._V1_Ratio1.2600_AL_.jpg"
+            },
+            {
+                "title": "Humphrey Bogart in Casablanca (1942)",
+                "image": "https://imdb-api.com/images/original/MV5BMTU0MTE3MzYyMl5BMl5BanBnXkFtZTgwNjE1MTI2NDM@._V1_Ratio1.0000_AL_.jpg"
+            },
+            {
+                "title": "Ingrid Bergman and Humphrey Bogart in Casablanca (1942)",
+                "image": "https://imdb-api.com/images/original/MV5BMjExNDE0MTA0Nl5BMl5BanBnXkFtZTgwNzE1MTI2NDM@._V1_Ratio1.3000_AL_.jpg"
+            },
+            {
+                "title": "Ingrid Bergman, Humphrey Bogart, and Paul Henreid in Casablanca (1942)",
+                "image": "https://imdb-api.com/images/original/MV5BMjQ3MDUzMDI4NV5BMl5BanBnXkFtZTgwODE1MTI2NDM@._V1_Ratio1.2600_AL_.jpg"
+            },
+            {
+                "title": "Conrad Veidt in Casablanca (1942)",
+                "image": "https://imdb-api.com/images/original/MV5BMTY3NzIxMzIzOF5BMl5BanBnXkFtZTgwOTE1MTI2NDM@._V1_Ratio1.0000_AL_.jpg"
+            },
+            {
+                "title": "Ingrid Bergman, Humphrey Bogart, Claude Rains, and Paul Henreid in Casablanca (1942)",
+                "image": "https://imdb-api.com/images/original/MV5BMjQ4NjMwNTA1MF5BMl5BanBnXkFtZTgwMDI1MTI2NDM@._V1_Ratio1.2400_AL_.jpg"
+            },
+            {
+                "title": "Humphrey Bogart and Claude Rains in Casablanca (1942)",
+                "image": "https://imdb-api.com/images/original/MV5BMjUwODMzMTY0NV5BMl5BanBnXkFtZTgwODk0MTI2NDM@._V1_Ratio1.3600_AL_.jpg"
+            },
+            {
+                "title": "Ingrid Bergman and Humphrey Bogart in Casablanca (1942)",
+                "image": "https://imdb-api.com/images/original/MV5BMTc0MzYxMTQ1M15BMl5BanBnXkFtZTgwOTk0MTI2NDM@._V1_Ratio1.2400_AL_.jpg"
+            },
+            {
+                "title": "Ingrid Bergman in Casablanca (1942)",
+                "image": "https://imdb-api.com/images/original/MV5BMjQyMTYxODQzMF5BMl5BanBnXkFtZTgwMDA1MTI2NDM@._V1_Ratio1.0000_AL_.jpg"
+            },
+            {
+                "title": "Humphrey Bogart and Dooley Wilson in Casablanca (1942)",
+                "image": "https://imdb-api.com/images/original/MV5BMTgyMDczNzM2NF5BMl5BanBnXkFtZTgwMTA1MTI2NDM@._V1_Ratio1.2400_AL_.jpg"
+            },
+            {
+                "title": "Ingrid Bergman and Humphrey Bogart in Casablanca (1942)",
+                "image": "https://imdb-api.com/images/original/MV5BNTU5MDY1MzI0OF5BMl5BanBnXkFtZTgwMjA1MTI2NDM@._V1_Ratio1.0000_AL_.jpg"
+            },
+            {
+                "title": "Humphrey Bogart, Joy Page, and Dan Seymour in Casablanca (1942)",
+                "image": "https://imdb-api.com/images/original/MV5BMjEyNzA3ODg4N15BMl5BanBnXkFtZTgwMzA1MTI2NDM@._V1_Ratio1.2600_AL_.jpg"
+            },
+            {
+                "title": "Ingrid Bergman, Humphrey Bogart, and Paul Henreid in Casablanca (1942)",
+                "image": "https://imdb-api.com/images/original/MV5BMTk1ODMxNjg4NV5BMl5BanBnXkFtZTgwNDA1MTI2NDM@._V1_Ratio1.0000_AL_.jpg"
+            },
+            {
+                "title": "Ingrid Bergman and Humphrey Bogart in Casablanca (1942)",
+                "image": "https://imdb-api.com/images/original/MV5BMTEwOTQwOTI4NzFeQTJeQWpwZ15BbWU4MDUwNTEyNjQz._V1_Ratio1.2400_AL_.jpg"
+            },
+            {
+                "title": "Ingrid Bergman, Humphrey Bogart, Claude Rains, and Paul Henreid in Casablanca (1942)",
+                "image": "https://imdb-api.com/images/original/MV5BMTUzMjE3MTQ2M15BMl5BanBnXkFtZTgwNjA1MTI2NDM@._V1_Ratio1.2600_AL_.jpg"
+            },
+            {
+                "title": "Ingrid Bergman and Humphrey Bogart in Casablanca (1942)",
+                "image": "https://imdb-api.com/images/original/MV5BNDg5ODEyOTkzM15BMl5BanBnXkFtZTgwNzA1MTI2NDM@._V1_Ratio1.0000_AL_.jpg"
+            },
+            {
+                "title": "Humphrey Bogart and Paul Henreid in Casablanca (1942)",
+                "image": "https://imdb-api.com/images/original/MV5BMjEwNTk3NjkxOF5BMl5BanBnXkFtZTgwMzkyMzkxMTI@._V1_Ratio1.2400_AL_.jpg"
+            },
+            {
+                "title": "Ingrid Bergman in Casablanca (1942)",
+                "image": "https://imdb-api.com/images/original/MV5BMzY1OTA5Nzg3NF5BMl5BanBnXkFtZTgwNTQ5NjM3MDI@._V1_Ratio1.2400_AL_.jpg"
+            },
+            {
+                "title": "Ingrid Bergman and Humphrey Bogart in Casablanca (1942)",
+                "image": "https://imdb-api.com/images/original/MV5BODQzOTI1NjM2Nl5BMl5BanBnXkFtZTcwMjcxODMwOQ@@._V1_Ratio1.3800_AL_.jpg"
+            },
+            {
+                "title": "Ingrid Bergman and Claude Rains in Casablanca (1942)",
+                "image": "https://imdb-api.com/images/original/MV5BMTc0MjU5MDcwNF5BMl5BanBnXkFtZTcwMzcxODMwOQ@@._V1_Ratio1.3200_AL_.jpg"
+            },
+            {
+                "title": "Humphrey Bogart and Dan Seymour in Casablanca (1942)",
+                "image": "https://imdb-api.com/images/original/MV5BMjYwOTI0MTc4OF5BMl5BanBnXkFtZTcwNDcxODMwOQ@@._V1_Ratio1.3800_AL_.jpg"
+            },
+            {
+                "title": "Peter Lorre in Casablanca (1942)",
+                "image": "https://imdb-api.com/images/original/MV5BMTM2NTEyODc3NV5BMl5BanBnXkFtZTcwNTcxODMwOQ@@._V1_Ratio1.3800_AL_.jpg"
+            },
+            {
+                "title": "Dooley Wilson in Casablanca (1942)",
+                "image": "https://imdb-api.com/images/original/MV5BODcxOTE5MTgyNl5BMl5BanBnXkFtZTcwNzg4NDYwOA@@._V1_Ratio1.0000_AL_.jpg"
+            },
+            {
+                "title": "Humphrey Bogart, Sydney Greenstreet, and Dooley Wilson in Casablanca (1942)",
+                "image": "https://imdb-api.com/images/original/MV5BMTk3MTMyMjc3Nl5BMl5BanBnXkFtZTcwODg4NDYwOA@@._V1_Ratio1.2600_AL_.jpg"
+            },
+            {
+                "title": "Ingrid Bergman and Paul Henreid in Casablanca (1942)",
+                "image": "https://imdb-api.com/images/original/MV5BMjAyMTcwNjk1OF5BMl5BanBnXkFtZTcwMDM2MjYwOA@@._V1_Ratio1.3000_AL_.jpg"
+            },
+            {
+                "title": "Ingrid Bergman, Humphrey Bogart, Claude Rains, and Paul Henreid in Casablanca (1942)",
+                "image": "https://imdb-api.com/images/original/MV5BMTk2MDc0NjE2MV5BMl5BanBnXkFtZTcwMTM2MjYwOA@@._V1_Ratio1.2400_AL_.jpg"
+            },
+            {
+                "title": "Ingrid Bergman, Claude Rains, and Paul Henreid in Casablanca (1942)",
+                "image": "https://imdb-api.com/images/original/MV5BODM5Mjk5NjY4NV5BMl5BanBnXkFtZTcwMzM2MjYwOA@@._V1_Ratio1.3000_AL_.jpg"
+            },
+            {
+                "title": "Ingrid Bergman, Humphrey Bogart, and Paul Henreid in Casablanca (1942)",
+                "image": "https://imdb-api.com/images/original/MV5BMTQ0OTMyNzI1Ml5BMl5BanBnXkFtZTcwNTY4NTM2Nw@@._V1_Ratio1.3000_AL_.jpg"
+            },
+            {
+                "title": "\"Casablanca\" Claude Rains and Humphrey Bogart's shadow 1942 Warner Bros.",
+                "image": "https://imdb-api.com/images/original/MV5BMTc4MDk3ODE3Nl5BMl5BanBnXkFtZTYwMTU3MTM2._V1_Ratio1.3200_AL_.jpg"
+            },
+            {
+                "title": "Casablanca (1942)",
+                "image": "https://imdb-api.com/images/original/MV5BMTMxOTYzMjI4NV5BMl5BanBnXkFtZTcwNTQ5MTUyNA@@._V1_Ratio1.3400_AL_.jpg"
+            },
+            {
+                "title": "Ingrid Bergman and Humphrey Bogart in Casablanca (1942)",
+                "image": "https://imdb-api.com/images/original/MV5BMjExNzQwNTQ1MF5BMl5BanBnXkFtZTcwNjQ5MTUyNA@@._V1_Ratio1.0000_AL_.jpg"
+            },
+            {
+                "title": "Humphrey Bogart in Casablanca (1942)",
+                "image": "https://imdb-api.com/images/original/MV5BMTkyMjAwODQwN15BMl5BanBnXkFtZTcwNzQ5MTUyNA@@._V1_Ratio1.0000_AL_.jpg"
+            },
+            {
+                "title": "Ingrid Bergman in Casablanca (1942)",
+                "image": "https://imdb-api.com/images/original/MV5BNjI4ODkzNTYxNV5BMl5BanBnXkFtZTcwODQ5MTUyNA@@._V1_Ratio1.3600_AL_.jpg"
+            },
+            {
+                "title": "Ingrid Bergman and Humphrey Bogart in Casablanca (1942)",
+                "image": "https://imdb-api.com/images/original/MV5BMTMyODgwMDAwNF5BMl5BanBnXkFtZTcwOTQ5MTUyNA@@._V1_Ratio1.4000_AL_.jpg"
+            },
+            {
+                "title": "Humphrey Bogart, Sydney Greenstreet, and Dooley Wilson in Casablanca (1942)",
+                "image": "https://imdb-api.com/images/original/MV5BMTM2NjE2NjY3NV5BMl5BanBnXkFtZTcwNjc1Mzg4Mw@@._V1_Ratio1.2600_AL_.jpg"
+            },
+            {
+                "title": "Ingrid Bergman, Humphrey Bogart, and Paul Henreid in Casablanca (1942)",
+                "image": "https://imdb-api.com/images/original/MV5BMTQ3NzUzMzM1MF5BMl5BanBnXkFtZTcwNzc1Mzg4Mw@@._V1_Ratio1.2400_AL_.jpg"
+            },
+            {
+                "title": "Humphrey Bogart and S. Z. Sakall in \"Casablanca,\" 1942 Warner Bros.",
+                "image": "https://imdb-api.com/images/original/MV5BMjA5ODE3NjI5MF5BMl5BanBnXkFtZTYwODI2NDI2._V1_Ratio1.3600_AL_.jpg"
+            },
+            {
+                "title": "\"Casablanca\" Dooley Wilson and Humphrey Bogart 1942 Warner Bros.",
+                "image": "https://imdb-api.com/images/original/MV5BMTY4Nzc2MjQ5NF5BMl5BanBnXkFtZTYwNDc3NDI2._V1_Ratio1.3400_AL_.jpg"
+            }
+        ],
+        "errorMessage": ""
+    },
+    "trailer": {
+        "imDbId": "tt0034583",
+        "title": "Casablanca",
+        "fullTitle": "Casablanca (1942)",
+        "type": "Movie",
+        "year": "1942",
+        "videoId": "vi6095897",
+        "videoTitle": "Casablanca",
+        "videoDescription": "Trailer for the classic drama Casablanca starring Humphrey Bogart and Ingrid Bergman.",
+        "thumbnailUrl": "https://m.media-amazon.com/images/M/MV5BNzU0NDI1NjA1MF5BMl5BanBnXkFtZTcwMzM1MTgyMw@@._V1_.jpg",
+        "uploadDate": "03/25/2010 10:29:07",
+        "link": "https://www.imdb.com/video/vi6095897",
+        "linkEmbed": "https://www.imdb.com/video/imdb/vi6095897/imdb/embed",
+        "errorMessage": ""
+    },
+    "boxOffice": {
+        "budget": "$950,000 (estimated)",
+        "openingWeekendUSA": "$181,494, 12 April 1992",
+        "grossUSA": "$4,108,411",
+        "cumulativeWorldwideGross": "$4,376,287"
+    },
+    "tagline": "As exciting as the landing at Casablanca! (NY Premiere Poster Ad)",
+    "keywords": "nazi,love triangle,casablanca morocco,anti nazi,french morocco",
+    "keywordList": [
+        "nazi",
+        "love triangle",
+        "casablanca morocco",
+        "anti nazi",
+        "french morocco"
+    ],
+    "similars": [
+        {
+            "id": "tt0054215",
+            "title": "Psycho",
+            "fullTitle": "Psycho (1960)",
+            "year": "1960",
+            "image": "https://imdb-api.com/images/original/MV5BNTQwNDM1YzItNDAxZC00NWY2LTk0M2UtNDIwNWI5OGUyNWUxXkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_Ratio0.6737_AL_.jpg",
+            "plot": "A Phoenix secretary embezzles $40,000 from her employer's client, goes on the run, and checks into a remote motel run by a young man under the domination of his mother.",
+            "directors": "Alfred Hitchcock",
+            "stars": "Anthony Perkins, Janet Leigh, Vera Miles",
+            "genres": "Horror, Mystery, Thriller",
+            "imDbRating": "8.5"
+        },
+        {
+            "id": "tt0047396",
+            "title": "Rear Window",
+            "fullTitle": "Rear Window (1954)",
+            "year": "1954",
+            "image": "https://imdb-api.com/images/original/MV5BNGUxYWM3M2MtMGM3Mi00ZmRiLWE0NGQtZjE5ODI2OTJhNTU0XkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_Ratio0.6842_AL_.jpg",
+            "plot": "A wheelchair-bound photographer spies on his neighbors from his apartment window and becomes convinced one of them has committed murder.",
+            "directors": "Alfred Hitchcock",
+            "stars": "James Stewart, Grace Kelly, Wendell Corey",
+            "genres": "Mystery, Thriller",
+            "imDbRating": "8.4"
+        },
+        {
+            "id": "tt0033467",
+            "title": "Citizen Kane",
+            "fullTitle": "Citizen Kane (1941)",
+            "year": "1941",
+            "image": "https://imdb-api.com/images/original/MV5BYjBiOTYxZWItMzdiZi00NjlkLWIzZTYtYmFhZjhiMTljOTdkXkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_Ratio0.6737_AL_.jpg",
+            "plot": "Following the death of publishing tycoon Charles Foster Kane, reporters scramble to uncover the meaning of his final utterance; 'Rosebud'.",
+            "directors": "Orson Welles",
+            "stars": "Orson Welles, Joseph Cotten, Dorothy Comingore",
+            "genres": "Drama, Mystery",
+            "imDbRating": "8.3"
+        },
+        {
+            "id": "tt0052357",
+            "title": "Vertigo",
+            "fullTitle": "Vertigo (1958)",
+            "year": "1958",
+            "image": "https://imdb-api.com/images/original/MV5BYTE4ODEwZDUtNDFjOC00NjAxLWEzYTQtYTI1NGVmZmFlNjdiL2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyNjc1NTYyMjg@._V1_Ratio0.6737_AL_.jpg",
+            "plot": "A former police detective juggles wrestling with his personal demons and becoming obsessed with a hauntingly beautiful woman.",
+            "directors": "Alfred Hitchcock",
+            "stars": "James Stewart, Kim Novak, Barbara Bel Geddes",
+            "genres": "Mystery, Romance, Thriller",
+            "imDbRating": "8.3"
+        },
+        {
+            "id": "tt0031381",
+            "title": "Gone with the Wind",
+            "fullTitle": "Gone with the Wind (1939)",
+            "year": "1939",
+            "image": "https://imdb-api.com/images/original/MV5BYjUyZWZkM2UtMzYxYy00ZmQ3LWFmZTQtOGE2YjBkNjA3YWZlXkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_Ratio0.6737_AL_.jpg",
+            "plot": "A manipulative woman and a roguish man conduct a turbulent romance during the American Civil War and Reconstruction periods.",
+            "directors": "Directors: Victor Fleming, George Cukor, and 1 more credit »",
+            "stars": "Clark Gable, Vivien Leigh, Thomas Mitchell",
+            "genres": "Certificate: Passed Drama, History, Romance",
+            "imDbRating": "8.1"
+        },
+        {
+            "id": "tt0073486",
+            "title": "One Flew Over the Cuckoo's Nest",
+            "fullTitle": "One Flew Over the Cuckoo's Nest (1975)",
+            "year": "1975",
+            "image": "https://imdb-api.com/images/original/MV5BZjA0OWVhOTAtYWQxNi00YzNhLWI4ZjYtNjFjZTEyYjJlNDVlL2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_Ratio0.6737_AL_.jpg",
+            "plot": "A criminal pleads insanity and is admitted to a mental institution, where he rebels against the oppressive nurse and rallies up the scared patients.",
+            "directors": "Milos Forman",
+            "stars": "Jack Nicholson, Louise Fletcher, Michael Berryman",
+            "genres": "Drama",
+            "imDbRating": "8.7"
+        },
+        {
+            "id": "tt0095765",
+            "title": "Cinema Paradiso",
+            "fullTitle": "Cinema Paradiso (1988)",
+            "year": "1988",
+            "image": "https://imdb-api.com/images/original/MV5BM2FhYjEyYmYtMDI1Yy00YTdlLWI2NWQtYmEzNzAxOGY1NjY2XkEyXkFqcGdeQXVyNTA3NTIyNDg@._V1_Ratio0.6737_AL_.jpg",
+            "plot": "A filmmaker recalls his childhood when falling in love with the pictures at the cinema of his home village and forms a deep friendship with the cinema's projectionist.",
+            "directors": "Giuseppe Tornatore",
+            "stars": "Philippe Noiret, Enzo Cannavale, Antonella Attili",
+            "genres": "Drama, Romance",
+            "imDbRating": "8.5"
+        },
+        {
+            "id": "tt0060196",
+            "title": "The Good, the Bad and the Ugly",
+            "fullTitle": "The Good, the Bad and the Ugly (1966)",
+            "year": "1966",
+            "image": "https://imdb-api.com/images/original/MV5BOTQ5NDI3MTI4MF5BMl5BanBnXkFtZTgwNDQ4ODE5MDE@._V1_Ratio0.6737_AL_.jpg",
+            "plot": "A bounty hunting scam joins two men in an uneasy alliance against a third in a race to find a fortune in gold buried in a remote cemetery.",
+            "directors": "Sergio Leone",
+            "stars": "Clint Eastwood, Eli Wallach, Lee Van Cleef",
+            "genres": "Western",
+            "imDbRating": "8.8"
+        },
+        {
+            "id": "tt0084994",
+            "title": "Casablanca",
+            "fullTitle": "Casablanca (1983)",
+            "year": "1983",
+            "image": "https://imdb-api.com/images/original/MV5BODg2MjQ4NTYxNl5BMl5BanBnXkFtZTcwMDkxMzA3Nw@@._V1_Ratio0.7158_AL_.jpg",
+            "plot": "A short-lived prequel to Casablanca (1942).",
+            "directors": "",
+            "stars": "David Soul, Hector Elizondo, Reuven Bar-Yotam",
+            "genres": "Drama, Romance, War",
+            "imDbRating": "6.4"
+        },
+        {
+            "id": "tt0118799",
+            "title": "Life Is Beautiful",
+            "fullTitle": "Life Is Beautiful (1997)",
+            "year": "1997",
+            "image": "https://imdb-api.com/images/original/MV5BYmJmM2Q4NmMtYThmNC00ZjRlLWEyZmItZTIwOTBlZDQ3NTQ1XkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_Ratio0.6737_AL_.jpg",
+            "plot": "When an open-minded Jewish librarian and his son become victims of the Holocaust, he uses a perfect mixture of will, humor, and imagination to protect his son from the dangers around their camp.",
+            "directors": "Roberto Benigni",
+            "stars": "Roberto Benigni, Nicoletta Braschi, Giorgio Cantarini",
+            "genres": "Comedy, Drama, Romance",
+            "imDbRating": "8.6"
+        },
+        {
+            "id": "tt0064116",
+            "title": "Once Upon a Time in the West",
+            "fullTitle": "Once Upon a Time in the West (1968)",
+            "year": "1968",
+            "image": "https://imdb-api.com/images/original/MV5BZGI5MjBmYzYtMzJhZi00NGI1LTk3MzItYjBjMzcxM2U3MDdiXkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_Ratio0.6737_AL_.jpg",
+            "plot": "A mysterious stranger with a harmonica joins forces with a notorious desperado to protect a beautiful widow from a ruthless assassin working for the railroad.",
+            "directors": "Sergio Leone",
+            "stars": "Henry Fonda, Charles Bronson, Claudia Cardinale",
+            "genres": "Western",
+            "imDbRating": "8.5"
+        },
+        {
+            "id": "tt0050083",
+            "title": "12 Angry Men",
+            "fullTitle": "12 Angry Men (1957)",
+            "year": "1957",
+            "image": "https://imdb-api.com/images/original/MV5BMWU4N2FjNzYtNTVkNC00NzQ0LTg0MjAtYTJlMjFhNGUxZDFmXkEyXkFqcGdeQXVyNjc1NTYyMjg@._V1_Ratio0.6737_AL_.jpg",
+            "plot": "A jury holdout attempts to prevent a miscarriage of justice by forcing his colleagues to reconsider the evidence.",
+            "directors": "Sidney Lumet",
+            "stars": "Henry Fonda, Lee J. Cobb, Martin Balsam",
+            "genres": "Crime, Drama",
+            "imDbRating": "9"
+        }
+    ],
+    "tvSeriesInfo": null,
+    "tvEpisodeInfo": null,
+    "errorMessage": ""
+}

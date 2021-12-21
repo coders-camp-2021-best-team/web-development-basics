@@ -1,0 +1,686 @@
+{
+    "id": "tt0050212",
+    "title": "The Bridge on the River Kwai",
+    "originalTitle": "",
+    "fullTitle": "The Bridge on the River Kwai (1957)",
+    "type": "Movie",
+    "year": "1957",
+    "image": "https://imdb-api.com/images/original/MV5BOGY5NmNlMmQtYzRlYy00NGQ5LWFkYjYtNzExZmQyMTg0ZDA0XkEyXkFqcGdeQXVyNDIzMzcwNjc@._V1_Ratio0.6791_AL_.jpg",
+    "releaseDate": "1957-10-11",
+    "runtimeMins": "161",
+    "runtimeStr": "2h 41mins",
+    "plot": "During WW II, allied POWs in a Japanese internment camp are ordered to build a bridge to accommodate the Burma-Siam railway. Their instinct is to sabotage the bridge, but under the leadership of Colonel Nicholson they're persuaded the bridge should be built to help morale, spirit. At first, the prisoners admire Nicholson when he bravely endures torture rather than compromise his principles for the benefit of Japanese Commandant Colonel Saito, but soon they realise it's a monument to Nicholson, himself, as well as a form of collaboration with the enemy.",
+    "plotLocal": "",
+    "plotLocalIsRtl": false,
+    "awards": "Top Rated Movies #177 | Won 7 Oscars. Another 23 wins & 8 nominations.",
+    "directors": "David Lean",
+    "directorList": [{ "id": "nm0000180", "name": "David Lean" }],
+    "writers": "Pierre Boulle, Carl Foreman, Michael Wilson",
+    "writerList": [
+        { "id": "nm0099541", "name": "Pierre Boulle" },
+        { "id": "nm0286025", "name": "Carl Foreman" },
+        { "id": "nm0933858", "name": "Michael Wilson" }
+    ],
+    "stars": "William Holden, Alec Guinness, Jack Hawkins, Sessue Hayakawa",
+    "starList": [
+        { "id": "nm0000034", "name": "William Holden" },
+        { "id": "nm0000027", "name": "Alec Guinness" },
+        { "id": "nm0370144", "name": "Jack Hawkins" },
+        { "id": "nm0370564", "name": "Sessue Hayakawa" }
+    ],
+    "actorList": [
+        {
+            "id": "nm0000034",
+            "image": "https://imdb-api.com/images/original/MV5BNzVhMjZiMzItMTIxYi00M2EzLWE0YWMtYTZhODk4NDQ2ZDJmXkEyXkFqcGdeQXVyMDUyOTUyNQ@@._V1_Ratio0.7727_AL_.jpg",
+            "name": "William Holden",
+            "asCharacter": "Shears"
+        },
+        {
+            "id": "nm0000027",
+            "image": "https://imdb-api.com/images/original/MV5BMTIxMTA5OTI2M15BMl5BanBnXkFtZTYwNjEwNjU2._V1_Ratio0.7727_AL_.jpg",
+            "name": "Alec Guinness",
+            "asCharacter": "Colonel Nicholson"
+        },
+        {
+            "id": "nm0370144",
+            "image": "https://imdb-api.com/images/original/MV5BMTU0MTk0NzI5OF5BMl5BanBnXkFtZTcwNTI1NjQwOA@@._V1_Ratio0.7273_AL_.jpg",
+            "name": "Jack Hawkins",
+            "asCharacter": "Major Warden"
+        },
+        {
+            "id": "nm0370564",
+            "image": "https://imdb-api.com/images/original/MV5BMTY3MDQyMTkzOV5BMl5BanBnXkFtZTYwNzA2ODU2._V1_Ratio0.7273_AL_.jpg",
+            "name": "Sessue Hayakawa",
+            "asCharacter": "Colonel Saito"
+        },
+        {
+            "id": "nm0232019",
+            "image": "https://imdb-api.com/images/original/MV5BMTM5Mjc3OTYzMl5BMl5BanBnXkFtZTcwNTA0MTYxOA@@._V1_Ratio0.7273_AL_.jpg",
+            "name": "James Donald",
+            "asCharacter": "Major Clipton"
+        },
+        {
+            "id": "nm0395012",
+            "image": "https://imdb-api.com/images/original/MV5BY2UwMDc1YTMtYTNlZS00NjFlLTgwYzctOWRhMGIyNzI3YTVkXkEyXkFqcGdeQXVyMDUyOTUyNQ@@._V1_Ratio0.8182_AL_.jpg",
+            "name": "Geoffrey Horne",
+            "asCharacter": "Lieutenant Joyce"
+        },
+        {
+            "id": "nm0603682",
+            "image": "https://imdb-api.com/images/original/MV5BOTk5Njc4OTAwNV5BMl5BanBnXkFtZTcwMDg0NDMxOA@@._V1_Ratio0.7273_AL_.jpg",
+            "name": "André Morell",
+            "asCharacter": "Colonel Green (as Andre Morell)"
+        },
+        {
+            "id": "nm0931463",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Peter Williams",
+            "asCharacter": "Captain Reeves"
+        },
+        {
+            "id": "nm0101533",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "John Boxer",
+            "asCharacter": "Major Hughes"
+        },
+        {
+            "id": "nm0378612",
+            "image": "https://imdb-api.com/images/original/MV5BNTAyODE5NjA4OV5BMl5BanBnXkFtZTcwNzgwMDExOA@@._V1_Ratio0.7727_AL_.jpg",
+            "name": "Percy Herbert",
+            "asCharacter": "Grogan"
+        },
+        {
+            "id": "nm0329468",
+            "image": "https://imdb-api.com/images/original/MV5BOGU5MTdhNDQtMTFlYS00OGE4LTljZGMtYzRhYzFhMmJmNjFlXkEyXkFqcGdeQXVyMTQxMjk0Mg@@._V1_Ratio1.4545_AL_.jpg",
+            "name": "Harold Goodwin",
+            "asCharacter": "Baker"
+        },
+        {
+            "id": "nm0780741",
+            "image": "https://imdb-api.com/images/original/MV5BMTc4NDY2MjY5OV5BMl5BanBnXkFtZTgwMTY3Nzk1MDE@._V1_Ratio0.7273_AL_.jpg",
+            "name": "Ann Sears",
+            "asCharacter": "Nurse"
+        },
+        {
+            "id": "nm0645537",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Heihachirô Ôkawa",
+            "asCharacter": "Captain Kanematsu (as Heihachirô 'Henry' Ôkawa)"
+        },
+        {
+            "id": "nm0441545",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Keiichirô Katsumoto",
+            "asCharacter": "Lieutenant Miura (as Keiichiro Katsumoto) (as K. Katsumoto)"
+        },
+        {
+            "id": "nm0149807",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "M.R.B. Chakrabandhu",
+            "asCharacter": "Yai"
+        }
+    ],
+    "fullCast": null,
+    "genres": "Adventure, Drama, War",
+    "genreList": [
+        { "key": "Adventure", "value": "Adventure" },
+        { "key": "Drama", "value": "Drama" },
+        { "key": "War", "value": "War" }
+    ],
+    "companies": "Horizon Pictures (II)",
+    "companyList": [{ "id": "co0103190", "name": "Horizon Pictures (II)" }],
+    "countries": "UK, USA",
+    "countryList": [
+        { "key": "UK", "value": "UK" },
+        { "key": "USA", "value": "USA" }
+    ],
+    "languages": "English, Japanese, Thai",
+    "languageList": [
+        { "key": "English", "value": "English" },
+        { "key": "Japanese", "value": "Japanese" },
+        { "key": "Thai", "value": "Thai" }
+    ],
+    "contentRating": "PG",
+    "imDbRating": "8.1",
+    "imDbRatingVotes": "205869",
+    "metacriticRating": "87",
+    "ratings": null,
+    "wikipedia": null,
+    "posters": {
+        "imDbId": "tt0050212",
+        "title": "The Bridge on the River Kwai",
+        "fullTitle": "The Bridge on the River Kwai (1957)",
+        "type": "Movie",
+        "year": "1957",
+        "posters": [
+            {
+                "id": "mHAxH3msDPHfHsbrPvZ4M6CAWgS.jpg",
+                "link": "https://imdb-api.com/posters/original/mHAxH3msDPHfHsbrPvZ4M6CAWgS.jpg",
+                "aspectRatio": 0.6666666666666666,
+                "language": "en",
+                "width": 900,
+                "height": 1350
+            },
+            {
+                "id": "rVWacfczT3i1GOjqp2u4K9wahta.jpg",
+                "link": "https://imdb-api.com/posters/original/rVWacfczT3i1GOjqp2u4K9wahta.jpg",
+                "aspectRatio": 0.6666666666666666,
+                "language": "en",
+                "width": 600,
+                "height": 900
+            },
+            {
+                "id": "fuWtWy49Dbzz9UAnIHhKA0Z5LuT.jpg",
+                "link": "https://imdb-api.com/posters/original/fuWtWy49Dbzz9UAnIHhKA0Z5LuT.jpg",
+                "aspectRatio": 0.6666666666666666,
+                "language": "en",
+                "width": 1000,
+                "height": 1500
+            },
+            {
+                "id": "dg2RLV8YAaVpRlE40NPbxuv61ri.jpg",
+                "link": "https://imdb-api.com/posters/original/dg2RLV8YAaVpRlE40NPbxuv61ri.jpg",
+                "aspectRatio": 0.6666666666666666,
+                "language": "en",
+                "width": 900,
+                "height": 1350
+            },
+            {
+                "id": "rQhFidoJDhdcNsbR9QHHqof98hC.jpg",
+                "link": "https://imdb-api.com/posters/original/rQhFidoJDhdcNsbR9QHHqof98hC.jpg",
+                "aspectRatio": 0.6666666666666666,
+                "language": "en",
+                "width": 1200,
+                "height": 1800
+            },
+            {
+                "id": "7paXMt2e3Tr5dLmEZOGgFEn2Vo7.jpg",
+                "link": "https://imdb-api.com/posters/original/7paXMt2e3Tr5dLmEZOGgFEn2Vo7.jpg",
+                "aspectRatio": 0.6666666666666666,
+                "language": "en",
+                "width": 1000,
+                "height": 1500
+            },
+            {
+                "id": "hRnL7UggWi2ZmeBms574aFe9lma.jpg",
+                "link": "https://imdb-api.com/posters/original/hRnL7UggWi2ZmeBms574aFe9lma.jpg",
+                "aspectRatio": 0.6666666666666666,
+                "language": "en",
+                "width": 1000,
+                "height": 1500
+            },
+            {
+                "id": "fUr5jTLfC5CM2mjnXiJyJhxmh8y.jpg",
+                "link": "https://imdb-api.com/posters/original/fUr5jTLfC5CM2mjnXiJyJhxmh8y.jpg",
+                "aspectRatio": 0.6666666666666666,
+                "language": "en",
+                "width": 2000,
+                "height": 3000
+            },
+            {
+                "id": "zRSx88MeHg9EdUtTfes02y4fSUe.jpg",
+                "link": "https://imdb-api.com/posters/original/zRSx88MeHg9EdUtTfes02y4fSUe.jpg",
+                "aspectRatio": 0.6666666666666666,
+                "language": "en",
+                "width": 600,
+                "height": 900
+            },
+            {
+                "id": "mef8MvK8WnyEvQpTtebMYWDpFrJ.jpg",
+                "link": "https://imdb-api.com/posters/original/mef8MvK8WnyEvQpTtebMYWDpFrJ.jpg",
+                "aspectRatio": 0.6666666666666666,
+                "language": "en",
+                "width": 500,
+                "height": 750
+            },
+            {
+                "id": "37ftIGpYdVOggGUk6lWuXdQlAfM.jpg",
+                "link": "https://imdb-api.com/posters/original/37ftIGpYdVOggGUk6lWuXdQlAfM.jpg",
+                "aspectRatio": 0.6666666666666666,
+                "language": "en",
+                "width": 1000,
+                "height": 1500
+            },
+            {
+                "id": "eH88BEnHOA49s1Dnr397A6MmmOs.jpg",
+                "link": "https://imdb-api.com/posters/original/eH88BEnHOA49s1Dnr397A6MmmOs.jpg",
+                "aspectRatio": 0.6559970566593083,
+                "language": "en",
+                "width": 1783,
+                "height": 2718
+            },
+            {
+                "id": "wXBhkhgpcId0GKjn1gLlXA9GVgN.jpg",
+                "link": "https://imdb-api.com/posters/original/wXBhkhgpcId0GKjn1gLlXA9GVgN.jpg",
+                "aspectRatio": 0.6666666666666666,
+                "language": "en",
+                "width": 1000,
+                "height": 1500
+            },
+            {
+                "id": "se5TdZkb6wVYoxmWhNY5qhixZq0.jpg",
+                "link": "https://imdb-api.com/posters/original/se5TdZkb6wVYoxmWhNY5qhixZq0.jpg",
+                "aspectRatio": 0.6754919499105546,
+                "language": "en",
+                "width": 1888,
+                "height": 2795
+            }
+        ],
+        "backdrops": [
+            {
+                "id": "liZhDhrrNVX8IK4TaeaFodzMamy.jpg",
+                "link": "https://imdb-api.com/posters/original/liZhDhrrNVX8IK4TaeaFodzMamy.jpg",
+                "aspectRatio": 1.7777777777777777,
+                "language": "en",
+                "width": 1920,
+                "height": 1080
+            },
+            {
+                "id": "EcQKZcVYZ8EjK3eN1quPvkMrL9.jpg",
+                "link": "https://imdb-api.com/posters/original/EcQKZcVYZ8EjK3eN1quPvkMrL9.jpg",
+                "aspectRatio": 1.7777777777777777,
+                "language": "en",
+                "width": 1920,
+                "height": 1080
+            },
+            {
+                "id": "dRHfCeAoJ6SsMffQ6lavNU9E55z.jpg",
+                "link": "https://imdb-api.com/posters/original/dRHfCeAoJ6SsMffQ6lavNU9E55z.jpg",
+                "aspectRatio": 1.7777777777777777,
+                "language": "en",
+                "width": 3840,
+                "height": 2160
+            },
+            {
+                "id": "4IkZXrbQPAGAfwzjzO1J3WG4fpX.jpg",
+                "link": "https://imdb-api.com/posters/original/4IkZXrbQPAGAfwzjzO1J3WG4fpX.jpg",
+                "aspectRatio": 1.7777777777777777,
+                "language": "en",
+                "width": 1920,
+                "height": 1080
+            }
+        ],
+        "errorMessage": ""
+    },
+    "images": {
+        "imDbId": "tt0050212",
+        "title": "The Bridge on the River Kwai",
+        "fullTitle": "The Bridge on the River Kwai (1957)",
+        "type": "Movie",
+        "year": "1957",
+        "items": [
+            {
+                "title": "William Holden in The Bridge on the River Kwai (1957)",
+                "image": "https://imdb-api.com/images/original/MV5BOWYzYzlmMDYtOTYwMi00MzQ1LTgwMWMtOTBkM2RkNDFiZTAyXkEyXkFqcGdeQXVyMDc2NTEzMw@@._V1_Ratio1.0000_AL_.jpg"
+            },
+            {
+                "title": "Alec Guinness in The Bridge on the River Kwai (1957)",
+                "image": "https://imdb-api.com/images/original/MV5BZjc1MjFlNmItMjUyNS00YzAxLTg3MjQtMmY5MDBiODE2NDFjXkEyXkFqcGdeQXVyMDM2NDM2MQ@@._V1_Ratio1.3400_AL_.jpg"
+            },
+            {
+                "title": "Alec Guinness, William Holden, and Jack Hawkins in The Bridge on the River Kwai (1957)",
+                "image": "https://imdb-api.com/images/original/MV5BMjE0OTg1MzgxMl5BMl5BanBnXkFtZTcwMzkxMTU4Mw@@._V1_Ratio1.3000_AL_.jpg"
+            },
+            {
+                "title": "Alec Guinness and Sessue Hayakawa in The Bridge on the River Kwai (1957)",
+                "image": "https://imdb-api.com/images/original/MV5BMTMzMTQ3OTgzNV5BMl5BanBnXkFtZTcwNDkxMTU4Mw@@._V1_Ratio1.4000_AL_.jpg"
+            },
+            {
+                "title": "Alec Guinness in The Bridge on the River Kwai (1957)",
+                "image": "https://imdb-api.com/images/original/MV5BMTc1MTY4MjgwMF5BMl5BanBnXkFtZTcwNTkxMTU4Mw@@._V1_Ratio1.3800_AL_.jpg"
+            },
+            {
+                "title": "Alec Guinness and Sessue Hayakawa in The Bridge on the River Kwai (1957)",
+                "image": "https://imdb-api.com/images/original/MV5BMTMzMTkzOTY1M15BMl5BanBnXkFtZTcwNjkxMTU4Mw@@._V1_Ratio1.3000_AL_.jpg"
+            },
+            {
+                "title": "\"Bridge On The River Kwai, The\" William Holden 1957 Columbia",
+                "image": "https://imdb-api.com/images/original/MV5BMTA2MTUzNzA1ODJeQTJeQWpwZ15BbWU2MDIxNzczNg@@._V1_Ratio1.0000_AL_.jpg"
+            },
+            {
+                "title": "Jack Hawkins and Percy Herbert in The Bridge on the River Kwai (1957)",
+                "image": "https://imdb-api.com/images/original/MV5BMTM5NTM0NDUyMV5BMl5BanBnXkFtZTcwMTM1NjQwOA@@._V1_Ratio1.2200_AL_.jpg"
+            },
+            {
+                "title": "Alec Guinness, William Holden, Jack Hawkins, and Sessue Hayakawa in The Bridge on the River Kwai (1957)",
+                "image": "https://imdb-api.com/images/original/MV5BMTc2NzA0NTEwNF5BMl5BanBnXkFtZTcwMzA0MTk3OA@@._V1_Ratio1.0000_AL_.jpg"
+            },
+            {
+                "title": "Alec Guinness, William Holden, and Jack Hawkins in The Bridge on the River Kwai (1957)",
+                "image": "https://imdb-api.com/images/original/MV5BMTM4Mzk1NTE0OF5BMl5BanBnXkFtZTcwODk2Mjg5NA@@._V1_Ratio1.0000_AL_.jpg"
+            },
+            {
+                "title": "Alec Guinness and William Holden in The Bridge on the River Kwai (1957)",
+                "image": "https://imdb-api.com/images/original/MV5BMTYzODcxMTA4MF5BMl5BanBnXkFtZTcwMDA2NDU2MQ@@._V1_Ratio1.0000_AL_.jpg"
+            },
+            {
+                "title": "The Bridge on the River Kwai (1957)",
+                "image": "https://imdb-api.com/images/original/MV5BMTUyNzM4NTM5NV5BMl5BanBnXkFtZTYwNDE4NTg4._V1_Ratio1.0000_AL_.jpg"
+            },
+            {
+                "title": "Alec Guinness and William Holden in The Bridge on the River Kwai (1957)",
+                "image": "https://imdb-api.com/images/original/MV5BMTIxODcwNDY3MF5BMl5BanBnXkFtZTYwMDY2NTE5._V1_Ratio1.0000_AL_.jpg"
+            },
+            {
+                "title": "The Bridge on the River Kwai (1957)",
+                "image": "https://imdb-api.com/images/original/MV5BMTM1NzgwNDc1Nl5BMl5BanBnXkFtZTcwMzEyOTkxMQ@@._V1_Ratio1.0000_AL_.jpg"
+            },
+            {
+                "title": "Alec Guinness in The Bridge on the River Kwai (1957)",
+                "image": "https://imdb-api.com/images/original/MV5BMTY0NTgyMTEwM15BMl5BanBnXkFtZTcwMTAyMDYyMQ@@._V1_Ratio1.0000_AL_.jpg"
+            },
+            {
+                "title": "William Holden in The Bridge on the River Kwai (1957)",
+                "image": "https://imdb-api.com/images/original/MV5BMTk3MTk5NjgwOF5BMl5BanBnXkFtZTcwNzQ4NTkyMQ@@._V1_Ratio1.0000_AL_.jpg"
+            },
+            {
+                "title": "Alec Guinness in The Bridge on the River Kwai (1957)",
+                "image": "https://imdb-api.com/images/original/MV5BNGIzZTZjZGQtMmY0My00NjU3LWI5MmUtODVhY2FmNDBmZmVmXkEyXkFqcGdeQXVyNDIzNDExOQ@@._V1_Ratio2.3800_AL_.jpg"
+            },
+            {
+                "title": "William Holden in The Bridge on the River Kwai (1957)",
+                "image": "https://imdb-api.com/images/original/MV5BNzc2ODY4N2MtMzg2MS00YzcwLTliOWUtNDQzNDBjYTBjZWFhXkEyXkFqcGdeQXVyNTU1OTUzNDg@._V1_Ratio2.1600_AL_.jpg"
+            },
+            {
+                "title": "Alec Guinness and William Holden in The Bridge on the River Kwai (1957)",
+                "image": "https://imdb-api.com/images/original/MV5BNjgxZThhZjQtYzBkMy00ZDE2LWE2MjgtZDEyYTgyNDAyYTRhXkEyXkFqcGdeQXVyNTU1OTUzNDg@._V1_Ratio2.1600_AL_.jpg"
+            },
+            {
+                "title": "Alec Guinness, William Holden, and James Donald in The Bridge on the River Kwai (1957)",
+                "image": "https://imdb-api.com/images/original/MV5BNzYyODYxN2YtMjhlNy00Y2M3LWE4ZTMtM2Q3NDBlMmQ0MDRlXkEyXkFqcGdeQXVyNTU1OTUzNDg@._V1_Ratio2.1600_AL_.jpg"
+            },
+            {
+                "title": "Alec Guinness, William Holden, James Donald, and Geoffrey Horne in The Bridge on the River Kwai (1957)",
+                "image": "https://imdb-api.com/images/original/MV5BYjRlZmUyZTYtMDc5OC00ZjljLThkMWMtZTFiZThjNzMwZmNkXkEyXkFqcGdeQXVyNTU1OTUzNDg@._V1_Ratio2.1600_AL_.jpg"
+            },
+            {
+                "title": "Alec Guinness and James Donald in The Bridge on the River Kwai (1957)",
+                "image": "https://imdb-api.com/images/original/MV5BODVlYWE3N2EtNGVhMC00ZjI3LTg5M2UtMDIxMDQxN2M1ZWQ5XkEyXkFqcGdeQXVyNTU1OTUzNDg@._V1_Ratio2.1600_AL_.jpg"
+            },
+            {
+                "title": "Sessue Hayakawa in The Bridge on the River Kwai (1957)",
+                "image": "https://imdb-api.com/images/original/MV5BZGNiOGE2MWYtNDk4ZC00MzY1LTg4MWItODUwOWEwNTI2Y2Y4XkEyXkFqcGdeQXVyNTU1OTUzNDg@._V1_Ratio2.1600_AL_.jpg"
+            },
+            {
+                "title": "Alec Guinness and Sessue Hayakawa in The Bridge on the River Kwai (1957)",
+                "image": "https://imdb-api.com/images/original/MV5BNjE3ZGJjMmUtMDg5Zi00YzY3LTgwNjQtNjdlMDJjNjJhZjgyXkEyXkFqcGdeQXVyNTU1OTUzNDg@._V1_Ratio2.1600_AL_.jpg"
+            },
+            {
+                "title": "William Holden in The Bridge on the River Kwai (1957)",
+                "image": "https://imdb-api.com/images/original/MV5BMjBhNTU3NDEtODI3Zi00NmUzLTliMzktZjNkNjA2NzdkYjYwXkEyXkFqcGdeQXVyNTU1OTUzNDg@._V1_Ratio2.1600_AL_.jpg"
+            },
+            {
+                "title": "William Holden and Ann Sears in The Bridge on the River Kwai (1957)",
+                "image": "https://imdb-api.com/images/original/MV5BNmVjMDMxOTktZmIxYy00MDgyLWJmNjEtZTUzNjNkN2JkZTBmXkEyXkFqcGdeQXVyNTU1OTUzNDg@._V1_Ratio2.1600_AL_.jpg"
+            },
+            {
+                "title": "William Holden and Ann Sears in The Bridge on the River Kwai (1957)",
+                "image": "https://imdb-api.com/images/original/MV5BMzQ4MGM3NmYtZTVlZi00NDkzLWI1NTYtYzExODIyNjQ4YTFiXkEyXkFqcGdeQXVyNTU1OTUzNDg@._V1_Ratio2.1600_AL_.jpg"
+            },
+            {
+                "title": "Ann Sears in The Bridge on the River Kwai (1957)",
+                "image": "https://imdb-api.com/images/original/MV5BNDBkYjY0NDAtZDc4NS00ZjQ1LTkzMWItZWQ0NzZmYmE1ZTE3XkEyXkFqcGdeQXVyNTU1OTUzNDg@._V1_Ratio2.1600_AL_.jpg"
+            },
+            {
+                "title": "William Holden and Ngamta Suphaphongs in The Bridge on the River Kwai (1957)",
+                "image": "https://imdb-api.com/images/original/MV5BY2Y5NjUxMTMtNjhlNS00MGY2LTg3MGUtZDUyZmJlODM4Y2E1XkEyXkFqcGdeQXVyNTU1OTUzNDg@._V1_Ratio2.1600_AL_.jpg"
+            },
+            {
+                "title": "William Holden, Jack Hawkins, Geoffrey Horne, and Ngamta Suphaphongs in The Bridge on the River Kwai (1957)",
+                "image": "https://imdb-api.com/images/original/MV5BZGNlZWVkNjItYmRmMi00ZmJiLTk1OWItYWQwMjQwOGQ2YWUxXkEyXkFqcGdeQXVyNTU1OTUzNDg@._V1_Ratio2.1600_AL_.jpg"
+            },
+            {
+                "title": "William Holden and Ngamta Suphaphongs in The Bridge on the River Kwai (1957)",
+                "image": "https://imdb-api.com/images/original/MV5BZjUwOGQ4MjQtYjkyMC00YTIwLWEyZmEtYjhhYWJlZDYyYzM0XkEyXkFqcGdeQXVyNTU1OTUzNDg@._V1_Ratio2.1600_AL_.jpg"
+            },
+            {
+                "title": "Geoffrey Horne and Javanart Punynchoti in The Bridge on the River Kwai (1957)",
+                "image": "https://imdb-api.com/images/original/MV5BMzAyMDE3NjgtOWY0YS00Y2VhLTljMjMtNTY2OTA4YzQ5YjNiXkEyXkFqcGdeQXVyNTU1OTUzNDg@._V1_Ratio2.1600_AL_.jpg"
+            },
+            {
+                "title": "Jack Hawkins and Ngamta Suphaphongs in The Bridge on the River Kwai (1957)",
+                "image": "https://imdb-api.com/images/original/MV5BMTNmOWM5MTMtN2E3Ni00ZDIwLTkzZDUtYmFkOTU4Zjg4YmJhXkEyXkFqcGdeQXVyNTU1OTUzNDg@._V1_Ratio2.1600_AL_.jpg"
+            },
+            {
+                "title": "William Holden, Geoffrey Horne, Javanart Punynchoti, and Ngamta Suphaphongs in The Bridge on the River Kwai (1957)",
+                "image": "https://imdb-api.com/images/original/MV5BMWU1NWZhNmYtZWYwNC00ZjI5LWFjMTktZjdjYTg5OGUzOTc3XkEyXkFqcGdeQXVyNTU1OTUzNDg@._V1_Ratio2.1600_AL_.jpg"
+            },
+            {
+                "title": "Jack Hawkins, Vilaiwan Seeboonreaung, and Ngamta Suphaphongs in The Bridge on the River Kwai (1957)",
+                "image": "https://imdb-api.com/images/original/MV5BNTg0ZGUxOWYtY2UwZi00ZDgyLWJkYTAtYjZmYzQ0ZWJhZDY1XkEyXkFqcGdeQXVyNTU1OTUzNDg@._V1_Ratio2.1600_AL_.jpg"
+            },
+            {
+                "title": "Jack Hawkins and Vilaiwan Seeboonreaung in The Bridge on the River Kwai (1957)",
+                "image": "https://imdb-api.com/images/original/MV5BNWQ3OTE5ZGQtODY1ZC00OGUxLTk4YTUtYTc5MGRhMjVkNjMxXkEyXkFqcGdeQXVyNTU1OTUzNDg@._V1_Ratio2.1600_AL_.jpg"
+            },
+            {
+                "title": "William Holden and M.R.B. Chakrabandhu in The Bridge on the River Kwai (1957)",
+                "image": "https://imdb-api.com/images/original/MV5BNjdkMjRmYmYtNTYyNy00OGNhLTlkNmYtOGRjNjdiMDI2YTMyXkEyXkFqcGdeQXVyNTU1OTUzNDg@._V1_Ratio2.1600_AL_.jpg"
+            },
+            {
+                "title": "William Holden in The Bridge on the River Kwai (1957)",
+                "image": "https://imdb-api.com/images/original/MV5BMTE5ZmVkYjAtZDMzNi00NGZhLWFjZTMtZWVmM2Y2OGNkNTg4XkEyXkFqcGdeQXVyMjE5MzM3MjA@._V1_Ratio2.5800_AL_.jpg"
+            },
+            {
+                "title": "William Holden in The Bridge on the River Kwai (1957)",
+                "image": "https://imdb-api.com/images/original/MV5BZjA3NWIzNGQtYzdjOS00YjkyLTkzMTEtZTAwM2FmNDdlYjI4XkEyXkFqcGdeQXVyNDIzNDExOQ@@._V1_Ratio1.0000_AL_.jpg"
+            },
+            {
+                "title": "The Bridge on the River Kwai (1957)",
+                "image": "https://imdb-api.com/images/original/MV5BZTQ0NjM2ZTQtOTlkOS00ZDM2LThmNzktYWU3OGFmYzAyMjk1XkEyXkFqcGdeQXVyNzc5NjM0NA@@._V1_Ratio2.3600_AL_.jpg"
+            },
+            {
+                "title": "Alec Guinness in The Bridge on the River Kwai (1957)",
+                "image": "https://imdb-api.com/images/original/MV5BODVkNzRkNjctNWM0OS00Njk3LWEwZGUtNTYzZWE2NzhjZTY5XkEyXkFqcGdeQXVyNzc5NjM0NA@@._V1_Ratio1.7800_AL_.jpg"
+            },
+            {
+                "title": "William Holden, Jack Hawkins, and Geoffrey Horne in The Bridge on the River Kwai (1957)",
+                "image": "https://imdb-api.com/images/original/MV5BMzU5YWQwNDctNzU5OS00NWFiLThkMGYtYWZhNGI4NzhmOTY5XkEyXkFqcGdeQXVyNzc5NjM0NA@@._V1_Ratio2.3600_AL_.jpg"
+            },
+            {
+                "title": "William Holden in The Bridge on the River Kwai (1957)",
+                "image": "https://imdb-api.com/images/original/MV5BMzE4N2Y0Y2QtYmI5Yi00MWI3LThlZGYtZTM2MTIxOWYwNzQwXkEyXkFqcGdeQXVyNzc5NjM0NA@@._V1_Ratio2.5400_AL_.jpg"
+            },
+            {
+                "title": "William Holden, M.R.B. Chakrabandhu, Jack Hawkins, and Geoffrey Horne in The Bridge on the River Kwai (1957)",
+                "image": "https://imdb-api.com/images/original/MV5BYTcyN2JjMzgtOGE5OC00M2JlLTlmMTItZTVjMDQzM2ZkMTFkXkEyXkFqcGdeQXVyNzc5NjM0NA@@._V1_Ratio2.5400_AL_.jpg"
+            },
+            {
+                "title": "Alec Guinness and Sessue Hayakawa in The Bridge on the River Kwai (1957)",
+                "image": "https://imdb-api.com/images/original/MV5BZmM3ODNmOTEtZmUwZS00N2RlLTlhNjgtZjRmODFlNzY1OGU4XkEyXkFqcGdeQXVyNzc5NjM0NA@@._V1_Ratio1.2400_AL_.jpg"
+            },
+            {
+                "title": "The Bridge on the River Kwai (1957)",
+                "image": "https://imdb-api.com/images/original/MV5BYTZlYzBmNWQtNTk4Yy00YWYzLWIyZjUtMGY3ZWMzYzI3ZDcwXkEyXkFqcGdeQXVyNzc5NjM0NA@@._V1_Ratio1.7800_AL_.jpg"
+            },
+            {
+                "title": "Alec Guinness in The Bridge on the River Kwai (1957)",
+                "image": "https://imdb-api.com/images/original/MV5BNzg1MTUzYmUtODBlMi00ZDZiLTlmZmItMjBmNmJmMGMzNjczXkEyXkFqcGdeQXVyNzc5NjM0NA@@._V1_Ratio1.5000_AL_.jpg"
+            },
+            {
+                "title": "Alec Guinness in The Bridge on the River Kwai (1957)",
+                "image": "https://imdb-api.com/images/original/MV5BNTk1MjgzM2MtN2RmOC00NTJlLTk1OTMtMTY4Y2JkMmMzNmViXkEyXkFqcGdeQXVyNzc5NjM0NA@@._V1_Ratio1.0000_AL_.jpg"
+            }
+        ],
+        "errorMessage": ""
+    },
+    "trailer": {
+        "imDbId": "tt0050212",
+        "title": "The Bridge on the River Kwai",
+        "fullTitle": "The Bridge on the River Kwai (1957)",
+        "type": "Movie",
+        "year": "1957",
+        "videoId": "vi1900740633",
+        "videoTitle": "The Bridge on the River Kwai -- Trailer",
+        "videoDescription": "After settling his differences with a Japanese PoW camp commander, a British colonel co-operates to oversee his men's construction of a railway bridge for their captors - while oblivious to a plan by the Allies to destroy it.",
+        "thumbnailUrl": "https://m.media-amazon.com/images/M/MV5BOTEzMTU0NTUwMl5BMl5BanBnXkFtZTgwNDM0MzczMzE@._V1_.jpg",
+        "uploadDate": "11/18/2008 17:08:15",
+        "link": "https://www.imdb.com/video/vi1900740633",
+        "linkEmbed": "https://www.imdb.com/video/imdb/vi1900740633/imdb/embed",
+        "errorMessage": ""
+    },
+    "boxOffice": {
+        "budget": "$3,000,000 (estimated)",
+        "openingWeekendUSA": "",
+        "grossUSA": "$27,200,000",
+        "cumulativeWorldwideGross": "$27,200,000"
+    },
+    "tagline": "It spans a whole new world of entertainment!",
+    "keywords": "bridge,jungle,uniform,british soldier,japanese soldier",
+    "keywordList": [
+        "bridge",
+        "jungle",
+        "uniform",
+        "british soldier",
+        "japanese soldier"
+    ],
+    "similars": [
+        {
+            "id": "tt0056172",
+            "title": "Lawrence of Arabia",
+            "fullTitle": "Lawrence of Arabia (1962)",
+            "year": "1962",
+            "image": "https://imdb-api.com/images/original/MV5BYWY5ZjhjNGYtZmI2Ny00ODM0LWFkNzgtZmI1YzA2N2MxMzA0XkEyXkFqcGdeQXVyNjUwNzk3NDc@._V1_Ratio0.6947_AL_.jpg",
+            "plot": "The story of T.E. Lawrence, the English officer who successfully united and led the diverse, often warring, Arab tribes during World War I in order to fight the Turks.",
+            "directors": "David Lean",
+            "stars": "Peter O'Toole, Alec Guinness, Anthony Quinn",
+            "genres": "Adventure, Biography, Drama",
+            "imDbRating": "8.3"
+        },
+        {
+            "id": "tt0057115",
+            "title": "The Great Escape",
+            "fullTitle": "The Great Escape (1963)",
+            "year": "1963",
+            "image": "https://imdb-api.com/images/original/MV5BNzA2NmYxMWUtNzBlMC00MWM2LTkwNmQtYTFlZjQwODNhOWE0XkEyXkFqcGdeQXVyNTIzOTk5ODM@._V1_Ratio0.6737_AL_.jpg",
+            "plot": "Allied prisoners of war plan for several hundred of their number to escape from a German camp during World War II.",
+            "directors": "John Sturges",
+            "stars": "Steve McQueen, James Garner, Richard Attenborough",
+            "genres": "Adventure, Drama, History",
+            "imDbRating": "8.2"
+        },
+        {
+            "id": "tt0052618",
+            "title": "Ben-Hur",
+            "fullTitle": "Ben-Hur (1959)",
+            "year": "1959",
+            "image": "https://imdb-api.com/images/original/MV5BNjgxY2JiZDYtZmMwOC00ZmJjLWJmODUtMTNmNWNmYWI5ODkwL2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyNjc1NTYyMjg@._V1_Ratio0.6737_AL_.jpg",
+            "plot": "After a Jewish prince is betrayed and sent into slavery by a Roman friend, he regains his freedom and comes back for revenge.",
+            "directors": "William Wyler",
+            "stars": "Charlton Heston, Jack Hawkins, Stephen Boyd",
+            "genres": "Adventure, Drama, History",
+            "imDbRating": "8.1"
+        },
+        {
+            "id": "tt0031381",
+            "title": "Gone with the Wind",
+            "fullTitle": "Gone with the Wind (1939)",
+            "year": "1939",
+            "image": "https://imdb-api.com/images/original/MV5BYjUyZWZkM2UtMzYxYy00ZmQ3LWFmZTQtOGE2YjBkNjA3YWZlXkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_Ratio0.6737_AL_.jpg",
+            "plot": "A manipulative woman and a roguish man conduct a turbulent romance during the American Civil War and Reconstruction periods.",
+            "directors": "Directors: Victor Fleming, George Cukor, and 1 more credit »",
+            "stars": "Clark Gable, Vivien Leigh, Thomas Mitchell",
+            "genres": "Certificate: Passed Drama, History, Romance",
+            "imDbRating": "8.1"
+        },
+        {
+            "id": "tt0047296",
+            "title": "On the Waterfront",
+            "fullTitle": "On the Waterfront (1954)",
+            "year": "1954",
+            "image": "https://imdb-api.com/images/original/MV5BY2I0MWFiZDMtNWQyYy00Njk5LTk3MDktZjZjNTNmZmVkYjkxXkEyXkFqcGdeQXVyNjc1NTYyMjg@._V1_Ratio0.6737_AL_.jpg",
+            "plot": "An ex-prize fighter turned longshoreman struggles to stand up to his corrupt union bosses.",
+            "directors": "Elia Kazan",
+            "stars": "Marlon Brando, Karl Malden, Lee J. Cobb",
+            "genres": "Crime, Drama, Thriller",
+            "imDbRating": "8.1"
+        },
+        {
+            "id": "tt0077416",
+            "title": "The Deer Hunter",
+            "fullTitle": "The Deer Hunter (1978)",
+            "year": "1978",
+            "image": "https://imdb-api.com/images/original/MV5BNDhmNTA0ZDMtYjhkNS00NzEzLWIzYTItOGNkMTVmYjE2YmI3XkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_Ratio0.6737_AL_.jpg",
+            "plot": "An in-depth examination of the ways in which the U.S. Vietnam War impacts and disrupts the lives of people in a small industrial town in Pennsylvania.",
+            "directors": "Michael Cimino",
+            "stars": "Robert De Niro, Christopher Walken, John Cazale",
+            "genres": "Drama, War",
+            "imDbRating": "8.1"
+        },
+        {
+            "id": "tt0040897",
+            "title": "The Treasure of the Sierra Madre",
+            "fullTitle": "The Treasure of the Sierra Madre (1948)",
+            "year": "1948",
+            "image": "https://imdb-api.com/images/original/MV5BOTJlZWMxYzEtMjlkMS00ODE0LThlM2ItMDI3NGQ2YjhmMzkxXkEyXkFqcGdeQXVyMDI2NDg0NQ@@._V1_Ratio0.6737_AL_.jpg",
+            "plot": "Two Americans searching for work in Mexico convince an old prospector to help them mine for gold in the Sierra Madre Mountains.",
+            "directors": "John Huston",
+            "stars": "Humphrey Bogart, Walter Huston, Tim Holt",
+            "genres": "Certificate: Passed Adventure, Drama, Western",
+            "imDbRating": "8.2"
+        },
+        {
+            "id": "tt0070735",
+            "title": "The Sting",
+            "fullTitle": "The Sting (1973)",
+            "year": "1973",
+            "image": "https://imdb-api.com/images/original/MV5BNGU3NjQ4YTMtZGJjOS00YTQ3LThmNmItMTI5MDE2ODI3NzY3XkEyXkFqcGdeQXVyMjUzOTY1NTc@._V1_Ratio0.6737_AL_.jpg",
+            "plot": "Two grifters team up to pull off the ultimate con.",
+            "directors": "George Roy Hill",
+            "stars": "Paul Newman, Robert Redford, Robert Shaw",
+            "genres": "Comedy, Crime, Drama",
+            "imDbRating": "8.3"
+        },
+        {
+            "id": "tt0061512",
+            "title": "Cool Hand Luke",
+            "fullTitle": "Cool Hand Luke (1967)",
+            "year": "1967",
+            "image": "https://imdb-api.com/images/original/MV5BOWFlNzZhYmYtYTI5YS00MDQyLWIyNTUtNTRjMWUwNTEzNjA0XkEyXkFqcGdeQXVyNjUwNzk3NDc@._V1_Ratio0.6737_AL_.jpg",
+            "plot": "A laid back Southern man is sentenced to two years in a rural prison, but refuses to conform.",
+            "directors": "Stuart Rosenberg",
+            "stars": "Paul Newman, George Kennedy, Strother Martin",
+            "genres": "Certificate: GP Crime, Drama",
+            "imDbRating": "8.1"
+        },
+        {
+            "id": "tt0091763",
+            "title": "Platoon",
+            "fullTitle": "Platoon (1986)",
+            "year": "1986",
+            "image": "https://imdb-api.com/images/original/MV5BMzRjZjdlMjQtODVkYS00N2YzLWJlYWYtMGVlN2E5MWEwMWQzXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_Ratio0.6737_AL_.jpg",
+            "plot": "Chris Taylor, a neophyte recruit in Vietnam, finds himself caught in a battle of wills between two sergeants, one good and the other evil. A shrewd examination of the brutality of war and the duality of man in conflict.",
+            "directors": "Oliver Stone",
+            "stars": "Charlie Sheen, Tom Berenger, Willem Dafoe",
+            "genres": "Drama, War",
+            "imDbRating": "8.1"
+        },
+        {
+            "id": "tt0031679",
+            "title": "Mr. Smith Goes to Washington",
+            "fullTitle": "Mr. Smith Goes to Washington (1939)",
+            "year": "1939",
+            "image": "https://imdb-api.com/images/original/MV5BZTYwYjYxYzgtMDE1Ni00NzU4LWJlMTEtODQ5YmJmMGJhZjI5L2ltYWdlXkEyXkFqcGdeQXVyMDI2NDg0NQ@@._V1_Ratio0.6737_AL_.jpg",
+            "plot": "A naive man is appointed to fill a vacancy in the United States Senate. His plans promptly collide with political corruption, but he doesn't back down.",
+            "directors": "Frank Capra",
+            "stars": "James Stewart, Jean Arthur, Claude Rains",
+            "genres": "Certificate: Passed Comedy, Drama",
+            "imDbRating": "8.1"
+        },
+        {
+            "id": "tt0059113",
+            "title": "Doctor Zhivago",
+            "fullTitle": "Doctor Zhivago (1965)",
+            "year": "1965",
+            "image": "https://imdb-api.com/images/original/MV5BNzdmZTk4MTktZmExNi00OWEwLTgxZDctNTE4NWMwNjc1Nzg2XkEyXkFqcGdeQXVyNjc1NTYyMjg@._V1_Ratio0.6737_AL_.jpg",
+            "plot": "The life of a Russian physician and poet who, although married to another, falls in love with a political activist's wife and experiences hardship during World War I and then the October Revolution.",
+            "directors": "David Lean",
+            "stars": "Omar Sharif, Julie Christie, Geraldine Chaplin",
+            "genres": "Drama, Romance, War",
+            "imDbRating": "8"
+        }
+    ],
+    "tvSeriesInfo": null,
+    "tvEpisodeInfo": null,
+    "errorMessage": ""
+}
