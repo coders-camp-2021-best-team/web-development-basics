@@ -14,5 +14,9 @@ export const routes = {
     details: {
         routerPath: '/details',
         getPathWithParams: (id = '') => `/details?id=${id}`
+    },
+    favorites: {
+        routerPath: '/favorites',
+        getPathWithParams: () => '/favorites'
     }
 };
