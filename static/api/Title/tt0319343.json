@@ -1,0 +1,632 @@
+{
+    "id": "tt0319343",
+    "title": "Elf",
+    "originalTitle": "",
+    "fullTitle": "Elf (2003)",
+    "type": "Movie",
+    "year": "2003",
+    "image": "https://imdb-api.com/images/original/MV5BMzUxNzkzMzQtYjIxZC00NzU0LThkYTQtZjNhNTljMTA1MDA1L2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_Ratio0.6762_AL_.jpg",
+    "releaseDate": "2003-11-06",
+    "runtimeMins": "97",
+    "runtimeStr": "1h 37min",
+    "plot": "Buddy was a baby in an orphanage who stowed away in Santa's sack and ended up at the North Pole. Later, as an adult human who happened to be raised by elves, Santa allows him to go to New York City to find his birth father, Walter Hobbs. Hobbs, on Santa's naughty list for being a heartless jerk, had no idea that Buddy was even born. Buddy, meanwhile, experiences the delights of New York City (and human culture) as only an elf can. When Walter's relationship with Buddy interferes with his job, he is forced to reevaluate his priorities.",
+    "plotLocal": "",
+    "plotLocalIsRtl": false,
+    "awards": "Awards2 wins & 7 nominations",
+    "directors": "Jon Favreau",
+    "directorList": [{ "id": "nm0269463", "name": "Jon Favreau" }],
+    "writers": "David Berenbaum",
+    "writerList": [{ "id": "nm1183854", "name": "David Berenbaum" }],
+    "stars": "Will Ferrell, James Caan, Bob Newhart",
+    "starList": [
+        { "id": "nm0002071", "name": "Will Ferrell" },
+        { "id": "nm0001001", "name": "James Caan" },
+        { "id": "nm0627878", "name": "Bob Newhart" }
+    ],
+    "actorList": [
+        {
+            "id": "nm0002071",
+            "image": "https://imdb-api.com/images/original/MV5BMTMxMDIzMDEzNF5BMl5BanBnXkFtZTcwODcxMjE2Mg@@._V1_Ratio1.0000_AL_.jpg",
+            "name": "Will Ferrell",
+            "asCharacter": "Buddyas Buddy"
+        },
+        {
+            "id": "nm0001001",
+            "image": "https://imdb-api.com/images/original/MV5BMTI5NjkyNDQ3NV5BMl5BanBnXkFtZTcwNjY5NTQ0Mw@@._V1_Ratio1.0000_AL_.jpg",
+            "name": "James Caan",
+            "asCharacter": "Walteras Walter"
+        },
+        {
+            "id": "nm0627878",
+            "image": "https://imdb-api.com/images/original/MV5BMTk5MDE5NDcxOV5BMl5BanBnXkFtZTcwNTAxOTkwMg@@._V1_Ratio1.0000_AL_.jpg",
+            "name": "Bob Newhart",
+            "asCharacter": "Papa Elfas Papa Elf"
+        },
+        {
+            "id": "nm0221046",
+            "image": "https://imdb-api.com/images/original/MV5BMTgzMjM2NDE1OF5BMl5BanBnXkFtZTcwMjA2NDU5OA@@._V1_Ratio1.0000_AL_.jpg",
+            "name": "Zooey Deschanel",
+            "asCharacter": "Jovieas Jovie"
+        },
+        {
+            "id": "nm0000799",
+            "image": "https://imdb-api.com/images/original/MV5BMTk0MDI4ODk5NF5BMl5BanBnXkFtZTcwMzg3ODQ3MQ@@._V1_Ratio1.0000_AL_.jpg",
+            "name": "Edward Asner",
+            "asCharacter": "Santaas Santa"
+        },
+        {
+            "id": "nm0005460",
+            "image": "https://imdb-api.com/images/original/MV5BMTk1OTI5OTc0Nl5BMl5BanBnXkFtZTcwNjc5NDMwNA@@._V1_Ratio1.0000_AL_.jpg",
+            "name": "Mary Steenburgen",
+            "asCharacter": "Emilyas Emily"
+        },
+        {
+            "id": "nm1307735",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Daniel Tay",
+            "asCharacter": "Michaelas Michael"
+        },
+        {
+            "id": "nm0522324",
+            "image": "https://imdb-api.com/images/original/MV5BODkwNzE2NjM5MF5BMl5BanBnXkFtZTYwNDE5MDcy._V1_Ratio1.0000_AL_.jpg",
+            "name": "Faizon Love",
+            "asCharacter": "Gimbel's Manageras Gimbel's Manager"
+        },
+        {
+            "id": "nm0227759",
+            "image": "https://imdb-api.com/images/original/MV5BMTM1MTI5Mzc0MF5BMl5BanBnXkFtZTYwNzgzOTQz._V1_Ratio1.0000_AL_.jpg",
+            "name": "Peter Dinklage",
+            "asCharacter": "Miles Finchas Miles Finch"
+        },
+        {
+            "id": "nm0781238",
+            "image": "https://imdb-api.com/images/original/MV5BODIyNDE5NDg2OV5BMl5BanBnXkFtZTcwMDc0NDU5Ng@@._V1_Ratio1.0000_AL_.jpg",
+            "name": "Amy Sedaris",
+            "asCharacter": "Debas Deb"
+        },
+        {
+            "id": "nm0503627",
+            "image": "https://imdb-api.com/images/original/MV5BMTUzMTA2ODU2M15BMl5BanBnXkFtZTcwOTQ2NDY1Nw@@._V1_Ratio1.0000_AL_.jpg",
+            "name": "Michael Lerner",
+            "asCharacter": "Fultonas Fulton"
+        },
+        {
+            "id": "nm0725200",
+            "image": "https://imdb-api.com/images/original/MV5BMTg0MjMxOTM0M15BMl5BanBnXkFtZTcwNjQ2MzI0Mg@@._V1_Ratio1.0000_AL_.jpg",
+            "name": "Andy Richter",
+            "asCharacter": "Morrisas Morris"
+        },
+        {
+            "id": "nm0309307",
+            "image": "https://imdb-api.com/images/original/MV5BNDMxMjk5OTQ2Nl5BMl5BanBnXkFtZTYwODU3NTA2._V1_Ratio1.0000_AL_.jpg",
+            "name": "Kyle Gass",
+            "asCharacter": "Eugeneas Eugene"
+        },
+        {
+            "id": "nm0005119",
+            "image": "https://imdb-api.com/images/original/MV5BNzUzNTczMTczMl5BMl5BanBnXkFtZTcwODI0NjYyMQ@@._V1_Ratio1.0000_AL_.jpg",
+            "name": "Artie Lange",
+            "asCharacter": "Gimbel's Santaas Gimbel's Santa"
+        },
+        {
+            "id": "nm0714642",
+            "image": "https://imdb-api.com/images/original/MV5BMTcxMzI0NDExMl5BMl5BanBnXkFtZTcwNjg1NDYzOA@@._V1_Ratio1.0000_AL_.jpg",
+            "name": "Leon Redbone",
+            "asCharacter": "Leon the Snowmanas Leon the Snowman"
+        },
+        {
+            "id": "nm0366063",
+            "image": "https://imdb-api.com/images/original/MV5BMTgxNTE2MjY1MV5BMl5BanBnXkFtZTcwNTkwNDgzMQ@@._V1_Ratio1.0000_AL_.jpg",
+            "name": "Ray Harryhausen",
+            "asCharacter": "Polar Bear Cubas Polar Bear Cub"
+        },
+        {
+            "id": "nm0491621",
+            "image": "https://imdb-api.com/images/original/MV5BMTU0MDA4NDgyN15BMl5BanBnXkFtZTYwNjkwNjgy._V1_Ratio1.0000_AL_.jpg",
+            "name": "Claire Lautier",
+            "asCharacter": "NY 1 Reporteras NY 1 Reporter"
+        },
+        {
+            "id": "nm0295554",
+            "image": "https://imdb-api.com/images/original/MV5BNThiMmYxZTItMjI1NC00YmNiLWEzNzEtY2UwZDJmYzVmMWJlXkEyXkFqcGdeQXVyNDQ1OTk5Mjg@._V1_Ratio1.0000_AL_.jpg",
+            "name": "Ted Friend",
+            "asCharacter": "NY 1 Anchoras NY 1 Anchor"
+        }
+    ],
+    "fullCast": null,
+    "genres": "Adventure, Comedy, Family",
+    "genreList": [
+        { "key": "Adventure", "value": "Adventure" },
+        { "key": "Comedy", "value": "Comedy" },
+        { "key": "Family", "value": "Family" }
+    ],
+    "companies": "New Line Cinema, Guy Walks into a Bar Productions, Gold/Miller Productions",
+    "companyList": [
+        { "id": "co0046718", "name": "New Line Cinema" },
+        { "id": "co0031707", "name": "Guy Walks into a Bar Productions" },
+        { "id": "co0052918", "name": "Gold/Miller Productions" }
+    ],
+    "countries": "USA",
+    "countryList": [{ "key": "USA", "value": "USA" }],
+    "languages": "English",
+    "languageList": [{ "key": "English", "value": "English" }],
+    "contentRating": "PG",
+    "imDbRating": "7",
+    "imDbRatingVotes": "234827",
+    "metacriticRating": "64",
+    "ratings": null,
+    "wikipedia": null,
+    "posters": {
+        "imDbId": "tt0319343",
+        "title": "Elf",
+        "fullTitle": "Elf (2003)",
+        "type": "Movie",
+        "year": "2003",
+        "posters": [
+            {
+                "id": "zDHFQmaxlTIJGQDfTrLTL9RK2tQ.jpg",
+                "link": "https://imdb-api.com/posters/original/zDHFQmaxlTIJGQDfTrLTL9RK2tQ.jpg",
+                "aspectRatio": 0.6666666666666666,
+                "language": "en",
+                "width": 1400,
+                "height": 2100
+            },
+            {
+                "id": "vLPcbYn4CEliFXf58y6F9rL15dD.jpg",
+                "link": "https://imdb-api.com/posters/original/vLPcbYn4CEliFXf58y6F9rL15dD.jpg",
+                "aspectRatio": 0.6666666666666666,
+                "language": "en",
+                "width": 1000,
+                "height": 1500
+            },
+            {
+                "id": "iGIjksGc9Ud5owXwtVvPih6NJN6.jpg",
+                "link": "https://imdb-api.com/posters/original/iGIjksGc9Ud5owXwtVvPih6NJN6.jpg",
+                "aspectRatio": 0.6666666666666666,
+                "language": "en",
+                "width": 2000,
+                "height": 3000
+            },
+            {
+                "id": "fYVKLze1doqQLBAQPIZ84vI8On4.jpg",
+                "link": "https://imdb-api.com/posters/original/fYVKLze1doqQLBAQPIZ84vI8On4.jpg",
+                "aspectRatio": 0.6666666666666666,
+                "language": "en",
+                "width": 1400,
+                "height": 2100
+            },
+            {
+                "id": "tFlDcj1iDpkqG6SLt6dRYQhUWdH.jpg",
+                "link": "https://imdb-api.com/posters/original/tFlDcj1iDpkqG6SLt6dRYQhUWdH.jpg",
+                "aspectRatio": 0.6666666666666666,
+                "language": "en",
+                "width": 1000,
+                "height": 1500
+            },
+            {
+                "id": "pEfIlmapieCWFnOprmBaG45tQC6.jpg",
+                "link": "https://imdb-api.com/posters/original/pEfIlmapieCWFnOprmBaG45tQC6.jpg",
+                "aspectRatio": 0.6666666666666666,
+                "language": "en",
+                "width": 2000,
+                "height": 3000
+            }
+        ],
+        "backdrops": [
+            {
+                "id": "yNr7tuh3Ka3XLaVniaDmt6wXUho.jpg",
+                "link": "https://imdb-api.com/posters/original/yNr7tuh3Ka3XLaVniaDmt6wXUho.jpg",
+                "aspectRatio": 1.7777777777777777,
+                "language": "en",
+                "width": 1920,
+                "height": 1080
+            },
+            {
+                "id": "lmjjlXwNeRqmKBuA0a6jqOyTnZG.jpg",
+                "link": "https://imdb-api.com/posters/original/lmjjlXwNeRqmKBuA0a6jqOyTnZG.jpg",
+                "aspectRatio": 1.7777777777777777,
+                "language": "en",
+                "width": 2048,
+                "height": 1152
+            },
+            {
+                "id": "2KOIXbYdqnZhKNTbl4lvRD8oznQ.jpg",
+                "link": "https://imdb-api.com/posters/original/2KOIXbYdqnZhKNTbl4lvRD8oznQ.jpg",
+                "aspectRatio": 1.7772511848341233,
+                "language": "en",
+                "width": 3000,
+                "height": 1688
+            },
+            {
+                "id": "zhruPkR9Y1SMFGr6n4wJSeGxjm1.jpg",
+                "link": "https://imdb-api.com/posters/original/zhruPkR9Y1SMFGr6n4wJSeGxjm1.jpg",
+                "aspectRatio": 1.7777777777777777,
+                "language": "en",
+                "width": 1920,
+                "height": 1080
+            }
+        ],
+        "errorMessage": ""
+    },
+    "images": {
+        "imDbId": "tt0319343",
+        "title": "Elf",
+        "fullTitle": "Elf (2003)",
+        "type": "Movie",
+        "year": "2003",
+        "items": [
+            {
+                "title": "James Caan, Will Ferrell, and Amy Sedaris in Elf (2003)",
+                "image": "https://imdb-api.com/images/original/MV5BNzYwNDYyMTc2Nl5BMl5BanBnXkFtZTgwNjU0NTkxNDM@._V1_Ratio1.5000_AL_.jpg"
+            },
+            {
+                "title": "Will Ferrell and Bob Newhart in Elf (2003)",
+                "image": "https://imdb-api.com/images/original/MV5BMTk4MDM0MDM3N15BMl5BanBnXkFtZTgwMzIzMzU2MzE@._V1_Ratio1.5000_AL_.jpg"
+            },
+            {
+                "title": "Will Ferrell in Elf (2003)",
+                "image": "https://imdb-api.com/images/original/MV5BMTg3NzI4MTQyOV5BMl5BanBnXkFtZTgwMjIzMzU2MzE@._V1_Ratio1.0000_AL_.jpg"
+            },
+            {
+                "title": "Will Ferrell, Kristian Ayre, Peter Billingsley, Meghan Black, David Avalon, Patrick Baynham, Graeme Duffy, and Reginald Colin Rowley in Elf (2003)",
+                "image": "https://imdb-api.com/images/original/MV5BMTYyMDMzODI0N15BMl5BanBnXkFtZTcwNzY1MTkxNA@@._V1_Ratio1.4000_AL_.jpg"
+            },
+            {
+                "title": "Will Ferrell in Elf (2003)",
+                "image": "https://imdb-api.com/images/original/MV5BNjU5MjAwOTUzMF5BMl5BanBnXkFtZTcwODY1MTkxNA@@._V1_Ratio1.0000_AL_.jpg"
+            },
+            {
+                "title": "Will Ferrell and Daniel Tay in Elf (2003)",
+                "image": "https://imdb-api.com/images/original/MV5BMTQ5OTE4NTA5N15BMl5BanBnXkFtZTcwMDc1MTkxNA@@._V1_Ratio1.5600_AL_.jpg"
+            },
+            {
+                "title": "Will Ferrell in Elf (2003)",
+                "image": "https://imdb-api.com/images/original/MV5BMTM0ODI0NDkyOF5BMl5BanBnXkFtZTcwMTc1MTkxNA@@._V1_Ratio1.5000_AL_.jpg"
+            },
+            {
+                "title": "Will Ferrell in Elf (2003)",
+                "image": "https://imdb-api.com/images/original/MV5BMTM2OTc4NjU1MV5BMl5BanBnXkFtZTcwMjc1MTkxNA@@._V1_Ratio1.5000_AL_.jpg"
+            },
+            {
+                "title": "Will Ferrell in Elf (2003)",
+                "image": "https://imdb-api.com/images/original/MV5BMTkxMjIwOTU1OV5BMl5BanBnXkFtZTcwMzc1MTkxNA@@._V1_Ratio1.5000_AL_.jpg"
+            },
+            {
+                "title": "Will Ferrell in Elf (2003)",
+                "image": "https://imdb-api.com/images/original/MV5BMTYyNjc4MjAyMl5BMl5BanBnXkFtZTcwNTc1MTkxNA@@._V1_Ratio1.0000_AL_.jpg"
+            },
+            {
+                "title": "James Caan and Will Ferrell in Elf (2003)",
+                "image": "https://imdb-api.com/images/original/MV5BMjA2NjE3NTY2Ml5BMl5BanBnXkFtZTYwOTMxMTc3._V1_Ratio1.5200_AL_.jpg"
+            },
+            {
+                "title": "Ed Asner, Peter Billingsley, and Bob Newhart in Elf (2003)",
+                "image": "https://imdb-api.com/images/original/MV5BODQ4Mzg5OTA0NV5BMl5BanBnXkFtZTYwMTQxMTc3._V1_Ratio1.5000_AL_.jpg"
+            },
+            {
+                "title": "Will Ferrell and Zooey Deschanel in Elf (2003)",
+                "image": "https://imdb-api.com/images/original/MV5BMjAwNDY3Mjc3NF5BMl5BanBnXkFtZTYwMjQxMTc3._V1_Ratio1.5000_AL_.jpg"
+            },
+            {
+                "title": "Will Ferrell and Bob Newhart in Elf (2003)",
+                "image": "https://imdb-api.com/images/original/MV5BMTI1MTUzMTAwOF5BMl5BanBnXkFtZTYwNTQxMTc3._V1_Ratio1.5000_AL_.jpg"
+            },
+            {
+                "title": "Will Ferrell, Luke Pohl, and Annie Brebner in Elf (2003)",
+                "image": "https://imdb-api.com/images/original/MV5BMTM3MzYwMTY4NV5BMl5BanBnXkFtZTYwNzQxMTc3._V1_Ratio1.5000_AL_.jpg"
+            },
+            {
+                "title": "Ed Asner and Will Ferrell in Elf (2003)",
+                "image": "https://imdb-api.com/images/original/MV5BMTI4NTAxMzQ3MF5BMl5BanBnXkFtZTYwOTQxMTc3._V1_Ratio1.5000_AL_.jpg"
+            },
+            {
+                "title": "Will Ferrell and Faizon Love in Elf (2003)",
+                "image": "https://imdb-api.com/images/original/MV5BMTg0NzA1ODY5Ml5BMl5BanBnXkFtZTYwMjUxMTc3._V1_Ratio1.5600_AL_.jpg"
+            },
+            {
+                "title": "Will Ferrell in Elf (2003)",
+                "image": "https://imdb-api.com/images/original/MV5BMTIwNjUyNTgyNl5BMl5BanBnXkFtZTYwNDUxMTc3._V1_Ratio1.5000_AL_.jpg"
+            },
+            {
+                "title": "Will Ferrell and Daniel Tay in Elf (2003)",
+                "image": "https://imdb-api.com/images/original/MV5BMTI0NzEyODgyOF5BMl5BanBnXkFtZTYwNjUxMTc3._V1_Ratio1.4200_AL_.jpg"
+            },
+            {
+                "title": "Will Ferrell in Elf (2003)",
+                "image": "https://imdb-api.com/images/original/MV5BMjE0MjE0NjAzNF5BMl5BanBnXkFtZTYwMDYxMTc3._V1_Ratio1.0000_AL_.jpg"
+            },
+            {
+                "title": "Will Ferrell in Elf (2003)",
+                "image": "https://imdb-api.com/images/original/MV5BMTQ5MTU5MjQ4NV5BMl5BanBnXkFtZTYwMjYxMTc3._V1_Ratio1.5200_AL_.jpg"
+            },
+            {
+                "title": "Zooey Deschanel in Elf (2003)",
+                "image": "https://imdb-api.com/images/original/MV5BNzI3MTgyMTMyN15BMl5BanBnXkFtZTYwNjYxMTc3._V1_Ratio1.5000_AL_.jpg"
+            },
+            {
+                "title": "Zooey Deschanel in Elf (2003)",
+                "image": "https://imdb-api.com/images/original/MV5BMTM3ODE0MzQ1Ml5BMl5BanBnXkFtZTYwODYxMTc3._V1_Ratio1.0000_AL_.jpg"
+            },
+            {
+                "title": "James Caan, Peter Dinklage, Kyle Gass, Andy Richter, and Amy Sedaris in Elf (2003)",
+                "image": "https://imdb-api.com/images/original/MV5BMTc0NjYzNTY3N15BMl5BanBnXkFtZTYwOTYxMTc3._V1_Ratio1.5400_AL_.jpg"
+            },
+            {
+                "title": "Bob Newhart in Elf (2003)",
+                "image": "https://imdb-api.com/images/original/MV5BMTU3NTAwMzY2NF5BMl5BanBnXkFtZTYwMjcxMTc3._V1_Ratio1.0000_AL_.jpg"
+            },
+            {
+                "title": "Bob Newhart in Elf (2003)",
+                "image": "https://imdb-api.com/images/original/MV5BMTQ2Njk3MzIwNF5BMl5BanBnXkFtZTYwNDcxMTc3._V1_Ratio1.0000_AL_.jpg"
+            },
+            {
+                "title": "Bob Newhart in Elf (2003)",
+                "image": "https://imdb-api.com/images/original/MV5BMTA4MDk3MjIxNTleQTJeQWpwZ15BbWU2MDY3MTE3Nw@@._V1_Ratio1.5200_AL_.jpg"
+            },
+            {
+                "title": "James Caan, Will Ferrell, and Daniel Tay in Elf (2003)",
+                "image": "https://imdb-api.com/images/original/MV5BMTc1OTQ0MzQwNV5BMl5BanBnXkFtZTYwODcxMTc3._V1_Ratio1.5000_AL_.jpg"
+            },
+            {
+                "title": "James Caan, Will Ferrell, and Amy Sedaris in Elf (2003)",
+                "image": "https://imdb-api.com/images/original/MV5BOTMxMDQyNTc1MV5BMl5BanBnXkFtZTYwMzgxMTc3._V1_Ratio1.5000_AL_.jpg"
+            },
+            {
+                "title": "James Caan in Elf (2003)",
+                "image": "https://imdb-api.com/images/original/MV5BMjA5Mzg3ODAxN15BMl5BanBnXkFtZTYwNTgxMTc3._V1_Ratio1.5000_AL_.jpg"
+            },
+            {
+                "title": "Will Ferrell in Elf (2003)",
+                "image": "https://imdb-api.com/images/original/MV5BMTU4NjcwOTU5MV5BMl5BanBnXkFtZTYwNzgxMTc3._V1_Ratio1.5000_AL_.jpg"
+            },
+            {
+                "title": "James Caan in Elf (2003)",
+                "image": "https://imdb-api.com/images/original/MV5BMTE5NTY1MjA0NF5BMl5BanBnXkFtZTYwOTgxMTc3._V1_Ratio1.0000_AL_.jpg"
+            },
+            {
+                "title": "Will Ferrell and Bob Newhart in Elf (2003)",
+                "image": "https://imdb-api.com/images/original/MV5BMTIyMTIxOTk5M15BMl5BanBnXkFtZTYwMTkxMTc3._V1_Ratio1.5000_AL_.jpg"
+            },
+            {
+                "title": "Will Ferrell in Elf (2003)",
+                "image": "https://imdb-api.com/images/original/MV5BMTIwMjA5ODA0Nl5BMl5BanBnXkFtZTYwMzkxMTc3._V1_Ratio1.0000_AL_.jpg"
+            },
+            {
+                "title": "Will Ferrell in Elf (2003)",
+                "image": "https://imdb-api.com/images/original/MV5BMTYzNjAxMDU2OF5BMl5BanBnXkFtZTYwNTkxMTc3._V1_Ratio1.5000_AL_.jpg"
+            },
+            {
+                "title": "Will Ferrell in Elf (2003)",
+                "image": "https://imdb-api.com/images/original/MV5BMjE3NzI1OTQ3MV5BMl5BanBnXkFtZTYwOTkxMTc3._V1_Ratio1.7000_AL_.jpg"
+            },
+            {
+                "title": "Ed Asner in Elf (2003)",
+                "image": "https://imdb-api.com/images/original/MV5BOTMxNjU5MjA5N15BMl5BanBnXkFtZTYwMTAyMTc3._V1_Ratio1.0000_AL_.jpg"
+            },
+            {
+                "title": "Will Ferrell and Peter Billingsley in Elf (2003)",
+                "image": "https://imdb-api.com/images/original/MV5BMTUwMTEwODc5Ml5BMl5BanBnXkFtZTYwMzAyMTc3._V1_Ratio1.4000_AL_.jpg"
+            },
+            {
+                "title": "James Caan, Mary Steenburgen, and Daniel Tay in Elf (2003)",
+                "image": "https://imdb-api.com/images/original/MV5BMTc5NTIxMjIxMl5BMl5BanBnXkFtZTYwNDYxMTc3._V1_Ratio1.0000_AL_.jpg"
+            },
+            {
+                "title": "Will Ferrell and Jon Favreau in Elf (2003)",
+                "image": "https://imdb-api.com/images/original/MV5BNzIzNTQ1ODc5NV5BMl5BanBnXkFtZTgwOTE0MzczNDM@._V1_Ratio1.6200_AL_.jpg"
+            },
+            {
+                "title": "Will Ferrell and Jon Favreau in Elf (2003)",
+                "image": "https://imdb-api.com/images/original/MV5BMzI1MDM5NDU5OV5BMl5BanBnXkFtZTYwODUxMTc3._V1_Ratio1.5000_AL_.jpg"
+            },
+            {
+                "title": "Will Ferrell and Jon Favreau in Elf (2003)",
+                "image": "https://imdb-api.com/images/original/MV5BODg5MTY5OTQ1Nl5BMl5BanBnXkFtZTYwMDgxMTc3._V1_Ratio1.5000_AL_.jpg"
+            },
+            {
+                "title": "Jon Favreau in Elf (2003)",
+                "image": "https://imdb-api.com/images/original/MV5BMTYwMDQ3Njg4OF5BMl5BanBnXkFtZTYwNzkxMTc3._V1_Ratio1.5000_AL_.jpg"
+            },
+            {
+                "title": "Will Ferrell, Jon Favreau, and Joe MacLeod in Elf (2003)",
+                "image": "https://imdb-api.com/images/original/MV5BMTg3NDcxMjI2N15BMl5BanBnXkFtZTYwNTAyMTc3._V1_Ratio1.5000_AL_.jpg"
+            },
+            {
+                "title": "Elf (2003)",
+                "image": "https://imdb-api.com/images/original/MV5BZjM5YzAzYTYtMDc0My00ZTg2LTljZGMtZGU3MGJjYjkwNzlhXkEyXkFqcGdeQXVyMTkxODQ4MDg@._V1_Ratio1.0000_AL_.jpg"
+            },
+            {
+                "title": "Elf (2003)",
+                "image": "https://imdb-api.com/images/original/MV5BYmZhMDdkOTgtZTk1NS00ODhhLWFiM2ItYTRmNDQxOWIyZTM0XkEyXkFqcGdeQXVyMTM2ODk1OTQ@._V1_Ratio1.0000_AL_.jpg"
+            },
+            {
+                "title": "Will Ferrell in Elf (2003)",
+                "image": "https://imdb-api.com/images/original/MV5BMjE4NzI5NjgwNl5BMl5BanBnXkFtZTYwNjAyMTc3._V1_Ratio1.0000_AL_.jpg"
+            },
+            {
+                "title": "Will Ferrell in Elf (2003)",
+                "image": "https://imdb-api.com/images/original/MV5BNjY1NjQ3NDY5MF5BMl5BanBnXkFtZTYwODAyMTc3._V1_Ratio1.0000_AL_.jpg"
+            }
+        ],
+        "errorMessage": ""
+    },
+    "trailer": {
+        "imDbId": "tt0319343",
+        "title": "Elf",
+        "fullTitle": "Elf (2003)",
+        "type": "Movie",
+        "year": "2003",
+        "videoId": null,
+        "videoTitle": null,
+        "videoDescription": null,
+        "thumbnailUrl": null,
+        "uploadDate": null,
+        "link": null,
+        "linkEmbed": null,
+        "errorMessage": "404 Not Founded Error"
+    },
+    "boxOffice": {
+        "budget": "$33,000,000 (estimated)",
+        "openingWeekendUSA": "$32,100,000",
+        "grossUSA": "$176,630,408",
+        "cumulativeWorldwideGross": "$223,853,736"
+    },
+    "tagline": "A Comedy of Elf-fish Proportions",
+    "keywords": "elf,christmas,father son relationship,santa claus,christmas movie",
+    "keywordList": [
+        "elf",
+        "christmas",
+        "father son relationship",
+        "santa claus",
+        "christmas movie"
+    ],
+    "similars": [
+        {
+            "id": "tt0170016",
+            "title": "How the Grinch Stole Christmas",
+            "fullTitle": "How the Grinch Stole Christmas",
+            "year": "",
+            "image": "https://imdb-api.com/images/original/MV5BNWNiNTczNzEtMjQyZC00MjFmLTkzMDMtODk4ZGMyZmE0N2E4XkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_Ratio0.6763_AL_.jpg",
+            "plot": "",
+            "directors": "",
+            "stars": "",
+            "genres": "",
+            "imDbRating": "6.2"
+        },
+        {
+            "id": "tt0111070",
+            "title": "The Santa Clause",
+            "fullTitle": "The Santa Clause",
+            "year": "",
+            "image": "https://imdb-api.com/images/original/MV5BMTZlNzk1MjItYjJlYy00MTAxLWJkNjEtZmNiNmVlNjQ4NDE5XkEyXkFqcGdeQXVyMzI0NDc4ODY@._V1_Ratio0.6763_AL_.jpg",
+            "plot": "",
+            "directors": "",
+            "stars": "",
+            "genres": "",
+            "imDbRating": "6.5"
+        },
+        {
+            "id": "tt0099785",
+            "title": "Home Alone",
+            "fullTitle": "Home Alone",
+            "year": "",
+            "image": "https://imdb-api.com/images/original/MV5BMzFkM2YwOTQtYzk2Mi00N2VlLWE3NTItN2YwNDg1YmY0ZDNmXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_Ratio0.6763_AL_.jpg",
+            "plot": "",
+            "directors": "",
+            "stars": "",
+            "genres": "",
+            "imDbRating": "7.6"
+        },
+        {
+            "id": "tt0338348",
+            "title": "The Polar Express",
+            "fullTitle": "The Polar Express",
+            "year": "",
+            "image": "https://imdb-api.com/images/original/MV5BMTM1NTU0NTE4MV5BMl5BanBnXkFtZTcwMTQ0MjEzMw@@._V1_Ratio0.6763_AL_.jpg",
+            "plot": "",
+            "directors": "",
+            "stars": "",
+            "genres": "",
+            "imDbRating": "6.6"
+        },
+        {
+            "id": "tt0104431",
+            "title": "Home Alone 2: Lost in New York",
+            "fullTitle": "Home Alone 2: Lost in New York",
+            "year": "",
+            "image": "https://imdb-api.com/images/original/MV5BNDI1MzM0Y2YtYmIyMS00ODE3LTlhZjEtZTUyNmEzMTNhZWU5XkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_Ratio0.6763_AL_.jpg",
+            "plot": "",
+            "directors": "",
+            "stars": "",
+            "genres": "",
+            "imDbRating": "6.8"
+        },
+        {
+            "id": "tt0107614",
+            "title": "Mrs. Doubtfire",
+            "fullTitle": "Mrs. Doubtfire",
+            "year": "",
+            "image": "https://imdb-api.com/images/original/MV5BMjExMDUzODE1N15BMl5BanBnXkFtZTgwNTU5NTYxMTE@._V1_Ratio0.6763_AL_.jpg",
+            "plot": "",
+            "directors": "",
+            "stars": "",
+            "genres": "",
+            "imDbRating": "7.0"
+        },
+        {
+            "id": "tt0085334",
+            "title": "A Christmas Story",
+            "fullTitle": "A Christmas Story",
+            "year": "",
+            "image": "https://imdb-api.com/images/original/MV5BOWMyNjE0MzEtMzVjNy00NjIxLTg0ZjMtMWJhNGI1YmVjYTczL2ltYWdlXkEyXkFqcGdeQXVyNzc5MjA3OA@@._V1_Ratio0.6763_AL_.jpg",
+            "plot": "",
+            "directors": "",
+            "stars": "",
+            "genres": "",
+            "imDbRating": "7.9"
+        },
+        {
+            "id": "tt4147830",
+            "title": "Elf: Buddy's Musical Christmas",
+            "fullTitle": "Elf: Buddy's Musical Christmas",
+            "year": "",
+            "image": "https://imdb-api.com/images/original/MV5BMTQ1NTA1NzY3Nl5BMl5BanBnXkFtZTgwNTAxMDc4MzE@._V1_Ratio0.7053_AL_.jpg",
+            "plot": "",
+            "directors": "",
+            "stars": "",
+            "genres": "",
+            "imDbRating": "5.4"
+        },
+        {
+            "id": "tt0067992",
+            "title": "Willy Wonka & the Chocolate Factory",
+            "fullTitle": "Willy Wonka & the Chocolate Factory",
+            "year": "",
+            "image": "https://imdb-api.com/images/original/MV5BZTllNDU0ZTItYTYxMC00OTI4LThlNDAtZjNiNzdhMWZiYjNmXkEyXkFqcGdeQXVyNzY1NDgwNjQ@._V1_Ratio0.6763_AL_.jpg",
+            "plot": "",
+            "directors": "",
+            "stars": "",
+            "genres": "",
+            "imDbRating": "7.8"
+        },
+        {
+            "id": "tt0113497",
+            "title": "Jumanji",
+            "fullTitle": "Jumanji",
+            "year": "",
+            "image": "https://imdb-api.com/images/original/MV5BZTk2ZmUwYmEtNTcwZS00YmMyLWFkYjMtNTRmZDA3YWExMjc2XkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_Ratio0.7536_AL_.jpg",
+            "plot": "",
+            "directors": "",
+            "stars": "",
+            "genres": "",
+            "imDbRating": "7.0"
+        },
+        {
+            "id": "tt0477347",
+            "title": "Night at the Museum",
+            "fullTitle": "Night at the Museum",
+            "year": "",
+            "image": "https://imdb-api.com/images/original/MV5BMTQyOTM4MDMxN15BMl5BanBnXkFtZTcwODg5NTQzMw@@._V1_Ratio0.6860_AL_.jpg",
+            "plot": "",
+            "directors": "",
+            "stars": "",
+            "genres": "",
+            "imDbRating": "6.4"
+        },
+        {
+            "id": "tt1528854",
+            "title": "Daddy's Home",
+            "fullTitle": "Daddy's Home",
+            "year": "",
+            "image": "https://imdb-api.com/images/original/MV5BMTQ0OTE1MTk4N15BMl5BanBnXkFtZTgwMDM5OTk5NjE@._V1_Ratio0.6763_AL_.jpg",
+            "plot": "",
+            "directors": "",
+            "stars": "",
+            "genres": "",
+            "imDbRating": "6.2"
+        }
+    ],
+    "tvSeriesInfo": null,
+    "tvEpisodeInfo": null,
+    "errorMessage": ""
+}

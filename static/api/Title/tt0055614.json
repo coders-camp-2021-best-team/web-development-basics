@@ -1,0 +1,713 @@
+{
+    "id": "tt0055614",
+    "title": "West Side Story",
+    "originalTitle": "",
+    "fullTitle": "West Side Story (1961)",
+    "type": "Movie",
+    "year": "1961",
+    "image": "https://imdb-api.com/images/original/MV5BMTM0NDAxOTI5MF5BMl5BanBnXkFtZTcwNjI4Mjg3NA@@._V1_Ratio0.6762_AL_.jpg",
+    "releaseDate": "1961-10-17",
+    "runtimeMins": "153",
+    "runtimeStr": "2h 33min",
+    "plot": "West Side Story is the award-winning adaptation of the classic romantic tragedy \"Romeo and Juliet\". The feuding families become two warring New York City gangs--the white Jets led by Riff and the Latino Sharks, led by Bernardo. Their hatred escalates to a point where neither can coexist with any form of understanding. But when Riff's best friend (and former Jet) Tony and Bernardo's younger sister Maria meet at a dance, no one can do anything to stop their love. Maria and Tony begin meeting in secret, planning to run away. Then the Sharks and Jets plan a rumble under the highway--whoever wins gains control of the streets. Maria sends Tony to stop it, hoping it can end the violence. It goes terribly wrong, and before the lovers know what's happened, tragedy strikes and doesn't stop until the climactic and heartbreaking ending.",
+    "plotLocal": "",
+    "plotLocalIsRtl": false,
+    "awards": "Won 10 Oscars28 wins & 10 nominations total",
+    "directors": "Jerome Robbins, Robert Wise",
+    "directorList": [
+        { "id": "nm0730385", "name": "Jerome Robbins" },
+        { "id": "nm0936404", "name": "Robert Wise" }
+    ],
+    "writers": "Ernest Lehman, Arthur Laurents, Jerome Robbins",
+    "writerList": [
+        { "id": "nm0499626", "name": "Ernest Lehman" },
+        { "id": "nm0491306", "name": "Arthur Laurents" },
+        { "id": "nm0730385", "name": "Jerome Robbins" }
+    ],
+    "stars": "Natalie Wood, George Chakiris, Richard Beymer",
+    "starList": [
+        { "id": "nm0000081", "name": "Natalie Wood" },
+        { "id": "nm0001995", "name": "George Chakiris" },
+        { "id": "nm0000937", "name": "Richard Beymer" }
+    ],
+    "actorList": [
+        {
+            "id": "nm0000081",
+            "image": "https://imdb-api.com/images/original/MV5BMTI3NjM5OTgxNF5BMl5BanBnXkFtZTYwOTg4NTM2._V1_Ratio1.0000_AL_.jpg",
+            "name": "Natalie Wood",
+            "asCharacter": "Mariaas Maria"
+        },
+        {
+            "id": "nm0001995",
+            "image": "https://imdb-api.com/images/original/MV5BNTg4Y2Y2ODEtYTJlYi00ZWIyLThjNzMtZTIzZmFhM2E0YzBmXkEyXkFqcGdeQXVyMzI5NDcxNzI@._V1_Ratio1.0000_AL_.jpg",
+            "name": "George Chakiris",
+            "asCharacter": "Bernardoas Bernardo"
+        },
+        {
+            "id": "nm0000937",
+            "image": "https://imdb-api.com/images/original/MV5BNDQ5MzYwOTcwMV5BMl5BanBnXkFtZTcwNTM0MjYwOA@@._V1_Ratio1.0000_AL_.jpg",
+            "name": "Richard Beymer",
+            "asCharacter": "Tonyas Tony"
+        },
+        {
+            "id": "nm0848560",
+            "image": "https://imdb-api.com/images/original/MV5BMTcyNjM2NDMwMl5BMl5BanBnXkFtZTYwNjA3NTY0._V1_Ratio1.0000_AL_.jpg",
+            "name": "Russ Tamblyn",
+            "asCharacter": "Riffas Riff"
+        },
+        {
+            "id": "nm0001549",
+            "image": "https://imdb-api.com/images/original/MV5BMTkyMzI4ODExM15BMl5BanBnXkFtZTcwNjkzNDEzNw@@._V1_Ratio1.0000_AL_.jpg",
+            "name": "Rita Moreno",
+            "asCharacter": "Anitaas Anita"
+        },
+        {
+            "id": "nm0643000",
+            "image": "https://imdb-api.com/images/original/MV5BMjI2Mjc5NjIwM15BMl5BanBnXkFtZTcwMjg3NDYxOA@@._V1_Ratio1.0571_AL_.jpg",
+            "name": "Simon Oakland",
+            "asCharacter": "Schrankas Schrank"
+        },
+        {
+            "id": "nm0321982",
+            "image": "https://imdb-api.com/images/original/MV5BMTgyNzkzMzg3OF5BMl5BanBnXkFtZTcwNTIyMjYxOA@@._V1_Ratio1.0000_AL_.jpg",
+            "name": "Ned Glass",
+            "asCharacter": "Docas Doc"
+        },
+        {
+            "id": "nm0104245",
+            "image": "https://imdb-api.com/images/original/MV5BNzI5MmI0MDgtOTJmMS00MmQzLThkMjgtZTQ0ZGEyODk3MGU0XkEyXkFqcGdeQXVyMTcyODY2NDQ@._V1_Ratio1.0000_AL_.jpg",
+            "name": "William Bramley",
+            "asCharacter": "Krupkeas Krupke"
+        },
+        {
+            "id": "nm0810233",
+            "image": "https://imdb-api.com/images/original/MV5BMjAyNTk2ODQ3MF5BMl5BanBnXkFtZTcwMTA4NTUzMQ@@._V1_Ratio1.0000_AL_.jpg",
+            "name": "Tucker Smith",
+            "asCharacter": "Iceas Ice"
+        },
+        {
+            "id": "nm0603286",
+            "image": "https://imdb-api.com/images/original/MV5BMTU2NjExOTIwN15BMl5BanBnXkFtZTcwNjM3Mjg4NQ@@._V1_Ratio1.5000_AL_.jpg",
+            "name": "Tony Mordente",
+            "asCharacter": "Actionas Action"
+        },
+        {
+            "id": "nm0200597",
+            "image": "https://imdb-api.com/images/original/MV5BMjEyNDYzMjExNV5BMl5BanBnXkFtZTgwNDA3NTM2MjE@._V1_Ratio1.3429_AL_.jpg",
+            "name": "David Winters",
+            "asCharacter": "A-rabas A-rab"
+        },
+        {
+            "id": "nm0270914",
+            "image": "https://imdb-api.com/images/original/MV5BMTMzODA2NDI2MV5BMl5BanBnXkFtZTcwNjE3Mjg4NQ@@._V1_Ratio1.5000_AL_.jpg",
+            "name": "Eliot Feld",
+            "asCharacter": "Baby Johnas Baby John"
+        },
+        {
+            "id": "nm0584290",
+            "image": "https://imdb-api.com/images/original/MV5BNjQ3MTQzZjctOGNhNC00YzA1LWIwMjUtMDc3MDk3ZGMxNTQ4XkEyXkFqcGdeQXVyMTA2NjY2NzQ0._V1_Ratio1.0000_AL_.jpg",
+            "name": "Bert Michaels",
+            "asCharacter": "Snowboyas Snowboy"
+        },
+        {
+            "id": "nm0063774",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "David Bean",
+            "asCharacter": "Tigeras Tiger"
+        },
+        {
+            "id": "nm0051551",
+            "image": "https://imdb-api.com/images/original/MV5BMTQ5Mzc4MDcxOV5BMl5BanBnXkFtZTcwMDA3Mjg4NQ@@._V1_Ratio1.4857_AL_.jpg",
+            "name": "Robert Banas",
+            "asCharacter": "Joyboyas Joyboy"
+        },
+        {
+            "id": "nm0853531",
+            "image": "https://imdb-api.com/images/original/MV5BMjEwOTk1NTg4Nl5BMl5BanBnXkFtZTcwOTk0ODE0NA@@._V1_Ratio1.2857_AL_.jpg",
+            "name": "Anthony 'Scooter' Teague",
+            "asCharacter": "Big Dealas Big Deal"
+        },
+        {
+            "id": "nm0262823",
+            "image": "https://imdb-api.com/images/original/MV5BNzAzYWFjOGUtMGM4My00NTU3LThkMzEtNmJjOWEyNTBmZmU0XkEyXkFqcGdeQXVyMTA2NjY2NzQ0._V1_Ratio1.0000_AL_.jpg",
+            "name": "Harvey Evans",
+            "asCharacter": "Mouthpieceas Mouthpiece"
+        },
+        {
+            "id": "nm0008065",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Tommy Abbott",
+            "asCharacter": "Gee-Taras Gee-Tar"
+        }
+    ],
+    "fullCast": null,
+    "genres": "Crime, Drama, Musical",
+    "genreList": [
+        { "key": "Crime", "value": "Crime" },
+        { "key": "Drama", "value": "Drama" },
+        { "key": "Musical", "value": "Musical" }
+    ],
+    "companies": "The Mirisch Corporation, Seven Arts Productions",
+    "companyList": [
+        { "id": "co0011112", "name": "The Mirisch Corporation" },
+        { "id": "co0635919", "name": "Seven Arts Productions" }
+    ],
+    "countries": "USA",
+    "countryList": [{ "key": "USA", "value": "USA" }],
+    "languages": "English, Spanish",
+    "languageList": [
+        { "key": "English", "value": "English" },
+        { "key": "Spanish", "value": "Spanish" }
+    ],
+    "contentRating": "Approved",
+    "imDbRating": "7.5",
+    "imDbRatingVotes": "99640",
+    "metacriticRating": "86",
+    "ratings": null,
+    "wikipedia": null,
+    "posters": {
+        "imDbId": "tt0055614",
+        "title": "West Side Story",
+        "fullTitle": "West Side Story (1961)",
+        "type": "Movie",
+        "year": "1961",
+        "posters": [
+            {
+                "id": "vCtErvzF6S93DtoD7URwy9Mr7oe.jpg",
+                "link": "https://imdb-api.com/posters/original/vCtErvzF6S93DtoD7URwy9Mr7oe.jpg",
+                "aspectRatio": 0.6666666666666666,
+                "language": "en",
+                "width": 600,
+                "height": 900
+            },
+            {
+                "id": "kWa9SPTKK0woD0sFftD9iNnM7zU.jpg",
+                "link": "https://imdb-api.com/posters/original/kWa9SPTKK0woD0sFftD9iNnM7zU.jpg",
+                "aspectRatio": 0.7132899628252788,
+                "language": "en",
+                "width": 1535,
+                "height": 2152
+            },
+            {
+                "id": "4YwmVcQyXxiOPqp5oaLkGkkwm9g.jpg",
+                "link": "https://imdb-api.com/posters/original/4YwmVcQyXxiOPqp5oaLkGkkwm9g.jpg",
+                "aspectRatio": 0.6666666666666666,
+                "language": "en",
+                "width": 1600,
+                "height": 2400
+            },
+            {
+                "id": "nzCMu6D5q60i2bVrIQ0DxlRSgCZ.jpg",
+                "link": "https://imdb-api.com/posters/original/nzCMu6D5q60i2bVrIQ0DxlRSgCZ.jpg",
+                "aspectRatio": 0.6688824262567511,
+                "language": "en",
+                "width": 1610,
+                "height": 2407
+            },
+            {
+                "id": "qDFgxJIpMsyLEiWe2xP3NoyXn6X.jpg",
+                "link": "https://imdb-api.com/posters/original/qDFgxJIpMsyLEiWe2xP3NoyXn6X.jpg",
+                "aspectRatio": 0.6666666666666666,
+                "language": "en",
+                "width": 2000,
+                "height": 3000
+            },
+            {
+                "id": "zFs8ebwVMowoFhDpo21ELPll2C.jpg",
+                "link": "https://imdb-api.com/posters/original/zFs8ebwVMowoFhDpo21ELPll2C.jpg",
+                "aspectRatio": 0.6666666666666666,
+                "language": "en",
+                "width": 2000,
+                "height": 3000
+            },
+            {
+                "id": "oZ5b7vBJLYp3ftovlhixJ0MLvcF.jpg",
+                "link": "https://imdb-api.com/posters/original/oZ5b7vBJLYp3ftovlhixJ0MLvcF.jpg",
+                "aspectRatio": 0.6666666666666666,
+                "language": "en",
+                "width": 1000,
+                "height": 1500
+            },
+            {
+                "id": "3jH42XJ97DTzZ5AyYBR9DEm0u48.jpg",
+                "link": "https://imdb-api.com/posters/original/3jH42XJ97DTzZ5AyYBR9DEm0u48.jpg",
+                "aspectRatio": 0.7225806451612903,
+                "language": "en",
+                "width": 560,
+                "height": 775
+            },
+            {
+                "id": "5axrOqkoF9GCNuWkYsvNWuUHc0W.jpg",
+                "link": "https://imdb-api.com/posters/original/5axrOqkoF9GCNuWkYsvNWuUHc0W.jpg",
+                "aspectRatio": 0.6666666666666666,
+                "language": "en",
+                "width": 1000,
+                "height": 1500
+            },
+            {
+                "id": "8AMN3QrJVIGDho56U9HD5FfaSCE.jpg",
+                "link": "https://imdb-api.com/posters/original/8AMN3QrJVIGDho56U9HD5FfaSCE.jpg",
+                "aspectRatio": 0.7132899628252788,
+                "language": "en",
+                "width": 1535,
+                "height": 2152
+            },
+            {
+                "id": "luRyONf3AX1GdtcqSCTUYItbf6A.jpg",
+                "link": "https://imdb-api.com/posters/original/luRyONf3AX1GdtcqSCTUYItbf6A.jpg",
+                "aspectRatio": 0.6666666666666666,
+                "language": "en",
+                "width": 1200,
+                "height": 1800
+            }
+        ],
+        "backdrops": [
+            {
+                "id": "bkahbHkwBSbIDtTm667Tu1ba2bu.jpg",
+                "link": "https://imdb-api.com/posters/original/bkahbHkwBSbIDtTm667Tu1ba2bu.jpg",
+                "aspectRatio": 1.7764044943820225,
+                "language": "en",
+                "width": 1581,
+                "height": 890
+            },
+            {
+                "id": "rNr3W7GuSpIRjuSr0TM6vSTrIdx.jpg",
+                "link": "https://imdb-api.com/posters/original/rNr3W7GuSpIRjuSr0TM6vSTrIdx.jpg",
+                "aspectRatio": 1.7777777777777777,
+                "language": "en",
+                "width": 1920,
+                "height": 1080
+            },
+            {
+                "id": "swYJtp5GISfsCMZ46y2WNBBwJsq.jpg",
+                "link": "https://imdb-api.com/posters/original/swYJtp5GISfsCMZ46y2WNBBwJsq.jpg",
+                "aspectRatio": 1.7777777777777777,
+                "language": "en",
+                "width": 1920,
+                "height": 1080
+            },
+            {
+                "id": "v47G1fmN2zdCntLVztHbWrkNXT9.jpg",
+                "link": "https://imdb-api.com/posters/original/v47G1fmN2zdCntLVztHbWrkNXT9.jpg",
+                "aspectRatio": 1.7777777777777777,
+                "language": "en",
+                "width": 1776,
+                "height": 999
+            },
+            {
+                "id": "kzxRsZA5fnGU9HSa8Ik22x3Bexi.jpg",
+                "link": "https://imdb-api.com/posters/original/kzxRsZA5fnGU9HSa8Ik22x3Bexi.jpg",
+                "aspectRatio": 1.777555110220441,
+                "language": "en",
+                "width": 1774,
+                "height": 998
+            },
+            {
+                "id": "buhcUJtPE4bRls19At4pmzzjvOS.jpg",
+                "link": "https://imdb-api.com/posters/original/buhcUJtPE4bRls19At4pmzzjvOS.jpg",
+                "aspectRatio": 1.7770758122743682,
+                "language": "en",
+                "width": 1969,
+                "height": 1108
+            },
+            {
+                "id": "nplAeaXSWmGLIrhxgzuvY1KvOwy.jpg",
+                "link": "https://imdb-api.com/posters/original/nplAeaXSWmGLIrhxgzuvY1KvOwy.jpg",
+                "aspectRatio": 1.7772768259693417,
+                "language": "en",
+                "width": 1971,
+                "height": 1109
+            },
+            {
+                "id": "oa6aE010s3rySQ1oOZS2nEaqx7J.jpg",
+                "link": "https://imdb-api.com/posters/original/oa6aE010s3rySQ1oOZS2nEaqx7J.jpg",
+                "aspectRatio": 1.7773972602739727,
+                "language": "en",
+                "width": 1557,
+                "height": 876
+            }
+        ],
+        "errorMessage": ""
+    },
+    "images": {
+        "imDbId": "tt0055614",
+        "title": "West Side Story",
+        "fullTitle": "West Side Story (1961)",
+        "type": "Movie",
+        "year": "1961",
+        "items": [
+            {
+                "title": "Natalie Wood and Richard Beymer in West Side Story (1961)",
+                "image": "https://imdb-api.com/images/original/MV5BOTRiMDM3MzktNmQ5Ni00ZTI1LThjZjgtMjZjZGYzN2YxZDdmXkEyXkFqcGdeQXVyMDM2NDM2MQ@@._V1_Ratio1.2800_AL_.jpg"
+            },
+            {
+                "title": "George Chakiris and Simon Oakland in West Side Story (1961)",
+                "image": "https://imdb-api.com/images/original/MV5BNDYzNDM0NzkzMl5BMl5BanBnXkFtZTgwNTAwMzM1MjI@._V1_Ratio1.2600_AL_.jpg"
+            },
+            {
+                "title": "Natalie Wood and George Chakiris in West Side Story (1961)",
+                "image": "https://imdb-api.com/images/original/MV5BMTkzMTU4NjU2M15BMl5BanBnXkFtZTgwOTI2MjM1MjI@._V1_Ratio1.2600_AL_.jpg"
+            },
+            {
+                "title": "George Chakiris, Jay Norman, and Eddie Verso in West Side Story (1961)",
+                "image": "https://imdb-api.com/images/original/MV5BMTY1NTk0Njk3OV5BMl5BanBnXkFtZTgwMTg1MjM1MjI@._V1_Ratio1.2600_AL_.jpg"
+            },
+            {
+                "title": "Rita Moreno in West Side Story (1961)",
+                "image": "https://imdb-api.com/images/original/MV5BMTU0NDQyNjgwMV5BMl5BanBnXkFtZTgwMTE1MjM1MjI@._V1_Ratio1.2600_AL_.jpg"
+            },
+            {
+                "title": "West Side Story (1961)",
+                "image": "https://imdb-api.com/images/original/MV5BMTQ5NjAwMTYxMF5BMl5BanBnXkFtZTcwNDQ3Mjg4NQ@@._V1_Ratio1.5000_AL_.jpg"
+            },
+            {
+                "title": "David Winters and Tucker Smith in West Side Story (1961)",
+                "image": "https://imdb-api.com/images/original/MV5BMTg2MzAwODQwM15BMl5BanBnXkFtZTcwNTQ3Mjg4NQ@@._V1_Ratio1.5000_AL_.jpg"
+            },
+            {
+                "title": "George Chakiris, Jay Norman, and Eddie Verso in West Side Story (1961)",
+                "image": "https://imdb-api.com/images/original/MV5BMTQyMDU4ODY3Ml5BMl5BanBnXkFtZTcwNjQ3Mjg4NQ@@._V1_Ratio1.5000_AL_.jpg"
+            },
+            {
+                "title": "George Chakiris and Russ Tamblyn in West Side Story (1961)",
+                "image": "https://imdb-api.com/images/original/MV5BMTcwOTU0Mzg5NF5BMl5BanBnXkFtZTcwODQ3Mjg4NQ@@._V1_Ratio1.0000_AL_.jpg"
+            },
+            {
+                "title": "George Chakiris and Russ Tamblyn in West Side Story (1961)",
+                "image": "https://imdb-api.com/images/original/MV5BMTMxNzE1NTc2N15BMl5BanBnXkFtZTcwOTQ3Mjg4NQ@@._V1_Ratio1.5000_AL_.jpg"
+            },
+            {
+                "title": "West Side Story (1961)",
+                "image": "https://imdb-api.com/images/original/MV5BMTcxMzMzOTMzOF5BMl5BanBnXkFtZTcwMTU3Mjg4NQ@@._V1_Ratio1.5000_AL_.jpg"
+            },
+            {
+                "title": "George Chakiris and Russ Tamblyn in West Side Story (1961)",
+                "image": "https://imdb-api.com/images/original/MV5BMTg4MzkyNDU2M15BMl5BanBnXkFtZTcwMjU3Mjg4NQ@@._V1_Ratio1.0000_AL_.jpg"
+            },
+            {
+                "title": "West Side Story (1961)",
+                "image": "https://imdb-api.com/images/original/MV5BNDc1MTIyNjc1NV5BMl5BanBnXkFtZTcwNDU3Mjg4NQ@@._V1_Ratio1.5000_AL_.jpg"
+            },
+            {
+                "title": "David Winters, Tony Mordente, Tucker Smith, and Russ Tamblyn in West Side Story (1961)",
+                "image": "https://imdb-api.com/images/original/MV5BMjgyNjc4NjgwOV5BMl5BanBnXkFtZTcwOTI3Mjg4NQ@@._V1_Ratio1.5000_AL_.jpg"
+            },
+            {
+                "title": "Robert Wise in West Side Story (1961)",
+                "image": "https://imdb-api.com/images/original/MV5BMjIyNDQ2NzU2NF5BMl5BanBnXkFtZTcwMDM3Mjg4NQ@@._V1_Ratio1.5000_AL_.jpg"
+            },
+            {
+                "title": "George Chakiris, David Winters, Eliot Feld, Tony Mordente, Tucker Smith, and Russ Tamblyn in West Side Story (1961)",
+                "image": "https://imdb-api.com/images/original/MV5BMjEyMzAwMjAxN15BMl5BanBnXkFtZTcwMTM3Mjg4NQ@@._V1_Ratio1.5000_AL_.jpg"
+            },
+            {
+                "title": "David Winters, Eliot Feld, Tony Mordente, and Russ Tamblyn in West Side Story (1961)",
+                "image": "https://imdb-api.com/images/original/MV5BMTc1MTMzNzI1OV5BMl5BanBnXkFtZTcwMjM3Mjg4NQ@@._V1_Ratio1.5000_AL_.jpg"
+            },
+            {
+                "title": "George Chakiris, David Winters, Tony Mordente, and Russ Tamblyn in West Side Story (1961)",
+                "image": "https://imdb-api.com/images/original/MV5BMjAzNjQwODgyM15BMl5BanBnXkFtZTcwMzM3Mjg4NQ@@._V1_Ratio1.0000_AL_.jpg"
+            },
+            {
+                "title": "George Chakiris, Jay Norman, and Eddie Verso in West Side Story (1961)",
+                "image": "https://imdb-api.com/images/original/MV5BMTk0NzA5NTU5NF5BMl5BanBnXkFtZTcwNDM3Mjg4NQ@@._V1_Ratio1.5000_AL_.jpg"
+            },
+            {
+                "title": "George Chakiris and Russ Tamblyn in West Side Story (1961)",
+                "image": "https://imdb-api.com/images/original/MV5BMjA0NTYxNDMxMV5BMl5BanBnXkFtZTcwNTM3Mjg4NQ@@._V1_Ratio1.0000_AL_.jpg"
+            },
+            {
+                "title": "Tony Mordente, Jay Norman, Russ Tamblyn, and Anthony 'Scooter' Teague in West Side Story (1961)",
+                "image": "https://imdb-api.com/images/original/MV5BMTU2NjExOTIwN15BMl5BanBnXkFtZTcwNjM3Mjg4NQ@@._V1_Ratio1.5000_AL_.jpg"
+            },
+            {
+                "title": "West Side Story (1961)",
+                "image": "https://imdb-api.com/images/original/MV5BMjI4MTM3NjEwMl5BMl5BanBnXkFtZTcwNzM3Mjg4NQ@@._V1_Ratio1.0000_AL_.jpg"
+            },
+            {
+                "title": "West Side Story (1961)",
+                "image": "https://imdb-api.com/images/original/MV5BMzE4NDExOTM2OV5BMl5BanBnXkFtZTcwOTM3Mjg4NQ@@._V1_Ratio1.5000_AL_.jpg"
+            },
+            {
+                "title": "George Chakiris and Russ Tamblyn in West Side Story (1961)",
+                "image": "https://imdb-api.com/images/original/MV5BMjI5NTgzNzIyNF5BMl5BanBnXkFtZTcwMDQ3Mjg4NQ@@._V1_Ratio1.0000_AL_.jpg"
+            },
+            {
+                "title": "Russ Tamblyn in West Side Story (1961)",
+                "image": "https://imdb-api.com/images/original/MV5BMjI0NDEyODQzOV5BMl5BanBnXkFtZTcwMTQ3Mjg4NQ@@._V1_Ratio1.0000_AL_.jpg"
+            },
+            {
+                "title": "Richard Beymer in West Side Story (1961)",
+                "image": "https://imdb-api.com/images/original/MV5BNzE2MTU3Njc3MV5BMl5BanBnXkFtZTcwMjQ3Mjg4NQ@@._V1_Ratio1.0000_AL_.jpg"
+            },
+            {
+                "title": "George Chakiris, David Winters, and Eliot Feld in West Side Story (1961)",
+                "image": "https://imdb-api.com/images/original/MV5BMTU5MTQyMTMxMF5BMl5BanBnXkFtZTcwMzQ3Mjg4NQ@@._V1_Ratio1.5000_AL_.jpg"
+            },
+            {
+                "title": "West Side Story (1961)",
+                "image": "https://imdb-api.com/images/original/MV5BMTg5NjM4MzEwNl5BMl5BanBnXkFtZTcwNjk2Mjg4NQ@@._V1_Ratio1.5000_AL_.jpg"
+            },
+            {
+                "title": "George Chakiris, David Winters, Tony Mordente, and Russ Tamblyn in West Side Story (1961)",
+                "image": "https://imdb-api.com/images/original/MV5BMTgwNDM1MTc2NF5BMl5BanBnXkFtZTcwNzk2Mjg4NQ@@._V1_Ratio1.5000_AL_.jpg"
+            },
+            {
+                "title": "West Side Story (1961)",
+                "image": "https://imdb-api.com/images/original/MV5BMTQ3NzAzMDc3M15BMl5BanBnXkFtZTcwODk2Mjg4NQ@@._V1_Ratio1.5000_AL_.jpg"
+            },
+            {
+                "title": "David Winters and Eliot Feld in West Side Story (1961)",
+                "image": "https://imdb-api.com/images/original/MV5BMTM0ODU0MDI5OV5BMl5BanBnXkFtZTcwOTk2Mjg4NQ@@._V1_Ratio1.5000_AL_.jpg"
+            },
+            {
+                "title": "Richard Beymer, Robert Banas, and Tony Mordente in West Side Story (1961)",
+                "image": "https://imdb-api.com/images/original/MV5BMTQ5Mzc4MDcxOV5BMl5BanBnXkFtZTcwMDA3Mjg4NQ@@._V1_Ratio1.4800_AL_.jpg"
+            },
+            {
+                "title": "David Winters, Russ Tamblyn, and Anthony 'Scooter' Teague in West Side Story (1961)",
+                "image": "https://imdb-api.com/images/original/MV5BOTc5MDk5ODc0N15BMl5BanBnXkFtZTcwMTA3Mjg4NQ@@._V1_Ratio1.5000_AL_.jpg"
+            },
+            {
+                "title": "Richard Beymer and George Chakiris in West Side Story (1961)",
+                "image": "https://imdb-api.com/images/original/MV5BMTYzMTg1ODg1OF5BMl5BanBnXkFtZTcwMjA3Mjg4NQ@@._V1_Ratio1.5000_AL_.jpg"
+            },
+            {
+                "title": "George Chakiris and Russ Tamblyn in West Side Story (1961)",
+                "image": "https://imdb-api.com/images/original/MV5BMjI4MDczODUyNF5BMl5BanBnXkFtZTcwNDA3Mjg4NQ@@._V1_Ratio1.5000_AL_.jpg"
+            },
+            {
+                "title": "West Side Story (1961)",
+                "image": "https://imdb-api.com/images/original/MV5BMTQ1OTc0Mjg2M15BMl5BanBnXkFtZTcwNTA3Mjg4NQ@@._V1_Ratio1.5000_AL_.jpg"
+            },
+            {
+                "title": "West Side Story (1961)",
+                "image": "https://imdb-api.com/images/original/MV5BMjI2MzExMDI4M15BMl5BanBnXkFtZTcwNjA3Mjg4NQ@@._V1_Ratio1.5000_AL_.jpg"
+            },
+            {
+                "title": "George Chakiris, David Winters, Tony Mordente, and Russ Tamblyn in West Side Story (1961)",
+                "image": "https://imdb-api.com/images/original/MV5BMjA2Nzg0MzM2MV5BMl5BanBnXkFtZTcwNDE3Mjg4NQ@@._V1_Ratio1.5000_AL_.jpg"
+            },
+            {
+                "title": "George Chakiris, David Winters, Eliot Feld, Tony Mordente, Tucker Smith, Russ Tamblyn, and Anthony 'Scooter' Teague in West Side Story (1961)",
+                "image": "https://imdb-api.com/images/original/MV5BNTIxNjkzNTc1MV5BMl5BanBnXkFtZTcwNTE3Mjg4NQ@@._V1_Ratio1.5000_AL_.jpg"
+            },
+            {
+                "title": "David Winters, Eliot Feld, Tony Mordente, and Russ Tamblyn in West Side Story (1961)",
+                "image": "https://imdb-api.com/images/original/MV5BMTMzODA2NDI2MV5BMl5BanBnXkFtZTcwNjE3Mjg4NQ@@._V1_Ratio1.5000_AL_.jpg"
+            },
+            {
+                "title": "David Winters, Eliot Feld, Tony Mordente, and Anthony 'Scooter' Teague in West Side Story (1961)",
+                "image": "https://imdb-api.com/images/original/MV5BMjIxMjY1NTI2NV5BMl5BanBnXkFtZTcwNzE3Mjg4NQ@@._V1_Ratio1.5000_AL_.jpg"
+            },
+            {
+                "title": "West Side Story (1961)",
+                "image": "https://imdb-api.com/images/original/MV5BMTMxMjI1MTU3MV5BMl5BanBnXkFtZTcwOTE3Mjg4NQ@@._V1_Ratio1.5000_AL_.jpg"
+            },
+            {
+                "title": "West Side Story (1961)",
+                "image": "https://imdb-api.com/images/original/MV5BMTg5NzI5NTk2MV5BMl5BanBnXkFtZTcwMTI3Mjg4NQ@@._V1_Ratio1.5000_AL_.jpg"
+            },
+            {
+                "title": "David Winters, Jose De Vega, Eliot Feld, Tony Mordente, Tucker Smith, Russ Tamblyn, and Anthony 'Scooter' Teague in West Side Story (1961)",
+                "image": "https://imdb-api.com/images/original/MV5BMTgyMTIxMDkxNl5BMl5BanBnXkFtZTcwMjI3Mjg4NQ@@._V1_Ratio1.5000_AL_.jpg"
+            },
+            {
+                "title": "West Side Story (1961)",
+                "image": "https://imdb-api.com/images/original/MV5BMzkwOTU3NDk2OV5BMl5BanBnXkFtZTcwMzI3Mjg4NQ@@._V1_Ratio1.5000_AL_.jpg"
+            },
+            {
+                "title": "Eliot Feld, Tony Mordente, Tucker Smith, Russ Tamblyn, and Anthony 'Scooter' Teague in West Side Story (1961)",
+                "image": "https://imdb-api.com/images/original/MV5BMTQxNTI1NDIzN15BMl5BanBnXkFtZTcwNTI3Mjg4NQ@@._V1_Ratio1.5000_AL_.jpg"
+            },
+            {
+                "title": "George Chakiris, David Winters, Eliot Feld, and Jay Norman in West Side Story (1961)",
+                "image": "https://imdb-api.com/images/original/MV5BMjE4MDA1MzU1MF5BMl5BanBnXkFtZTcwNjI3Mjg4NQ@@._V1_Ratio1.5000_AL_.jpg"
+            },
+            {
+                "title": "Richard Beymer, George Chakiris, and Russ Tamblyn in West Side Story (1961)",
+                "image": "https://imdb-api.com/images/original/MV5BMTMzODczMTI4OF5BMl5BanBnXkFtZTcwNTc2Mjg4NQ@@._V1_Ratio1.0000_AL_.jpg"
+            }
+        ],
+        "errorMessage": ""
+    },
+    "trailer": {
+        "imDbId": "tt0055614",
+        "title": "West Side Story",
+        "fullTitle": "West Side Story (1961)",
+        "type": "Movie",
+        "year": "1961",
+        "videoId": null,
+        "videoTitle": null,
+        "videoDescription": null,
+        "thumbnailUrl": null,
+        "uploadDate": null,
+        "link": null,
+        "linkEmbed": null,
+        "errorMessage": "404 Not Founded Error"
+    },
+    "boxOffice": {
+        "budget": "$6,000,000 (estimated)",
+        "openingWeekendUSA": "$207,145",
+        "grossUSA": "$44,055,492",
+        "cumulativeWorldwideGross": "$44,063,177"
+    },
+    "tagline": "\"BEST PICTURE!\" Winner of 10 Academy Awards! - 1961 (post-Oscar)",
+    "keywords": "virility,sexuality,love interest,girl,neighborhood",
+    "keywordList": [
+        "virility",
+        "sexuality",
+        "love interest",
+        "girl",
+        "neighborhood"
+    ],
+    "similars": [
+        {
+            "id": "tt0299658",
+            "title": "Chicago",
+            "fullTitle": "Chicago",
+            "year": "",
+            "image": "https://imdb-api.com/images/original/MV5BN2E3NDU1ZTktNzZjNy00MWU3LWI4YmMtMjdjNTIzMDU0MDdiXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_Ratio0.6763_AL_.jpg",
+            "plot": "",
+            "directors": "",
+            "stars": "",
+            "genres": "",
+            "imDbRating": "7.2"
+        },
+        {
+            "id": "tt0043278",
+            "title": "An American in Paris",
+            "fullTitle": "An American in Paris",
+            "year": "",
+            "image": "https://imdb-api.com/images/original/MV5BMzFkNGM0YTUtZjY5Ny00NzBkLWE1NTAtYzUxNjUyZmJlODMwL2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyNjc1NTYyMjg@._V1_Ratio0.6763_AL_.jpg",
+            "plot": "",
+            "directors": "",
+            "stars": "",
+            "genres": "",
+            "imDbRating": "7.2"
+        },
+        {
+            "id": "tt0051658",
+            "title": "Gigi",
+            "fullTitle": "Gigi",
+            "year": "",
+            "image": "https://imdb-api.com/images/original/MV5BMWIzNzlkMWUtY2VhYy00NWMwLTg3MWUtZWY4ODZjMjBiMmM1XkEyXkFqcGdeQXVyMDI2NDg0NQ@@._V1_Ratio0.6763_AL_.jpg",
+            "plot": "",
+            "directors": "",
+            "stars": "",
+            "genres": "",
+            "imDbRating": "6.7"
+        },
+        {
+            "id": "tt0048545",
+            "title": "Rebel Without a Cause",
+            "fullTitle": "Rebel Without a Cause",
+            "year": "",
+            "image": "https://imdb-api.com/images/original/MV5BMTg2ODcxOTU1OV5BMl5BanBnXkFtZTgwNzA3ODI1MDE@._V1_Ratio0.6763_AL_.jpg",
+            "plot": "",
+            "directors": "",
+            "stars": "",
+            "genres": "",
+            "imDbRating": "7.7"
+        },
+        {
+            "id": "tt0045793",
+            "title": "From Here to Eternity",
+            "fullTitle": "From Here to Eternity",
+            "year": "",
+            "image": "https://imdb-api.com/images/original/MV5BM2U3YzkxNGMtYWE0YS00ODk0LTk1ZGEtNjk3ZTE0MTk4MzJjXkEyXkFqcGdeQXVyNDk0MDg4NDk@._V1_Ratio0.6763_AL_.jpg",
+            "plot": "",
+            "directors": "",
+            "stars": "",
+            "genres": "",
+            "imDbRating": "7.6"
+        },
+        {
+            "id": "tt3581652",
+            "title": "West Side Story",
+            "fullTitle": "West Side Story",
+            "year": "",
+            "image": "https://imdb-api.com/images/original/MV5BMjYxOGIxNDEtZDJhNi00Y2QzLTg5NTUtNGRiMTUyMzFiYTU4XkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_Ratio0.6763_AL_.jpg",
+            "plot": "",
+            "directors": "",
+            "stars": "",
+            "genres": "",
+            "imDbRating": ""
+        },
+        {
+            "id": "tt0138097",
+            "title": "Shakespeare in Love",
+            "fullTitle": "Shakespeare in Love",
+            "year": "",
+            "image": "https://imdb-api.com/images/original/MV5BM2ZkNjM5MjEtNTBlMC00OTI5LTgyYmEtZDljMzNmNzhiNzY0XkEyXkFqcGdeQXVyNDYyMDk5MTU@._V1_Ratio0.7053_AL_.jpg",
+            "plot": "",
+            "directors": "",
+            "stars": "",
+            "genres": "",
+            "imDbRating": "7.1"
+        },
+        {
+            "id": "tt0066206",
+            "title": "Patton",
+            "fullTitle": "Patton",
+            "year": "",
+            "image": "https://imdb-api.com/images/original/MV5BMmNhZmJhMmYtNjlkMC00MjhjLTk1NzMtMTNlMzYzNjZlMjNiXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_Ratio0.6763_AL_.jpg",
+            "plot": "",
+            "directors": "",
+            "stars": "",
+            "genres": "",
+            "imDbRating": "7.9"
+        },
+        {
+            "id": "tt0097239",
+            "title": "Driving Miss Daisy",
+            "fullTitle": "Driving Miss Daisy",
+            "year": "",
+            "image": "https://imdb-api.com/images/original/MV5BMDE2ZTY3YmUtZTFhYy00ZmU2LWI2NjktY2NmZGZlYjg5OGMwXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_Ratio0.6763_AL_.jpg",
+            "plot": "",
+            "directors": "",
+            "stars": "",
+            "genres": "",
+            "imDbRating": "7.4"
+        },
+        {
+            "id": "tt0064665",
+            "title": "Midnight Cowboy",
+            "fullTitle": "Midnight Cowboy",
+            "year": "",
+            "image": "https://imdb-api.com/images/original/MV5BNTgwZmIzMmYtZjE3Yy00NzgzLTgxNmUtNjlmZDlkMzlhOTJkXkEyXkFqcGdeQXVyNjUwNzk3NDc@._V1_Ratio0.6763_AL_.jpg",
+            "plot": "",
+            "directors": "",
+            "stars": "",
+            "genres": "",
+            "imDbRating": "7.8"
+        },
+        {
+            "id": "tt0093565",
+            "title": "Moonstruck",
+            "fullTitle": "Moonstruck",
+            "year": "",
+            "image": "https://imdb-api.com/images/original/MV5BMjIwMDY0NzYyMF5BMl5BanBnXkFtZTcwOTE5NDk0NA@@._V1_Ratio0.6763_AL_.jpg",
+            "plot": "",
+            "directors": "",
+            "stars": "",
+            "genres": "",
+            "imDbRating": "7.1"
+        },
+        {
+            "id": "tt0045152",
+            "title": "Singin' in the Rain",
+            "fullTitle": "Singin' in the Rain",
+            "year": "",
+            "image": "https://imdb-api.com/images/original/MV5BZDRjNGViMjQtOThlMi00MTA3LThkYzQtNzJkYjBkMGE0YzE1XkEyXkFqcGdeQXVyNDYyMDk5MTU@._V1_Ratio0.6860_AL_.jpg",
+            "plot": "",
+            "directors": "",
+            "stars": "",
+            "genres": "",
+            "imDbRating": "8.3"
+        }
+    ],
+    "tvSeriesInfo": null,
+    "tvEpisodeInfo": null,
+    "errorMessage": ""
+}

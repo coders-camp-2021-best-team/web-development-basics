@@ -1,0 +1,658 @@
+{
+    "id": "tt2953050",
+    "title": "Encanto",
+    "originalTitle": "",
+    "fullTitle": "Encanto (2021)",
+    "type": "Movie",
+    "year": "2021",
+    "image": "https://imdb-api.com/images/original/MV5BNjE5NzA4ZDctOTJkZi00NzM0LTkwOTYtMDI4MmNkMzIxODhkXkEyXkFqcGdeQXVyNjY1MTg4Mzc@._V1_Ratio0.6762_AL_.jpg",
+    "releaseDate": "2021-11-25",
+    "runtimeMins": "",
+    "runtimeStr": "",
+    "plot": "A young Colombian girl has to face the frustration of being the only member of her family without magical powers.",
+    "plotLocal": "",
+    "plotLocalIsRtl": false,
+    "awards": "",
+    "directors": "Jared Bush, Byron Howard, Charise Castro Smith",
+    "directorList": [
+        { "id": "nm1158544", "name": "Jared Bush" },
+        { "id": "nm0397174", "name": "Byron Howard" },
+        { "id": "nm4146781", "name": "Charise Castro Smith" }
+    ],
+    "writers": "Jared Bush, Charise Castro Smith, Lin-Manuel Miranda",
+    "writerList": [
+        { "id": "nm1158544", "name": "Jared Bush" },
+        { "id": "nm4146781", "name": "Charise Castro Smith" },
+        { "id": "nm0592135", "name": "Lin-Manuel Miranda" }
+    ],
+    "stars": "Stephanie Beatriz, Diane Guerrero, Wilmer Valderrama",
+    "starList": [
+        { "id": "nm3715867", "name": "Stephanie Beatriz" },
+        { "id": "nm4058898", "name": "Diane Guerrero" },
+        { "id": "nm0005519", "name": "Wilmer Valderrama" }
+    ],
+    "actorList": [
+        {
+            "id": "nm3715867",
+            "image": "https://imdb-api.com/images/original/MV5BYWY3ZGQ0OGUtZDNjYi00MmRkLWE4YmMtYzk3MzAwZjQxMDRlXkEyXkFqcGdeQXVyODkzNTgxMDg@._V1_Ratio1.4571_AL_.jpg",
+            "name": "Stephanie Beatriz",
+            "asCharacter": "Mirabel Madrigalas Mirabel Madrigal"
+        },
+        {
+            "id": "nm4058898",
+            "image": "https://imdb-api.com/images/original/MV5BMjEyODg0OTg5OF5BMl5BanBnXkFtZTgwOTk1MDAzMTI@._V1_Ratio1.0000_AL_.jpg",
+            "name": "Diane Guerrero",
+            "asCharacter": ""
+        },
+        {
+            "id": "nm0005519",
+            "image": "https://imdb-api.com/images/original/MV5BOTIyZTIxNDktNzNmMS00YzQyLWIzMTYtYTkxOTE0NDFkZDk1XkEyXkFqcGdeQXVyNjUxMjc1OTM@._V1_Ratio1.0000_AL_.jpg",
+            "name": "Wilmer Valderrama",
+            "asCharacter": ""
+        },
+        {
+            "id": "nm0148382",
+            "image": "https://imdb-api.com/images/original/MV5BNGI5ZmE2NTgtOGRjNy00Y2UyLTk0OTUtOWZiNWYxZmNhY2FiXkEyXkFqcGdeQXVyMjQwMDg0Ng@@._V1_Ratio1.8000_AL_.jpg",
+            "name": "Angie Cepeda",
+            "asCharacter": ""
+        },
+        {
+            "id": "nm7968341",
+            "image": "https://imdb-api.com/images/original/MV5BMjc5MDEyMDM0MV5BMl5BanBnXkFtZTgwNTMwOTg0NjM@._V1_Ratio1.0000_AL_.jpg",
+            "name": "Rhenzy Feliz",
+            "asCharacter": ""
+        },
+        {
+            "id": "nm1333962",
+            "image": "https://imdb-api.com/images/original/MV5BMzMwNWExZTctYzBmYS00NzUwLTkzOWEtYTRiNWI3NjQ2MDNlXkEyXkFqcGdeQXVyMjQwMDg0Ng@@._V1_Ratio1.5000_AL_.jpg",
+            "name": "Carolina Gaitan",
+            "asCharacter": ""
+        },
+        {
+            "id": "nm8731846",
+            "image": "https://imdb-api.com/images/original/MV5BZDBkOWZjNTMtNTE0OC00ODI1LThkNDEtNzI5Nzg3OTlkMTMxXkEyXkFqcGdeQXVyNzE4Njc3NjQ@._V1_Ratio1.0000_AL_.jpg",
+            "name": "Jessica Darrow",
+            "asCharacter": ""
+        },
+        {
+            "id": "nm4624481",
+            "image": "https://imdb-api.com/images/original/MV5BZjdmZjM3ODMtNzczOS00NzUzLWE1YWYtNWI0ZDZiYjA4YzgyXkEyXkFqcGdeQXVyMTM0Mzk4ODE5._V1_Ratio1.0000_AL_.jpg",
+            "name": "Adassa",
+            "asCharacter": ""
+        },
+        {
+            "id": "nm1239720",
+            "image": "https://imdb-api.com/images/original/MV5BYTlmYjAxNGMtOWM4MC00MzgxLWE2YjUtNmJlZDU5MTVmZTc2XkEyXkFqcGdeQXVyMTM0NDU2NTIz._V1_Ratio1.0000_AL_.jpg",
+            "name": "María Cecilia Botero",
+            "asCharacter": ""
+        },
+        {
+            "id": "nm8871347",
+            "image": "https://imdb-api.com/images/original/MV5BMTE2Y2QyNjUtYjdhNy00MGZiLThiOTctNjZhYjk5M2M2OTJiXkEyXkFqcGdeQXVyMTM0NDQwODU5._V1_Ratio1.0000_AL_.jpg",
+            "name": "Mauro Castillo",
+            "asCharacter": ""
+        }
+    ],
+    "fullCast": null,
+    "genres": "Animation, Adventure, Comedy",
+    "genreList": [
+        { "key": "Animation", "value": "Animation" },
+        { "key": "Adventure", "value": "Adventure" },
+        { "key": "Comedy", "value": "Comedy" }
+    ],
+    "companies": "Walt Disney Animation Studios, Walt Disney Pictures",
+    "companyList": [
+        { "id": "co0074039", "name": "Walt Disney Animation Studios" },
+        { "id": "co0008970", "name": "Walt Disney Pictures" }
+    ],
+    "countries": "USA, Colombia",
+    "countryList": [
+        { "key": "USA", "value": "USA" },
+        { "key": "Colombia", "value": "Colombia" }
+    ],
+    "languages": "English",
+    "languageList": [{ "key": "English", "value": "English" }],
+    "contentRating": "",
+    "imDbRating": "",
+    "imDbRatingVotes": "",
+    "metacriticRating": "75",
+    "ratings": null,
+    "wikipedia": null,
+    "posters": {
+        "imDbId": "tt2953050",
+        "title": "Encanto",
+        "fullTitle": "Encanto (2021)",
+        "type": "Movie",
+        "year": "2021",
+        "posters": [
+            {
+                "id": "4j0PNHkMr5ax3IA8tjtxcmPU3QT.jpg",
+                "link": "https://imdb-api.com/posters/original/4j0PNHkMr5ax3IA8tjtxcmPU3QT.jpg",
+                "aspectRatio": 0.6666666666666666,
+                "language": "en",
+                "width": 2000,
+                "height": 3000
+            },
+            {
+                "id": "feKU4spZTEVz6UC63EBVdGAcBN7.jpg",
+                "link": "https://imdb-api.com/posters/original/feKU4spZTEVz6UC63EBVdGAcBN7.jpg",
+                "aspectRatio": 0.6666666666666666,
+                "language": "en",
+                "width": 2000,
+                "height": 3000
+            },
+            {
+                "id": "gKV303VdLsR2PAEJMhSeZ2cxfQ0.jpg",
+                "link": "https://imdb-api.com/posters/original/gKV303VdLsR2PAEJMhSeZ2cxfQ0.jpg",
+                "aspectRatio": 0.6666666666666666,
+                "language": "en",
+                "width": 2000,
+                "height": 3000
+            },
+            {
+                "id": "hCMD9Sn1cV6FShnvrJJEgUNP3ib.jpg",
+                "link": "https://imdb-api.com/posters/original/hCMD9Sn1cV6FShnvrJJEgUNP3ib.jpg",
+                "aspectRatio": 0.6666666666666666,
+                "language": "en",
+                "width": 2000,
+                "height": 3000
+            },
+            {
+                "id": "fBDnpHyW4VxjR754ou43w9IbxBc.jpg",
+                "link": "https://imdb-api.com/posters/original/fBDnpHyW4VxjR754ou43w9IbxBc.jpg",
+                "aspectRatio": 0.6666666666666666,
+                "language": "en",
+                "width": 2000,
+                "height": 3000
+            },
+            {
+                "id": "7wkvW7aWG4DRnppXAFNcS44nd8r.jpg",
+                "link": "https://imdb-api.com/posters/original/7wkvW7aWG4DRnppXAFNcS44nd8r.jpg",
+                "aspectRatio": 0.6749915626054674,
+                "language": "en",
+                "width": 2000,
+                "height": 2963
+            },
+            {
+                "id": "eBcm62yBEDGHdMOGRrElBe4ZtXJ.jpg",
+                "link": "https://imdb-api.com/posters/original/eBcm62yBEDGHdMOGRrElBe4ZtXJ.jpg",
+                "aspectRatio": 0.6749915626054674,
+                "language": "en",
+                "width": 2000,
+                "height": 2963
+            },
+            {
+                "id": "kgxbdPlQbhJTAQ3PZ9WAyrcvPxM.jpg",
+                "link": "https://imdb-api.com/posters/original/kgxbdPlQbhJTAQ3PZ9WAyrcvPxM.jpg",
+                "aspectRatio": 0.6666666666666666,
+                "language": "en",
+                "width": 2000,
+                "height": 3000
+            },
+            {
+                "id": "3geGQ1xI6PmViS4glwlOhrcD4Wm.jpg",
+                "link": "https://imdb-api.com/posters/original/3geGQ1xI6PmViS4glwlOhrcD4Wm.jpg",
+                "aspectRatio": 0.6666666666666666,
+                "language": "en",
+                "width": 2000,
+                "height": 3000
+            },
+            {
+                "id": "y6APPAjzCNcHtH6CUDHnno231et.jpg",
+                "link": "https://imdb-api.com/posters/original/y6APPAjzCNcHtH6CUDHnno231et.jpg",
+                "aspectRatio": 0.6869009584664537,
+                "language": "en",
+                "width": 645,
+                "height": 939
+            },
+            {
+                "id": "wMil69k9N0tncavxToM9NAa2UjS.jpg",
+                "link": "https://imdb-api.com/posters/original/wMil69k9N0tncavxToM9NAa2UjS.jpg",
+                "aspectRatio": 0.666829506595017,
+                "language": "en",
+                "width": 1365,
+                "height": 2047
+            },
+            {
+                "id": "bu9yAVzA8boMVDKlZKgZf2b1XIk.jpg",
+                "link": "https://imdb-api.com/posters/original/bu9yAVzA8boMVDKlZKgZf2b1XIk.jpg",
+                "aspectRatio": 0.6666666666666666,
+                "language": "en",
+                "width": 1280,
+                "height": 1920
+            },
+            {
+                "id": "qGzcY35PQRMTGbKKzx6N1UoBmx4.jpg",
+                "link": "https://imdb-api.com/posters/original/qGzcY35PQRMTGbKKzx6N1UoBmx4.jpg",
+                "aspectRatio": 0.6666666666666666,
+                "language": "en",
+                "width": 500,
+                "height": 750
+            },
+            {
+                "id": "eVOlYNS3q6zRKosAKQNEwWHxE3b.jpg",
+                "link": "https://imdb-api.com/posters/original/eVOlYNS3q6zRKosAKQNEwWHxE3b.jpg",
+                "aspectRatio": 0.6745341614906832,
+                "language": "en",
+                "width": 1086,
+                "height": 1610
+            }
+        ],
+        "backdrops": [
+            {
+                "id": "5RuR7GhOI5fElADXZb0X2sr9w5n.jpg",
+                "link": "https://imdb-api.com/posters/original/5RuR7GhOI5fElADXZb0X2sr9w5n.jpg",
+                "aspectRatio": 1.7777777777777777,
+                "language": "en",
+                "width": 3840,
+                "height": 2160
+            },
+            {
+                "id": "g2djzUqA6mFplzC03gDk0WSyg99.jpg",
+                "link": "https://imdb-api.com/posters/original/g2djzUqA6mFplzC03gDk0WSyg99.jpg",
+                "aspectRatio": 1.7777777777777777,
+                "language": "en",
+                "width": 1920,
+                "height": 1080
+            },
+            {
+                "id": "5i3ghCXVLNhewrBjTesMgy4FHT7.jpg",
+                "link": "https://imdb-api.com/posters/original/5i3ghCXVLNhewrBjTesMgy4FHT7.jpg",
+                "aspectRatio": 1.7777777777777777,
+                "language": "en",
+                "width": 3840,
+                "height": 2160
+            },
+            {
+                "id": "9xL8gUBarG4Bd7x48BjUpSJvvlw.jpg",
+                "link": "https://imdb-api.com/posters/original/9xL8gUBarG4Bd7x48BjUpSJvvlw.jpg",
+                "aspectRatio": 1.7777777777777777,
+                "language": "en",
+                "width": 1920,
+                "height": 1080
+            }
+        ],
+        "errorMessage": ""
+    },
+    "images": {
+        "imDbId": "tt2953050",
+        "title": "Encanto",
+        "fullTitle": "Encanto (2021)",
+        "type": "Movie",
+        "year": "2021",
+        "items": [
+            {
+                "title": "Stephanie Beatriz in Encanto (2021)",
+                "image": "https://imdb-api.com/images/original/MV5BNmMwZjE0YjYtOWRiMC00NzFkLWExMTgtMmUzNzVlZmI4NThkXkEyXkFqcGdeQXVyNjY1MTg4Mzc@._V1_Ratio1.8400_AL_.jpg"
+            },
+            {
+                "title": "Alan Tudyk and Ravi Cabot-Conyers in Encanto (2021)",
+                "image": "https://imdb-api.com/images/original/MV5BYmVjNmI0OTEtZTE2OC00NDFkLWEyNjYtZmEyNjI0MjM4MDNjXkEyXkFqcGdeQXVyNjY1MTg4Mzc@._V1_Ratio1.8400_AL_.jpg"
+            },
+            {
+                "title": "Encanto (2021)",
+                "image": "https://imdb-api.com/images/original/MV5BYjViNjQzYmItNmM4MS00ZGU3LTgyMmQtMWY3ZTQ4MzM1ZjM5XkEyXkFqcGdeQXVyMTA3MDk2NDg2._V1_Ratio1.0000_AL_.jpg"
+            },
+            {
+                "title": "Stephanie Beatriz in Encanto (2021)",
+                "image": "https://imdb-api.com/images/original/MV5BNjE5NzA4ZDctOTJkZi00NzM0LTkwOTYtMDI4MmNkMzIxODhkXkEyXkFqcGdeQXVyNjY1MTg4Mzc@._V1_Ratio1.0000_AL_.jpg"
+            },
+            {
+                "title": "Encanto (2021)",
+                "image": "https://imdb-api.com/images/original/MV5BODQ0MDlmMjctMDY0ZC00ZDllLWI5NTItNmNhZGQwOWU5ZGYyXkEyXkFqcGdeQXVyNjY1MTg4Mzc@._V1_Ratio1.0000_AL_.jpg"
+            },
+            {
+                "title": "Encanto (2021)",
+                "image": "https://imdb-api.com/images/original/MV5BODI1YjRhYjUtYmIwMC00MjViLThlOTEtYmQ0OGRiY2M3MTYwXkEyXkFqcGdeQXVyNjY1MTg4Mzc@._V1_Ratio1.6000_AL_.jpg"
+            },
+            {
+                "title": "Encanto (2021)",
+                "image": "https://imdb-api.com/images/original/MV5BOWE2ZDk4M2UtMTY1MC00YmY1LTlhOWUtMDAzZDM4NWU2NjFhXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_Ratio1.0000_AL_.jpg"
+            },
+            {
+                "title": "Encanto (2021)",
+                "image": "https://imdb-api.com/images/original/MV5BMzY1ZTdkODQtNjM5Zi00ZjNiLWE3Y2ItM2NkYTE5YzdlMzczXkEyXkFqcGdeQXVyMDM2NDM2MQ@@._V1_Ratio1.0000_AL_.jpg"
+            },
+            {
+                "title": "Ravi Cabot-Conyers in Encanto (2021)",
+                "image": "https://imdb-api.com/images/original/MV5BZGU2OWY1ZDItNzhjZC00MDhiLThlZDMtYjUzYWExNjMxZTE3XkEyXkFqcGdeQXVyMTM0MTkzMzY0._V1_Ratio1.8400_AL_.jpg"
+            },
+            {
+                "title": "John Leguizamo and Stephanie Beatriz in Encanto (2021)",
+                "image": "https://imdb-api.com/images/original/MV5BM2M2OGI0ZjctNWNiNC00NzNkLWJjY2EtMjViYjk3M2ZkYzQ5XkEyXkFqcGdeQXVyMTM0MTkzMzY0._V1_Ratio1.8400_AL_.jpg"
+            },
+            {
+                "title": "Stephanie Beatriz and Ravi Cabot-Conyers in Encanto (2021)",
+                "image": "https://imdb-api.com/images/original/MV5BZDk1YzQzMTQtYTY0Yi00YjViLWFjYjgtNzQ0MmRiYjE0NzI1XkEyXkFqcGdeQXVyMTM0MTkzMzY0._V1_Ratio1.8400_AL_.jpg"
+            },
+            {
+                "title": "María Cecilia Botero in Encanto (2021)",
+                "image": "https://imdb-api.com/images/original/MV5BNGYyZjlhOGEtNjEwZC00ZDI1LWJmNWMtMzU3ZDc3YWJiNGFjXkEyXkFqcGdeQXVyMTM0MTkzMzY0._V1_Ratio1.8600_AL_.jpg"
+            },
+            {
+                "title": "John Leguizamo in Encanto (2021)",
+                "image": "https://imdb-api.com/images/original/MV5BOTAzZDA2ZDAtY2VkNC00Njc3LTkyZTQtZjFmYmQ1YTU1M2E5XkEyXkFqcGdeQXVyMTM0MTkzMzY0._V1_Ratio1.8400_AL_.jpg"
+            },
+            {
+                "title": "Angie Cepeda and Stephanie Beatriz in Encanto (2021)",
+                "image": "https://imdb-api.com/images/original/MV5BOWFiMGE2ZjQtZjljNy00ZTJjLWJkYWItZjI5OGNlODk2MTlmXkEyXkFqcGdeQXVyMTM0MTkzMzY0._V1_Ratio1.8600_AL_.jpg"
+            },
+            {
+                "title": "Stephanie Beatriz in Encanto (2021)",
+                "image": "https://imdb-api.com/images/original/MV5BZDczMWU3YzUtMGZhMC00N2ZmLWE2OWEtMTY1M2I2ZDhlYTgyXkEyXkFqcGdeQXVyMTM0MTkzMzY0._V1_Ratio1.8400_AL_.jpg"
+            },
+            {
+                "title": "Wilmer Valderrama, Angie Cepeda, María Cecilia Botero, Carolina Gaitan, Diane Guerrero, Adassa, Ravi Cabot-Conyers, Rhenzy Feliz, Jessica Darrow, and Mauro Castillo in Encanto (2021)",
+                "image": "https://imdb-api.com/images/original/MV5BZTk0OGE3ZGEtZjJjZS00MjdhLWExMzEtZGRlZTdkODI5YzYzXkEyXkFqcGdeQXVyMTM0MTkzMzY0._V1_Ratio1.8400_AL_.jpg"
+            },
+            {
+                "title": "Encanto (2021)",
+                "image": "https://imdb-api.com/images/original/MV5BODUwMDY3ZWUtMTI5My00N2NmLTk4MzgtNWQ2YWEwNzM5MDljXkEyXkFqcGdeQXVyMTM0MTkzMzY0._V1_Ratio1.8400_AL_.jpg"
+            },
+            {
+                "title": "Encanto (2021)",
+                "image": "https://imdb-api.com/images/original/MV5BYzg0NjNlMmYtNzIwOC00MDczLWE1OTYtMDY1OGRiYWEwYTBlXkEyXkFqcGdeQXVyMTM0MTkzMzY0._V1_Ratio1.8400_AL_.jpg"
+            },
+            {
+                "title": "Wilmer Valderrama, Angie Cepeda, and Stephanie Beatriz in Encanto (2021)",
+                "image": "https://imdb-api.com/images/original/MV5BOGNkZjBlOGYtOGNlOC00Y2FmLTllYTQtYTE1MGYwZjA5MDk1XkEyXkFqcGdeQXVyMTEzMTI1Mjk3._V1_Ratio1.7800_AL_.jpg"
+            },
+            {
+                "title": "Angie Cepeda and Stephanie Beatriz in Encanto (2021)",
+                "image": "https://imdb-api.com/images/original/MV5BMTMzYzgyZmQtMmI1My00OTdhLTgyOWItMTZmOTc2NTZjNmYwXkEyXkFqcGdeQXVyMTEzMTI1Mjk3._V1_Ratio1.7800_AL_.jpg"
+            },
+            {
+                "title": "Encanto (2021)",
+                "image": "https://imdb-api.com/images/original/MV5BYTlmMzIyZjQtNzUxZC00NmZhLWIzMDYtODEyZGE3MmM2NmEwXkEyXkFqcGdeQXVyMTEzMTI1Mjk3._V1_Ratio1.7800_AL_.jpg"
+            },
+            {
+                "title": "Encanto (2021)",
+                "image": "https://imdb-api.com/images/original/MV5BMWEzZDhhNDAtYTgyOS00ZDZlLWJmZWUtNzhlMTg5M2ZhNzFlXkEyXkFqcGdeQXVyMTEzMTI1Mjk3._V1_Ratio1.7800_AL_.jpg"
+            },
+            {
+                "title": "Encanto (2021)",
+                "image": "https://imdb-api.com/images/original/MV5BZjVlNWM2YzEtZWM2My00OTJiLWFmMDAtZTRiNGMzNzUyOWI2XkEyXkFqcGdeQXVyMTEzMTI1Mjk3._V1_Ratio1.6200_AL_.jpg"
+            },
+            {
+                "title": "Stephanie Beatriz in Encanto (2021)",
+                "image": "https://imdb-api.com/images/original/MV5BN2YxMTgyYTUtY2JlZi00OTk1LWJhYWQtODg2MTJjNWFjZDA5XkEyXkFqcGdeQXVyMTEzMTI1Mjk3._V1_Ratio1.8200_AL_.jpg"
+            },
+            {
+                "title": "Stephanie Beatriz in Encanto (2021)",
+                "image": "https://imdb-api.com/images/original/MV5BMDJjYTMyMDktZTdjOS00OTk4LTg4MGItNjA3YjgzMDUxODMwXkEyXkFqcGdeQXVyMTEzMTI1Mjk3._V1_Ratio1.8400_AL_.jpg"
+            },
+            {
+                "title": "Angie Cepeda and Stephanie Beatriz in Encanto (2021)",
+                "image": "https://imdb-api.com/images/original/MV5BODJjMmNhMGMtYmUzYi00NGI1LWIzYWQtOWVlMWRlZWVhNzM3XkEyXkFqcGdeQXVyMTEzMTI1Mjk3._V1_Ratio1.8600_AL_.jpg"
+            },
+            {
+                "title": "Stephanie Beatriz and Jessica Darrow in Encanto (2021)",
+                "image": "https://imdb-api.com/images/original/MV5BZDA4MDk5NmMtY2ZjYi00MzNmLTgzNzMtNDI4YmFkODQ1ZGI2XkEyXkFqcGdeQXVyMTEzMTI1Mjk3._V1_Ratio1.8800_AL_.jpg"
+            },
+            {
+                "title": "Stephanie Beatriz in Encanto (2021)",
+                "image": "https://imdb-api.com/images/original/MV5BODdlNTNhMjktZjE0ZC00M2QxLTk1MmItYjgyZDIwZTQzY2ZkXkEyXkFqcGdeQXVyMTEzMTI1Mjk3._V1_Ratio1.8200_AL_.jpg"
+            },
+            {
+                "title": "Diane Guerrero in Encanto (2021)",
+                "image": "https://imdb-api.com/images/original/MV5BNzgzOThhY2ItMjJlYS00MTdiLWIzYjctMDllYTBkYTY1ZGFmXkEyXkFqcGdeQXVyMTEzMTI1Mjk3._V1_Ratio1.7800_AL_.jpg"
+            },
+            {
+                "title": "Encanto (2021)",
+                "image": "https://imdb-api.com/images/original/MV5BNTQyY2U1YWQtYTRmNi00Zjk5LThmMGYtZTcwMWE2ZDFjN2YxXkEyXkFqcGdeQXVyMTEzMTI1Mjk3._V1_Ratio1.7800_AL_.jpg"
+            },
+            {
+                "title": "Alan Tudyk and Ravi Cabot-Conyers in Encanto (2021)",
+                "image": "https://imdb-api.com/images/original/MV5BZGJjYWMxNTYtZTQ2Yi00Y2JlLWE2ZWItNjIzNzk4NTUxZjQ2XkEyXkFqcGdeQXVyMTEzMTI1Mjk3._V1_Ratio1.7800_AL_.jpg"
+            },
+            {
+                "title": "Encanto (2021)",
+                "image": "https://imdb-api.com/images/original/MV5BYjljYzA2ZTQtYzNlYi00YmIwLTgzNzItZGExNGRiNzZmMTZjXkEyXkFqcGdeQXVyMTEzMTI1Mjk3._V1_Ratio1.6200_AL_.jpg"
+            },
+            {
+                "title": "John Leguizamo and Stephanie Beatriz in Encanto (2021)",
+                "image": "https://imdb-api.com/images/original/MV5BOGJlZjQ2MzUtNjBhYy00ZDVmLTlmY2YtOTMzNGVlYjMxMTAzXkEyXkFqcGdeQXVyMTEzMTI1Mjk3._V1_Ratio1.8400_AL_.jpg"
+            },
+            {
+                "title": "Wilmer Valderrama, Angie Cepeda, Diane Guerrero, Adassa, Rhenzy Feliz, and Jessica Darrow in Encanto (2021)",
+                "image": "https://imdb-api.com/images/original/MV5BZWFiMGM1YjgtMTIzZi00NTI0LWJhOTAtNmYyYjgwM2IzYTM3XkEyXkFqcGdeQXVyMTEzMTI1Mjk3._V1_Ratio1.8400_AL_.jpg"
+            },
+            {
+                "title": "Angie Cepeda and Stephanie Beatriz in Encanto (2021)",
+                "image": "https://imdb-api.com/images/original/MV5BMGI1MmFiMDYtNmU0ZS00MzY5LTliNTctOTY0ZTkyODM1MTk0XkEyXkFqcGdeQXVyMTEzMTI1Mjk3._V1_Ratio1.1800_AL_.jpg"
+            },
+            {
+                "title": "Stephanie Beatriz and Jessica Darrow in Encanto (2021)",
+                "image": "https://imdb-api.com/images/original/MV5BNDllMDdmOTMtNzBmNi00ZGRiLWJlMGMtZWMxMDg0OGE1MDNmXkEyXkFqcGdeQXVyMTEzMTI1Mjk3._V1_Ratio1.8400_AL_.jpg"
+            },
+            {
+                "title": "Stephanie Beatriz in Encanto (2021)",
+                "image": "https://imdb-api.com/images/original/MV5BMjVjZmNlYzMtMDQxMy00MDc5LWE2ZjMtMmQ2ODBlMTQyNDI2XkEyXkFqcGdeQXVyMTEzMTI1Mjk3._V1_Ratio1.8400_AL_.jpg"
+            },
+            {
+                "title": "Encanto (2021)",
+                "image": "https://imdb-api.com/images/original/MV5BNDg4MWJjM2EtMmE3Zi00N2Q2LTk5ZDEtZGM4N2FiNmY2Y2Y1XkEyXkFqcGdeQXVyMTEzMTI1Mjk3._V1_Ratio1.8400_AL_.jpg"
+            },
+            {
+                "title": "Stephanie Beatriz and Jessica Darrow in Encanto (2021)",
+                "image": "https://imdb-api.com/images/original/MV5BNzM3ZWUxYjUtOWIxNi00NzAwLWI3MTItMTI4Mjg4MzRkNzQ5XkEyXkFqcGdeQXVyMTEzMTI1Mjk3._V1_Ratio1.8400_AL_.jpg"
+            },
+            {
+                "title": "Encanto (2021)",
+                "image": "https://imdb-api.com/images/original/MV5BYjhmN2JmMzctYjczMi00NTRlLWE4ZGMtZWI4NzQ1MTJkODdhXkEyXkFqcGdeQXVyMTEzMTI1Mjk3._V1_Ratio1.8400_AL_.jpg"
+            },
+            {
+                "title": "Encanto (2021)",
+                "image": "https://imdb-api.com/images/original/MV5BZjlmYWRmNmEtYWM5ZC00M2I5LWJiZTEtZDhmODUyZjVkNWQzXkEyXkFqcGdeQXVyMTk0MTQ0ODg@._V1_Ratio1.9200_AL_.jpg"
+            },
+            {
+                "title": "Encanto (2021)",
+                "image": "https://imdb-api.com/images/original/MV5BOWU3NzIyYTYtNDMwZC00YTQwLTkzMmMtOGNiZWMxMWQ0NGU3XkEyXkFqcGdeQXVyMTk0MTQ0ODg@._V1_Ratio1.9200_AL_.jpg"
+            },
+            {
+                "title": "Rhenzy Feliz in Encanto (2021)",
+                "image": "https://imdb-api.com/images/original/MV5BY2RiYWJkNjgtZjc1MC00MzU3LThkM2MtYWU2YmY4MGM3NGYxXkEyXkFqcGdeQXVyMTk0MTQ0ODg@._V1_Ratio1.9200_AL_.jpg"
+            },
+            {
+                "title": "Diane Guerrero in Encanto (2021)",
+                "image": "https://imdb-api.com/images/original/MV5BYzJkMzE1YWUtYzgyOS00OGE2LWE1YzYtZDM4NzlhZjE0NTdmXkEyXkFqcGdeQXVyMTk0MTQ0ODg@._V1_Ratio1.9200_AL_.jpg"
+            },
+            {
+                "title": "Jessica Darrow in Encanto (2021)",
+                "image": "https://imdb-api.com/images/original/MV5BNTMxM2U1NDItMDBlZC00MGUyLWFlMzQtMmI5MzNiZDQzZDM1XkEyXkFqcGdeQXVyMTk0MTQ0ODg@._V1_Ratio1.9200_AL_.jpg"
+            },
+            {
+                "title": "Stephanie Beatriz in Encanto (2021)",
+                "image": "https://imdb-api.com/images/original/MV5BZjI1YmY0NDctNmIxMy00ZmVhLWI5Y2ItNjcxN2QwNTE0NjkzXkEyXkFqcGdeQXVyMTEzMTI1Mjk3._V1_Ratio1.8400_AL_.jpg"
+            },
+            {
+                "title": "Jessica Darrow in Encanto (2021)",
+                "image": "https://imdb-api.com/images/original/MV5BOTZmMTk5NzctODU5MS00YjU0LWE1ZTAtN2IwMDZiMGYxNTBmXkEyXkFqcGdeQXVyMTEzMTI1Mjk3._V1_Ratio1.8000_AL_.jpg"
+            },
+            {
+                "title": "Encanto (2021)",
+                "image": "https://imdb-api.com/images/original/MV5BODNkMDNjNmMtMGI5NC00MmZkLWEyMWQtY2QwN2JiODE1NjA4XkEyXkFqcGdeQXVyMTEzMTI1Mjk3._V1_Ratio1.8800_AL_.jpg"
+            }
+        ],
+        "errorMessage": ""
+    },
+    "trailer": {
+        "imDbId": "tt2953050",
+        "title": "Encanto",
+        "fullTitle": "Encanto (2021)",
+        "type": "Movie",
+        "year": "2021",
+        "videoId": null,
+        "videoTitle": null,
+        "videoDescription": null,
+        "thumbnailUrl": null,
+        "uploadDate": null,
+        "link": null,
+        "linkEmbed": null,
+        "errorMessage": "404 Not Founded Error"
+    },
+    "boxOffice": {
+        "budget": "$50,000,000 (estimated)",
+        "openingWeekendUSA": "",
+        "grossUSA": "",
+        "cumulativeWorldwideGross": ""
+    },
+    "tagline": "Magical House. Magical Family.",
+    "keywords": "disney,cgi animation,young girl,colombia,computer animation",
+    "keywordList": [
+        "disney",
+        "cgi animation",
+        "young girl",
+        "colombia",
+        "computer animation"
+    ],
+    "similars": [
+        {
+            "id": "tt8097030",
+            "title": "Rot",
+            "fullTitle": "Rot",
+            "year": "",
+            "image": "https://imdb-api.com/images/original/MV5BZWEwZWUwMDctNmZkNC00YTRjLWFkMzAtOWQzZDgyOGIwZjYxXkEyXkFqcGdeQXVyNTI4MzE4MDU@._V1_Ratio0.6763_AL_.jpg",
+            "plot": "",
+            "directors": "",
+            "stars": "",
+            "genres": "",
+            "imDbRating": ""
+        },
+        {
+            "id": "tt10298810",
+            "title": "Lightyear",
+            "fullTitle": "Lightyear",
+            "year": "",
+            "image": "https://imdb-api.com/images/original/MV5BNDc4ZWE1NWYtMDg2ZS00ZjI1LWJmNjctMTAyMWFjYWIyMzgxXkEyXkFqcGdeQXVyNzEzNjU1NDg@._V1_Ratio0.6763_AL_.jpg",
+            "plot": "",
+            "directors": "",
+            "stars": "",
+            "genres": "",
+            "imDbRating": ""
+        },
+        {
+            "id": "tt7504818",
+            "title": "Ron läuft schief",
+            "fullTitle": "Ron läuft schief",
+            "year": "",
+            "image": "https://imdb-api.com/images/original/MV5BMzQ4MzE4NDEtNmViMi00NmM1LWFhMmMtNmQwODYxMzI5NmM1XkEyXkFqcGdeQXVyMTEyMjM2NDc2._V1_Ratio0.6763_AL_.jpg",
+            "plot": "",
+            "directors": "",
+            "stars": "",
+            "genres": "",
+            "imDbRating": "7.0"
+        },
+        {
+            "id": "tt11125620",
+            "title": "The Addams Family 2",
+            "fullTitle": "The Addams Family 2",
+            "year": "",
+            "image": "https://imdb-api.com/images/original/MV5BNzQ5NzJjMDgtNzhjMC00NTQ2LTgzOTUtZThiMWMwYmYwMGYxXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_Ratio0.6763_AL_.jpg",
+            "plot": "",
+            "directors": "",
+            "stars": "",
+            "genres": "",
+            "imDbRating": ""
+        },
+        {
+            "id": "tt8337158",
+            "title": "Monster-Liga",
+            "fullTitle": "Monster-Liga",
+            "year": "",
+            "image": "https://imdb-api.com/images/original/MV5BYjY0ODA0YmUtMGFlNC00ODQzLTllOTUtZjU4Mjc1MTUwNTAxXkEyXkFqcGdeQXVyMDM2NDM2MQ@@._V1_Ratio0.6763_AL_.jpg",
+            "plot": "",
+            "directors": "",
+            "stars": "",
+            "genres": "",
+            "imDbRating": ""
+        },
+        {
+            "id": "tt2224162",
+            "title": "Sesame Street",
+            "fullTitle": "Sesame Street",
+            "year": "",
+            "image": "https://imdb-api.com/images/original/MV5BYmFkN2VhMDUtYjIzYy00MDVkLTllNDQtZDUyN2I3MGRmNjI3XkEyXkFqcGdeQXVyNTk5NTQzNDI@._V1_Ratio1.7778_AL_.jpg",
+            "plot": "",
+            "directors": "",
+            "stars": "",
+            "genres": "",
+            "imDbRating": ""
+        },
+        {
+            "id": "tt13622964",
+            "title": "Tiana",
+            "fullTitle": "Tiana",
+            "year": "",
+            "image": "https://imdb-api.com/images/original/MV5BM2I4N2YyMTItOWJiZS00MGRmLWE1MGEtNDlhNjQyOTI4ZDhkXkEyXkFqcGdeQXVyNzEzNjU1NDg@._V1_Ratio0.6763_AL_.jpg",
+            "plot": "",
+            "directors": "",
+            "stars": "",
+            "genres": "",
+            "imDbRating": ""
+        },
+        {
+            "id": "tt8912936",
+            "title": "DC League of Super-Pets",
+            "fullTitle": "DC League of Super-Pets",
+            "year": "",
+            "image": "https://imdb-api.com/images/original/MV5BNzQ1ZGZjYzUtMzYwOS00ZmRiLWJmMDMtMmJjN2VmYmEzYTBmXkEyXkFqcGdeQXVyMTEyMjM2NDc2._V1_Ratio0.6763_AL_.jpg",
+            "plot": "",
+            "directors": "",
+            "stars": "",
+            "genres": "",
+            "imDbRating": ""
+        },
+        {
+            "id": "tt6467266",
+            "title": "Sing 2",
+            "fullTitle": "Sing 2",
+            "year": "",
+            "image": "https://imdb-api.com/images/original/MV5BNTA4NTRhZGUtYTJjNi00YTBkLTlhNjYtOThjZjY4ZTFiZmRhXkEyXkFqcGdeQXVyODk4OTc3MTY@._V1_Ratio0.6763_AL_.jpg",
+            "plot": "",
+            "directors": "",
+            "stars": "",
+            "genres": "",
+            "imDbRating": ""
+        },
+        {
+            "id": "tt13624052",
+            "title": "Win or Lose",
+            "fullTitle": "Win or Lose",
+            "year": "",
+            "image": "https://imdb-api.com/images/original/MV5BMDRlMzk5YWYtZWI3NS00NDk3LWI1NzQtYzQ1Yzc0NDk4M2NiXkEyXkFqcGdeQXVyMTEzMTI1Mjk3._V1_Ratio0.6763_AL_.jpg",
+            "plot": "",
+            "directors": "",
+            "stars": "",
+            "genres": "",
+            "imDbRating": ""
+        },
+        {
+            "id": "tt6338498",
+            "title": "Vivo",
+            "fullTitle": "Vivo",
+            "year": "",
+            "image": "https://imdb-api.com/images/original/MV5BOTUzYzkyMGItOGU2MC00YWU4LThlM2ItODU3MWZiYTJjMGM2XkEyXkFqcGdeQXVyMjMzMTI2NzU@._V1_Ratio0.6763_AL_.jpg",
+            "plot": "",
+            "directors": "",
+            "stars": "",
+            "genres": "",
+            "imDbRating": ""
+        },
+        {
+            "id": "tt8610082",
+            "title": "Monster bei der Arbeit",
+            "fullTitle": "Monster bei der Arbeit",
+            "year": "",
+            "image": "https://imdb-api.com/images/original/MV5BOWI4OWE5MDgtMGNlYi00N2MwLWJlZmQtNGJlMjU4OGVkZjFmXkEyXkFqcGdeQXVyMTEyMjM2NDc2._V1_Ratio0.6763_AL_.jpg",
+            "plot": "",
+            "directors": "",
+            "stars": "",
+            "genres": "",
+            "imDbRating": "7.3"
+        }
+    ],
+    "tvSeriesInfo": null,
+    "tvEpisodeInfo": null,
+    "errorMessage": ""
+}

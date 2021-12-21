@@ -59,7 +59,16 @@ class ApiService {
      * @returns {Promise<object>}
      */
     async request(method, api, params, optional_params = '') {
-        const cache_entry = await CacheManager.getCache(method, api, params);
+        let cache_params = params;
+        if (params == ' ') {
+            params = '';
+        }
+
+        const cache_entry = await CacheManager.getCache(
+            method,
+            api,
+            cache_params
+        );
 
         if (cache_entry) {
             return cache_entry;

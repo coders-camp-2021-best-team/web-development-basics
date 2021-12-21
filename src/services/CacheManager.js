@@ -24,6 +24,8 @@ class CacheManager {
         element.setAttribute('download', filename);
         element.setAttribute('target', '_blank');
         element.innerText = filename;
+        element.className = 'cache-download';
+        element.style.display = 'none';
 
         document.body.appendChild(element);
     }

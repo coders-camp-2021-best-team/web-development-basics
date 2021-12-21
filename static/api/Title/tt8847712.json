@@ -1,0 +1,688 @@
+{
+    "id": "tt8847712",
+    "title": "The French Dispatch",
+    "originalTitle": "",
+    "fullTitle": "The French Dispatch (2021)",
+    "type": "Movie",
+    "year": "2021",
+    "image": "https://imdb-api.com/images/original/MV5BMmIyYTBiZDUtODM1Yi00NmM3LWJkNmYtNTY3Y2Q0YmZmMDcyXkEyXkFqcGdeQXVyNTI4MzE4MDU@._V1_Ratio0.6791_AL_.jpg",
+    "releaseDate": "2021-10-21",
+    "runtimeMins": "103",
+    "runtimeStr": "1h 43mins",
+    "plot": "A love letter to journalists set in an outpost of an American newspaper in a fictional twentieth century French city that brings to life a collection of stories published in \"The French Dispatch Magazine\".",
+    "plotLocal": "",
+    "plotLocalIsRtl": false,
+    "awards": "",
+    "directors": "Wes Anderson",
+    "directorList": [{ "id": "nm0027572", "name": "Wes Anderson" }],
+    "writers": "Wes Anderson, Jason Schwartzman, Roman Coppola, Hugo Guinness",
+    "writerList": [
+        { "id": "nm0027572", "name": "Wes Anderson" },
+        { "id": "nm0005403", "name": "Jason Schwartzman" },
+        { "id": "nm0178910", "name": "Roman Coppola" },
+        { "id": "nm2450453", "name": "Hugo Guinness" }
+    ],
+    "stars": "Elisabeth Moss, Timothée Chalamet, Frances McDormand, Saoirse Ronan",
+    "starList": [
+        { "id": "nm0005253", "name": "Elisabeth Moss" },
+        { "id": "nm3154303", "name": "Timothée Chalamet" },
+        { "id": "nm0000531", "name": "Frances McDormand" },
+        { "id": "nm1519680", "name": "Saoirse Ronan" }
+    ],
+    "actorList": [
+        {
+            "id": "nm0005253",
+            "image": "https://imdb-api.com/images/original/MV5BNTMwMDg1MDkyNV5BMl5BanBnXkFtZTcwNzEwMzg1Nw@@._V1_Ratio1.5000_AL_.jpg",
+            "name": "Elisabeth Moss",
+            "asCharacter": ""
+        },
+        {
+            "id": "nm3154303",
+            "image": "https://imdb-api.com/images/original/MV5BOWU1Nzg0M2ItYjEzMi00ODliLThkODAtNGEyYzRkZTBmMmEzXkEyXkFqcGdeQXVyNDk2Mzk2NDg@._V1_Ratio0.7273_AL_.jpg",
+            "name": "Timothée Chalamet",
+            "asCharacter": "Zeffirelli"
+        },
+        {
+            "id": "nm0000531",
+            "image": "https://imdb-api.com/images/original/MV5BMjI3NzgxNjYzOF5BMl5BanBnXkFtZTgwNTIxMjExNzE@._V1_Ratio0.8182_AL_.jpg",
+            "name": "Frances McDormand",
+            "asCharacter": "Lucinda Krementz"
+        },
+        {
+            "id": "nm1519680",
+            "image": "https://imdb-api.com/images/original/MV5BMjExNTM5NDE4NV5BMl5BanBnXkFtZTcwNzczMzEzOQ@@._V1_Ratio0.7273_AL_.jpg",
+            "name": "Saoirse Ronan",
+            "asCharacter": "Mysterious Woman"
+        },
+        {
+            "id": "nm0005562",
+            "image": "https://imdb-api.com/images/original/MV5BMTgwMzQ4ODYxMV5BMl5BanBnXkFtZTcwNDAwMTc2NQ@@._V1_Ratio0.7273_AL_.jpg",
+            "name": "Owen Wilson",
+            "asCharacter": "Herbsaint Sazerac"
+        },
+        {
+            "id": "nm0001570",
+            "image": "https://imdb-api.com/images/original/MV5BMTYwNjQ5MTI1NF5BMl5BanBnXkFtZTcwMzU5MTI2Mw@@._V1_Ratio0.7727_AL_.jpg",
+            "name": "Edward Norton",
+            "asCharacter": "Kidnapper"
+        },
+        {
+            "id": "nm0000353",
+            "image": "https://imdb-api.com/images/original/MV5BOWU4MTI2OTctODQ1ZS00MGM1LWJkM2EtODE3MGNkNmIyZDEwXkEyXkFqcGdeQXVyMjQwMDg0Ng@@._V1_Ratio0.7727_AL_.jpg",
+            "name": "Willem Dafoe",
+            "asCharacter": "Prisoner"
+        },
+        {
+            "id": "nm2244205",
+            "image": "https://imdb-api.com/images/original/MV5BMjM3MTczNzY1MF5BMl5BanBnXkFtZTgwNjgwODgzNDE@._V1_Ratio0.7273_AL_.jpg",
+            "name": "Léa Seydoux",
+            "asCharacter": "Simone"
+        },
+        {
+            "id": "nm0842770",
+            "image": "https://imdb-api.com/images/original/MV5BMTM4NzMzMTkwNV5BMl5BanBnXkFtZTcwMzU4MDg1Mw@@._V1_Ratio0.7727_AL_.jpg",
+            "name": "Tilda Swinton",
+            "asCharacter": "J. K. L. Berensen"
+        },
+        {
+            "id": "nm0004778",
+            "image": "https://imdb-api.com/images/original/MV5BMjI3ODkxMjU3OF5BMl5BanBnXkFtZTgwMTk2Njk3MTE@._V1_Ratio0.7273_AL_.jpg",
+            "name": "Adrien Brody",
+            "asCharacter": "Julian Cadazio"
+        },
+        {
+            "id": "nm0001770",
+            "image": "https://imdb-api.com/images/original/MV5BM2VkODkxZTItNWExNi00MzU3LWE3NTMtYjUxZGQ0NTliYjJiXkEyXkFqcGdeQXVyOTEyMDM1NTY@._V1_Ratio0.7273_AL_.jpg",
+            "name": "Fisher Stevens",
+            "asCharacter": "Legal Advisor"
+        },
+        {
+            "id": "nm0910607",
+            "image": "https://imdb-api.com/images/original/MV5BMTM4MDk3OTYxOF5BMl5BanBnXkFtZTcwMDk5OTUwOQ@@._V1_Ratio0.7273_AL_.jpg",
+            "name": "Christoph Waltz",
+            "asCharacter": "Boris Schommers"
+        },
+        {
+            "id": "nm0001125",
+            "image": "https://imdb-api.com/images/original/MV5BMTkzODQ4NzU1N15BMl5BanBnXkFtZTcwOTUzMzc5Mg@@._V1_Ratio0.7273_AL_.jpg",
+            "name": "Benicio Del Toro",
+            "asCharacter": "Moses Rosenthaler"
+        },
+        {
+            "id": "nm0000195",
+            "image": "https://imdb-api.com/images/original/MV5BMTQ1OTM0MjEwOF5BMl5BanBnXkFtZTYwNTQwNzI1._V1_Ratio0.7273_AL_.jpg",
+            "name": "Bill Murray",
+            "asCharacter": "Arthur Howitzer Jr."
+        },
+        {
+            "id": "nm1670029",
+            "image": "https://imdb-api.com/images/original/MV5BMjA4NjAyMDM2N15BMl5BanBnXkFtZTgwMDQ3ODgxNDM@._V1_Ratio0.7727_AL_.jpg",
+            "name": "Rupert Friend",
+            "asCharacter": ""
+        }
+    ],
+    "fullCast": null,
+    "genres": "Comedy, Drama, Romance",
+    "genreList": [
+        { "key": "Comedy", "value": "Comedy" },
+        { "key": "Drama", "value": "Drama" },
+        { "key": "Romance", "value": "Romance" }
+    ],
+    "companies": "American Empirical Pictures, Indian Paintbrush, Studio Babelsberg",
+    "companyList": [
+        { "id": "co0108325", "name": "American Empirical Pictures" },
+        { "id": "co0215519", "name": "Indian Paintbrush" },
+        { "id": "co0053177", "name": "Studio Babelsberg" }
+    ],
+    "countries": "Germany, USA",
+    "countryList": [
+        { "key": "Germany", "value": "Germany" },
+        { "key": "USA", "value": "USA" }
+    ],
+    "languages": "English, French",
+    "languageList": [
+        { "key": "English", "value": "English" },
+        { "key": "French", "value": "French" }
+    ],
+    "contentRating": "R",
+    "imDbRating": "",
+    "imDbRatingVotes": "",
+    "metacriticRating": "82",
+    "ratings": null,
+    "wikipedia": null,
+    "posters": {
+        "imDbId": "tt8847712",
+        "title": "The French Dispatch",
+        "fullTitle": "The French Dispatch (2021)",
+        "type": "Movie",
+        "year": "2021",
+        "posters": [
+            {
+                "id": "6JXR3KJH5roiBCjWFt09xfgxHZc.jpg",
+                "link": "https://imdb-api.com/posters/original/6JXR3KJH5roiBCjWFt09xfgxHZc.jpg",
+                "aspectRatio": 0.6666666666666666,
+                "language": "en",
+                "width": 2000,
+                "height": 3000
+            },
+            {
+                "id": "pMTMSKBEe5sMg1ZxWCy9YWLuyln.jpg",
+                "link": "https://imdb-api.com/posters/original/pMTMSKBEe5sMg1ZxWCy9YWLuyln.jpg",
+                "aspectRatio": 0.6663376110562685,
+                "language": "en",
+                "width": 1350,
+                "height": 2026
+            },
+            {
+                "id": "a4kNdLFdHKPo2d4ufbFbmVseDM5.jpg",
+                "link": "https://imdb-api.com/posters/original/a4kNdLFdHKPo2d4ufbFbmVseDM5.jpg",
+                "aspectRatio": 0.7037037037037037,
+                "language": "en",
+                "width": 570,
+                "height": 810
+            },
+            {
+                "id": "u0PhyuslumkTuqwFNfN3CQ2cuQw.jpg",
+                "link": "https://imdb-api.com/posters/original/u0PhyuslumkTuqwFNfN3CQ2cuQw.jpg",
+                "aspectRatio": 0.6666666666666666,
+                "language": "en",
+                "width": 2000,
+                "height": 3000
+            },
+            {
+                "id": "w9Mz0TO2A2Irlv1PSyC6USBEeTT.jpg",
+                "link": "https://imdb-api.com/posters/original/w9Mz0TO2A2Irlv1PSyC6USBEeTT.jpg",
+                "aspectRatio": 0.6666666666666666,
+                "language": "en",
+                "width": 2000,
+                "height": 3000
+            },
+            {
+                "id": "jlsNNvZjP2POXiDJajRRrt4PDQi.jpg",
+                "link": "https://imdb-api.com/posters/original/jlsNNvZjP2POXiDJajRRrt4PDQi.jpg",
+                "aspectRatio": 0.7172690763052209,
+                "language": "en",
+                "width": 893,
+                "height": 1245
+            },
+            {
+                "id": "ewrWnt4WFamEHsAdCXoAViDqHHH.jpg",
+                "link": "https://imdb-api.com/posters/original/ewrWnt4WFamEHsAdCXoAViDqHHH.jpg",
+                "aspectRatio": 0.6318359375,
+                "language": "en",
+                "width": 1294,
+                "height": 2048
+            },
+            {
+                "id": "aUt4qa0hELNL7XwKomoedfkSTwz.jpg",
+                "link": "https://imdb-api.com/posters/original/aUt4qa0hELNL7XwKomoedfkSTwz.jpg",
+                "aspectRatio": 0.6666666666666666,
+                "language": "en",
+                "width": 2000,
+                "height": 3000
+            },
+            {
+                "id": "4I1VMoXxXwnbfEFevpbEciVUDIn.jpg",
+                "link": "https://imdb-api.com/posters/original/4I1VMoXxXwnbfEFevpbEciVUDIn.jpg",
+                "aspectRatio": 0.6666666666666666,
+                "language": "en",
+                "width": 2000,
+                "height": 3000
+            },
+            {
+                "id": "4hwqkLcsJyPdmrieprMxmpcOgoL.jpg",
+                "link": "https://imdb-api.com/posters/original/4hwqkLcsJyPdmrieprMxmpcOgoL.jpg",
+                "aspectRatio": 0.6666666666666666,
+                "language": "en",
+                "width": 2000,
+                "height": 3000
+            },
+            {
+                "id": "erJiVVUF64bkgiocIyHIOSHqOnY.jpg",
+                "link": "https://imdb-api.com/posters/original/erJiVVUF64bkgiocIyHIOSHqOnY.jpg",
+                "aspectRatio": 0.6666666666666666,
+                "language": "en",
+                "width": 2000,
+                "height": 3000
+            },
+            {
+                "id": "eFfPMX7z6gv50nRt47Be3jkjXlL.jpg",
+                "link": "https://imdb-api.com/posters/original/eFfPMX7z6gv50nRt47Be3jkjXlL.jpg",
+                "aspectRatio": 0.66650390625,
+                "language": "en",
+                "width": 1365,
+                "height": 2048
+            },
+            {
+                "id": "9hK2l2yDhWcMrslDKFc4871F9H.jpg",
+                "link": "https://imdb-api.com/posters/original/9hK2l2yDhWcMrslDKFc4871F9H.jpg",
+                "aspectRatio": 0.6999214454045561,
+                "language": "en",
+                "width": 891,
+                "height": 1273
+            },
+            {
+                "id": "nN4jA4qSxty0ViprrXjACLJpCs8.jpg",
+                "link": "https://imdb-api.com/posters/original/nN4jA4qSxty0ViprrXjACLJpCs8.jpg",
+                "aspectRatio": 0.6666666666666666,
+                "language": "en",
+                "width": 500,
+                "height": 750
+            },
+            {
+                "id": "67bETK89kru80GoOrUomTKOp0Fg.jpg",
+                "link": "https://imdb-api.com/posters/original/67bETK89kru80GoOrUomTKOp0Fg.jpg",
+                "aspectRatio": 0.6670807453416149,
+                "language": "en",
+                "width": 1074,
+                "height": 1610
+            },
+            {
+                "id": "kpvq8830R36QdvOsvtEsiXCntf0.jpg",
+                "link": "https://imdb-api.com/posters/original/kpvq8830R36QdvOsvtEsiXCntf0.jpg",
+                "aspectRatio": 0.6666666666666666,
+                "language": "en",
+                "width": 1000,
+                "height": 1500
+            },
+            {
+                "id": "9qypbaQy61JcTEGBVMDMhx08rya.jpg",
+                "link": "https://imdb-api.com/posters/original/9qypbaQy61JcTEGBVMDMhx08rya.jpg",
+                "aspectRatio": 0.6666666666666666,
+                "language": "en",
+                "width": 2000,
+                "height": 3000
+            }
+        ],
+        "backdrops": [
+            {
+                "id": "u4Vm8n0suBYimsUoarqMw5vxNU8.jpg",
+                "link": "https://imdb-api.com/posters/original/u4Vm8n0suBYimsUoarqMw5vxNU8.jpg",
+                "aspectRatio": 1.7777777777777777,
+                "language": "en",
+                "width": 3376,
+                "height": 1899
+            },
+            {
+                "id": "uFJQGGhF5IDejutBmo52XRuXjlo.jpg",
+                "link": "https://imdb-api.com/posters/original/uFJQGGhF5IDejutBmo52XRuXjlo.jpg",
+                "aspectRatio": 1.7777777777777777,
+                "language": "en",
+                "width": 1920,
+                "height": 1080
+            },
+            {
+                "id": "k2ncHqFdYFMl887ghCgYwsEIenz.jpg",
+                "link": "https://imdb-api.com/posters/original/k2ncHqFdYFMl887ghCgYwsEIenz.jpg",
+                "aspectRatio": 1.7777777777777777,
+                "language": "en",
+                "width": 3840,
+                "height": 2160
+            },
+            {
+                "id": "xS0rl1YrVt51ztzjRf6qoIPZ7TA.jpg",
+                "link": "https://imdb-api.com/posters/original/xS0rl1YrVt51ztzjRf6qoIPZ7TA.jpg",
+                "aspectRatio": 1.7777777777777777,
+                "language": "en",
+                "width": 2000,
+                "height": 1125
+            },
+            {
+                "id": "ajEBFTg8odL8O20XQEChEMaJJxn.jpg",
+                "link": "https://imdb-api.com/posters/original/ajEBFTg8odL8O20XQEChEMaJJxn.jpg",
+                "aspectRatio": 1.7777777777777777,
+                "language": "en",
+                "width": 3840,
+                "height": 2160
+            },
+            {
+                "id": "wCF0Q1QiP1KClUTMXbI3dDG79RO.jpg",
+                "link": "https://imdb-api.com/posters/original/wCF0Q1QiP1KClUTMXbI3dDG79RO.jpg",
+                "aspectRatio": 1.7777199375325352,
+                "language": "en",
+                "width": 3415,
+                "height": 1921
+            },
+            {
+                "id": "1qVIR204DinoIGKEqYsH8rqS2Xr.jpg",
+                "link": "https://imdb-api.com/posters/original/1qVIR204DinoIGKEqYsH8rqS2Xr.jpg",
+                "aspectRatio": 1.7809439002671417,
+                "language": "en",
+                "width": 2000,
+                "height": 1123
+            },
+            {
+                "id": "kHhXfGRp0ZlE2NN9XhyJwdxzjgd.jpg",
+                "link": "https://imdb-api.com/posters/original/kHhXfGRp0ZlE2NN9XhyJwdxzjgd.jpg",
+                "aspectRatio": 1.7777777777777777,
+                "language": "en",
+                "width": 1600,
+                "height": 900
+            },
+            {
+                "id": "murhvvNUOxIwI8dW1x5pZ4cW4tO.jpg",
+                "link": "https://imdb-api.com/posters/original/murhvvNUOxIwI8dW1x5pZ4cW4tO.jpg",
+                "aspectRatio": 1.78125,
+                "language": "en",
+                "width": 2850,
+                "height": 1600
+            },
+            {
+                "id": "3HP9Z3brnt1pWqFuMNyILtfKORK.jpg",
+                "link": "https://imdb-api.com/posters/original/3HP9Z3brnt1pWqFuMNyILtfKORK.jpg",
+                "aspectRatio": 1.7777777777777777,
+                "language": "en",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "id": "zejzB0K2a47v5KOFzOaZQK9MvA4.jpg",
+                "link": "https://imdb-api.com/posters/original/zejzB0K2a47v5KOFzOaZQK9MvA4.jpg",
+                "aspectRatio": 1.7777777777777777,
+                "language": "en",
+                "width": 1920,
+                "height": 1080
+            },
+            {
+                "id": "nc3EnMLAh0NVwVBkhk1776FUgud.jpg",
+                "link": "https://imdb-api.com/posters/original/nc3EnMLAh0NVwVBkhk1776FUgud.jpg",
+                "aspectRatio": 1.777723497801661,
+                "language": "en",
+                "width": 3639,
+                "height": 2047
+            }
+        ],
+        "errorMessage": ""
+    },
+    "images": {
+        "imDbId": "tt8847712",
+        "title": "The French Dispatch",
+        "fullTitle": "The French Dispatch (2021)",
+        "type": "Movie",
+        "year": "2021",
+        "items": [
+            {
+                "title": "Mathieu Amalric, Hippolyte Girardot, Jeffrey Wright, and Mauricette Coudivat in The French Dispatch (2021)",
+                "image": "https://imdb-api.com/images/original/MV5BNTY5N2M3NTEtYTBkMy00ODMyLWE4NjktN2RjMGIwYmI4MWQ4XkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_Ratio1.3600_AL_.jpg"
+            },
+            {
+                "title": "Jeffrey Wright in The French Dispatch (2021)",
+                "image": "https://imdb-api.com/images/original/MV5BNGY4YWIwYzgtNTI0Ni00NzU5LTg1MTYtMmIwZDM4Y2U3OWJiXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_Ratio1.3600_AL_.jpg"
+            },
+            {
+                "title": "Bill Murray, Owen Wilson, and Wallace Wolodarsky in The French Dispatch (2021)",
+                "image": "https://imdb-api.com/images/original/MV5BZmFlYWZkYWUtMDgyNy00OWYyLWE3NTgtZDdkZTVjOWU2MmI5XkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_Ratio1.3600_AL_.jpg"
+            },
+            {
+                "title": "Bill Murray, Wallace Wolodarsky, and Jeffrey Wright in The French Dispatch (2021)",
+                "image": "https://imdb-api.com/images/original/MV5BYjlhMjMzMjYtYmJhMy00M2JmLTlmOGYtMjBkOGE1NmY4YzBiXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_Ratio1.3600_AL_.jpg"
+            },
+            {
+                "title": "Bob Balaban, Henry Winkler, Adrien Brody, Lois Smith, and Tilda Swinton in The French Dispatch (2021)",
+                "image": "https://imdb-api.com/images/original/MV5BN2Y3YTdmOGUtMTlkYi00NGU2LWFiZDAtYjJmZWZhZDUyMjY0XkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_Ratio1.3600_AL_.jpg"
+            },
+            {
+                "title": "The French Dispatch (2021)",
+                "image": "https://imdb-api.com/images/original/MV5BOTJkMDUyNGEtZGFjNC00ODQ1LWJhNTQtMmY2MjM1NjE2MTJjXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_Ratio1.3600_AL_.jpg"
+            },
+            {
+                "title": "Griffin Dunne, Fisher Stevens, Elisabeth Moss, Owen Wilson, Tilda Swinton, and Anjelica Bette Fellini in The French Dispatch (2021)",
+                "image": "https://imdb-api.com/images/original/MV5BYTkyODc4MGUtODliNS00N2Q3LTg0MGYtNmJhOGJhMDE5MWIxXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_Ratio1.3600_AL_.jpg"
+            },
+            {
+                "title": "Mathieu Amalric in The French Dispatch (2021)",
+                "image": "https://imdb-api.com/images/original/MV5BNGJlOWZkNTktZmUxNC00MTA5LTlhNzgtNmI1YjJhNjhiN2IxXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_Ratio1.3600_AL_.jpg"
+            },
+            {
+                "title": "The French Dispatch (2021)",
+                "image": "https://imdb-api.com/images/original/MV5BNTg4ODE5NDktNTg5Ny00YTEzLTlhOGItYzhlNjM3NjNjN2Q5XkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_Ratio1.3600_AL_.jpg"
+            },
+            {
+                "title": "Bill Murray and Pablo Pauly in The French Dispatch (2021)",
+                "image": "https://imdb-api.com/images/original/MV5BZmY4YWEzNTMtODI5ZS00YjAwLThmODYtOTZmYjIxMGUxMWNjXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_Ratio1.3600_AL_.jpg"
+            },
+            {
+                "title": "Frances McDormand, Timothée Chalamet, and Lyna Khoudri in The French Dispatch (2021)",
+                "image": "https://imdb-api.com/images/original/MV5BYmNjMTZiMWUtM2E3OC00ZjRiLTgzMmUtYTNhYzYzNzJlNzNlXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_Ratio2.4000_AL_.jpg"
+            },
+            {
+                "title": "Steve Park in The French Dispatch (2021)",
+                "image": "https://imdb-api.com/images/original/MV5BMGM4MTI3MWYtYzFkYy00MTA2LWI4MGQtYjZmOWNjZTQ2M2Y3XkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_Ratio1.3600_AL_.jpg"
+            },
+            {
+                "title": "Benicio Del Toro, Denis Ménochet, and Léa Seydoux in The French Dispatch (2021)",
+                "image": "https://imdb-api.com/images/original/MV5BOWU3NGZjZjUtM2ExNy00YTk4LTk0MTEtZTg0MmZjMTczOWQxXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_Ratio1.3600_AL_.jpg"
+            },
+            {
+                "title": "The French Dispatch (2021)",
+                "image": "https://imdb-api.com/images/original/MV5BOGRlNjI0ZjQtMDAxNS00NWY0LThiNWItNDc5OWQwZGZmNjRiXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_Ratio1.3600_AL_.jpg"
+            },
+            {
+                "title": "Tilda Swinton in The French Dispatch (2021)",
+                "image": "https://imdb-api.com/images/original/MV5BMzg4NWFjZDgtNGI3Ny00Yjc0LTkxMjctYmMyYzAyNzZkMzI1XkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_Ratio1.3600_AL_.jpg"
+            },
+            {
+                "title": "Léa Seydoux in The French Dispatch (2021)",
+                "image": "https://imdb-api.com/images/original/MV5BNGNiMGQ4OWMtZDY5OS00OGE5LWEwYjYtMzFmNmViMzYzOTJmXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_Ratio1.3600_AL_.jpg"
+            },
+            {
+                "title": "Bill Murray in The French Dispatch (2021)",
+                "image": "https://imdb-api.com/images/original/MV5BMWY5MTNlYTUtZDVjOS00NTQ4LWEwMzItYWMzNDk2ODE1ZGUxXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_Ratio1.3600_AL_.jpg"
+            },
+            {
+                "title": "Timothée Chalamet and Lyna Khoudri in The French Dispatch (2021)",
+                "image": "https://imdb-api.com/images/original/MV5BNjU2MGZmN2YtZTM1Mi00OTY4LWE5N2YtOTdmOGJkNTU2YWJjXkEyXkFqcGdeQXVyMTEyMjM2NDc2._V1_Ratio1.3600_AL_.jpg"
+            },
+            {
+                "title": "Wes Anderson at an event for The French Dispatch (2021)",
+                "image": "https://imdb-api.com/images/original/MV5BNDc5YjVlNWQtM2RiYi00NDhhLWFiM2QtZWM1MmU5N2FiZmU1XkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_Ratio1.5000_AL_.jpg"
+            },
+            {
+                "title": "Adrien Brody and Timothée Chalamet at an event for The French Dispatch (2021)",
+                "image": "https://imdb-api.com/images/original/MV5BYmJmZTdmZWEtMmZmNC00YjRlLTk5MTMtNzEyODRjNTFlNGYyXkEyXkFqcGdeQXVyMDM2NDM2MQ@@._V1_Ratio1.0000_AL_.jpg"
+            },
+            {
+                "title": "Bill Murray at an event for The French Dispatch (2021)",
+                "image": "https://imdb-api.com/images/original/MV5BMjk4ODNmNTQtYjc5Mi00NmVlLTk5OWMtYTkyNWUyNWZkZjYxXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_Ratio1.5000_AL_.jpg"
+            },
+            {
+                "title": "Benicio Del Toro at an event for The French Dispatch (2021)",
+                "image": "https://imdb-api.com/images/original/MV5BNGRmOGY4ZDEtMGI0ZS00ODBhLWE1NWQtMTE0ODIwNDUwOTk1XkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_Ratio1.5000_AL_.jpg"
+            },
+            {
+                "title": "Bill Murray, Adrien Brody, and Wes Anderson at an event for The French Dispatch (2021)",
+                "image": "https://imdb-api.com/images/original/MV5BZTVjN2QzNmMtYzc3NC00OGU5LWI3MDAtZDA3Nzc2ZDU0OTU5XkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_Ratio1.5000_AL_.jpg"
+            },
+            {
+                "title": "Wes Anderson, Timothée Chalamet, and Lyna Khoudri at an event for The French Dispatch (2021)",
+                "image": "https://imdb-api.com/images/original/MV5BYjgyMTNkNjEtNTg3Ni00MzBkLWFmODItNjRhOWM2MmQ2ODRiXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_Ratio1.5000_AL_.jpg"
+            },
+            {
+                "title": "Wes Anderson at an event for The French Dispatch (2021)",
+                "image": "https://imdb-api.com/images/original/MV5BMGRlYzRlZjItMmMxZi00ZjIxLWJiNDItMDE1NmU2ZmE2NDY4XkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_Ratio1.5000_AL_.jpg"
+            },
+            {
+                "title": "Tilda Swinton and Timothée Chalamet at an event for The French Dispatch (2021)",
+                "image": "https://imdb-api.com/images/original/MV5BZjI2NTIwYTMtMTExZS00YzUwLThiMWQtZGUyYmUwMTUzMTg0XkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_Ratio1.0000_AL_.jpg"
+            },
+            {
+                "title": "Wes Anderson, Tilda Swinton, and Timothée Chalamet at an event for The French Dispatch (2021)",
+                "image": "https://imdb-api.com/images/original/MV5BZTMyMDEyOGItYjM3Yi00MmY3LThlOWEtODIyMTQ4YmRjZjk1XkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_Ratio1.5000_AL_.jpg"
+            },
+            {
+                "title": "Bill Murray and Timothée Chalamet at an event for The French Dispatch (2021)",
+                "image": "https://imdb-api.com/images/original/MV5BNjc1MzVmMTEtOWQyYi00YWE2LTllNTItYTlhMzQ4M2QyYmM3XkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_Ratio1.0000_AL_.jpg"
+            },
+            {
+                "title": "Timothée Chalamet at an event for The French Dispatch (2021)",
+                "image": "https://imdb-api.com/images/original/MV5BZmIxNWQ2MDEtNmVmMC00MWVhLWI4OWUtZjRlOGU4MTUyOGNkXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_Ratio1.0000_AL_.jpg"
+            },
+            {
+                "title": "Bill Murray and Lyna Khoudri at an event for The French Dispatch (2021)",
+                "image": "https://imdb-api.com/images/original/MV5BMmRlN2M4NTktNmZjOC00ZmNjLTkwMDUtODExMjYwNmNhODk4XkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_Ratio1.5000_AL_.jpg"
+            },
+            {
+                "title": "Bill Murray and Timothée Chalamet at an event for The French Dispatch (2021)",
+                "image": "https://imdb-api.com/images/original/MV5BMjg5NjU4NmMtZmM3ZC00NWFlLWJkMjItZGFmZDM1YjZmYTk5XkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_Ratio1.0000_AL_.jpg"
+            },
+            {
+                "title": "Miyi Huang at an event for The French Dispatch (2021)",
+                "image": "https://imdb-api.com/images/original/MV5BY2Q0YWVjZmQtNWM4Yy00YTRiLWI4M2YtYjhiYjhlYWQ0NzhkXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_Ratio1.5000_AL_.jpg"
+            },
+            {
+                "title": "Owen Wilson at an event for The French Dispatch (2021)",
+                "image": "https://imdb-api.com/images/original/MV5BZjhiNWZlNmYtOWM1OC00NmNkLWE1ZTctMGU5NTZhOTFhOGVlXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_Ratio1.5000_AL_.jpg"
+            },
+            {
+                "title": "Marta Pozzan at an event for The French Dispatch (2021)",
+                "image": "https://imdb-api.com/images/original/MV5BZmNiOTQyMjgtOTJlOS00YWNlLWE0MDgtNWRhODU1ZWMxNTY3XkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_Ratio1.0000_AL_.jpg"
+            },
+            {
+                "title": "Benicio Del Toro and Tilda Swinton at an event for The French Dispatch (2021)",
+                "image": "https://imdb-api.com/images/original/MV5BNWI4OGU0OGUtMjA3OC00MmIwLTg4MGYtOGQ0YTRhMmZiODFjXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_Ratio1.5000_AL_.jpg"
+            },
+            {
+                "title": "Timothée Chalamet at an event for The French Dispatch (2021)",
+                "image": "https://imdb-api.com/images/original/MV5BNGY4NTY3MDUtOWUyMS00YzEzLWIyNzQtNzcxMjZiNTdjMzNhXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_Ratio1.0000_AL_.jpg"
+            },
+            {
+                "title": "Tilda Swinton and Timothée Chalamet at an event for The French Dispatch (2021)",
+                "image": "https://imdb-api.com/images/original/MV5BOTk0YTNmNTktMGMyMS00ZDliLWI1MTQtMzc4YTk1ZDYzNjA5XkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_Ratio1.5000_AL_.jpg"
+            },
+            {
+                "title": "Wes Anderson at an event for The French Dispatch (2021)",
+                "image": "https://imdb-api.com/images/original/MV5BYTVhODlkMjctYmU2MS00OWViLWE1YzEtNzI5ZDU5NzEwMWYyXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_Ratio1.5000_AL_.jpg"
+            },
+            {
+                "title": "Marcelo Vieira and Clarice Alves at an event for The French Dispatch (2021)",
+                "image": "https://imdb-api.com/images/original/MV5BNmIzZWE1Y2UtOTM5Mi00NTExLWFkZTgtZTZjNmJkZTk0OTY0XkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_Ratio1.5000_AL_.jpg"
+            },
+            {
+                "title": "Jarvis Cocker at an event for The French Dispatch (2021)",
+                "image": "https://imdb-api.com/images/original/MV5BNDA4MmE0OWItYThmNy00YTc3LWI5N2UtZWZhNzBkOTA3MDdiXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_Ratio1.5000_AL_.jpg"
+            },
+            {
+                "title": "Honor Swinton Byrne at an event for The French Dispatch (2021)",
+                "image": "https://imdb-api.com/images/original/MV5BYjNiNmJlOTgtNWYyYy00YTk0LTlmZWItZmMzYjQ1NDA4MTJlXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_Ratio1.0000_AL_.jpg"
+            },
+            {
+                "title": "Adrien Brody, Wes Anderson, and Tilda Swinton at an event for The French Dispatch (2021)",
+                "image": "https://imdb-api.com/images/original/MV5BNjlmY2U0MjQtNmE1My00ZTNkLWE4ZTYtM2Y1Mjg3OTMyZDEzXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_Ratio1.5000_AL_.jpg"
+            },
+            {
+                "title": "Timothée Chalamet at an event for The French Dispatch (2021)",
+                "image": "https://imdb-api.com/images/original/MV5BZjg5MzZiNGUtZjcxMy00OGVjLThjYWYtNjU5MTQxY2RmNDVhXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_Ratio1.5000_AL_.jpg"
+            },
+            {
+                "title": "Maggie Gyllenhaal at an event for The French Dispatch (2021)",
+                "image": "https://imdb-api.com/images/original/MV5BMzdlN2IzMDctNWFlMy00MzI3LWEyYTAtNmJmMDNkZTMxODQ1XkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_Ratio1.5400_AL_.jpg"
+            },
+            {
+                "title": "Iris Law at an event for The French Dispatch (2021)",
+                "image": "https://imdb-api.com/images/original/MV5BOTRhZWM3MWItMjFjOC00NGIxLTkxYTQtYWNjMDU1YWZkOGE2XkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_Ratio1.0000_AL_.jpg"
+            },
+            {
+                "title": "Benicio Del Toro, Mathieu Amalric, and Timothée Chalamet at an event for The French Dispatch (2021)",
+                "image": "https://imdb-api.com/images/original/MV5BNzJjNTQ1ZWMtODIyYy00YzRiLWEzOWItZjE3MzdjMmVlYjgwXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_Ratio1.5000_AL_.jpg"
+            },
+            {
+                "title": "Adrien Brody and Timothée Chalamet at an event for The French Dispatch (2021)",
+                "image": "https://imdb-api.com/images/original/MV5BNmM4ZmM0MjItODFhYy00MGVjLTgxNWQtNGFhNDJmOWM4NGIxXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_Ratio1.5000_AL_.jpg"
+            },
+            {
+                "title": "Jimmy Jean-Louis at an event for The French Dispatch (2021)",
+                "image": "https://imdb-api.com/images/original/MV5BNTkwNzI4MGMtNGQ4Zi00MWZlLTlkOTItMGM4OGI4NTA5YjIwXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_Ratio1.5000_AL_.jpg"
+            }
+        ],
+        "errorMessage": ""
+    },
+    "trailer": {
+        "imDbId": "tt8847712",
+        "title": "The French Dispatch",
+        "fullTitle": "The French Dispatch (2021)",
+        "type": "Movie",
+        "year": "2021",
+        "videoId": null,
+        "videoTitle": null,
+        "videoDescription": null,
+        "thumbnailUrl": null,
+        "uploadDate": null,
+        "link": null,
+        "linkEmbed": null,
+        "errorMessage": "404 Not Founded Error"
+    },
+    "boxOffice": {
+        "budget": "$25,000,000 (estimated)",
+        "openingWeekendUSA": "",
+        "grossUSA": "",
+        "cumulativeWorldwideGross": ""
+    },
+    "tagline": "",
+    "keywords": "written by cast member,disney,cannes 2020",
+    "keywordList": ["written by cast member", "disney", "cannes 2020"],
+    "similars": [
+        {
+            "id": "tt5104604",
+            "title": "Isle of Dogs",
+            "fullTitle": "Isle of Dogs (2018)",
+            "year": "2018",
+            "image": "https://imdb-api.com/images/original/MV5BZDQwOWQ2NmUtZThjZi00MGM0LTkzNDctMzcyMjcyOGI1OGRkXkEyXkFqcGdeQXVyMTA3MDk2NDg2._V1_Ratio0.6737_AL_.jpg",
+            "plot": "Set in Japan, Isle of Dogs follows a boy's odyssey in search of his lost dog.",
+            "directors": "Wes Anderson",
+            "stars": "Bryan Cranston, Koyu Rankin, Edward Norton",
+            "genres": "Animation, Adventure, Comedy",
+            "imDbRating": "7.9"
+        },
+        {
+            "id": "tt11286314",
+            "title": "Don't Look Up",
+            "fullTitle": "Don't Look Up (2021)",
+            "year": "2021",
+            "image": "https://imdb-api.com/images/original/MV5BN2ZhMzMzNWEtZThlOS00MzU1LTgwMGQtMGI4ZWU0OTEzMTM3XkEyXkFqcGdeQXVyODc0OTEyNDU@._V1_Ratio0.7263_AL_.jpg",
+            "plot": "The story of two low-level astronomers, who must go on a giant media tour to warn mankind of an approaching comet that will destroy planet earth.",
+            "directors": "Adam McKay",
+            "stars": "Matthew Perry, Leonardo DiCaprio, Jennifer Lawrence",
+            "genres": "Comedy",
+            "imDbRating": ""
+        },
+        {
+            "id": "tt0115734",
+            "title": "Bottle Rocket",
+            "fullTitle": "Bottle Rocket (1996)",
+            "year": "1996",
+            "image": "https://imdb-api.com/images/original/MV5BYjZjYjJmZTItOGRhNy00MmIyLTllODYtMzJlMTMxMzkyODc2XkEyXkFqcGdeQXVyNTE1NjY5Mg@@._V1_Ratio0.6737_AL_.jpg",
+            "plot": "Three friends plan to pull off a simple robbery and go on the run.",
+            "directors": "Wes Anderson",
+            "stars": "Luke Wilson, Owen Wilson, Ned Dowd",
+            "genres": "Comedy, Crime, Drama",
+            "imDbRating": "7"
+        },
+        {
+            "id": "tt0838221",
+            "title": "The Darjeeling Limited",
+            "fullTitle": "The Darjeeling Limited (2007)",
+            "year": "2007",
+            "image": "https://imdb-api.com/images/original/MV5BMTM0MTQ4MTgwOF5BMl5BanBnXkFtZTcwMDA3MDU1MQ@@._V1_Ratio0.6737_AL_.jpg",
+            "plot": "A year after their father's funeral, three brothers travel across India by train in an attempt to bond with each other.",
+            "directors": "Wes Anderson",
+            "stars": "Owen Wilson, Adrien Brody, Jason Schwartzman",
+            "genres": "Adventure, Comedy, Drama",
+            "imDbRating": "7.2"
+        },
+        {
+            "id": "tt0128445",
+            "title": "Rushmore",
+            "fullTitle": "Rushmore (1998)",
+            "year": "1998",
+            "image": "https://imdb-api.com/images/original/MV5BMjE2OTc3OTk2M15BMl5BanBnXkFtZTgwMjg2NjIyMDE@._V1_Ratio0.6737_AL_.jpg",
+            "plot": "The extracurricular king of Rushmore Preparatory School is put on academic probation.",
+            "directors": "Wes Anderson",
+            "stars": "Jason Schwartzman, Bill Murray, Olivia Williams",
+            "genres": "Comedy, Drama, Romance",
+            "imDbRating": "7.7"
+        }
+    ],
+    "tvSeriesInfo": null,
+    "tvEpisodeInfo": null,
+    "errorMessage": ""
+}
