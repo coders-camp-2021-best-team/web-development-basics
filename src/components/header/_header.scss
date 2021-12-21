@@ -84,9 +84,10 @@ header {
 @include for-desktop-up {
     header {
         height: auto;
-        font-size: 32px;
+        font-size: 26px;
+        font-weight: 600;
         .navBar {
-            line-height: 39px;
+            padding-top: 15px;
             ul {
                 display: flex;
                 justify-content: space-between;
@@ -103,10 +104,10 @@ header {
                     padding: 16px 30px;
                     width: auto;
                     height: auto;
-                    margin-left: 80px;
+                    margin-left: 40px;
                     box-shadow: none;
                     border-radius: 20px;
-                    font-size: 32px;
+                    font-size: 26px;
                     font-weight: 500;
                     line-height: 39px;
                     text-shadow: none;
