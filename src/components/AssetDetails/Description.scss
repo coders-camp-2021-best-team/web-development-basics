@@ -1,0 +1,25 @@
+.asset-description {
+    .details__container {
+        width: 90%;
+        margin: 1em auto;
+        border-collapse: collapse;
+
+        .details__prop {
+            display: flex;
+            padding: 10px;
+            text-align: left;
+
+            div {
+                flex: 1;
+            }
+
+            &--name {
+                font-weight: bold;
+            }
+
+            &--value {
+                line-height: 1.8em;
+            }
+        }
+    }
+}
