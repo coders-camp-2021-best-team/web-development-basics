@@ -60,6 +60,9 @@ class ApiService {
      */
     async request(method, api, params, optional_params = '') {
         const cache_entry = await CacheManager.getCache(method, api, params);
+        console.log(process.env.USE_API);
+        console.log(process.env.API_BASE_URL);
+        console.log(process.env.API_SECRET_KEY);
         if (cache_entry) {
             return cache_entry;
         } else if (process.env.USE_API.toString() === 'true') {
