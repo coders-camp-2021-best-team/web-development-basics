@@ -1,19 +1,24 @@
 .asset-description {
-    table {
-        width: 100%;
-    }
-
-    table,
-    th,
-    td {
-        border: 1px solid rgba($color: #000000, $alpha: 0);
+    .details__container {
+        width: 90%;
+        margin: 1em auto;
         border-collapse: collapse;
-    }
 
-    th,
-    td {
-        padding: 10px;
-        text-align: left;
-        line-height: 1.6rem;
+        .details__prop {
+            display: flex;
+
+            th,
+            td {
+                flex: 1;
+            }
+
+            padding: 10px;
+            text-align: left;
+            line-height: 2.2rem;
+
+            .details__prop-name {
+                font-weight: bold;
+            }
+        }
     }
 }

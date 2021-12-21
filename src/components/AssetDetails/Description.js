@@ -12,9 +12,9 @@ const DescriptionRow = (movie, name, index) => {
     }
 
     return `
-        <tr>
-            <th>${name}</th>
-            <td>${movie[index]}</td>
+        <tr class="details__prop">
+            <th class="details__prop-name">${name}:</th>
+            <td class="details__prop-value">${movie[index]}</td>
         </tr>
     `;
 };
@@ -24,7 +24,7 @@ export const AssetDetailsDescription = ({ renderOn, movie }) => {
 
     const template = `
         <article class='asset-description'>
-            <table>
+            <table class="details__container">
                 ${DescriptionRow(movie, 'Title', 'fullTitle')}
                 ${DescriptionRow(movie, 'Genres')}
                 ${DescriptionRow(movie, 'Length', 'runtimeStr')}
