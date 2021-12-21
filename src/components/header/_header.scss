@@ -1,102 +1,130 @@
 @import '../../../styles/variables';
 @import '../../../styles/mixins';
 
-header{
-  background-color: $background-color;
-  display: flex;
-  font-size: 10px;
-  justify-content: space-between;
-  align-items: center;
-  height: 80px;
-  padding: 0 10px;
-  font-family: $font-body, sans-serif;
-  text-transform: uppercase;
-  .navBar{
-    flex-shrink: 100;
-    height: 80px;
-    padding-right: 10px;
+header {
+    background-color: $background-color;
     display: flex;
+    font-size: 10px;
     justify-content: space-between;
     align-items: center;
-    .icon{
-      display: block;
-      background-color: $transparent;
-      cursor: pointer;
-      border: none;
-      outline: none;
-      margin-right: 11px;
+    height: 80px;
+    padding: 0 10px;
+    font-family: $font-body, sans-serif;
+    text-transform: uppercase;
+    .navBar {
+        flex-shrink: 100;
+        height: 80px;
+        padding-right: 10px;
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+        margin-right: 42.85px;
+        .icon {
+            display: block;
+            background-color: $transparent;
+            cursor: pointer;
+            border: none;
+            outline: none;
+            margin-right: 11px;
+        }
+        .btns {
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            .randomBtn {
+                font-size: 10px;
+                font-weight: 500;
+                text-align: center;
+                padding: 16px 30px;
+                width: auto;
+                height: 30px;
+                border-radius: 20px;
+                cursor: pointer;
+                box-shadow: none;
+                text-shadow: none;
+            }
+        }
+        ul {
+            display: none;
+            text-align: center;
+            list-style: none;
+            color: $font-primary-color;
+            z-index: 2;
+            .exit {
+                display: contents;
+                cursor: pointer;
+                border: none;
+                outline: none;
+                background-color: $transparent;
+                color: $font-primary-color;
+                font-size: 30px;
+            }
+            li {
+                margin: 0;
+                cursor: pointer;
+            }
+        }
     }
-    .btns{
-      display: flex;
-      justify-content: space-between;
-      align-items: center;
-    }
-    ul{
-      display: none;
-      text-align: center;
-      list-style: none;
-      color: $font-primary-color;
-      z-index: 2;
-      .exit{
-        display: contents;
-        cursor: pointer;
-        border: none;
-        outline: none;
-        background-color: $transparent;
-        color: $font-primary-color;
-        font-size: 30px;
-      }
-      li{
+    .menu-active {
+        position: absolute;
+        display: block !important;
+        background-color: $popuot-menu-backgorund-color;
         margin: 0;
-        cursor: pointer;
-      }
+        top: 5.6em;
+        right: 19em;
+        padding: 0 25px;
+        li {
+            padding: 5px 0;
+        }
     }
-  }
-  .menu-active{
-    position: absolute;
-    display: block !important;
-    background-color: $popuot-menu-backgorund-color;
-    margin: 0;
-    top: 5.6em;
-    right: 9.25em;
-    padding: 0 25px;
-    li{
-      padding: 5px 0;
+    .logo {
+        height: 60px;
+        width: 80px;
     }
-  }
-  .logo{
-    height: 60px;
-    width: 80px;
-  }
 }
 
 @include for-desktop-up {
-  header{
-    height: 275px;
-    font-size: 32px;
-    .navBar{
-      line-height: 39px;
-      ul{
-        display: flex;
-        justify-content: space-between;
-        height: fit-content;
-        .exit{
-          display: none;
+    header {
+        height: 275px;
+        font-size: 32px;
+        .navBar {
+            line-height: 39px;
+            ul {
+                display: flex;
+                justify-content: space-between;
+                height: fit-content;
+                .exit {
+                    display: none;
+                }
+                li {
+                    margin-right: 24px;
+                }
+            }
+            .btns {
+                .randomBtn {
+                    padding: 16px 30px;
+                    width: auto;
+                    height: auto;
+                    cursor: pointer;
+                    margin-left: 80px;
+                    box-shadow: none;
+                    border-radius: 20px;
+                    font-size: 32px;
+                    font-weight: 500;
+                    line-height: 39px;
+                    text-shadow: none;
+                }
+            }
         }
-        li{
-        margin-right: 24px;
+        .icon {
+            display: none !important;
         }
-      }
+        .logo {
+            height: 225px;
+            width: 300px;
+            left: 0px;
+            top: 0px;
+            border-radius: 0px;
+        }
     }
-    .icon{
-      display: none !important;
-    }
-    .logo{
-      height: 225px;
-      width: 300px;
-      left: 0px;
-      top: 0px;
-      border-radius: 0px;
-    }
-  }
 }

@@ -13,8 +13,5 @@ const template = async (movies) => `
 export const HomeScreen = async ({ renderOn, options }) => {
     // TODO this is temporary to show example movie tile
     const movies = await ApiProvider.search('Fast & Furious');
-
-    const my_movie = movies.results[1];
-
     render({ on: renderOn, html: await template(movies) });
 };

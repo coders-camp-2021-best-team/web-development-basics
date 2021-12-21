@@ -5,3 +5,5 @@ export * from './Button/Button';
 export * from './Tiles/MovieTile';
 export * from './Tiles/TilesGrid';
 export * from './Star/Star';
+export * from './Nav/Link';
+export * from './AssetDetails/Description';
