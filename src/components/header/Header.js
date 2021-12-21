@@ -21,15 +21,15 @@ const template = (randomMovie) => {
       </ul>
       <div class="btns">
         <button id="icon" class="icon"><img src="/static/img/menuIcon.png" alt="toggleMenuIconMinor"></button>
-        ${Button(
-            () => {
+        ${Button({
+            onClick: () => {
                 redirect(routes.details.getPathWithParams(randomMovie.id));
             },
-            'randomBtn',
-            'random movies',
-            'button',
-            'randomBtn'
-        )}
+            id: 'randomBtn',
+            text: 'random movies',
+            type: 'button',
+            className: 'randomBtn'
+        })}
       </div>
     </div>
   </header>
