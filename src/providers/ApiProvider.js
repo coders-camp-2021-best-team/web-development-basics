@@ -15,7 +15,17 @@ class ApiProvider {
         return ApiService.request('GET', 'SearchTitle', name);
     }
 
-    
+    commingSoon() {
+        return ApiService.request('GET', 'CommingSoon', '');
+    }
+
+    mostPopularTVs() {
+        return ApiService.request('GET', 'MostPopularTVs', '');
+    }
+
+    mostPopularMovies() {
+        return ApiService.request('GET', 'MostPopularMovies', '');
+    }
 
     /**
      * @param {string} id
