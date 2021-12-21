@@ -1,0 +1,36 @@
+@import './variables';
+
+
+.btn {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    padding: 25px 80px;
+    background: $btn-color;
+    box-shadow: $box-shadow-btn-cateogry;
+    border-radius: 10px;
+    border: none;
+    width: 255px;
+    height: 39px;
+    left: 80px;
+    top: 25px;
+
+    //text style
+    font-family: $font-body, sans-serif ;
+    font-style: normal;
+    font-size: 1em;
+    line-height: 39px;
+    text-transform: uppercase;
+    color: $btn-txt-color;
+    text-shadow: $text-shadow;
+}
+
+@include for-phone-only {
+    .btn {
+        width: 120px;
+        height: auto;
+        padding: 0px 10px;
+        font-size: 0.6EM;
+    }
+}

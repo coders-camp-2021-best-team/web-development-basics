@@ -40,9 +40,12 @@ class ApiProvider {
     getTop250Movies() {
         return ApiService.request('GET', 'Top250Movies', ' ');
     }
-    getRandomAsset() {
+
+    async getRandomAsset() {
         const idx = Math.floor(250 * Math.random());
-        return this.getTop250Movies()[idx];
+        const asset = await this.getTop250Movies();
+
+        return asset.items[idx];
     }
 }
 

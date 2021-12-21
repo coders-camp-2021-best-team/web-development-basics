@@ -1,11 +1,17 @@
 @import '../../../styles/mixins';
 
 .star{
-  width: 25px;
-  height: auto;
-  @include for-desktop-up{
+  cursor: pointer;
   width: 50px;
   height: auto;
-}
+  position: absolute;
+  top: 16px;
+  right: 11px;
+  z-index: 1;
+  @include for-phone-and-tablet{
+    width: 25px;
+    height: auto;
+    top: 8px;
+  }
 }
 
