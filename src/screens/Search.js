@@ -1,10 +1,11 @@
 import { render } from '../shared/dom.js';
 import { TilesGrid } from '../components';
 import ApiProvider from '../providers/ApiProvider.js';
-import ConsoleLogger from '../utils/ConsoleLogger.js';
+import { SearchForm } from '../components/Search/Form.js';
 
 const template = `
 <div id="search-screen">
+    <template id="search-form"></template>
     <template id="tiles-grid"></template>
 </div>
 `;
@@ -12,9 +13,18 @@ const template = `
 export const SearchScreen = async ({ renderOn }) => {
     render({ on: renderOn, html: template });
 
-    const movies = (await ApiProvider.search('Fast & Furious')).results;
+    const params = new URLSearchParams(window.location.search);
+    const searchQuery = params.get('q') || '';
 
-    ConsoleLogger.debug(movies);
+    SearchForm({ renderOn: '#search-form', initSearch: searchQuery });
+    if (searchQuery) {
+        const movies = (await ApiProvider.search(searchQuery)).results;
 
-    TilesGrid({ renderOn: '#tiles-grid', movies });
+        TilesGrid({ renderOn: '#tiles-grid', movies });
+    } else {
+        render({
+            on: '#tiles-grid',
+            html: `<h2 class="warn">Search something...</h2>`
+        });
+    }
 };
