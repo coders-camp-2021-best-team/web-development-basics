@@ -15,18 +15,16 @@ class ApiProvider {
         return ApiService.request('GET', 'SearchTitle', name);
     }
 
-    /**
-     * @param {string} name
-     */
-    searchMovie(name) {
-        return ApiService.request('GET', 'SearchMovie', name);
+    comingSoon() {
+        return ApiService.request('GET', 'ComingSoon', '');
     }
 
-    /**
-     * @param {string} name
-     */
-    searchSeries(name) {
-        return ApiService.request('GET', 'SearchSeries', name);
+    mostPopularTVs() {
+        return ApiService.request('GET', 'MostPopularTVs', '');
+    }
+
+    mostPopularMovies() {
+        return ApiService.request('GET', 'MostPopularMovies', '');
     }
 
     /**

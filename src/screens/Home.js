@@ -10,7 +10,7 @@ const template = async (movies, lol, dupa) => `
         ${Button({
             onClick: () => redirect('/search'),
             id: 'topMovies',
-            text: 'Top 250 movies',
+            text: 'Top 250 movies'
         })}
         ${await MovieCarousel({
             movies: movies.items.slice(0, 15),
@@ -19,7 +19,7 @@ const template = async (movies, lol, dupa) => `
         ${Button({
             onClick: () => redirect('/search'),
             id: 'series',
-            text: 'Series',
+            text: 'Series'
         })}
         ${await MovieCarousel({
             movies: lol.results.slice(0, 15),
@@ -28,7 +28,7 @@ const template = async (movies, lol, dupa) => `
         ${Button({
             onClick: () => redirect('/search'),
             id: 'movies',
-            text: 'Movies',
+            text: 'Movies'
         })}
         ${await MovieCarousel({
             movies: dupa.results.slice(0, 15),
@@ -40,8 +40,8 @@ const template = async (movies, lol, dupa) => `
 export const HomeScreen = async ({ renderOn, options }) => {
     // TODO this is temporary to show example movie tile
     const movies = await ApiProvider.getTop250Movies();
-    const lol = await ApiProvider.searchMovie('G');
-    const dupa = await ApiProvider.searchSeries('T');
+    const lol = await ApiProvider.mostPopularTVs('Incepction');
+    const dupa = await ApiProvider.mostPopular('Maze');
     console.log(movies);
     console.log(lol);
     console.log(dupa);
