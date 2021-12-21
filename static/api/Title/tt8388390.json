@@ -1,0 +1,687 @@
+{
+    "id": "tt8388390",
+    "title": "Chucky",
+    "originalTitle": "",
+    "fullTitle": "Chucky (2021– )",
+    "type": "TVSeries",
+    "year": "2021",
+    "image": "https://imdb-api.com/images/original/MV5BZmM4OThjMmEtYWY3NC00OTMzLWIyOTYtM2FkZWE2MzkwZGNlXkEyXkFqcGdeQXVyNzk5NDk3MjQ@._V1_Ratio0.8043_AL_.jpg",
+    "releaseDate": "2021-10-12",
+    "runtimeMins": "",
+    "runtimeStr": "",
+    "plot": "After a vintage Chucky doll turns up at a suburban yard sale, an idyllic American town is thrown into chaos as a series of horrifying murders begin to expose the town's hypocrisies and secrets.",
+    "plotLocal": "",
+    "plotLocalIsRtl": false,
+    "awards": "",
+    "directors": "",
+    "directorList": [],
+    "writers": "",
+    "writerList": [],
+    "stars": "Zackary Arthur, Brad Dourif, Carina Battrick",
+    "starList": [
+        { "id": "nm6236879", "name": "Zackary Arthur" },
+        { "id": "nm0000374", "name": "Brad Dourif" },
+        { "id": "nm9066500", "name": "Carina Battrick" }
+    ],
+    "actorList": [
+        {
+            "id": "nm6236879",
+            "image": "https://imdb-api.com/images/original/MV5BMzIxNTdhYTAtYjIxNC00YTI0LTk1ZmEtYmVjYzY3NGVkNWE0XkEyXkFqcGdeQXVyMjI3NjkwNjY@._V1_Ratio1.0000_AL_.jpg",
+            "name": "Zackary Arthur",
+            "asCharacter": "Jake Webberas Jake Webber"
+        },
+        {
+            "id": "nm0000374",
+            "image": "https://imdb-api.com/images/original/MV5BMTYxNTA2MDExOF5BMl5BanBnXkFtZTcwNDE0MDAxMw@@._V1_Ratio1.0000_AL_.jpg",
+            "name": "Brad Dourif",
+            "asCharacter": "Chuckyas Chucky"
+        },
+        {
+            "id": "nm9066500",
+            "image": "https://imdb-api.com/images/original/MV5BZGJiZWE3MzgtZTI0My00MDdlLThiYTUtYTM3NmY2MDNmNTlhXkEyXkFqcGdeQXVyNzczNTk2MTg@._V1_Ratio1.0000_AL_.jpg",
+            "name": "Carina Battrick",
+            "asCharacter": "Caroline Crossas Caroline Cross"
+        },
+        {
+            "id": "nm0253705",
+            "image": "https://imdb-api.com/images/original/MV5BZTkxNGUyZjYtZjE3Yy00ZDg1LWJmMzUtOGNkNzYxZjIwMzBlXkEyXkFqcGdeQXVyMDk1Mjk2OA@@._V1_Ratio1.0000_AL_.jpg",
+            "name": "Christine Elise",
+            "asCharacter": "Kyleas Kyle"
+        },
+        {
+            "id": "nm9680027",
+            "image": "https://imdb-api.com/images/original/MV5BNTliYTdhNmYtMWU1Yy00NjllLTk1ZTEtZmFhNmU3Yzc3NWM1XkEyXkFqcGdeQXVyODYxODYyNTc@._V1_Ratio1.0000_AL_.jpg",
+            "name": "David Kohlsmith",
+            "asCharacter": "Charles Lee Rayas Charles Lee Ray"
+        },
+        {
+            "id": "nm3419603",
+            "image": "https://imdb-api.com/images/original/MV5BMTYxNjQyNjczOF5BMl5BanBnXkFtZTgwMDc2OTI1NjE@._V1_Ratio1.2429_AL_.jpg",
+            "name": "Jana Peck",
+            "asCharacter": "Principal McVeyas Principal McVey"
+        },
+        {
+            "id": "nm0898571",
+            "image": "https://imdb-api.com/images/original/MV5BMTg1MTQ2MzcyOV5BMl5BanBnXkFtZTcwMDkzNjEzNA@@._V1_Ratio1.0000_AL_.jpg",
+            "name": "Alex Vincent",
+            "asCharacter": "Andy Barclayas Andy Barclay"
+        },
+        {
+            "id": "nm10947938",
+            "image": "https://imdb-api.com/images/original/MV5BNmQ0YjExYWUtZDg0OC00NGMyLTlkMmMtNmEyOGRlMmI5MmRhXkEyXkFqcGdeQXVyOTMwMDA5MzM@._V1_Ratio1.0000_AL_.jpg",
+            "name": "Bjorgvin Arnarson",
+            "asCharacter": "Devon Lopezas Devon Lopez"
+        },
+        {
+            "id": "nm3897067",
+            "image": "https://imdb-api.com/images/original/MV5BNzNhNjFkNTEtYWQ4ZS00ODY5LWFjM2UtMGNiNDI4Y2IzOWM0XkEyXkFqcGdeQXVyMjQ5MTgyOTA@._V1_Ratio1.0000_AL_.jpg",
+            "name": "Teo Briones",
+            "asCharacter": "Junior Webberas Junior Webber"
+        },
+        {
+            "id": "nm4865040",
+            "image": "https://imdb-api.com/images/original/MV5BYTYzMjIxMWYtMTYzNC00NzhhLWI3Y2UtODRmNGQyYzZjMTFiXkEyXkFqcGdeQXVyMzE3NDEyMTU@._V1_Ratio1.0000_AL_.jpg",
+            "name": "Alyvia Alyn Lind",
+            "asCharacter": "Lexy Tayloras Lexy Taylor"
+        },
+        {
+            "id": "nm0570792",
+            "image": "https://imdb-api.com/images/original/MV5BMzJhOGQ3MmQtMWRmZS00Y2QyLWJiYzQtNmZiOGYyY2Q2MjNhXkEyXkFqcGdeQXVyODA1OTQ0OQ@@._V1_Ratio1.0000_AL_.jpg",
+            "name": "Marisa McIntyre",
+            "asCharacter": "Elizabeth Rayas Elizabeth Ray"
+        },
+        {
+            "id": "nm11888437",
+            "image": "https://imdb-api.com/images/original/MV5BYWE4MjYyNzYtNTU1OS00NGNmLThlYTktNDVjNjMxYjVhYTI2XkEyXkFqcGdeQXVyODAxMTAwMjc@._V1_Ratio1.0000_AL_.jpg",
+            "name": "Antonio Raine Pastore",
+            "asCharacter": "Danceras Dancer"
+        },
+        {
+            "id": "nm0001701",
+            "image": "https://imdb-api.com/images/original/MV5BMmQzN2E5MDctYTExYi00OTgzLTliNGYtYzdiYzgxZTIxZmZmXkEyXkFqcGdeQXVyMjQwMDg0Ng@@._V1_Ratio1.5000_AL_.jpg",
+            "name": "Devon Sawa",
+            "asCharacter": "Logan Wheeleras Logan Wheeler"
+        },
+        {
+            "id": "nm0000236",
+            "image": "https://imdb-api.com/images/original/MV5BNDQxNDI2MzA0N15BMl5BanBnXkFtZTYwOTcxOTI0._V1_Ratio1.0000_AL_.jpg",
+            "name": "Jennifer Tilly",
+            "asCharacter": "Tiffany Valentineas Tiffany Valentine"
+        },
+        {
+            "id": "nm11721012",
+            "image": "https://imdb-api.com/images/original/MV5BYWUxNDYwMDgtMGQ1Zi00Yjc3LWFiMDMtMzY5OWVmODUyYmU5XkEyXkFqcGdeQXVyODE3NjY3NTI@._V1_Ratio1.2000_AL_.jpg",
+            "name": "Sage Arrindell",
+            "asCharacter": "Beckyas Becky"
+        },
+        {
+            "id": "nm8295720",
+            "image": "https://imdb-api.com/images/original/MV5BNzEwYzQ2ZTMtNGFhOS00NTY0LThmOGMtNThmMjZlNzViNjdiXkEyXkFqcGdeQXVyNzAwMDU3MzU@._V1_Ratio1.0000_AL_.jpg",
+            "name": "Tyler Barish",
+            "asCharacter": ""
+        },
+        {
+            "id": "nm4131294",
+            "image": "https://imdb-api.com/images/original/MV5BZWJmZjMyZjItNjk5YS00YjUxLTkzNGItMTY3YzhjMWM4OTJjXkEyXkFqcGdeQXVyMjI2NDIyNjk@._V1_Ratio1.0000_AL_.jpg",
+            "name": "Samantha Brown",
+            "asCharacter": "Delilahas Delilah"
+        },
+        {
+            "id": "nm9736170",
+            "image": "https://imdb-api.com/images/original/MV5BZjk0MjY5NDktNzI1My00N2U1LWEyN2YtZjE5M2NiOGU5MTViXkEyXkFqcGdeQXVyMTA4OTU5NTY0._V1_Ratio1.0000_AL_.jpg",
+            "name": "Amanda Cheung",
+            "asCharacter": "Older Girl at Partyas Older Girl at Party"
+        }
+    ],
+    "fullCast": null,
+    "genres": "Horror, Mystery, Thriller",
+    "genreList": [
+        { "key": "Horror", "value": "Horror" },
+        { "key": "Mystery", "value": "Mystery" },
+        { "key": "Thriller", "value": "Thriller" }
+    ],
+    "companies": "David Kirschner Productions, Eat the Cat, NBCUniversal Content Studios",
+    "companyList": [
+        { "id": "co0057460", "name": "David Kirschner Productions" },
+        { "id": "co0719556", "name": "Eat the Cat" },
+        { "id": "co0733397", "name": "NBCUniversal Content Studios" }
+    ],
+    "countries": "USA",
+    "countryList": [{ "key": "USA", "value": "USA" }],
+    "languages": "English",
+    "languageList": [{ "key": "English", "value": "English" }],
+    "contentRating": "",
+    "imDbRating": "",
+    "imDbRatingVotes": "",
+    "metacriticRating": "70",
+    "ratings": null,
+    "wikipedia": null,
+    "posters": {
+        "imDbId": "tt8388390",
+        "title": "Chucky",
+        "fullTitle": "Chucky (2021– )",
+        "type": "TVSeries",
+        "year": "2021",
+        "posters": [
+            {
+                "id": "iF8ai2QLNiHV4anwY1TuSGZXqfN.jpg",
+                "link": "https://imdb-api.com/posters/original/iF8ai2QLNiHV4anwY1TuSGZXqfN.jpg",
+                "aspectRatio": 0.6666666666666666,
+                "language": "en",
+                "width": 2000,
+                "height": 3000
+            },
+            {
+                "id": "6FVAOFq1Ln79wmvSFBsT6JjRCKM.jpg",
+                "link": "https://imdb-api.com/posters/original/6FVAOFq1Ln79wmvSFBsT6JjRCKM.jpg",
+                "aspectRatio": 0.6666666666666666,
+                "language": "en",
+                "width": 1000,
+                "height": 1500
+            },
+            {
+                "id": "nNNJtltX9hBJ8HFzYV2FhEDto6p.jpg",
+                "link": "https://imdb-api.com/posters/original/nNNJtltX9hBJ8HFzYV2FhEDto6p.jpg",
+                "aspectRatio": 0.6666666666666666,
+                "language": "en",
+                "width": 900,
+                "height": 1350
+            },
+            {
+                "id": "22nKOiS1689IinNcZnvansxswkd.jpg",
+                "link": "https://imdb-api.com/posters/original/22nKOiS1689IinNcZnvansxswkd.jpg",
+                "aspectRatio": 0.6666666666666666,
+                "language": "en",
+                "width": 768,
+                "height": 1152
+            },
+            {
+                "id": "ymkUQxffxBwYmEOP9LtZmo5IvQ8.jpg",
+                "link": "https://imdb-api.com/posters/original/ymkUQxffxBwYmEOP9LtZmo5IvQ8.jpg",
+                "aspectRatio": 0.6666666666666666,
+                "language": "en",
+                "width": 2000,
+                "height": 3000
+            },
+            {
+                "id": "cwZ1wToSlWZ9v3TJnVONP6QzmMN.jpg",
+                "link": "https://imdb-api.com/posters/original/cwZ1wToSlWZ9v3TJnVONP6QzmMN.jpg",
+                "aspectRatio": 0.6666666666666666,
+                "language": "en",
+                "width": 2000,
+                "height": 3000
+            },
+            {
+                "id": "TsvNyQAytHuQ3TZjZXygevVpcO.jpg",
+                "link": "https://imdb-api.com/posters/original/TsvNyQAytHuQ3TZjZXygevVpcO.jpg",
+                "aspectRatio": 0.6666666666666666,
+                "language": "en",
+                "width": 2000,
+                "height": 3000
+            },
+            {
+                "id": "xeEHwN5tuXkph49d5kBsVbCuQjn.jpg",
+                "link": "https://imdb-api.com/posters/original/xeEHwN5tuXkph49d5kBsVbCuQjn.jpg",
+                "aspectRatio": 0.6666666666666666,
+                "language": "en",
+                "width": 2000,
+                "height": 3000
+            },
+            {
+                "id": "fXnguKBsTnUx2ZHGJOeNT992ByF.jpg",
+                "link": "https://imdb-api.com/posters/original/fXnguKBsTnUx2ZHGJOeNT992ByF.jpg",
+                "aspectRatio": 0.6788025889967637,
+                "language": "en",
+                "width": 839,
+                "height": 1236
+            },
+            {
+                "id": "lZgNbxAPhjCwaK4DH6CuejhF0Wa.jpg",
+                "link": "https://imdb-api.com/posters/original/lZgNbxAPhjCwaK4DH6CuejhF0Wa.jpg",
+                "aspectRatio": 0.6666666666666666,
+                "language": "en",
+                "width": 2000,
+                "height": 3000
+            }
+        ],
+        "backdrops": [
+            {
+                "id": "xAKMj134XHQVNHLC6rWsccLMenG.jpg",
+                "link": "https://imdb-api.com/posters/original/xAKMj134XHQVNHLC6rWsccLMenG.jpg",
+                "aspectRatio": 1.7777777777777777,
+                "language": "en",
+                "width": 3840,
+                "height": 2160
+            },
+            {
+                "id": "gq9fE3YlFhHBRKQQWR4STnAuBqf.jpg",
+                "link": "https://imdb-api.com/posters/original/gq9fE3YlFhHBRKQQWR4STnAuBqf.jpg",
+                "aspectRatio": 1.7777777777777777,
+                "language": "en",
+                "width": 3840,
+                "height": 2160
+            },
+            {
+                "id": "1XDurmOki21mYofx3lcMFa5D31c.jpg",
+                "link": "https://imdb-api.com/posters/original/1XDurmOki21mYofx3lcMFa5D31c.jpg",
+                "aspectRatio": 1.7777777777777777,
+                "language": "en",
+                "width": 3840,
+                "height": 2160
+            },
+            {
+                "id": "rYMjfowkQpYZ9UJOl2zm3R3QST.jpg",
+                "link": "https://imdb-api.com/posters/original/rYMjfowkQpYZ9UJOl2zm3R3QST.jpg",
+                "aspectRatio": 1.7772511848341233,
+                "language": "en",
+                "width": 3000,
+                "height": 1688
+            },
+            {
+                "id": "edliOZXmgQHoOEs67sCq66HVVmH.jpg",
+                "link": "https://imdb-api.com/posters/original/edliOZXmgQHoOEs67sCq66HVVmH.jpg",
+                "aspectRatio": 1.7777777777777777,
+                "language": "en",
+                "width": 1920,
+                "height": 1080
+            },
+            {
+                "id": "6FWVMERvL89XWsfQoaZiD96Kgdh.jpg",
+                "link": "https://imdb-api.com/posters/original/6FWVMERvL89XWsfQoaZiD96Kgdh.jpg",
+                "aspectRatio": 1.7777777777777777,
+                "language": "en",
+                "width": 3840,
+                "height": 2160
+            },
+            {
+                "id": "nwZKczZbWdPkfOvUUBwsAh9BpxK.jpg",
+                "link": "https://imdb-api.com/posters/original/nwZKczZbWdPkfOvUUBwsAh9BpxK.jpg",
+                "aspectRatio": 1.7777777777777777,
+                "language": "en",
+                "width": 3840,
+                "height": 2160
+            }
+        ],
+        "errorMessage": ""
+    },
+    "images": {
+        "imDbId": "tt8388390",
+        "title": "Chucky",
+        "fullTitle": "Chucky (2021– )",
+        "type": "TVSeries",
+        "year": "2021",
+        "items": [
+            {
+                "title": "Brad Dourif, Bjorgvin Arnarson, Alyvia Alyn Lind, Zackary Arthur, and Avery Esteves in Chucky (2021)",
+                "image": "https://imdb-api.com/images/original/MV5BODUxYjMwZDYtYzdkYi00ZDgxLWFkY2YtODQ4MDhiYWM1MDhiXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_Ratio1.0000_AL_.jpg"
+            },
+            {
+                "title": "Fiona Dourif in Chucky: Cape Queer (2021)",
+                "image": "https://imdb-api.com/images/original/MV5BNjU2MDZmZWYtNTU1Ny00NjgwLTk2Y2YtYjVhMmIxZmJkZWQxXkEyXkFqcGdeQXVyNjczOTE0MzM@._V1_Ratio2.0600_AL_.jpg"
+            },
+            {
+                "title": "Jennifer Tilly in Chucky: Cape Queer (2021)",
+                "image": "https://imdb-api.com/images/original/MV5BMTMxNDk1ZTEtZWI5MS00Zjk3LTgxY2YtMTA1ZmMyMWM4YTc5XkEyXkFqcGdeQXVyNjczOTE0MzM@._V1_Ratio2.0200_AL_.jpg"
+            },
+            {
+                "title": "Jennifer Tilly in Chucky: Cape Queer (2021)",
+                "image": "https://imdb-api.com/images/original/MV5BNGM2MmY0NDAtNDUwZS00ZTkyLWJiMTItYWJlYWRlOTI0MDEyXkEyXkFqcGdeQXVyNjczOTE0MzM@._V1_Ratio2.0400_AL_.jpg"
+            },
+            {
+                "title": "Jennifer Tilly in Chucky: Cape Queer (2021)",
+                "image": "https://imdb-api.com/images/original/MV5BNzk0MzAyZjEtNGU0OC00ODgxLWE5NTQtZTZiMTM5OTU4OTA2XkEyXkFqcGdeQXVyNjczOTE0MzM@._V1_Ratio2.0200_AL_.jpg"
+            },
+            {
+                "title": "Jennifer Tilly in Chucky: Cape Queer (2021)",
+                "image": "https://imdb-api.com/images/original/MV5BOTdjNDRmZjMtYzk1NC00ZDJkLTk3ZWQtMzBlZjM5YWVjZTA1XkEyXkFqcGdeQXVyNjczOTE0MzM@._V1_Ratio2.0400_AL_.jpg"
+            },
+            {
+                "title": "Jennifer Tilly in Chucky: Cape Queer (2021)",
+                "image": "https://imdb-api.com/images/original/MV5BM2ZjZmZhY2EtMzFhNS00NDU5LWJhOTYtZDg2NjIxODliNmYyXkEyXkFqcGdeQXVyNjczOTE0MzM@._V1_Ratio2.0400_AL_.jpg"
+            },
+            {
+                "title": "Brad Dourif in Chucky: Cape Queer (2021)",
+                "image": "https://imdb-api.com/images/original/MV5BMWQ4YjMwYjYtNGRlMi00NmNlLWI5M2EtMTA4NmY1MDFjMDczXkEyXkFqcGdeQXVyNjczOTE0MzM@._V1_Ratio2.0400_AL_.jpg"
+            },
+            {
+                "title": "Brad Dourif in Chucky: Cape Queer (2021)",
+                "image": "https://imdb-api.com/images/original/MV5BMWVkMDEwMWEtM2JiMS00YzY0LWEyYmQtN2JiYzVkMmQ2ZWU4XkEyXkFqcGdeQXVyNjczOTE0MzM@._V1_Ratio2.0400_AL_.jpg"
+            },
+            {
+                "title": "Brad Dourif in Chucky: Cape Queer (2021)",
+                "image": "https://imdb-api.com/images/original/MV5BMzFhODhhMjEtODhkZS00Y2I4LTgwNTMtYWQyMWUxZmQ4ODQyXkEyXkFqcGdeQXVyNjczOTE0MzM@._V1_Ratio2.0400_AL_.jpg"
+            },
+            {
+                "title": "Jennifer Tilly in Chucky: Cape Queer (2021)",
+                "image": "https://imdb-api.com/images/original/MV5BMGZhZjZhNjgtMWJhMS00YjdiLTllMzYtYWM2NTg5MjM4MzE5XkEyXkFqcGdeQXVyNjczOTE0MzM@._V1_Ratio2.0400_AL_.jpg"
+            },
+            {
+                "title": "Jennifer Tilly in Chucky: Cape Queer (2021)",
+                "image": "https://imdb-api.com/images/original/MV5BNTgxZGQwM2UtZGJmOC00YTNmLWI3M2EtMTBlMWQwNTJiYTJmXkEyXkFqcGdeQXVyNjczOTE0MzM@._V1_Ratio2.0400_AL_.jpg"
+            },
+            {
+                "title": "Fiona Dourif in Chucky: Cape Queer (2021)",
+                "image": "https://imdb-api.com/images/original/MV5BNDA4ZmRhNmEtODIzOS00MzNkLTgyMTktNmY5MDZlYzAwMWQ1XkEyXkFqcGdeQXVyNjczOTE0MzM@._V1_Ratio2.0200_AL_.jpg"
+            },
+            {
+                "title": "Jennifer Tilly in Chucky: Cape Queer (2021)",
+                "image": "https://imdb-api.com/images/original/MV5BNTI4NTVmOTAtODVjMi00OTZhLWIxYzgtODA1MTQxMTcyZmYyXkEyXkFqcGdeQXVyNjczOTE0MzM@._V1_Ratio2.0200_AL_.jpg"
+            },
+            {
+                "title": "Brad Dourif in Chucky: Cape Queer (2021)",
+                "image": "https://imdb-api.com/images/original/MV5BZTM1MGJiODItNjA5OS00NmUxLWFmYWItYzVkYmY1OTE2Mjg2XkEyXkFqcGdeQXVyNjczOTE0MzM@._V1_Ratio1.9000_AL_.jpg"
+            },
+            {
+                "title": "Bjorgvin Arnarson in Chucky: Twice the Grieving, Double the Loss (2021)",
+                "image": "https://imdb-api.com/images/original/MV5BZDg0ODkwM2QtNjEzNS00ZDk3LWI3MmItMmYxNzE5OTE2MzczXkEyXkFqcGdeQXVyMTI3MDE0MDE3._V1_Ratio2.2400_AL_.jpg"
+            },
+            {
+                "title": "Jennifer Tilly and Teo Briones in Chucky: Twice the Grieving, Double the Loss (2021)",
+                "image": "https://imdb-api.com/images/original/MV5BZjgwYWI2ZTctYTc1NS00NjZkLThlYzYtMGJiNGMwODlmYjAyXkEyXkFqcGdeQXVyMTI3MDE0MDE3._V1_Ratio2.2400_AL_.jpg"
+            },
+            {
+                "title": "Teo Briones in Chucky: Twice the Grieving, Double the Loss (2021)",
+                "image": "https://imdb-api.com/images/original/MV5BZGRmOTQxNDQtODNmYS00MzRjLWI5OGUtMjUwZDNiNTE1YjlkXkEyXkFqcGdeQXVyMTI3MDE0MDE3._V1_Ratio2.4000_AL_.jpg"
+            },
+            {
+                "title": "Brad Dourif in Chucky: Twice the Grieving, Double the Loss (2021)",
+                "image": "https://imdb-api.com/images/original/MV5BZDE0ODA1M2ItMWQ0YS00OWM3LWE5MjUtNWFjMjE3ZDU1Yzk4XkEyXkFqcGdeQXVyMTI3MDE0MDE3._V1_Ratio2.2200_AL_.jpg"
+            },
+            {
+                "title": "Jennifer Tilly in Chucky: Cape Queer (2021)",
+                "image": "https://imdb-api.com/images/original/MV5BMjc0YjM4NjMtZTNjZi00YzViLWI1ZTAtYjgxNDc3ZGU2OGRiXkEyXkFqcGdeQXVyMTI3MDE0MDE3._V1_Ratio2.0400_AL_.jpg"
+            },
+            {
+                "title": "Christine Elise and Alex Vincent in Chucky: Cape Queer (2021)",
+                "image": "https://imdb-api.com/images/original/MV5BM2U5YTNmODUtYzQ0MS00MWM1LWEyNDItOTBlNzJkNTE4NDNmXkEyXkFqcGdeQXVyMTI3MDE0MDE3._V1_Ratio2.0600_AL_.jpg"
+            },
+            {
+                "title": "Lexa Doig and Teo Briones in Chucky: Cape Queer (2021)",
+                "image": "https://imdb-api.com/images/original/MV5BNjdhYzNhMDktNTVkZS00M2U1LTgwNGMtNjY1MTA1NTJiMDljXkEyXkFqcGdeQXVyMTI3MDE0MDE3._V1_Ratio2.0600_AL_.jpg"
+            },
+            {
+                "title": "Bjorgvin Arnarson, Alyvia Alyn Lind, and Zackary Arthur in Chucky: Cape Queer (2021)",
+                "image": "https://imdb-api.com/images/original/MV5BMjQ5YzllYWYtZmNjNi00OTA4LTg0MjItZDNkYjI4ZGRmZjk3XkEyXkFqcGdeQXVyMTI3MDE0MDE3._V1_Ratio2.0600_AL_.jpg"
+            },
+            {
+                "title": "Chucky: Cape Queer (2021)",
+                "image": "https://imdb-api.com/images/original/MV5BMTBkODIwYjYtMjBhYi00N2JkLTkwNTgtNTcwMWU4ZTJiOTI3XkEyXkFqcGdeQXVyMTI3MDE0MDE3._V1_Ratio2.0600_AL_.jpg"
+            },
+            {
+                "title": "Jennifer Tilly in Chucky: Cape Queer (2021)",
+                "image": "https://imdb-api.com/images/original/MV5BNGM4MmY4N2YtMWRlNC00ZWIzLTg0ODAtMWRlZTgxOTZlYWIxXkEyXkFqcGdeQXVyMTI3MDE0MDE3._V1_Ratio2.0400_AL_.jpg"
+            },
+            {
+                "title": "Fiona Dourif in Chucky: Cape Queer (2021)",
+                "image": "https://imdb-api.com/images/original/MV5BYjA3ZjYwMWQtM2ZlZC00ZjViLWI2MzctZjQyZjZiNjg0YjM5XkEyXkFqcGdeQXVyNjczOTE0MzM@._V1_Ratio2.0000_AL_.jpg"
+            },
+            {
+                "title": "Jennifer Tilly in Chucky: Cape Queer (2021)",
+                "image": "https://imdb-api.com/images/original/MV5BM2YyNTMxZmQtZjVhOC00MzE2LWI3ZTgtOWFlZGJhMTk5NjA1XkEyXkFqcGdeQXVyNjczOTE0MzM@._V1_Ratio2.0000_AL_.jpg"
+            },
+            {
+                "title": "Christine Elise and Alex Vincent in Chucky: Cape Queer (2021)",
+                "image": "https://imdb-api.com/images/original/MV5BMDE4YTkzNTItZTIyZi00OTk0LTgwMWMtM2EwNTVmMzMxNTMzXkEyXkFqcGdeQXVyNjczOTE0MzM@._V1_Ratio2.0000_AL_.jpg"
+            },
+            {
+                "title": "Fiona Dourif in Chucky: Cape Queer (2021)",
+                "image": "https://imdb-api.com/images/original/MV5BOTRmOTMzYTYtY2M5Yi00NTRjLWE0YWYtMTQxMTdmNTRhY2UzXkEyXkFqcGdeQXVyNjczOTE0MzM@._V1_Ratio2.0000_AL_.jpg"
+            },
+            {
+                "title": "Jennifer Tilly in Chucky: Cape Queer (2021)",
+                "image": "https://imdb-api.com/images/original/MV5BMmIyOGVkNzQtNGNiNS00OWYzLThkMTktNjYyMzc1MTQyOTVjXkEyXkFqcGdeQXVyNjczOTE0MzM@._V1_Ratio2.0200_AL_.jpg"
+            },
+            {
+                "title": "Fiona Dourif in Chucky: Cape Queer (2021)",
+                "image": "https://imdb-api.com/images/original/MV5BZTViOGRjNTctNDFiNC00NzMzLTgzYTItNTAzZTJkZmFiNDc4XkEyXkFqcGdeQXVyNjczOTE0MzM@._V1_Ratio2.0000_AL_.jpg"
+            },
+            {
+                "title": "Christine Elise and Alex Vincent in Chucky: Cape Queer (2021)",
+                "image": "https://imdb-api.com/images/original/MV5BYWVlOGVjMWUtOGZhNy00OTdmLThkZTQtNTc1NzE3ODFiNjg2XkEyXkFqcGdeQXVyNjczOTE0MzM@._V1_Ratio2.0200_AL_.jpg"
+            },
+            {
+                "title": "Alex Vincent in Chucky: Cape Queer (2021)",
+                "image": "https://imdb-api.com/images/original/MV5BOWIwMmYwZWYtMDRkYy00MmZlLWJhNGQtNmU0MWEyNjUwMzc1XkEyXkFqcGdeQXVyNjczOTE0MzM@._V1_Ratio2.0200_AL_.jpg"
+            },
+            {
+                "title": "Jennifer Tilly and Fiona Dourif in Chucky: Little Little Lies (2021)",
+                "image": "https://imdb-api.com/images/original/MV5BODc1Mjg3ODYtZGEwZC00NWEyLTgzMjAtOTk0OGZhOTYzNjFkXkEyXkFqcGdeQXVyNDQ0MTYzMDA@._V1_Ratio1.0000_AL_.jpg"
+            },
+            {
+                "title": "Jennifer Tilly and Fiona Dourif in Chucky: Little Little Lies (2021)",
+                "image": "https://imdb-api.com/images/original/MV5BNjdlZTNmYjUtMGNjZS00Y2I1LWEyM2QtOThiMGFkZjVkNDE4XkEyXkFqcGdeQXVyNjczOTE0MzM@._V1_Ratio2.0000_AL_.jpg"
+            },
+            {
+                "title": "Bjorgvin Arnarson and Zackary Arthur in Chucky: Little Little Lies (2021)",
+                "image": "https://imdb-api.com/images/original/MV5BNDE2MTU2ZWQtZjMxZC00ZDhiLTgzZGYtMTI0MmU0YjhkNTcxXkEyXkFqcGdeQXVyNDgyNzAxMzY@._V1_Ratio1.7800_AL_.jpg"
+            },
+            {
+                "title": "Bjorgvin Arnarson and Zackary Arthur in Chucky: Little Little Lies (2021)",
+                "image": "https://imdb-api.com/images/original/MV5BNmNlZDE5ZGEtM2FhYi00MGNmLTg4OTEtNjM1YjEzZjk4ZDExXkEyXkFqcGdeQXVyNDgyNzAxMzY@._V1_Ratio1.7800_AL_.jpg"
+            },
+            {
+                "title": "Fiona Dourif in Chucky: Little Little Lies (2021)",
+                "image": "https://imdb-api.com/images/original/MV5BMmJiNDNmY2MtNGE3OC00OGQzLWFmNTUtNmNjZWU0ZmViM2RmXkEyXkFqcGdeQXVyNDgyNzAxMzY@._V1_Ratio1.7800_AL_.jpg"
+            },
+            {
+                "title": "Blaise Crocker in Chucky: Little Little Lies (2021)",
+                "image": "https://imdb-api.com/images/original/MV5BMTdhODc3MGQtOGNjNi00OGEyLTk2ZDEtYjk1NTVkZWVjODVhXkEyXkFqcGdeQXVyNDgyNzAxMzY@._V1_Ratio1.7800_AL_.jpg"
+            },
+            {
+                "title": "Samantha Brown in Chucky: Little Little Lies (2021)",
+                "image": "https://imdb-api.com/images/original/MV5BOTQ5M2E4YTItZGMyMC00NDQwLTk5NDAtZGZjYmMyZGQxZGFiXkEyXkFqcGdeQXVyNDgyNzAxMzY@._V1_Ratio1.7800_AL_.jpg"
+            },
+            {
+                "title": "Rosemary Dunsmore in Chucky: Little Little Lies (2021)",
+                "image": "https://imdb-api.com/images/original/MV5BOGFlMTBiZmMtYjhkOS00YTc3LThmMGMtNzhiYmE5YjE4MzQyXkEyXkFqcGdeQXVyNDgyNzAxMzY@._V1_Ratio1.7800_AL_.jpg"
+            },
+            {
+                "title": "Chucky: Little Little Lies (2021)",
+                "image": "https://imdb-api.com/images/original/MV5BMTNmMWMwYzgtZTlkYy00YjIyLThkNzQtMTEyNGExN2RiZWQxXkEyXkFqcGdeQXVyNDgyNzAxMzY@._V1_Ratio1.7800_AL_.jpg"
+            },
+            {
+                "title": "Annie Briggs in Chucky: Little Little Lies (2021)",
+                "image": "https://imdb-api.com/images/original/MV5BMTcyZGExY2ItYWMxNy00MTU2LWJkODMtM2NkOWVkYzczOTJkXkEyXkFqcGdeQXVyNDgyNzAxMzY@._V1_Ratio1.7800_AL_.jpg"
+            },
+            {
+                "title": "Chucky: Little Little Lies (2021)",
+                "image": "https://imdb-api.com/images/original/MV5BZTEyY2E1MGUtODlhMS00ZjBmLTk3YzQtNzQ4NjNkNmE3NmI2XkEyXkFqcGdeQXVyNDgyNzAxMzY@._V1_Ratio1.7800_AL_.jpg"
+            },
+            {
+                "title": "Eric Tzogas in Chucky: Little Little Lies (2021)",
+                "image": "https://imdb-api.com/images/original/MV5BZWI0NmNlOTMtZWI4OS00NDY0LWEyODctZGMxMzg1NmFiZDAwXkEyXkFqcGdeQXVyNDgyNzAxMzY@._V1_Ratio1.7800_AL_.jpg"
+            },
+            {
+                "title": "Carina Battrick in Chucky: Little Little Lies (2021)",
+                "image": "https://imdb-api.com/images/original/MV5BMzFlNGQ3NWYtZTg2OS00MWUwLWI0YjMtNDcxOGU1MTVkNjNkXkEyXkFqcGdeQXVyOTc1NTkyNzU@._V1_Ratio1.7800_AL_.jpg"
+            },
+            {
+                "title": "Fiona Dourif and Anthony Lake in Chucky: Little Little Lies (2021)",
+                "image": "https://imdb-api.com/images/original/MV5BODMxYzdlNDktODhiNy00OGZhLThlMTEtZmM2YWRmZjc2YzI0XkEyXkFqcGdeQXVyOTc1NTkyNzU@._V1_Ratio1.7800_AL_.jpg"
+            },
+            {
+                "title": "Blaise Crocker in Chucky: Little Little Lies (2021)",
+                "image": "https://imdb-api.com/images/original/MV5BMDg2OWU5ZjctM2FjOC00YjRlLWE1ZTEtMmZhMmYwZDczZWQ3XkEyXkFqcGdeQXVyOTc1NTkyNzU@._V1_Ratio1.7800_AL_.jpg"
+            }
+        ],
+        "errorMessage": ""
+    },
+    "trailer": {
+        "imDbId": "tt8388390",
+        "title": "Chucky",
+        "fullTitle": "Chucky (2021– )",
+        "type": "TVSeries",
+        "year": "2021",
+        "videoId": "vi3061497881",
+        "videoTitle": "Official Series Trailer",
+        "videoDescription": "Catch the first trailer for USA &amp; SYFY&apos;s Chucky series, where we meet Jake (Zackary Arthur) who stumbles across a familiar-looking doll at a local yard sale. Little does he know, he&apos;s about to make a horrifying discovery. Watch the premiere of Chucky, October 12 at 10/9c on SYFY and USA Network.",
+        "thumbnailUrl": "https://m.media-amazon.com/images/M/MV5BNjMyZGVhYmEtOTg3NS00OWRlLTkxYTQtNTZjNzAyY2EzM2Y2XkEyXkFqcGdeQXRyYW5zY29kZS13b3JrZmxvdw@@._V1_.jpg",
+        "uploadDate": null,
+        "link": "https://www.imdb.com/video/vi3061497881",
+        "linkEmbed": "https://www.imdb.com/video/imdb/vi3061497881/imdb/embed",
+        "errorMessage": ""
+    },
+    "boxOffice": {
+        "budget": "",
+        "openingWeekendUSA": "",
+        "grossUSA": "",
+        "cumulativeWorldwideGross": ""
+    },
+    "tagline": "An evil too great to play on just one network.",
+    "keywords": "killer doll,doll",
+    "keywordList": ["killer doll", "doll"],
+    "similars": [
+        {
+            "id": "tt10588332",
+            "title": "Tiffany + Chucky",
+            "fullTitle": "Tiffany + Chucky",
+            "year": "",
+            "image": "https://imdb-api.com/images/original/MV5BMTA5MDAzYmUtZjA1Ny00NjUzLTk2YjEtNzFhODkwOGEyM2Y4XkEyXkFqcGdeQXVyMTg1MTc3MQ@@._V1_Ratio0.6763_AL_.jpg",
+            "plot": "",
+            "directors": "",
+            "stars": "",
+            "genres": "",
+            "imDbRating": "6.5"
+        },
+        {
+            "id": "tt3280262",
+            "title": "Cult of Chucky",
+            "fullTitle": "Cult of Chucky",
+            "year": "",
+            "image": "https://imdb-api.com/images/original/MV5BMTA5NTMyN2UtMDBmOC00YzVlLWIzZTEtNTM0YjZmY2E4YjYzXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_Ratio0.6763_AL_.jpg",
+            "plot": "",
+            "directors": "",
+            "stars": "",
+            "genres": "",
+            "imDbRating": "5.2"
+        },
+        {
+            "id": "tt12362982",
+            "title": "Chucky: Friends Forever",
+            "fullTitle": "Chucky: Friends Forever",
+            "year": "",
+            "image": "https://imdb-api.com/images/original/MV5BNzk1NWIwNmUtZjdkMC00ZTUxLWJhYmYtZTFmYTk3YzE3YmRlXkEyXkFqcGdeQXVyNjY1ODQxNjE@._V1_Ratio0.6763_AL_.jpg",
+            "plot": "",
+            "directors": "",
+            "stars": "",
+            "genres": "",
+            "imDbRating": "4.8"
+        },
+        {
+            "id": "tt9145132",
+            "title": "Charles",
+            "fullTitle": "Charles",
+            "year": "",
+            "image": "https://imdb-api.com/images/original/MV5BMTk4ZDk0NjAtNzg4Ny00OGMyLTk4ZjYtMGFhMTM0YjI3OTk2XkEyXkFqcGdeQXVyOTM5NjU4Njg@._V1_Ratio0.6763_AL_.jpg",
+            "plot": "",
+            "directors": "",
+            "stars": "",
+            "genres": "",
+            "imDbRating": ""
+        },
+        {
+            "id": "tt0094862",
+            "title": "Chucky - Die Mörderpuppe",
+            "fullTitle": "Chucky - Die Mörderpuppe",
+            "year": "",
+            "image": "https://imdb-api.com/images/original/MV5BZGU1MjNiYWYtNGQ5MS00MTgzLTlkYjItZDhhNTdlMTkxZGVlL2ltYWdlXkEyXkFqcGdeQXVyNTAyODkwOQ@@._V1_Ratio0.6763_AL_.jpg",
+            "plot": "",
+            "directors": "",
+            "stars": "",
+            "genres": "",
+            "imDbRating": "6.6"
+        },
+        {
+            "id": "tt2230358",
+            "title": "Curse of Chucky",
+            "fullTitle": "Curse of Chucky",
+            "year": "",
+            "image": "https://imdb-api.com/images/original/MV5BOGY1NTMxNzAtMTM4NS00NDMxLWEzZWUtOWVmYWY2MzQyZDQwXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_Ratio0.6763_AL_.jpg",
+            "plot": "",
+            "directors": "",
+            "stars": "",
+            "genres": "",
+            "imDbRating": "5.6"
+        },
+        {
+            "id": "tt0144120",
+            "title": "Chucky und seine Braut",
+            "fullTitle": "Chucky und seine Braut",
+            "year": "",
+            "image": "https://imdb-api.com/images/original/MV5BZTcxZDE5Y2MtODNmOC00YjQ0LTk3YzQtZWU1OTU2ZTgwNDVkXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_Ratio0.6763_AL_.jpg",
+            "plot": "",
+            "directors": "",
+            "stars": "",
+            "genres": "",
+            "imDbRating": "5.4"
+        },
+        {
+            "id": "tt0387575",
+            "title": "Chuckys Baby",
+            "fullTitle": "Chuckys Baby",
+            "year": "",
+            "image": "https://imdb-api.com/images/original/MV5BMTIwMTczMjc3M15BMl5BanBnXkFtZTcwODcxMzcyMQ@@._V1_Ratio0.6763_AL_.jpg",
+            "plot": "",
+            "directors": "",
+            "stars": "",
+            "genres": "",
+            "imDbRating": "4.8"
+        },
+        {
+            "id": "tt0099253",
+            "title": "Chucky 2 - Die Mörderpuppe ist wieder da",
+            "fullTitle": "Chucky 2 - Die Mörderpuppe ist wieder da",
+            "year": "",
+            "image": "https://imdb-api.com/images/original/MV5BM2Y0NGNiNGItYzYzOS00NDk0LTkzNWUtMGZjMjc1NWM4MzE3XkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_Ratio0.6763_AL_.jpg",
+            "plot": "",
+            "directors": "",
+            "stars": "",
+            "genres": "",
+            "imDbRating": "5.9"
+        },
+        {
+            "id": "tt8663516",
+            "title": "Child's Play",
+            "fullTitle": "Child's Play",
+            "year": "",
+            "image": "https://imdb-api.com/images/original/MV5BNTNlNjIxNjktOWUyMS00YWY5LWEwZGItMjZmODJlZWNiZGM2XkEyXkFqcGdeQXVyNDg4NjY5OTQ@._V1_Ratio0.6763_AL_.jpg",
+            "plot": "",
+            "directors": "",
+            "stars": "",
+            "genres": "",
+            "imDbRating": "5.7"
+        },
+        {
+            "id": "tt0103956",
+            "title": "Chucky 3",
+            "fullTitle": "Chucky 3",
+            "year": "",
+            "image": "https://imdb-api.com/images/original/MV5BOTRjYWVhNjAtMjIwOC00NjU3LTliZTAtMjczMmEwMzQ5Y2Y3XkEyXkFqcGdeQXVyMjQwNTU1NTc@._V1_Ratio0.6763_AL_.jpg",
+            "plot": "",
+            "directors": "",
+            "stars": "",
+            "genres": "",
+            "imDbRating": "5.1"
+        },
+        {
+            "id": "tt8023434",
+            "title": "Revenge of Chucky",
+            "fullTitle": "Revenge of Chucky",
+            "year": "",
+            "image": "https://imdb-api.com/images/original/MV5BZjI4YTYzMGQtZDU0My00YzkyLTk3MGMtZWQ2NzkxNDM0ODU2XkEyXkFqcGdeQXVyODgzNTc1NzY@._V1_Ratio0.7246_AL_.jpg",
+            "plot": "",
+            "directors": "",
+            "stars": "",
+            "genres": "",
+            "imDbRating": ""
+        }
+    ],
+    "tvSeriesInfo": {
+        "yearEnd": "",
+        "creators": "Don Mancini",
+        "creatorList": [{ "id": "nm0238841", "name": "Don Mancini" }],
+        "seasons": ["1"]
+    },
+    "tvEpisodeInfo": null,
+    "errorMessage": ""
+}

@@ -1,0 +1,609 @@
+{
+    "id": "tt0096061",
+    "title": "Scrooged",
+    "originalTitle": "",
+    "fullTitle": "Scrooged (1988)",
+    "type": "Movie",
+    "year": "1988",
+    "image": "https://imdb-api.com/images/original/MV5BM2NlMDQzMDktNTMyZS00MjBjLWI0MmEtMzgzZDM2ZTVkNzE1XkEyXkFqcGdeQXVyNTUyMzE4Mzg@._V1_Ratio0.6762_AL_.jpg",
+    "releaseDate": "1988-11-22",
+    "runtimeMins": "101",
+    "runtimeStr": "1h 41min",
+    "plot": "Francis Xavier Cross is a cynical, mean spirited television executive, he treats his loyal assistant with contempt. He just sacked a member of staff on Christmas Eve for simply disagreeing with him, and he's alienated himself from his brother who still insists on inviting Frank to Christmas dinner despite him refusing to go every year. However, Frank is forced to learn the true meaning of Christmas when he's visited by three ghosts.",
+    "plotLocal": "",
+    "plotLocalIsRtl": false,
+    "awards": "Nominated for 1 Oscar1 win & 5 nominations total",
+    "directors": "Richard Donner",
+    "directorList": [{ "id": "nm0001149", "name": "Richard Donner" }],
+    "writers": "Mitch Glazer, Michael O&apos;Donoghue, Charles Dickens",
+    "writerList": [
+        { "id": "nm0322248", "name": "Mitch Glazer" },
+        { "id": "nm0640874", "name": "Michael O&apos;Donoghue" },
+        { "id": "nm0002042", "name": "Charles Dickens" }
+    ],
+    "stars": "Bill Murray, Karen Allen, John Forsythe",
+    "starList": [
+        { "id": "nm0000195", "name": "Bill Murray" },
+        { "id": "nm0000261", "name": "Karen Allen" },
+        { "id": "nm0001234", "name": "John Forsythe" }
+    ],
+    "actorList": [
+        {
+            "id": "nm0000195",
+            "image": "https://imdb-api.com/images/original/MV5BMTQ1OTM0MjEwOF5BMl5BanBnXkFtZTYwNTQwNzI1._V1_Ratio1.0000_AL_.jpg",
+            "name": "Bill Murray",
+            "asCharacter": "Frank Crossas Frank Cross"
+        },
+        {
+            "id": "nm0000261",
+            "image": "https://imdb-api.com/images/original/MV5BMTg2NjgyMjQwMF5BMl5BanBnXkFtZTcwNzkwMjE3MQ@@._V1_Ratio1.0000_AL_.jpg",
+            "name": "Karen Allen",
+            "asCharacter": "Claire Phillipsas Claire Phillips"
+        },
+        {
+            "id": "nm0001234",
+            "image": "https://imdb-api.com/images/original/MV5BMTg0MTE4MTYxNl5BMl5BanBnXkFtZTYwOTg1MzQ2._V1_Ratio1.0000_AL_.jpg",
+            "name": "John Forsythe",
+            "asCharacter": "Lew Haywardas Lew Hayward"
+        },
+        {
+            "id": "nm0001278",
+            "image": "https://imdb-api.com/images/original/MV5BNDQ5NTUzOTQ4MF5BMl5BanBnXkFtZTYwNjUxNjIz._V1_Ratio1.0000_AL_.jpg",
+            "name": "John Glover",
+            "asCharacter": "Brice Cummingsas Brice Cummings"
+        },
+        {
+            "id": "nm0001281",
+            "image": "https://imdb-api.com/images/original/MV5BMjE0MDYxMTYwOF5BMl5BanBnXkFtZTcwNDUwNTYyMg@@._V1_Ratio1.0000_AL_.jpg",
+            "name": "Bobcat Goldthwait",
+            "asCharacter": "Eliot Loudermilkas Eliot Loudermilk"
+        },
+        {
+            "id": "nm0423774",
+            "image": "https://imdb-api.com/images/original/MV5BMjIwMDU3NDE2NV5BMl5BanBnXkFtZTgwMjczMzkwNzM@._V1_Ratio1.0000_AL_.jpg",
+            "name": "David Johansen",
+            "asCharacter": "Ghost of Christmas Pastas Ghost of Christmas Past"
+        },
+        {
+            "id": "nm0001406",
+            "image": "https://imdb-api.com/images/original/MV5BMTc3NDgzMzMwOV5BMl5BanBnXkFtZTYwNjg1NzY0._V1_Ratio1.0000_AL_.jpg",
+            "name": "Carol Kane",
+            "asCharacter": "Ghost of Christmas Presentas Ghost of Christmas Present"
+        },
+        {
+            "id": "nm0000053",
+            "image": "https://imdb-api.com/images/original/MV5BOTI1NDIxOTQyMV5BMl5BanBnXkFtZTYwMDM4MjM2._V1_Ratio1.0000_AL_.jpg",
+            "name": "Robert Mitchum",
+            "asCharacter": "Preston Rhinelanderas Preston Rhinelander"
+        },
+        {
+            "id": "nm0680672",
+            "image": "https://imdb-api.com/images/original/MV5BMjYzYTYwY2YtOTJkOS00MGExLThjZDUtNDZjOTA5NTA2ZGZhXkEyXkFqcGdeQXVyNjc3NDgwNzU@._V1_Ratio1.7571_AL_.jpg",
+            "name": "Nicholas Phillips",
+            "asCharacter": "Calvin Cooleyas Calvin Cooley"
+        },
+        {
+            "id": "nm0689488",
+            "image": "https://imdb-api.com/images/original/MV5BNDY0Mjk2MTY1MV5BMl5BanBnXkFtZTYwOTQ0ODAz._V1_Ratio1.0000_AL_.jpg",
+            "name": "Michael J. Pollard",
+            "asCharacter": "Hermanas Herman"
+        },
+        {
+            "id": "nm0005569",
+            "image": "https://imdb-api.com/images/original/MV5BMTYzMTU4Mzk5MV5BMl5BanBnXkFtZTgwMDg1MzcxMjE@._V1_Ratio1.0000_AL_.jpg",
+            "name": "Alfre Woodard",
+            "asCharacter": "Grace Cooleyas Grace Cooley"
+        },
+        {
+            "id": "nm0455028",
+            "image": "https://imdb-api.com/images/original/MV5BMTk5NDM3NDczN15BMl5BanBnXkFtZTcwNTY1MzYxOA@@._V1_Ratio1.0000_AL_.jpg",
+            "name": "Mabel King",
+            "asCharacter": "Grammaas Gramma"
+        },
+        {
+            "id": "nm0615066",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "John Murray",
+            "asCharacter": "James Crossas James Cross"
+        },
+        {
+            "id": "nm0268026",
+            "image": "https://imdb-api.com/images/original/MV5BMTkxMjYyNDAzN15BMl5BanBnXkFtZTcwMDU2OTQ4Mg@@._V1_Ratio1.0000_AL_.jpg",
+            "name": "Jamie Farr",
+            "asCharacter": "Jacob Marleyas Jacob Marley"
+        },
+        {
+            "id": "nm0332587",
+            "image": "https://imdb-api.com/images/original/MV5BMTU5OTYyOTc3MV5BMl5BanBnXkFtZTYwNTI2NDM2._V1_Ratio1.0000_AL_.jpg",
+            "name": "Robert Goulet",
+            "asCharacter": "Robert Gouletas Robert Goulet"
+        },
+        {
+            "id": "nm0004983",
+            "image": "https://imdb-api.com/images/original/MV5BMTY0NjI1OTU3MF5BMl5BanBnXkFtZTYwNTgxNTcz._V1_Ratio1.0000_AL_.jpg",
+            "name": "Buddy Hackett",
+            "asCharacter": "Scroogeas Scrooge"
+        },
+        {
+            "id": "nm0002144",
+            "image": "https://imdb-api.com/images/original/MV5BMTczNzUxOTkzNV5BMl5BanBnXkFtZTcwNDk4ODUwOA@@._V1_Ratio1.0000_AL_.jpg",
+            "name": "John Houseman",
+            "asCharacter": "John Housemanas John Houseman"
+        },
+        {
+            "id": "nm0000516",
+            "image": "https://imdb-api.com/images/original/MV5BNWUxNjJlZjItZGEyZi00MTA2LWJkYjctNjI0ZWNkMTljNGExXkEyXkFqcGdeQXVyMjExMjk0NDc@._V1_Ratio1.7857_AL_.jpg",
+            "name": "Lee Majors",
+            "asCharacter": "Lee Majorsas Lee Majors"
+        }
+    ],
+    "fullCast": null,
+    "genres": "Comedy, Drama, Fantasy",
+    "genreList": [
+        { "key": "Comedy", "value": "Comedy" },
+        { "key": "Drama", "value": "Drama" },
+        { "key": "Fantasy", "value": "Fantasy" }
+    ],
+    "companies": "Paramount Pictures, Mirage Productions",
+    "companyList": [
+        { "id": "co0023400", "name": "Paramount Pictures" },
+        { "id": "co0056944", "name": "Mirage Productions" }
+    ],
+    "countries": "USA",
+    "countryList": [{ "key": "USA", "value": "USA" }],
+    "languages": "English",
+    "languageList": [{ "key": "English", "value": "English" }],
+    "contentRating": "PG-13",
+    "imDbRating": "7",
+    "imDbRatingVotes": "90076",
+    "metacriticRating": "38",
+    "ratings": null,
+    "wikipedia": null,
+    "posters": {
+        "imDbId": "tt0096061",
+        "title": "Scrooged",
+        "fullTitle": "Scrooged (1988)",
+        "type": "Movie",
+        "year": "1988",
+        "posters": [
+            {
+                "id": "uO0znfB2ZzTXA1IS7jkrjNbpkYK.jpg",
+                "link": "https://imdb-api.com/posters/original/uO0znfB2ZzTXA1IS7jkrjNbpkYK.jpg",
+                "aspectRatio": 0.6666666666666666,
+                "language": "en",
+                "width": 1000,
+                "height": 1500
+            },
+            {
+                "id": "lQYOxiY2otQhc5Qjcac1BgFUDWq.jpg",
+                "link": "https://imdb-api.com/posters/original/lQYOxiY2otQhc5Qjcac1BgFUDWq.jpg",
+                "aspectRatio": 0.6666666666666666,
+                "language": "en",
+                "width": 1000,
+                "height": 1500
+            },
+            {
+                "id": "7vcieClTPSUKWrZhq5EmM0k9DwX.jpg",
+                "link": "https://imdb-api.com/posters/original/7vcieClTPSUKWrZhq5EmM0k9DwX.jpg",
+                "aspectRatio": 0.6666666666666666,
+                "language": "en",
+                "width": 1000,
+                "height": 1500
+            },
+            {
+                "id": "2jyzx7yRAxyqjEESob3d8U1pRcr.jpg",
+                "link": "https://imdb-api.com/posters/original/2jyzx7yRAxyqjEESob3d8U1pRcr.jpg",
+                "aspectRatio": 0.6666666666666666,
+                "language": "en",
+                "width": 1000,
+                "height": 1500
+            },
+            {
+                "id": "64Z6OjII0iJNqpMTyX85Qdwa8FH.jpg",
+                "link": "https://imdb-api.com/posters/original/64Z6OjII0iJNqpMTyX85Qdwa8FH.jpg",
+                "aspectRatio": 0.6666666666666666,
+                "language": "en",
+                "width": 2000,
+                "height": 3000
+            },
+            {
+                "id": "qERstkU80j7foMesmxlzf4zit6f.jpg",
+                "link": "https://imdb-api.com/posters/original/qERstkU80j7foMesmxlzf4zit6f.jpg",
+                "aspectRatio": 0.6666666666666666,
+                "language": "en",
+                "width": 1000,
+                "height": 1500
+            }
+        ],
+        "backdrops": [
+            {
+                "id": "lktcffPqtBIL7OTuAN4pXgjXzOJ.jpg",
+                "link": "https://imdb-api.com/posters/original/lktcffPqtBIL7OTuAN4pXgjXzOJ.jpg",
+                "aspectRatio": 1.7777777777777777,
+                "language": "en",
+                "width": 1920,
+                "height": 1080
+            },
+            {
+                "id": "hFMjN0BBWFVsmvseZZIVvDGPhoI.jpg",
+                "link": "https://imdb-api.com/posters/original/hFMjN0BBWFVsmvseZZIVvDGPhoI.jpg",
+                "aspectRatio": 1.7761557177615572,
+                "language": "en",
+                "width": 1460,
+                "height": 822
+            },
+            {
+                "id": "e1F28DgGBc7pRarStqqEAlPUXZG.jpg",
+                "link": "https://imdb-api.com/posters/original/e1F28DgGBc7pRarStqqEAlPUXZG.jpg",
+                "aspectRatio": 1.7777777777777777,
+                "language": "en",
+                "width": 1920,
+                "height": 1080
+            }
+        ],
+        "errorMessage": ""
+    },
+    "images": {
+        "imDbId": "tt0096061",
+        "title": "Scrooged",
+        "fullTitle": "Scrooged (1988)",
+        "type": "Movie",
+        "year": "1988",
+        "items": [
+            {
+                "title": "Bill Murray and Alfre Woodard in Scrooged (1988)",
+                "image": "https://imdb-api.com/images/original/MV5BNTY4NDkzMTQwOF5BMl5BanBnXkFtZTcwOTEyOTcxNA@@._V1_Ratio1.4800_AL_.jpg"
+            },
+            {
+                "title": "Bill Murray in Scrooged (1988)",
+                "image": "https://imdb-api.com/images/original/MV5BMTY5MjAxNDg3OF5BMl5BanBnXkFtZTcwMDIyOTcxNA@@._V1_Ratio1.0000_AL_.jpg"
+            },
+            {
+                "title": "Bill Murray and Anne Ramsey in Scrooged (1988)",
+                "image": "https://imdb-api.com/images/original/MV5BMTcyNTkwNjM2MV5BMl5BanBnXkFtZTcwMTIyOTcxNA@@._V1_Ratio1.4600_AL_.jpg"
+            },
+            {
+                "title": "Bill Murray in Scrooged (1988)",
+                "image": "https://imdb-api.com/images/original/MV5BNTk3NDY1MDYyNF5BMl5BanBnXkFtZTcwMjIyOTcxNA@@._V1_Ratio1.0000_AL_.jpg"
+            },
+            {
+                "title": "Bill Murray and David Johansen in Scrooged (1988)",
+                "image": "https://imdb-api.com/images/original/MV5BMTY5NzM0NjkwMl5BMl5BanBnXkFtZTcwMzIyOTcxNA@@._V1_Ratio1.4600_AL_.jpg"
+            },
+            {
+                "title": "Bill Murray and Karen Allen in Scrooged (1988)",
+                "image": "https://imdb-api.com/images/original/MV5BMTg0ODI1MjE4MF5BMl5BanBnXkFtZTcwNTIyOTcxNA@@._V1_Ratio1.4400_AL_.jpg"
+            },
+            {
+                "title": "Bill Murray and Carol Kane in Scrooged (1988)",
+                "image": "https://imdb-api.com/images/original/MV5BMTc2MjkxOTU2M15BMl5BanBnXkFtZTcwNjIyOTcxNA@@._V1_Ratio1.4800_AL_.jpg"
+            },
+            {
+                "title": "Bill Murray, Bobcat Goldthwait, and Alfre Woodard in Scrooged (1988)",
+                "image": "https://imdb-api.com/images/original/MV5BMTc4OTc2NDk0OF5BMl5BanBnXkFtZTcwMDM0MDkwMw@@._V1_Ratio1.7400_AL_.jpg"
+            },
+            {
+                "title": "Bill Murray in Scrooged (1988)",
+                "image": "https://imdb-api.com/images/original/MV5BMTQyMTU2MzEzNF5BMl5BanBnXkFtZTcwODM0MDkwMw@@._V1_Ratio1.7200_AL_.jpg"
+            },
+            {
+                "title": "Bill Murray and John Forsythe in Scrooged (1988)",
+                "image": "https://imdb-api.com/images/original/MV5BMTg0MjQ1Mjg0N15BMl5BanBnXkFtZTcwNTQ0MDkwMw@@._V1_Ratio1.7800_AL_.jpg"
+            },
+            {
+                "title": "Bill Murray and Carol Kane in Scrooged (1988)",
+                "image": "https://imdb-api.com/images/original/MV5BMTU5MzA3MTkxNV5BMl5BanBnXkFtZTcwOTU0MDkwMw@@._V1_Ratio1.5600_AL_.jpg"
+            },
+            {
+                "title": "Bill Murray and Bobcat Goldthwait in Scrooged (1988)",
+                "image": "https://imdb-api.com/images/original/MV5BMTM5MTUyNjUzNl5BMl5BanBnXkFtZTcwMDc0MDkwMw@@._V1_Ratio1.7400_AL_.jpg"
+            },
+            {
+                "title": "John Forsythe in Scrooged (1988)",
+                "image": "https://imdb-api.com/images/original/MV5BMjAzNTUwOTU4NF5BMl5BanBnXkFtZTcwNzc0MDkwMw@@._V1_Ratio1.6600_AL_.jpg"
+            },
+            {
+                "title": "Bill Murray and Karen Allen in Scrooged (1988)",
+                "image": "https://imdb-api.com/images/original/MV5BODQzMjIyOTkzM15BMl5BanBnXkFtZTcwNzg0MDkwMw@@._V1_Ratio1.6600_AL_.jpg"
+            },
+            {
+                "title": "Bill Murray and Richard Donner in Scrooged (1988)",
+                "image": "https://imdb-api.com/images/original/MV5BMjAzMjg2NjUzOV5BMl5BanBnXkFtZTgwMDg0NDczNDM@._V1_Ratio1.5800_AL_.jpg"
+            },
+            {
+                "title": "Bill Murray in Scrooged (1988)",
+                "image": "https://imdb-api.com/images/original/MV5BNmU3ODJiODMtYmM2MS00NWI2LThmNmUtNWI5N2IyZDk1MjcwXkEyXkFqcGdeQXVyMTYzMDM0NTU@._V1_Ratio1.0000_AL_.jpg"
+            },
+            {
+                "title": "Bill Murray in Scrooged (1988)",
+                "image": "https://imdb-api.com/images/original/MV5BMTNiNzEzMmEtZTk1MS00ODgwLTk4MGYtYWIyOGE1ZDVlMjBiXkEyXkFqcGdeQXVyMTYzMDM0NTU@._V1_Ratio1.0000_AL_.jpg"
+            },
+            {
+                "title": "Bill Murray in Scrooged (1988)",
+                "image": "https://imdb-api.com/images/original/MV5BZGI1NDM0MDktMmUxNS00NDYzLWFjNDktNWFhOGU4YjM4YmYxXkEyXkFqcGdeQXVyMTYzMDM0NTU@._V1_Ratio1.0000_AL_.jpg"
+            },
+            {
+                "title": "Bill Murray in Scrooged (1988)",
+                "image": "https://imdb-api.com/images/original/MV5BNDExOTQxODQzMV5BMl5BanBnXkFtZTgwMDg1Njc1MzE@._V1_Ratio1.0000_AL_.jpg"
+            },
+            {
+                "title": "Bill Murray in Scrooged (1988)",
+                "image": "https://imdb-api.com/images/original/MV5BMTA4MjM5NDk0OTReQTJeQWpwZ15BbWU2MDA5MDAxOQ@@._V1_Ratio1.0000_AL_.jpg"
+            },
+            {
+                "title": "Bill Murray in Scrooged (1988)",
+                "image": "https://imdb-api.com/images/original/MV5BMTQ3MTkzMzUzN15BMl5BanBnXkFtZTYwODkzMTE5._V1_Ratio1.0000_AL_.jpg"
+            },
+            {
+                "title": "Bill Murray in Scrooged (1988)",
+                "image": "https://imdb-api.com/images/original/MV5BODUxMTI3NjQ5NV5BMl5BanBnXkFtZTcwMzI1NzcxMQ@@._V1_Ratio1.0000_AL_.jpg"
+            },
+            {
+                "title": "Bill Murray in Scrooged (1988)",
+                "image": "https://imdb-api.com/images/original/MV5BMjA5NzE4NTE4NF5BMl5BanBnXkFtZTcwNTI1NDIyMQ@@._V1_Ratio1.0000_AL_.jpg"
+            },
+            {
+                "title": "Bill Murray in Scrooged (1988)",
+                "image": "https://imdb-api.com/images/original/MV5BMzY1OTgxODY4NV5BMl5BanBnXkFtZTcwMDU2MzcyMQ@@._V1_Ratio1.0000_AL_.jpg"
+            },
+            {
+                "title": "Scrooged (1988)",
+                "image": "https://imdb-api.com/images/original/MV5BNzlhYmY0ZDItYmVjMS00MGYwLTkzMDQtN2E3MmI1ZTg4NTk5XkEyXkFqcGdeQXVyMTAzNDQ1MTAw._V1_Ratio1.7800_AL_.jpg"
+            },
+            {
+                "title": "Bill Murray in Scrooged (1988)",
+                "image": "https://imdb-api.com/images/original/MV5BYTRkYTg0OTktODMyYS00ZmMyLWE2MTQtYzExY2RiYjMwYmYzXkEyXkFqcGdeQXVyMTEyNjU2OTQw._V1_Ratio1.9200_AL_.jpg"
+            },
+            {
+                "title": "Bill Murray and John Forsythe in Scrooged (1988)",
+                "image": "https://imdb-api.com/images/original/MV5BZDU2MmM1NTYtNWFiMS00ZGE5LWFkNGItYTVhZGVkYWRlZGY3XkEyXkFqcGdeQXVyOTc5MDI5NjE@._V1_Ratio1.7800_AL_.jpg"
+            },
+            {
+                "title": "Bill Murray, John Glover, and Alfre Woodard in Scrooged (1988)",
+                "image": "https://imdb-api.com/images/original/MV5BOWQwZmJkYTEtM2JkMS00ODEwLWE0ZTAtOWM5NDAzNTU1NzZiXkEyXkFqcGdeQXVyOTc5MDI5NjE@._V1_Ratio1.7800_AL_.jpg"
+            },
+            {
+                "title": "Scrooged (1988)",
+                "image": "https://imdb-api.com/images/original/MV5BNTVmMTI1ZmEtMjU1OC00NWIzLTlkMDYtNDhiODk3MjRjZjRiXkEyXkFqcGdeQXVyOTc5MDI5NjE@._V1_Ratio1.7800_AL_.jpg"
+            },
+            {
+                "title": "Bill Murray in Scrooged (1988)",
+                "image": "https://imdb-api.com/images/original/MV5BOWVlZmQwNzgtNjk5YS00NzE3LTkwZDItZmI1YmNkOWMwMzU1XkEyXkFqcGdeQXVyOTc5MDI5NjE@._V1_Ratio1.7800_AL_.jpg"
+            },
+            {
+                "title": "Bill Murray in Scrooged (1988)",
+                "image": "https://imdb-api.com/images/original/MV5BNGNjMjFjZDctZDJiOS00ZDJmLWIyNTktYjM2ZmU2ZmQ4MDE0XkEyXkFqcGdeQXVyOTc5MDI5NjE@._V1_Ratio1.7800_AL_.jpg"
+            },
+            {
+                "title": "Bill Murray in Scrooged (1988)",
+                "image": "https://imdb-api.com/images/original/MV5BNmRlNTdiMTctNmU4OC00MTIwLTkyOTEtMDM2MDY3ODcwNmI3XkEyXkFqcGdeQXVyOTc5MDI5NjE@._V1_Ratio1.7800_AL_.jpg"
+            },
+            {
+                "title": "Scrooged (1988)",
+                "image": "https://imdb-api.com/images/original/MV5BYjI0NWJiYTEtZTU2OC00YmI0LWEzNWYtNGFjYjc4ZWE1ZGNkXkEyXkFqcGdeQXVyOTc5MDI5NjE@._V1_Ratio1.9800_AL_.jpg"
+            },
+            {
+                "title": "Robert Mitchum and Bill Murray in Scrooged (1988)",
+                "image": "https://imdb-api.com/images/original/MV5BNDA3NzBiYmItNjJjZC00MTNjLWIzZDAtODAzNzU3ZDYwNzZiXkEyXkFqcGdeQXVyOTc5MDI5NjE@._V1_Ratio1.7800_AL_.jpg"
+            },
+            {
+                "title": "Scrooged (1988)",
+                "image": "https://imdb-api.com/images/original/MV5BOTdmMDJlNTEtNzViOC00MjUyLWEyNGQtMDk3ZmZiZDVlMjJjXkEyXkFqcGdeQXVyOTc5MDI5NjE@._V1_Ratio1.7800_AL_.jpg"
+            },
+            {
+                "title": "Bobcat Goldthwait in Scrooged (1988)",
+                "image": "https://imdb-api.com/images/original/MV5BNDRkOTg5ZDMtZjQ3OC00MmY5LThkNTEtZTRjOWRkNmYwZWNkXkEyXkFqcGdeQXVyOTc5MDI5NjE@._V1_Ratio1.7800_AL_.jpg"
+            },
+            {
+                "title": "Bill Murray in Scrooged (1988)",
+                "image": "https://imdb-api.com/images/original/MV5BMDI5NjBmODEtYzEyOS00ZTg5LTgzNmYtNDA0MDUyYmY0OWY2XkEyXkFqcGdeQXVyOTc5MDI5NjE@._V1_Ratio1.7800_AL_.jpg"
+            },
+            {
+                "title": "Bill Murray and Carol Kane in Scrooged (1988)",
+                "image": "https://imdb-api.com/images/original/MV5BOTAwZjQ4OTItNGNlNy00NDZkLTg1Y2ItOGU5Yjg5MTMwZjBkXkEyXkFqcGdeQXVyOTc5MDI5NjE@._V1_Ratio1.7800_AL_.jpg"
+            },
+            {
+                "title": "Bill Murray and Karen Allen in Scrooged (1988)",
+                "image": "https://imdb-api.com/images/original/MV5BZjM1N2VlZTAtYzUzYS00ZjNjLTlhOGUtNDc5ODM0YWRhNGYzXkEyXkFqcGdeQXVyOTc5MDI5NjE@._V1_Ratio1.7800_AL_.jpg"
+            },
+            {
+                "title": "Bill Murray and David Johansen in Scrooged (1988)",
+                "image": "https://imdb-api.com/images/original/MV5BNzkxMjliM2MtYzA0My00OTA1LTlkOWEtNTQ4MDVkZTBlYTQ3XkEyXkFqcGdeQXVyOTc5MDI5NjE@._V1_Ratio1.7800_AL_.jpg"
+            },
+            {
+                "title": "Bill Murray in Scrooged (1988)",
+                "image": "https://imdb-api.com/images/original/MV5BMDRjZmEwZjUtYmI5Ny00Mzk1LTk4MWItMWNlMDI5MzhhZWNjXkEyXkFqcGdeQXVyOTc5MDI5NjE@._V1_Ratio1.7800_AL_.jpg"
+            },
+            {
+                "title": "Bill Murray in Scrooged (1988)",
+                "image": "https://imdb-api.com/images/original/MV5BOTRhZWNjNDktODljMC00NzU5LTk4YTktMTJjMjRiYjI5NDNjXkEyXkFqcGdeQXVyNjc3NDgwNzU@._V1_Ratio1.7600_AL_.jpg"
+            },
+            {
+                "title": "Wendie Malick, Mitch Glazer, Susan Isaacs, Lauri Kempson, Joel Murray, and John Murray in Scrooged (1988)",
+                "image": "https://imdb-api.com/images/original/MV5BZjhiOTJiYTQtNDdhZS00NTFhLWJiODItNThmZWQwNWI2NTNlXkEyXkFqcGdeQXVyNjc3NDgwNzU@._V1_Ratio1.7600_AL_.jpg"
+            },
+            {
+                "title": "Buddy Hackett in Scrooged (1988)",
+                "image": "https://imdb-api.com/images/original/MV5BMzA1MmI5YjYtNWZiOC00NmI3LTkzODktMmM3MzcyN2U1ZWUzXkEyXkFqcGdeQXVyNjc3NDgwNzU@._V1_Ratio1.7400_AL_.jpg"
+            },
+            {
+                "title": "Raphael Harris in Scrooged (1988)",
+                "image": "https://imdb-api.com/images/original/MV5BYzU2ODJjYzEtNDlkNC00ZWQxLWEzZjktY2JhNTZmOGQ5OGViXkEyXkFqcGdeQXVyNjc3NDgwNzU@._V1_Ratio1.7400_AL_.jpg"
+            },
+            {
+                "title": "Bobcat Goldthwait in Scrooged (1988)",
+                "image": "https://imdb-api.com/images/original/MV5BOGEwMWE0YTctYzMwMS00ZDkzLWEwMmMtNzk5MjY5Y2ZjYmZkXkEyXkFqcGdeQXVyNjc3NDgwNzU@._V1_Ratio1.5600_AL_.jpg"
+            },
+            {
+                "title": "Scrooged (1988)",
+                "image": "https://imdb-api.com/images/original/MV5BN2M5MmJkODYtNmJhZS00YzNlLTgwZDktYmZkMDQwNmQyODY2XkEyXkFqcGdeQXVyNjc3NDgwNzU@._V1_Ratio1.7600_AL_.jpg"
+            },
+            {
+                "title": "Scrooged (1988)",
+                "image": "https://imdb-api.com/images/original/MV5BM2I1MWY0NWItNTcwYy00ZDFiLThkZjgtODAwODFiN2QwZjFkXkEyXkFqcGdeQXVyNjc3NDgwNzU@._V1_Ratio1.7800_AL_.jpg"
+            }
+        ],
+        "errorMessage": ""
+    },
+    "trailer": {
+        "imDbId": "tt0096061",
+        "title": "Scrooged",
+        "fullTitle": "Scrooged (1988)",
+        "type": "Movie",
+        "year": "1988",
+        "videoId": "vi4082477081",
+        "videoTitle": "Theatrical Trailer",
+        "videoDescription": "A cynically selfish TV executive gets haunted by three spirits bearing lessons on Christmas Eve.",
+        "thumbnailUrl": "https://m.media-amazon.com/images/M/MV5BMjMwMjIwMjQ1NV5BMl5BanBnXkFtZTgwMjUyNzc4MDE@._V1_.jpg",
+        "uploadDate": "01/01/2014 17:13:31",
+        "link": "https://www.imdb.com/video/vi4082477081",
+        "linkEmbed": "https://www.imdb.com/video/imdb/vi4082477081/imdb/embed",
+        "errorMessage": ""
+    },
+    "boxOffice": {
+        "budget": "$32,000,000 (estimated)",
+        "openingWeekendUSA": "$13,027,842",
+        "grossUSA": "$60,328,558",
+        "cumulativeWorldwideGross": "$60,329,001"
+    },
+    "tagline": "Bill Murray is back among the ghosts. Only this time, it's three against one.",
+    "keywords": "ghost,compassion,greed,redemption,christmas",
+    "keywordList": ["ghost", "compassion", "greed", "redemption", "christmas"],
+    "similars": [
+        {
+            "id": "tt0097958",
+            "title": "National Lampoon's Christmas Vacation",
+            "fullTitle": "National Lampoon's Christmas Vacation",
+            "year": "",
+            "image": "https://imdb-api.com/images/original/MV5BMGZkMWQ2MzMtYTkxYS00OThmLWI0ZTQtNmY0ZTkyY2E4MjliXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_Ratio0.6763_AL_.jpg",
+            "plot": "",
+            "directors": "",
+            "stars": "",
+            "genres": "",
+            "imDbRating": "7.6"
+        },
+        {
+            "id": "tt0080928",
+            "title": "Inside Moves",
+            "fullTitle": "Inside Moves",
+            "year": "",
+            "image": "https://imdb-api.com/images/original/MV5BMzhiODQxZDEtMGYyNC00ZDdmLTlhM2QtMGNkNWRiMmMwNjg1XkEyXkFqcGdeQXVyMTY5Nzc4MDY@._V1_Ratio0.6763_AL_.jpg",
+            "plot": "",
+            "directors": "",
+            "stars": "",
+            "genres": "",
+            "imDbRating": "7.2"
+        },
+        {
+            "id": "tt0103241",
+            "title": "What About Bob?",
+            "fullTitle": "What About Bob?",
+            "year": "",
+            "image": "https://imdb-api.com/images/original/MV5BMTQxMjU2ODk4N15BMl5BanBnXkFtZTgwODQzNTcxMTE@._V1_Ratio0.6763_AL_.jpg",
+            "plot": "",
+            "directors": "",
+            "stars": "",
+            "genres": "",
+            "imDbRating": "7.0"
+        },
+        {
+            "id": "tt0083131",
+            "title": "Stripes",
+            "fullTitle": "Stripes",
+            "year": "",
+            "image": "https://imdb-api.com/images/original/MV5BMTQ3NzU2NjYyNF5BMl5BanBnXkFtZTgwMjg1MzQxMDE@._V1_Ratio0.6763_AL_.jpg",
+            "plot": "",
+            "directors": "",
+            "stars": "",
+            "genres": "",
+            "imDbRating": "6.9"
+        },
+        {
+            "id": "tt0087363",
+            "title": "Gremlins",
+            "fullTitle": "Gremlins",
+            "year": "",
+            "image": "https://imdb-api.com/images/original/MV5BZDVjN2FkYTQtNTBlOC00MjM5LTgzMWEtZWRlNGUyYmNiOTFiXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_Ratio0.6763_AL_.jpg",
+            "plot": "",
+            "directors": "",
+            "stars": "",
+            "genres": "",
+            "imDbRating": "7.3"
+        },
+        {
+            "id": "tt0080487",
+            "title": "Caddyshack",
+            "fullTitle": "Caddyshack",
+            "year": "",
+            "image": "https://imdb-api.com/images/original/MV5BY2I1NWE2NzctNzNkYS00Nzg5LWEwZTQtN2I3Nzk3MTQwMDY2XkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_Ratio0.6763_AL_.jpg",
+            "plot": "",
+            "directors": "",
+            "stars": "",
+            "genres": "",
+            "imDbRating": "7.3"
+        },
+        {
+            "id": "tt0047673",
+            "title": "White Christmas",
+            "fullTitle": "White Christmas",
+            "year": "",
+            "image": "https://imdb-api.com/images/original/MV5BYjI0ZTk0ZjQtZTMzOS00NDdmLTk0YzUtZTQ4NGRkNWFhZTkxXkEyXkFqcGdeQXVyNjc1NTYyMjg@._V1_Ratio0.6763_AL_.jpg",
+            "plot": "",
+            "directors": "",
+            "stars": "",
+            "genres": "",
+            "imDbRating": "7.6"
+        },
+        {
+            "id": "tt0093748",
+            "title": "Planes, Trains & Automobiles",
+            "fullTitle": "Planes, Trains & Automobiles",
+            "year": "",
+            "image": "https://imdb-api.com/images/original/MV5BM2I1ZWNkYjEtYWY3ZS00MmMwLWI5OTEtNWNkZjNiYjIwNzY0XkEyXkFqcGdeQXVyNTI4MjkwNjA@._V1_Ratio0.6763_AL_.jpg",
+            "plot": "",
+            "directors": "",
+            "stars": "",
+            "genres": "",
+            "imDbRating": "7.6"
+        },
+        {
+            "id": "tt0085995",
+            "title": "National Lampoon's Vacation",
+            "fullTitle": "National Lampoon's Vacation",
+            "year": "",
+            "image": "https://imdb-api.com/images/original/MV5BMmViMGQ4ZDktNzI3OC00YjVkLWJmZDgtOTI4N2FhNjhjNDVjXkEyXkFqcGdeQXVyNTUyMzE4Mzg@._V1_Ratio0.6763_AL_.jpg",
+            "plot": "",
+            "directors": "",
+            "stars": "",
+            "genres": "",
+            "imDbRating": "7.4"
+        },
+        {
+            "id": "tt0084809",
+            "title": "The Toy",
+            "fullTitle": "The Toy",
+            "year": "",
+            "image": "https://imdb-api.com/images/original/MV5BNzYxYzZiMjUtYTc3Zi00YzYzLWIyZDgtNDRkNjMwNGVjNWE5XkEyXkFqcGdeQXVyNDk3NzU2MTQ@._V1_Ratio0.6763_AL_.jpg",
+            "plot": "",
+            "directors": "",
+            "stars": "",
+            "genres": "",
+            "imDbRating": "5.8"
+        },
+        {
+            "id": "tt0087817",
+            "title": "Nothing Lasts Forever",
+            "fullTitle": "Nothing Lasts Forever",
+            "year": "",
+            "image": "https://imdb-api.com/images/original/MV5BNjgwMTg1NjktODc0OS00MmNhLTg1YjItYTA1Y2M0NzgwYjc5XkEyXkFqcGdeQXVyMTIxMDUyOTI@._V1_Ratio0.6763_AL_.jpg",
+            "plot": "",
+            "directors": "",
+            "stars": "",
+            "genres": "",
+            "imDbRating": "6.3"
+        }
+    ],
+    "tvSeriesInfo": null,
+    "tvEpisodeInfo": null,
+    "errorMessage": ""
+}
