@@ -13,8 +13,8 @@ const DescriptionRow = (movie, name, index) => {
 
     return `
         <div class="details__prop">
-            <div class="details__prop-name">${name}:</div>
-            <div class="details__prop-value">${movie[index]}</div>
+            <div class="details__prop--name">${name}:</div>
+            <div class="details__prop--value">${movie[index]}</div>
         </div>
     `;
 };

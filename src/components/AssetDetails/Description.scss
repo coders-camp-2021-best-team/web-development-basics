@@ -6,19 +6,18 @@
 
         .details__prop {
             display: flex;
+            padding: 10px;
+            text-align: left;
 
             div {
                 flex: 1;
             }
 
-            padding: 10px;
-            text-align: left;
-
-            .details__prop-name {
+            &--name {
                 font-weight: bold;
             }
 
-            .details__prop-value {
+            &--value {
                 line-height: 1.8em;
             }
         }
