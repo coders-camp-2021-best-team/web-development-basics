@@ -7,32 +7,20 @@ import { redirect } from '../index.js';
 const template = async (movies) => `
     <div id="homeScreen" class="homeScreen">
         <template id="home-movie-tiles"></template>
-        ${Button({
-            onClick: () => redirect('/search'),
+        ${await MovieCarousel({
+            movies: movies[0],
             id: 'topMovies',
             text: 'Top 250 movies'
         })}
         ${await MovieCarousel({
-            movies: movies[0],
-            id: 'topMovies'
-        })}
-        ${Button({
-            onClick: () => redirect('/search'),
+            movies: movies[1],
             id: 'series',
             text: 'Series'
         })}
         ${await MovieCarousel({
-            movies: movies[1],
-            id: 'series'
-        })}
-        ${Button({
-            onClick: () => redirect('/search'),
+            movies: movies[2],
             id: 'movies',
             text: 'Movies'
-        })}
-        ${await MovieCarousel({
-            movies: movies[2],
-            id: 'movies'
         })}
     </div>
 `;

@@ -8,7 +8,7 @@ class ConsoleLogger {
     }
 
     debug(...args) {
-        if (process.env.DEBUG) {
+        if (process.env.DEBUG === 'true') {
             console.debug('[DEBUG]', ...args);
         }
     }

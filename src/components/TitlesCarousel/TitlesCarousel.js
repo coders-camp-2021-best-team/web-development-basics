@@ -1,7 +1,8 @@
 import { obseverDom } from '../../shared/observer';
 import { MovieTile } from '../Tiles/MovieTile';
+import { Button } from '../Button/Button';
 
-export const MovieCarousel = async ({ movies, id }) => {
+export const MovieCarousel = async ({ movies, id, text }) => {
     obseverDom((_, obs) => {
         const carousel = document.getElementById(`carousel-${id}`);
         const content = document.getElementById(`carousel_content-${id}`);
@@ -45,8 +46,14 @@ export const MovieCarousel = async ({ movies, id }) => {
     });
 
     return `
+    ${Button({
+        onClick: () => redirect('/search'),
+        id: `${id}`,
+        text: `${text}`
+    })}
 <div class="wrapper">
 
+    
   <div id="carousel-${id}" class="carousel">
 
     <div id="carousel_content-${id}" class="carousel__content">
