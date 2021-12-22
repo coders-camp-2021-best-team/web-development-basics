@@ -2,7 +2,10 @@ import { obseverDom } from '../../shared/observer';
 import { MovieTile } from '../Tiles/MovieTile';
 import { Button } from '../Button/Button';
 
-export const MovieCarousel = async ({ movies, id, text }) => {
+export const MovieCarousel = async ({ movies, id, btnName, route }) => {
+    if (!movies.length) {
+        return '';
+    }
     obseverDom((_, obs) => {
         const carousel = document.getElementById(`carousel-${id}`);
         const content = document.getElementById(`carousel_content-${id}`);
@@ -47,9 +50,9 @@ export const MovieCarousel = async ({ movies, id, text }) => {
 
     return `
     ${Button({
-        onClick: () => redirect('/search'),
+        onClick: () => redirect(`${route}`),
         id: `${id}`,
-        text: `${text}`
+        text: `${btnName}`
     })}
 <div class="wrapper">
 
