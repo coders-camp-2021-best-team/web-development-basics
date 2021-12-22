@@ -1,0 +1,683 @@
+{
+    "id": "tt3470600",
+    "title": "Sing",
+    "originalTitle": "",
+    "fullTitle": "Sing (2016)",
+    "type": "Movie",
+    "year": "2016",
+    "image": "https://imdb-api.com/images/original/MV5BMTYzODYzODU2Ml5BMl5BanBnXkFtZTgwNTc1MTA2NzE@._V1_Ratio0.6791_AL_.jpg",
+    "releaseDate": "2016-12-02",
+    "runtimeMins": "108",
+    "runtimeStr": "1h 48mins",
+    "plot": "In a world of anthropomorphic animals, koala Buster Moon owns a theater, having been interested in show business since his father took him to his first music show as a child. Following financial problems brought up by the bank representative Judith, he tells his wealthy friend Eddie that he will host a singing competition with a prize of $1,000. But Buster's assistant, Miss Crawly, accidentally appends two extra zeroes, and the promotional fliers showing $100,000 are blown out of Buster's office into the city streets.",
+    "plotLocal": "",
+    "plotLocalIsRtl": false,
+    "awards": "Nominated for 2 Golden Globes. Another 3 wins & 23 nominations.",
+    "directors": "Garth Jennings, Christophe Lourdelet",
+    "directorList": [
+        { "id": "nm1134029", "name": "Garth Jennings" },
+        { "id": "nm2888554", "name": "Christophe Lourdelet" }
+    ],
+    "writers": "Garth Jennings",
+    "writerList": [{ "id": "nm1134029", "name": "Garth Jennings" }],
+    "stars": "Matthew McConaughey, Reese Witherspoon, Seth MacFarlane, Scarlett Johansson",
+    "starList": [
+        { "id": "nm0000190", "name": "Matthew McConaughey" },
+        { "id": "nm0000702", "name": "Reese Witherspoon" },
+        { "id": "nm0532235", "name": "Seth MacFarlane" },
+        { "id": "nm0424060", "name": "Scarlett Johansson" }
+    ],
+    "actorList": [
+        {
+            "id": "nm0000190",
+            "image": "https://imdb-api.com/images/original/MV5BMTg0MDc3ODUwOV5BMl5BanBnXkFtZTcwMTk2NjY4Nw@@._V1_Ratio0.7273_AL_.jpg",
+            "name": "Matthew McConaughey",
+            "asCharacter": "Buster Moon (voice)"
+        },
+        {
+            "id": "nm0000702",
+            "image": "https://imdb-api.com/images/original/MV5BMTc3MDcxMDA5Ml5BMl5BanBnXkFtZTgwNDM1NTU5MDE@._V1_Ratio0.7273_AL_.jpg",
+            "name": "Reese Witherspoon",
+            "asCharacter": "Rosita (voice)"
+        },
+        {
+            "id": "nm0532235",
+            "image": "https://imdb-api.com/images/original/MV5BMTgyNDk3OTI2NF5BMl5BanBnXkFtZTcwMDA4NjU5OA@@._V1_Ratio0.7273_AL_.jpg",
+            "name": "Seth MacFarlane",
+            "asCharacter": "Mike (voice) (as Seth Macfarlane)"
+        },
+        {
+            "id": "nm0424060",
+            "image": "https://imdb-api.com/images/original/MV5BMTM3OTUwMDYwNl5BMl5BanBnXkFtZTcwNTUyNzc3Nw@@._V1_Ratio0.8182_AL_.jpg",
+            "name": "Scarlett Johansson",
+            "asCharacter": "Ash (voice)"
+        },
+        {
+            "id": "nm0000604",
+            "image": "https://imdb-api.com/images/original/MV5BMTc4MDEzMDkzOF5BMl5BanBnXkFtZTYwNzQzNzcy._V1_Ratio0.8636_AL_.jpg",
+            "name": "John C. Reilly",
+            "asCharacter": "Eddie (voice)"
+        },
+        {
+            "id": "nm5473782",
+            "image": "https://imdb-api.com/images/original/MV5BMTYzODU2OTI2Nl5BMl5BanBnXkFtZTgwMTUyMTAwMzE@._V1_Ratio0.7273_AL_.jpg",
+            "name": "Taron Egerton",
+            "asCharacter": "Johnny (voice)"
+        },
+        {
+            "id": "nm1812991",
+            "image": "https://imdb-api.com/images/original/MV5BMzYyMzYyODIwOV5BMl5BanBnXkFtZTgwMDM0NDM3NTE@._V1_Ratio0.7273_AL_.jpg",
+            "name": "Tori Kelly",
+            "asCharacter": "Meena (voice)"
+        },
+        {
+            "id": "nm0766837",
+            "image": "https://imdb-api.com/images/original/MV5BMTU2MzkxNTc1NV5BMl5BanBnXkFtZTcwMDM5NjY4Nw@@._V1_Ratio0.7273_AL_.jpg",
+            "name": "Jennifer Saunders",
+            "asCharacter": "Nana (voice)"
+        },
+        {
+            "id": "nm1617685",
+            "image": "https://imdb-api.com/images/original/MV5BMTM5NTczMDU5OV5BMl5BanBnXkFtZTcwNDI0ODY1NA@@._V1_Ratio0.7273_AL_.jpg",
+            "name": "Jennifer Hudson",
+            "asCharacter": "Young Nana (voice)"
+        },
+        {
+            "id": "nm1134029",
+            "image": "https://imdb-api.com/images/original/MV5BMTA4OTkxMzY3MjheQTJeQWpwZ15BbWU2MDM4NjQ2NA@@._V1_Ratio0.7273_AL_.jpg",
+            "name": "Garth Jennings",
+            "asCharacter": "Miss Crawly / Additional Voices (voice)"
+        },
+        {
+            "id": "nm0784818",
+            "image": "https://imdb-api.com/images/original/MV5BMTQyNDU1MjcyNl5BMl5BanBnXkFtZTgwODc1OTQ0NDE@._V1_Ratio1.7727_AL_.jpg",
+            "name": "Peter Serafinowicz",
+            "asCharacter": "Big Daddy (voice)"
+        },
+        {
+            "id": "nm1802209",
+            "image": "https://imdb-api.com/images/original/MV5BMTg3NTE5Mjg2NF5BMl5BanBnXkFtZTgwODAxMzE4NDM@._V1_Ratio0.7273_AL_.jpg",
+            "name": "Nick Kroll",
+            "asCharacter": "Gunter (voice)"
+        },
+        {
+            "id": "nm3080722",
+            "image": "https://imdb-api.com/images/original/MV5BNDg1ODgwMjMwMl5BMl5BanBnXkFtZTgwMzQyMjc1MDI@._V1_Ratio1.3182_AL_.jpg",
+            "name": "Beck Bennett",
+            "asCharacter": "Lance (voice)"
+        },
+        {
+            "id": "nm3982894",
+            "image": "https://imdb-api.com/images/original/MV5BOGVhZThlY2EtMmU5MC00NGFjLWI0ZDctOTJhNWVhYWFkZDNhXkEyXkFqcGdeQXVyNzg5MzIyOA@@._V1_Ratio1.5000_AL_.jpg",
+            "name": "Jay Pharoah",
+            "asCharacter": "Meena's Grandfather (voice)"
+        },
+        {
+            "id": "nm0644406",
+            "image": "https://imdb-api.com/images/original/MV5BMTYzMjY2ODkxMV5BMl5BanBnXkFtZTgwMjQxMDA5MTE@._V1_Ratio0.7273_AL_.jpg",
+            "name": "Nick Offerman",
+            "asCharacter": "Norman (voice)"
+        }
+    ],
+    "fullCast": null,
+    "genres": "Animation, Comedy, Family, Musical",
+    "genreList": [
+        { "key": "Animation", "value": "Animation" },
+        { "key": "Comedy", "value": "Comedy" },
+        { "key": "Family", "value": "Family" },
+        { "key": "Musical", "value": "Musical" }
+    ],
+    "companies": "Dentsu, Fuji Television Network, Illumination Entertainment",
+    "companyList": [
+        { "id": "co0169264", "name": "Dentsu" },
+        { "id": "co0055529", "name": "Fuji Television Network" },
+        { "id": "co0221986", "name": "Illumination Entertainment" }
+    ],
+    "countries": "USA, Japan, France",
+    "countryList": [
+        { "key": "USA", "value": "USA" },
+        { "key": "Japan", "value": "Japan" },
+        { "key": "France", "value": "France" }
+    ],
+    "languages": "English, Japanese, Ukrainian",
+    "languageList": [
+        { "key": "English", "value": "English" },
+        { "key": "Japanese", "value": "Japanese" },
+        { "key": "Ukrainian", "value": "Ukrainian" }
+    ],
+    "contentRating": "PG",
+    "imDbRating": "7.1",
+    "imDbRatingVotes": "136395",
+    "metacriticRating": "59",
+    "ratings": null,
+    "wikipedia": null,
+    "posters": {
+        "imDbId": "tt3470600",
+        "title": "Sing",
+        "fullTitle": "Sing (2016)",
+        "type": "Movie",
+        "year": "2016",
+        "posters": [
+            {
+                "id": "lW0kUtXTOVlHTVhDO2VzNBACAHX.jpg",
+                "link": "https://imdb-api.com/posters/original/lW0kUtXTOVlHTVhDO2VzNBACAHX.jpg",
+                "aspectRatio": 0.6666666666666666,
+                "language": "en",
+                "width": 1000,
+                "height": 1500
+            },
+            {
+                "id": "dMblbyP7mnV8fKVuiy1i2GkS8Rg.jpg",
+                "link": "https://imdb-api.com/posters/original/dMblbyP7mnV8fKVuiy1i2GkS8Rg.jpg",
+                "aspectRatio": 0.6666666666666666,
+                "language": "en",
+                "width": 2000,
+                "height": 3000
+            },
+            {
+                "id": "xviEKU073QAzeFRzWDdW9xDHPbB.jpg",
+                "link": "https://imdb-api.com/posters/original/xviEKU073QAzeFRzWDdW9xDHPbB.jpg",
+                "aspectRatio": 0.6666666666666666,
+                "language": "en",
+                "width": 2000,
+                "height": 3000
+            },
+            {
+                "id": "vJhtdDFMcJL2588ZUzgaPp9IWSv.jpg",
+                "link": "https://imdb-api.com/posters/original/vJhtdDFMcJL2588ZUzgaPp9IWSv.jpg",
+                "aspectRatio": 0.6666666666666666,
+                "language": "en",
+                "width": 2000,
+                "height": 3000
+            },
+            {
+                "id": "zZTlF2eVVUkbdmccd3bNUU9T9sD.jpg",
+                "link": "https://imdb-api.com/posters/original/zZTlF2eVVUkbdmccd3bNUU9T9sD.jpg",
+                "aspectRatio": 0.6662225183211192,
+                "language": "en",
+                "width": 1000,
+                "height": 1501
+            },
+            {
+                "id": "2XlhCuuoGysN3JfAKVZZyCA22Uc.jpg",
+                "link": "https://imdb-api.com/posters/original/2XlhCuuoGysN3JfAKVZZyCA22Uc.jpg",
+                "aspectRatio": 0.6665470208183776,
+                "language": "en",
+                "width": 1857,
+                "height": 2786
+            },
+            {
+                "id": "rwopfpHqPCYBSgBuZwkaXXqHp14.jpg",
+                "link": "https://imdb-api.com/posters/original/rwopfpHqPCYBSgBuZwkaXXqHp14.jpg",
+                "aspectRatio": 0.6661991584852734,
+                "language": "en",
+                "width": 950,
+                "height": 1426
+            },
+            {
+                "id": "n3YKvoQMnZvveEfrXlJafRQmfFN.jpg",
+                "link": "https://imdb-api.com/posters/original/n3YKvoQMnZvveEfrXlJafRQmfFN.jpg",
+                "aspectRatio": 0.66650390625,
+                "language": "en",
+                "width": 1365,
+                "height": 2048
+            },
+            {
+                "id": "vF9RsVASpy34l1CByVIhlMddikX.jpg",
+                "link": "https://imdb-api.com/posters/original/vF9RsVASpy34l1CByVIhlMddikX.jpg",
+                "aspectRatio": 0.6666666666666666,
+                "language": "en",
+                "width": 1000,
+                "height": 1500
+            },
+            {
+                "id": "sMCdqRia4H5WNZe9jgf37ZnUDlw.jpg",
+                "link": "https://imdb-api.com/posters/original/sMCdqRia4H5WNZe9jgf37ZnUDlw.jpg",
+                "aspectRatio": 0.6666666666666666,
+                "language": "en",
+                "width": 950,
+                "height": 1425
+            },
+            {
+                "id": "ksLD0fpQMZhnAWTPZwcd86pVFd6.jpg",
+                "link": "https://imdb-api.com/posters/original/ksLD0fpQMZhnAWTPZwcd86pVFd6.jpg",
+                "aspectRatio": 0.6666666666666666,
+                "language": "en",
+                "width": 1000,
+                "height": 1500
+            }
+        ],
+        "backdrops": [
+            {
+                "id": "z9ft5HYHzWcasR6SGcgeluxTznB.jpg",
+                "link": "https://imdb-api.com/posters/original/z9ft5HYHzWcasR6SGcgeluxTznB.jpg",
+                "aspectRatio": 1.7777777777777777,
+                "language": "en",
+                "width": 1920,
+                "height": 1080
+            },
+            {
+                "id": "4VmlcpqORiI1Z7R6MWVaFVaDLKc.jpg",
+                "link": "https://imdb-api.com/posters/original/4VmlcpqORiI1Z7R6MWVaFVaDLKc.jpg",
+                "aspectRatio": 1.7777777777777777,
+                "language": "en",
+                "width": 3840,
+                "height": 2160
+            },
+            {
+                "id": "wf9C6iqY9tXG7TrQDg3E4Flgap7.jpg",
+                "link": "https://imdb-api.com/posters/original/wf9C6iqY9tXG7TrQDg3E4Flgap7.jpg",
+                "aspectRatio": 1.7777777777777777,
+                "language": "en",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "id": "gO8jpSwscPXFSkXhvi3fsEtLfaL.jpg",
+                "link": "https://imdb-api.com/posters/original/gO8jpSwscPXFSkXhvi3fsEtLfaL.jpg",
+                "aspectRatio": 1.7777777777777777,
+                "language": "en",
+                "width": 1920,
+                "height": 1080
+            },
+            {
+                "id": "Nb0o6rUbMmhTGkV1yQQgBCqZ0y.jpg",
+                "link": "https://imdb-api.com/posters/original/Nb0o6rUbMmhTGkV1yQQgBCqZ0y.jpg",
+                "aspectRatio": 1.7777777777777777,
+                "language": "en",
+                "width": 1920,
+                "height": 1080
+            },
+            {
+                "id": "ijoyefFMGHsN82yOM19NS6VRKmh.jpg",
+                "link": "https://imdb-api.com/posters/original/ijoyefFMGHsN82yOM19NS6VRKmh.jpg",
+                "aspectRatio": 1.7777777777777777,
+                "language": "en",
+                "width": 3840,
+                "height": 2160
+            }
+        ],
+        "errorMessage": ""
+    },
+    "images": {
+        "imDbId": "tt3470600",
+        "title": "Sing",
+        "fullTitle": "Sing (2016)",
+        "type": "Movie",
+        "year": "2016",
+        "items": [
+            {
+                "title": "Seth MacFarlane in Sing (2016)",
+                "image": "https://imdb-api.com/images/original/MV5BNzc1MTgxMzQ0NF5BMl5BanBnXkFtZTgwNjg1ODc4MDI@._V1_Ratio1.8600_AL_.jpg"
+            },
+            {
+                "title": "Matthew McConaughey and Tori Kelly in Sing (2016)",
+                "image": "https://imdb-api.com/images/original/MV5BMjU2MjUwNTE0NV5BMl5BanBnXkFtZTgwODg1ODc4MDI@._V1_Ratio1.8600_AL_.jpg"
+            },
+            {
+                "title": "John C. Reilly in Sing (2016)",
+                "image": "https://imdb-api.com/images/original/MV5BMTY3Mjg2NjkxMV5BMl5BanBnXkFtZTgwOTg1ODc4MDI@._V1_Ratio1.8600_AL_.jpg"
+            },
+            {
+                "title": "Matthew McConaughey and Garth Jennings in Sing (2016)",
+                "image": "https://imdb-api.com/images/original/MV5BMTA2Njc1NjAyMzheQTJeQWpwZ15BbWU4MDA5NTg3ODAy._V1_Ratio1.8400_AL_.jpg"
+            },
+            {
+                "title": "Matthew McConaughey in Sing (2016)",
+                "image": "https://imdb-api.com/images/original/MV5BMjIyNDk5MDc4MF5BMl5BanBnXkFtZTgwMTk1ODc4MDI@._V1_Ratio1.8400_AL_.jpg"
+            },
+            {
+                "title": "Sing (2016)",
+                "image": "https://imdb-api.com/images/original/MV5BMTUwODY4MTE2Nl5BMl5BanBnXkFtZTgwMjk1ODc4MDI@._V1_Ratio1.8600_AL_.jpg"
+            },
+            {
+                "title": "Tori Kelly in Sing (2016)",
+                "image": "https://imdb-api.com/images/original/MV5BMTYyNDUxMDk5NV5BMl5BanBnXkFtZTgwMzk1ODc4MDI@._V1_Ratio1.8600_AL_.jpg"
+            },
+            {
+                "title": "Peter Serafinowicz in Sing (2016)",
+                "image": "https://imdb-api.com/images/original/MV5BMTY5ODE4NjcxNF5BMl5BanBnXkFtZTgwNDk1ODc4MDI@._V1_Ratio1.8400_AL_.jpg"
+            },
+            {
+                "title": "Matthew McConaughey in Sing (2016)",
+                "image": "https://imdb-api.com/images/original/MV5BMTA5NTMyMzgyNTNeQTJeQWpwZ15BbWU4MDU5NTg3ODAy._V1_Ratio1.8400_AL_.jpg"
+            },
+            {
+                "title": "Sing (2016)",
+                "image": "https://imdb-api.com/images/original/MV5BMTkxNDM5MzcxMF5BMl5BanBnXkFtZTgwNjk1ODc4MDI@._V1_Ratio1.8600_AL_.jpg"
+            },
+            {
+                "title": "Matthew McConaughey and Scarlett Johansson in Sing (2016)",
+                "image": "https://imdb-api.com/images/original/MV5BMTU1NzkwMTA1N15BMl5BanBnXkFtZTgwNzk1ODc4MDI@._V1_Ratio1.8600_AL_.jpg"
+            },
+            {
+                "title": "Reese Witherspoon and Nick Kroll in Sing (2016)",
+                "image": "https://imdb-api.com/images/original/MV5BMjE4MTExMjA5OF5BMl5BanBnXkFtZTgwNzc1ODc4MDI@._V1_Ratio1.8600_AL_.jpg"
+            },
+            {
+                "title": "Reese Witherspoon in Sing (2016)",
+                "image": "https://imdb-api.com/images/original/MV5BMTA1MTg4MjQwMzdeQTJeQWpwZ15BbWU4MDg3NTg3ODAy._V1_Ratio1.8600_AL_.jpg"
+            },
+            {
+                "title": "Nelson Beato in Sing (2016)",
+                "image": "https://imdb-api.com/images/original/MV5BMTE0MjM5MTEyMDheQTJeQWpwZ15BbWU4MDk3NTg3ODAy._V1_Ratio1.8600_AL_.jpg"
+            },
+            {
+                "title": "Taron Egerton in Sing (2016)",
+                "image": "https://imdb-api.com/images/original/MV5BMTkxNTM3MDUwMF5BMl5BanBnXkFtZTgwMDg1ODc4MDI@._V1_Ratio1.8400_AL_.jpg"
+            },
+            {
+                "title": "Sing (2016)",
+                "image": "https://imdb-api.com/images/original/MV5BMjM5MTc0NDI5Ml5BMl5BanBnXkFtZTgwMTg1ODc4MDI@._V1_Ratio1.8600_AL_.jpg"
+            },
+            {
+                "title": "Matthew McConaughey, Scarlett Johansson, and Beck Bennett in Sing (2016)",
+                "image": "https://imdb-api.com/images/original/MV5BMjA4MjQwOTkxNl5BMl5BanBnXkFtZTgwMjg1ODc4MDI@._V1_Ratio1.8400_AL_.jpg"
+            },
+            {
+                "title": "Nick Kroll in Sing (2016)",
+                "image": "https://imdb-api.com/images/original/MV5BMTU3Nzk3MDYzN15BMl5BanBnXkFtZTgwMzg1ODc4MDI@._V1_Ratio1.8400_AL_.jpg"
+            },
+            {
+                "title": "Matthew McConaughey and Garth Jennings in Sing (2016)",
+                "image": "https://imdb-api.com/images/original/MV5BNTUyMTMzMzAzM15BMl5BanBnXkFtZTgwNDg1ODc4MDI@._V1_Ratio1.8400_AL_.jpg"
+            },
+            {
+                "title": "Nick Kroll in Sing (2016)",
+                "image": "https://imdb-api.com/images/original/MV5BMjI1ODI3MTE2NV5BMl5BanBnXkFtZTgwNTg4MTA1MDI@._V1_Ratio1.8400_AL_.jpg"
+            },
+            {
+                "title": "Taron Egerton in Sing (2016)",
+                "image": "https://imdb-api.com/images/original/MV5BMTUwNjcxNDY2OV5BMl5BanBnXkFtZTgwNjg4MTA1MDI@._V1_Ratio1.8400_AL_.jpg"
+            },
+            {
+                "title": "Scarlett Johansson, Seth MacFarlane, Beck Bennett, and Taron Egerton in Sing (2016)",
+                "image": "https://imdb-api.com/images/original/MV5BMTY1Nzg4NTk1MF5BMl5BanBnXkFtZTgwMTg4MTA1MDI@._V1_Ratio1.8400_AL_.jpg"
+            },
+            {
+                "title": "Matthew McConaughey in Sing (2016)",
+                "image": "https://imdb-api.com/images/original/MV5BMTA1MDU0OTg5MDBeQTJeQWpwZ15BbWU4MDM4ODEwNTAy._V1_Ratio1.8400_AL_.jpg"
+            },
+            {
+                "title": "Matthew McConaughey in Sing (2016)",
+                "image": "https://imdb-api.com/images/original/MV5BMjQ2OTMxMjIxNF5BMl5BanBnXkFtZTgwNDg4MTA1MDI@._V1_Ratio1.8400_AL_.jpg"
+            },
+            {
+                "title": "Matthew McConaughey, Reese Witherspoon, Scarlett Johansson, Seth MacFarlane, Nick Kroll, Tori Kelly, and Taron Egerton in Sing (2016)",
+                "image": "https://imdb-api.com/images/original/MV5BMjI4NzU5MDU1N15BMl5BanBnXkFtZTgwNTY0NzU0MDI@._V1_Ratio1.4200_AL_.jpg"
+            },
+            {
+                "title": "Matthew McConaughey, Reese Witherspoon, and Garth Jennings in Sing (2016)",
+                "image": "https://imdb-api.com/images/original/MV5BMTQ2MDI4ODgyN15BMl5BanBnXkFtZTgwMTEyOTIwODE@._V1_Ratio1.8800_AL_.jpg"
+            },
+            {
+                "title": "Reese Witherspoon and Nick Kroll in Sing (2016)",
+                "image": "https://imdb-api.com/images/original/MV5BMjkwMDk4Mzg4Nl5BMl5BanBnXkFtZTgwMjEyOTIwODE@._V1_Ratio1.8400_AL_.jpg"
+            },
+            {
+                "title": "Seth MacFarlane in Sing (2016)",
+                "image": "https://imdb-api.com/images/original/MV5BMTUzODExMzYyN15BMl5BanBnXkFtZTgwMzEyOTIwODE@._V1_Ratio1.8800_AL_.jpg"
+            },
+            {
+                "title": "Sing (2016)",
+                "image": "https://imdb-api.com/images/original/MV5BMTEyOTE3MTkyNTNeQTJeQWpwZ15BbWU4MDAxMjkyMDgx._V1_Ratio1.8800_AL_.jpg"
+            },
+            {
+                "title": "Matthew McConaughey in Sing (2016)",
+                "image": "https://imdb-api.com/images/original/MV5BODg0ODMzNjk5MV5BMl5BanBnXkFtZTgwNzc1MTA2NzE@._V1_Ratio1.9400_AL_.jpg"
+            },
+            {
+                "title": "Taron Egerton in Sing (2016)",
+                "image": "https://imdb-api.com/images/original/MV5BMjI5NDg4MTg2N15BMl5BanBnXkFtZTgwOTc1MTA2NzE@._V1_Ratio1.9400_AL_.jpg"
+            },
+            {
+                "title": "Seth MacFarlane in Sing (2016)",
+                "image": "https://imdb-api.com/images/original/MV5BNjAxODA4NDk4N15BMl5BanBnXkFtZTgwMDg1MTA2NzE@._V1_Ratio1.9400_AL_.jpg"
+            },
+            {
+                "title": "Scarlett Johansson in Sing (2016)",
+                "image": "https://imdb-api.com/images/original/MV5BMTA2MTIyNDYxMzheQTJeQWpwZ15BbWU4MDM3NTEwNjcx._V1_Ratio1.9400_AL_.jpg"
+            },
+            {
+                "title": "Reese Witherspoon in Sing (2016)",
+                "image": "https://imdb-api.com/images/original/MV5BMTU0MjA2NTc1MV5BMl5BanBnXkFtZTgwNDc1MTA2NzE@._V1_Ratio1.9400_AL_.jpg"
+            },
+            {
+                "title": "Tori Kelly in Sing (2016)",
+                "image": "https://imdb-api.com/images/original/MV5BMTUzMzQ2MDQ3NV5BMl5BanBnXkFtZTgwNjc1MTA2NzE@._V1_Ratio1.9400_AL_.jpg"
+            },
+            {
+                "title": "Reese Witherspoon, Jim Toth, and Ava Phillippe at an event for Sing (2016)",
+                "image": "https://imdb-api.com/images/original/MV5BMWM0ZDZjYzAtOTlkYS00NDY4LTlmMTAtZTMxNzk1YmJjOWM1XkEyXkFqcGdeQXVyMTEyMjM2NDc2._V1_Ratio1.0000_AL_.jpg"
+            },
+            {
+                "title": "Matthew McConaughey and Camila Alves McConaughey at an event for Sing (2016)",
+                "image": "https://imdb-api.com/images/original/MV5BNDM3OGU4YzYtZmZjOC00M2Y4LTliNjgtMWI5YzZiMTEyMTdiXkEyXkFqcGdeQXVyMTEyMjM2NDc2._V1_Ratio1.0000_AL_.jpg"
+            },
+            {
+                "title": "Matthew McConaughey and Camila Alves McConaughey at an event for Sing (2016)",
+                "image": "https://imdb-api.com/images/original/MV5BZjA2NmNkOTEtOGVjZS00ZWEzLTgwMWItZjM3Yjg2ZDJiNDg2XkEyXkFqcGdeQXVyMTEyMjM2NDc2._V1_Ratio1.0000_AL_.jpg"
+            },
+            {
+                "title": "Reese Witherspoon, Jim Toth, and Ava Phillippe at an event for Sing (2016)",
+                "image": "https://imdb-api.com/images/original/MV5BMWMxY2EzNmQtODIyZS00N2I0LWI0M2EtZjE0NmU2MWI0Y2ExXkEyXkFqcGdeQXVyMTEyMjM2NDc2._V1_Ratio1.0000_AL_.jpg"
+            },
+            {
+                "title": "Sing (2016)",
+                "image": "https://imdb-api.com/images/original/MV5BOTczNjk0NDAtNTM0MC00MzUwLWIwMWEtYzZiY2UwZjc1YzNhXkEyXkFqcGdeQXVyMTA4NjE0NjEy._V1_Ratio1.0000_AL_.jpg"
+            },
+            {
+                "title": "Sing (2016)",
+                "image": "https://imdb-api.com/images/original/MV5BOGE3NDg2YmQtNDYzNC00OWUwLTgxOGItN2EzZTQyNmY3OGNkXkEyXkFqcGdeQXVyMTA4NjE0NjEy._V1_Ratio1.0000_AL_.jpg"
+            },
+            {
+                "title": "Sing (2016)",
+                "image": "https://imdb-api.com/images/original/MV5BOTgyNjI2OGUtMWY3MC00ZjhiLThhNDYtNGM5ZjhkNzE3Y2ZjXkEyXkFqcGdeQXVyMTA4NjE0NjEy._V1_Ratio1.0000_AL_.jpg"
+            },
+            {
+                "title": "Sing (2016)",
+                "image": "https://imdb-api.com/images/original/MV5BMGU3YzhjYzYtZGJhMS00ZGEyLTg0ZDItMzllZDFlZTc0YTViXkEyXkFqcGdeQXVyMTA4NjE0NjEy._V1_Ratio1.0000_AL_.jpg"
+            },
+            {
+                "title": "Sing (2016)",
+                "image": "https://imdb-api.com/images/original/MV5BYjdmNjA0NjAtZTBhYS00NjRhLTg4MWItZDEwNTkwY2QzZGI0XkEyXkFqcGdeQXVyMTA4NjE0NjEy._V1_Ratio1.0000_AL_.jpg"
+            },
+            {
+                "title": "Sing (2016)",
+                "image": "https://imdb-api.com/images/original/MV5BMjVkYzhlY2QtNjk3NC00ODUzLWJlZjItYWU1YmQ5MGEwMDQ4XkEyXkFqcGdeQXVyMTAzMDM4MjM0._V1_Ratio1.0000_AL_.jpg"
+            },
+            {
+                "title": "Sing (2016)",
+                "image": "https://imdb-api.com/images/original/MV5BOWI2YTc4ZWQtZWIxZS00OGE5LThlNTctZmE2ZTE5YzRmMWVhXkEyXkFqcGdeQXVyNjI0MTA1MTM@._V1_Ratio1.0000_AL_.jpg"
+            },
+            {
+                "title": "Nick Kroll in Sing (2016)",
+                "image": "https://imdb-api.com/images/original/MV5BNDUyNTA2MzEzM15BMl5BanBnXkFtZTgwNTg5MzU0MDI@._V1_Ratio1.0000_AL_.jpg"
+            },
+            {
+                "title": "Taron Egerton in Sing (2016)",
+                "image": "https://imdb-api.com/images/original/MV5BMTc1MzQ3MDQ4M15BMl5BanBnXkFtZTgwNjg5MzU0MDI@._V1_Ratio1.0000_AL_.jpg"
+            }
+        ],
+        "errorMessage": ""
+    },
+    "trailer": {
+        "imDbId": "tt3470600",
+        "title": "Sing",
+        "fullTitle": "Sing (2016)",
+        "type": "Movie",
+        "year": "2016",
+        "videoId": "vi1172485657",
+        "videoTitle": "Trailer #4",
+        "videoDescription": "A koala named Buster Moon has one final chance to restore his theater to its former glory by producing the world's greatest singing competition.",
+        "thumbnailUrl": "https://m.media-amazon.com/images/M/MV5BMTg0MjA1NTM0M15BMl5BanBnXkFtZTgwNjYzOTk0MDI@._V1_.jpg",
+        "uploadDate": "11/02/2016 22:23:11",
+        "link": "https://www.imdb.com/video/vi1172485657",
+        "linkEmbed": "https://www.imdb.com/video/imdb/vi1172485657/imdb/embed",
+        "errorMessage": ""
+    },
+    "boxOffice": {
+        "budget": "$75,000,000 (estimated)",
+        "openingWeekendUSA": "$35,258,145, 25 December 2016",
+        "grossUSA": "$270,448,425",
+        "cumulativeWorldwideGross": "$634,208,384"
+    },
+    "tagline": "Auditions begin 2016",
+    "keywords": "singing,theatre,jukebox musical,furry,singing contest",
+    "keywordList": [
+        "singing",
+        "theatre",
+        "jukebox musical",
+        "furry",
+        "singing contest"
+    ],
+    "similars": [
+        {
+            "id": "tt2709768",
+            "title": "The Secret Life of Pets",
+            "fullTitle": "The Secret Life of Pets (2016)",
+            "year": "2016",
+            "image": "https://imdb-api.com/images/original/MV5BMjIzMzA1OTkzNV5BMl5BanBnXkFtZTgwODE3MjM4NzE@._V1_Ratio0.6737_AL_.jpg",
+            "plot": "The quiet life of a terrier named Max is upended when his owner takes in Duke, a stray whom Max instantly dislikes.",
+            "directors": "Directors: Chris Renaud, Yarrow Cheney",
+            "stars": "Louis C.K., Eric Stonestreet, Kevin Hart",
+            "genres": "Animation, Adventure, Comedy",
+            "imDbRating": "6.5"
+        },
+        {
+            "id": "tt0837562",
+            "title": "Hotel Transylvania",
+            "fullTitle": "Hotel Transylvania (2012)",
+            "year": "2012",
+            "image": "https://imdb-api.com/images/original/MV5BMTM3NjQyODI3M15BMl5BanBnXkFtZTcwMDM4NjM0OA@@._V1_Ratio0.6737_AL_.jpg",
+            "plot": "Dracula, who operates a high-end resort away from the human world, goes into overprotective mode when a boy discovers the resort and falls for the count's teenaged daughter.",
+            "directors": "Genndy Tartakovsky",
+            "stars": "Adam Sandler, Kevin James, Andy Samberg",
+            "genres": "Animation, Comedy, Family",
+            "imDbRating": "7.1"
+        },
+        {
+            "id": "tt2948356",
+            "title": "Zootopia",
+            "fullTitle": "Zootopia (2016)",
+            "year": "2016",
+            "image": "https://imdb-api.com/images/original/MV5BOTMyMjEyNzIzMV5BMl5BanBnXkFtZTgwNzIyNjU0NzE@._V1_Ratio0.6737_AL_.jpg",
+            "plot": "In a city of anthropomorphic animals, a rookie bunny cop and a cynical con artist fox must work together to uncover a conspiracy.",
+            "directors": "Directors: Byron Howard, Rich Moore, and 1 more credit »",
+            "stars": "Ginnifer Goodwin, Jason Bateman, Idris Elba",
+            "genres": "Animation, Adventure, Comedy",
+            "imDbRating": "8"
+        },
+        {
+            "id": "tt2294629",
+            "title": "Frozen",
+            "fullTitle": "",
+            "year": "",
+            "image": "https://imdb-api.com/images/original/MV5BMTQ1MjQwMTE5OF5BMl5BanBnXkFtZTgwNjk3MTcyMDE@._V1_Ratio0.6737_AL_.jpg",
+            "plot": "When the newly crowned Queen Elsa accidentally uses her power to turn things into ice to curse her home in infinite winter, her sister Anna teams up with a mountain man, his playful reindeer, and a snowman to change the weather condition.",
+            "directors": "Directors: Chris Buck, Jennifer Lee",
+            "stars": "Kristen Bell, Idina Menzel, Jonathan Groff",
+            "genres": "Animation, Adventure, Comedy",
+            "imDbRating": "7.4"
+        },
+        {
+            "id": "tt3874544",
+            "title": "The Boss Baby",
+            "fullTitle": "The Boss Baby (2017)",
+            "year": "2017",
+            "image": "https://imdb-api.com/images/original/MV5BMTg5MzUxNzgxNV5BMl5BanBnXkFtZTgwMTM2NzQ3MjI@._V1_Ratio0.6842_AL_.jpg",
+            "plot": "A suit-wearing, briefcase-carrying baby pairs up with his 7-year old brother to stop the dastardly plot of the CEO of Puppy Co.",
+            "directors": "Tom McGrath",
+            "stars": "Alec Baldwin, Steve Buscemi, Jimmy Kimmel",
+            "genres": "Animation, Adventure, Comedy",
+            "imDbRating": "6.3"
+        },
+        {
+            "id": "tt3521164",
+            "title": "Moana",
+            "fullTitle": "",
+            "year": "",
+            "image": "https://imdb-api.com/images/original/MV5BMjI4MzU5NTExNF5BMl5BanBnXkFtZTgwNzY1MTEwMDI@._V1_Ratio0.6737_AL_.jpg",
+            "plot": "In Ancient Polynesia, when a terrible curse incurred by the Demigod Maui reaches Moana's island, she answers the Ocean's call to seek out the Demigod to set things right.",
+            "directors": "Directors: Ron Clements, John Musker, and 2 more credits »",
+            "stars": "Auli'i Cravalho, Dwayne Johnson, Rachel House",
+            "genres": "Animation, Adventure, Comedy",
+            "imDbRating": "7.6"
+        },
+        {
+            "id": "tt1679335",
+            "title": "Trolls",
+            "fullTitle": "Trolls (2016)",
+            "year": "2016",
+            "image": "https://imdb-api.com/images/original/MV5BMTkxNDc3OTcxMV5BMl5BanBnXkFtZTgwODk2NjAzOTE@._V1_Ratio0.6737_AL_.jpg",
+            "plot": "After the Bergens invade Troll Village, Poppy, the happiest Troll ever born, and the curmudgeonly Branch set off on a journey to rescue her friends.",
+            "directors": "Directors: Mike Mitchell, Walt Dohrn",
+            "stars": "Anna Kendrick, Justin Timberlake, Zooey Deschanel",
+            "genres": "Animation, Adventure, Comedy",
+            "imDbRating": "6.5"
+        },
+        {
+            "id": "tt6467266",
+            "title": "Sing 2",
+            "fullTitle": "Sing 2 (2021)",
+            "year": "2021",
+            "image": "https://imdb-api.com/images/original/MV5BNTA4NTRhZGUtYTJjNi00YTBkLTlhNjYtOThjZjY4ZTFiZmRhXkEyXkFqcGdeQXVyODk4OTc3MTY@._V1_Ratio0.6737_AL_.jpg",
+            "plot": "Buster Moon and his friends must persuade reclusive rock star Clay Calloway to join them for the opening of a new show.",
+            "directors": "Garth Jennings",
+            "stars": "Matthew McConaughey, Taron Egerton, Tori Kelly",
+            "genres": "Animation, Adventure, Comedy",
+            "imDbRating": ""
+        },
+        {
+            "id": "tt1323594",
+            "title": "Despicable Me",
+            "fullTitle": "Despicable Me (2010)",
+            "year": "2010",
+            "image": "https://imdb-api.com/images/original/MV5BMTY3NjY0MTQ0Nl5BMl5BanBnXkFtZTcwMzQ2MTc0Mw@@._V1_Ratio0.6737_AL_.jpg",
+            "plot": "When a criminal mastermind uses a trio of orphan girls as pawns for a grand scheme, he finds their love is profoundly changing him for the better.",
+            "directors": "Directors: Pierre Coffin, Chris Renaud",
+            "stars": "Steve Carell, Jason Segel, Russell Brand",
+            "genres": "Animation, Comedy, Crime",
+            "imDbRating": "7.6"
+        },
+        {
+            "id": "tt0398286",
+            "title": "Tangled",
+            "fullTitle": "Tangled (2010)",
+            "year": "2010",
+            "image": "https://imdb-api.com/images/original/MV5BMTAxNDYxMjg0MjNeQTJeQWpwZ15BbWU3MDcyNTk2OTM@._V1_Ratio0.6737_AL_.jpg",
+            "plot": "The magically long-haired Rapunzel has spent her entire life in a tower, but now that a runaway thief has stumbled upon her, she is about to discover the world for the first time, and who she really is.",
+            "directors": "Directors: Nathan Greno, Byron Howard",
+            "stars": "Mandy Moore, Zachary Levi, Donna Murphy",
+            "genres": "Animation, Adventure, Comedy",
+            "imDbRating": "7.7"
+        },
+        {
+            "id": "tt1772341",
+            "title": "Wreck-It Ralph",
+            "fullTitle": "Wreck-It Ralph (2012)",
+            "year": "2012",
+            "image": "https://imdb-api.com/images/original/MV5BNzMxNTExOTkyMF5BMl5BanBnXkFtZTcwMzEyNDc0OA@@._V1_Ratio0.6737_AL_.jpg",
+            "plot": "A video game villain wants to be a hero and sets out to fulfill his dream, but his quest brings havoc to the whole arcade where he lives.",
+            "directors": "Rich Moore",
+            "stars": "John C. Reilly, Jack McBrayer, Jane Lynch",
+            "genres": "Animation, Adventure, Comedy",
+            "imDbRating": "7.7"
+        },
+        {
+            "id": "tt2245084",
+            "title": "Big Hero 6",
+            "fullTitle": "Big Hero 6 (2014)",
+            "year": "2014",
+            "image": "https://imdb-api.com/images/original/MV5BMDliOTIzNmUtOTllOC00NDU3LWFiNjYtMGM0NDc1YTMxNjYxXkEyXkFqcGdeQXVyNTM3NzExMDQ@._V1_Ratio0.6947_AL_.jpg",
+            "plot": "A special bond develops between plus-sized inflatable robot Baymax and prodigy Hiro Hamada, who together team up with a group of friends to form a band of high-tech heroes.",
+            "directors": "Directors: Don Hall, Chris Williams",
+            "stars": "Ryan Potter, Scott Adsit, Jamie Chung",
+            "genres": "Animation, Action, Adventure",
+            "imDbRating": "7.8"
+        }
+    ],
+    "tvSeriesInfo": null,
+    "tvEpisodeInfo": null,
+    "errorMessage": ""
+}

@@ -1,0 +1,875 @@
+{
+    "id": "tt3581652",
+    "title": "West Side Story",
+    "originalTitle": "",
+    "fullTitle": "West Side Story (2021)",
+    "type": "Movie",
+    "year": "2021",
+    "image": "https://imdb-api.com/images/original/MV5BMjYxOGIxNDEtZDJhNi00Y2QzLTg5NTUtNGRiMTUyMzFiYTU4XkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_Ratio0.6791_AL_.jpg",
+    "releaseDate": "2021-12-09",
+    "runtimeMins": "",
+    "runtimeStr": "",
+    "plot": "An adaptation of the 1957 musical, West Side Story explores forbidden love and the rivalry between the Jets and the Sharks, two teenage street gangs of different ethnic backgrounds.",
+    "plotLocal": "",
+    "plotLocalIsRtl": false,
+    "awards": "",
+    "directors": "Steven Spielberg",
+    "directorList": [{ "id": "nm0000229", "name": "Steven Spielberg" }],
+    "writers": "Tony Kushner, Arthur Laurents",
+    "writerList": [
+        { "id": "nm1065785", "name": "Tony Kushner" },
+        { "id": "nm0491306", "name": "Arthur Laurents" }
+    ],
+    "stars": "Ansel Elgort, Rachel Zegler, Ariana DeBose, David Alvarez",
+    "starList": [
+        { "id": "nm5052065", "name": "Ansel Elgort" },
+        { "id": "nm10399505", "name": "Rachel Zegler" },
+        { "id": "nm3663196", "name": "Ariana DeBose" },
+        { "id": "nm3174725", "name": "David Alvarez" }
+    ],
+    "actorList": [
+        {
+            "id": "nm5052065",
+            "image": "https://imdb-api.com/images/original/MV5BZTk1NWNmMTEtODdiMS00YzQ1LTg4MDQtMDczMzU5OGM3ZGFhXkEyXkFqcGdeQXVyODIzMDE1OTg@._V1_Ratio0.7273_AL_.jpg",
+            "name": "Ansel Elgort",
+            "asCharacter": "Tony"
+        },
+        {
+            "id": "nm10399505",
+            "image": "https://imdb-api.com/images/original/MV5BMjQyNzg3MDQ2OF5BMl5BanBnXkFtZTgwMDAzNjcxNzM@._V1_Ratio1.0000_AL_.jpg",
+            "name": "Rachel Zegler",
+            "asCharacter": "Maria Vasquez"
+        },
+        {
+            "id": "nm3663196",
+            "image": "https://imdb-api.com/images/original/MV5BZjNkNzI4YTItY2ZhNi00YmIyLWFlYTMtNTdjMzcwNTdiMDkyXkEyXkFqcGdeQXVyOTc3OTcwMTk@._V1_Ratio0.7273_AL_.jpg",
+            "name": "Ariana DeBose",
+            "asCharacter": "Anita"
+        },
+        {
+            "id": "nm3174725",
+            "image": "https://imdb-api.com/images/original/MV5BZDM3YmFiMmYtNWRmZS00M2YzLWEzMTctZTEwMmFhZjYxZTEzXkEyXkFqcGdeQXVyNjY5NDgzNjQ@._V1_Ratio1.0455_AL_.jpg",
+            "name": "David Alvarez",
+            "asCharacter": "Bernardo Vasquez"
+        },
+        {
+            "id": "nm4576311",
+            "image": "https://imdb-api.com/images/original/MV5BMDA3OTBlZmMtOTRmMi00NTIzLWEyNTAtNmExZjkyNWM3ZjBkXkEyXkFqcGdeQXVyNDc4NDA4NTM@._V1_Ratio0.7273_AL_.jpg",
+            "name": "Mike Faist",
+            "asCharacter": "Riff"
+        },
+        {
+            "id": "nm10399506",
+            "image": "https://imdb-api.com/images/original/MV5BYjhlYmI3MDItYmQzYi00ZjM0LTg4MjctZDIyNWIwOGYyYmU0XkEyXkFqcGdeQXVyOTk1MDQyNTc@._V1_Ratio0.7273_AL_.jpg",
+            "name": "Josh Andrés Rivera",
+            "asCharacter": "Chino"
+        },
+        {
+            "id": "nm3677062",
+            "image": "https://imdb-api.com/images/original/MV5BNGM0MTMxZDQtOGNhOC00OWM1LThiODgtOTg1YzU2NTY0NjdlXkEyXkFqcGdeQXVyMjQwMDg0Ng@@._V1_Ratio0.7727_AL_.jpg",
+            "name": "Ana Isabelle",
+            "asCharacter": "Rosalia"
+        },
+        {
+            "id": "nm1015684",
+            "image": "https://imdb-api.com/images/original/MV5BMzU5MjUwMDYzOF5BMl5BanBnXkFtZTcwMDcwOTkwOQ@@._V1_Ratio0.9545_AL_.jpg",
+            "name": "Corey Stoll",
+            "asCharacter": "Lieutenant Schrank"
+        },
+        {
+            "id": "nm0195421",
+            "image": "https://imdb-api.com/images/original/MV5BNTQ2MDY4MTU1OF5BMl5BanBnXkFtZTcwMDU2NTI4Nw@@._V1_Ratio0.7273_AL_.jpg",
+            "name": "Brian d'Arcy James",
+            "asCharacter": "Officer Krupke"
+        },
+        {
+            "id": "nm0001549",
+            "image": "https://imdb-api.com/images/original/MV5BMTkyMzI4ODExM15BMl5BanBnXkFtZTcwNjkzNDEzNw@@._V1_Ratio0.7273_AL_.jpg",
+            "name": "Rita Moreno",
+            "asCharacter": "Valentina"
+        },
+        {
+            "id": "nm1478007",
+            "image": "https://imdb-api.com/images/original/MV5BMjM4NTk0NDM5OV5BMl5BanBnXkFtZTgwMDQzNzc5MDE@._V1_Ratio1.2727_AL_.jpg",
+            "name": "Curtiss Cook",
+            "asCharacter": "Abe"
+        },
+        {
+            "id": "nm2334991",
+            "image": "https://imdb-api.com/images/original/MV5BMGJhMTVjNTUtZThkYy00ZDZmLTlkYjctYWMxN2YwM2IzMWJhXkEyXkFqcGdeQXVyMTgyNTEzNDM@._V1_Ratio1.5000_AL_.jpg",
+            "name": "Kevin Csolak",
+            "asCharacter": "Diesel"
+        },
+        {
+            "id": "nm10772681",
+            "image": "https://imdb-api.com/images/original/MV5BZGU5ZTQ0NDktMmE3Yy00OGEyLWJhMzYtZWY1MDA4MTg4MTRkXkEyXkFqcGdeQXVyNjUxMjc1OTM@._V1_Ratio0.7727_AL_.jpg",
+            "name": "Ezra Menas",
+            "asCharacter": "Anybodys"
+        },
+        {
+            "id": "nm4213259",
+            "image": "https://imdb-api.com/images/original/MV5BOWI4YTM2ZjUtZmM0MC00ODBkLTkzNTEtMTQ0MDgwZWIxNWFlXkEyXkFqcGdeQXVyNzI1MjM2MjM@._V1_Ratio0.7273_AL_.jpg",
+            "name": "Ben Cook",
+            "asCharacter": "Mouthpiece"
+        },
+        {
+            "id": "nm10858587",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Sean Harrison Jones",
+            "asCharacter": "Action"
+        }
+    ],
+    "fullCast": null,
+    "genres": "Crime, Drama, Musical, Romance",
+    "genreList": [
+        { "key": "Crime", "value": "Crime" },
+        { "key": "Drama", "value": "Drama" },
+        { "key": "Musical", "value": "Musical" },
+        { "key": "Romance", "value": "Romance" }
+    ],
+    "companies": "20th Century Studios, Amblin Entertainment",
+    "companyList": [
+        { "id": "co0781821", "name": "20th Century Studios" },
+        { "id": "co0009119", "name": "Amblin Entertainment" }
+    ],
+    "countries": "USA",
+    "countryList": [{ "key": "USA", "value": "USA" }],
+    "languages": "English, Spanish",
+    "languageList": [
+        { "key": "English", "value": "English" },
+        { "key": "Spanish", "value": "Spanish" }
+    ],
+    "contentRating": "",
+    "imDbRating": "",
+    "imDbRatingVotes": "",
+    "metacriticRating": "86",
+    "ratings": null,
+    "wikipedia": null,
+    "posters": {
+        "imDbId": "tt3581652",
+        "title": "West Side Story",
+        "fullTitle": "West Side Story (2021)",
+        "type": "Movie",
+        "year": "2021",
+        "posters": [
+            {
+                "id": "zeAZTPxV5xZRNEX3rZotnsp7IVo.jpg",
+                "link": "https://imdb-api.com/posters/original/zeAZTPxV5xZRNEX3rZotnsp7IVo.jpg",
+                "aspectRatio": 0.6666666666666666,
+                "language": "en",
+                "width": 1400,
+                "height": 2100
+            },
+            {
+                "id": "myAX5qoD6YVLNGiWpk2wcU66Vfq.jpg",
+                "link": "https://imdb-api.com/posters/original/myAX5qoD6YVLNGiWpk2wcU66Vfq.jpg",
+                "aspectRatio": 0.6666666666666666,
+                "language": "en",
+                "width": 2000,
+                "height": 3000
+            },
+            {
+                "id": "7o6U45wrl84BuNj0VdE9BnJ8Mh0.jpg",
+                "link": "https://imdb-api.com/posters/original/7o6U45wrl84BuNj0VdE9BnJ8Mh0.jpg",
+                "aspectRatio": 0.6666666666666666,
+                "language": "en",
+                "width": 2000,
+                "height": 3000
+            },
+            {
+                "id": "qaVxXMYfPCPj3Mg68x4WCZ13IbQ.jpg",
+                "link": "https://imdb-api.com/posters/original/qaVxXMYfPCPj3Mg68x4WCZ13IbQ.jpg",
+                "aspectRatio": 0.6666666666666666,
+                "language": "en",
+                "width": 1200,
+                "height": 1800
+            },
+            {
+                "id": "2K9YArkYUWPEzUl89DhFYdfW7DF.jpg",
+                "link": "https://imdb-api.com/posters/original/2K9YArkYUWPEzUl89DhFYdfW7DF.jpg",
+                "aspectRatio": 0.6666666666666666,
+                "language": "en",
+                "width": 2000,
+                "height": 3000
+            },
+            {
+                "id": "wtpWTviHZoz5D0uVaYsvitI4bPP.jpg",
+                "link": "https://imdb-api.com/posters/original/wtpWTviHZoz5D0uVaYsvitI4bPP.jpg",
+                "aspectRatio": 0.6666666666666666,
+                "language": "en",
+                "width": 500,
+                "height": 750
+            },
+            {
+                "id": "oWB42nvQuEcXpE48unStmo8GfNm.jpg",
+                "link": "https://imdb-api.com/posters/original/oWB42nvQuEcXpE48unStmo8GfNm.jpg",
+                "aspectRatio": 0.6666666666666666,
+                "language": "en",
+                "width": 2000,
+                "height": 3000
+            },
+            {
+                "id": "FscJccGFbhbVivMqvCKveUUX2k.jpg",
+                "link": "https://imdb-api.com/posters/original/FscJccGFbhbVivMqvCKveUUX2k.jpg",
+                "aspectRatio": 0.6666666666666666,
+                "language": "en",
+                "width": 2000,
+                "height": 3000
+            },
+            {
+                "id": "oD3DPm8Q81wGcmNCFTaCY96nQDx.jpg",
+                "link": "https://imdb-api.com/posters/original/oD3DPm8Q81wGcmNCFTaCY96nQDx.jpg",
+                "aspectRatio": 0.6666666666666666,
+                "language": "en",
+                "width": 2000,
+                "height": 3000
+            },
+            {
+                "id": "adJDy0r0iVlq0PikizpFlL0Yd6v.jpg",
+                "link": "https://imdb-api.com/posters/original/adJDy0r0iVlq0PikizpFlL0Yd6v.jpg",
+                "aspectRatio": 0.6754545454545454,
+                "language": "en",
+                "width": 743,
+                "height": 1100
+            },
+            {
+                "id": "XzLQIQltdpOHzZJoWGNVpt5VTs.jpg",
+                "link": "https://imdb-api.com/posters/original/XzLQIQltdpOHzZJoWGNVpt5VTs.jpg",
+                "aspectRatio": 0.6555555555555556,
+                "language": "en",
+                "width": 826,
+                "height": 1260
+            },
+            {
+                "id": "3WnyUEG41PXB1YIu4JR1z8om0Xj.jpg",
+                "link": "https://imdb-api.com/posters/original/3WnyUEG41PXB1YIu4JR1z8om0Xj.jpg",
+                "aspectRatio": 0.6666666666666666,
+                "language": "en",
+                "width": 2000,
+                "height": 3000
+            },
+            {
+                "id": "5ucPZWXr0ha0AXgoXUM0C2swuyJ.jpg",
+                "link": "https://imdb-api.com/posters/original/5ucPZWXr0ha0AXgoXUM0C2swuyJ.jpg",
+                "aspectRatio": 0.6666666666666666,
+                "language": "en",
+                "width": 2000,
+                "height": 3000
+            },
+            {
+                "id": "uvDAImzaVVO04h3CUM1pVJ535nf.jpg",
+                "link": "https://imdb-api.com/posters/original/uvDAImzaVVO04h3CUM1pVJ535nf.jpg",
+                "aspectRatio": 0.6666666666666666,
+                "language": "en",
+                "width": 2000,
+                "height": 3000
+            }
+        ],
+        "backdrops": [
+            {
+                "id": "r4VQbiydjDH7ULo1HWjkkrNt3da.jpg",
+                "link": "https://imdb-api.com/posters/original/r4VQbiydjDH7ULo1HWjkkrNt3da.jpg",
+                "aspectRatio": 1.7778317938745747,
+                "language": "en",
+                "width": 3657,
+                "height": 2057
+            },
+            {
+                "id": "vaBJ66RgdMbkvKVMlufpMR0plUQ.jpg",
+                "link": "https://imdb-api.com/posters/original/vaBJ66RgdMbkvKVMlufpMR0plUQ.jpg",
+                "aspectRatio": 1.7774851876234365,
+                "language": "en",
+                "width": 2700,
+                "height": 1519
+            },
+            {
+                "id": "tlZ1VfSW7H83rsG5glNgkdYaLDX.jpg",
+                "link": "https://imdb-api.com/posters/original/tlZ1VfSW7H83rsG5glNgkdYaLDX.jpg",
+                "aspectRatio": 1.7773892773892774,
+                "language": "en",
+                "width": 3050,
+                "height": 1716
+            },
+            {
+                "id": "5AsGyFhqtKJfSVShodDBFTRZx8F.jpg",
+                "link": "https://imdb-api.com/posters/original/5AsGyFhqtKJfSVShodDBFTRZx8F.jpg",
+                "aspectRatio": 1.7777777777777777,
+                "language": "en",
+                "width": 3840,
+                "height": 2160
+            },
+            {
+                "id": "sLjEHJ8S3HTx81OExYmagKg7Qam.jpg",
+                "link": "https://imdb-api.com/posters/original/sLjEHJ8S3HTx81OExYmagKg7Qam.jpg",
+                "aspectRatio": 1.7777777777777777,
+                "language": "en",
+                "width": 3840,
+                "height": 2160
+            },
+            {
+                "id": "tHnHTp50qDx7br1i9ulh74MUW0A.jpg",
+                "link": "https://imdb-api.com/posters/original/tHnHTp50qDx7br1i9ulh74MUW0A.jpg",
+                "aspectRatio": 1.7787663107947806,
+                "language": "en",
+                "width": 2999,
+                "height": 1686
+            },
+            {
+                "id": "2Kn1nNN0KjAVGh4bMgUFMvEZftN.jpg",
+                "link": "https://imdb-api.com/posters/original/2Kn1nNN0KjAVGh4bMgUFMvEZftN.jpg",
+                "aspectRatio": 1.7777777777777777,
+                "language": "en",
+                "width": 3840,
+                "height": 2160
+            },
+            {
+                "id": "9Fugr6O3NrJevAeQQH1mguNFgmT.jpg",
+                "link": "https://imdb-api.com/posters/original/9Fugr6O3NrJevAeQQH1mguNFgmT.jpg",
+                "aspectRatio": 1.7777777777777777,
+                "language": "en",
+                "width": 3840,
+                "height": 2160
+            },
+            {
+                "id": "u4hcRd8wSaLsDTNPIHrPIQL7JHl.jpg",
+                "link": "https://imdb-api.com/posters/original/u4hcRd8wSaLsDTNPIHrPIQL7JHl.jpg",
+                "aspectRatio": 1.7773892773892774,
+                "language": "en",
+                "width": 3050,
+                "height": 1716
+            },
+            {
+                "id": "fVJFI8ugZPyciTcID2aiZSeG1Xu.jpg",
+                "link": "https://imdb-api.com/posters/original/fVJFI8ugZPyciTcID2aiZSeG1Xu.jpg",
+                "aspectRatio": 1.7773892773892774,
+                "language": "en",
+                "width": 3050,
+                "height": 1716
+            },
+            {
+                "id": "tvcWAH4sj19bCkiU1t0JqdDGxmj.jpg",
+                "link": "https://imdb-api.com/posters/original/tvcWAH4sj19bCkiU1t0JqdDGxmj.jpg",
+                "aspectRatio": 1.7773892773892774,
+                "language": "en",
+                "width": 3050,
+                "height": 1716
+            },
+            {
+                "id": "ri0UMGNLQNZvZv3cvGGWnR2s8W3.jpg",
+                "link": "https://imdb-api.com/posters/original/ri0UMGNLQNZvZv3cvGGWnR2s8W3.jpg",
+                "aspectRatio": 1.7773892773892774,
+                "language": "en",
+                "width": 3050,
+                "height": 1716
+            },
+            {
+                "id": "dTZDMWIajTeIxIRwruaQzGK8EH7.jpg",
+                "link": "https://imdb-api.com/posters/original/dTZDMWIajTeIxIRwruaQzGK8EH7.jpg",
+                "aspectRatio": 1.7773892773892774,
+                "language": "en",
+                "width": 3050,
+                "height": 1716
+            },
+            {
+                "id": "9cq7LpBi5S1YDng17nTMVVgpuOV.jpg",
+                "link": "https://imdb-api.com/posters/original/9cq7LpBi5S1YDng17nTMVVgpuOV.jpg",
+                "aspectRatio": 1.7773892773892774,
+                "language": "en",
+                "width": 3050,
+                "height": 1716
+            },
+            {
+                "id": "7EoLAG8tqqg5WnSeYXhHUqj9VPx.jpg",
+                "link": "https://imdb-api.com/posters/original/7EoLAG8tqqg5WnSeYXhHUqj9VPx.jpg",
+                "aspectRatio": 1.7773892773892774,
+                "language": "en",
+                "width": 3050,
+                "height": 1716
+            },
+            {
+                "id": "pd70xt07DjHv6tRq15BdJS8PxcQ.jpg",
+                "link": "https://imdb-api.com/posters/original/pd70xt07DjHv6tRq15BdJS8PxcQ.jpg",
+                "aspectRatio": 1.7773892773892774,
+                "language": "en",
+                "width": 3050,
+                "height": 1716
+            },
+            {
+                "id": "gbVsG16uBcOZ9ELM8JgE9OItsVn.jpg",
+                "link": "https://imdb-api.com/posters/original/gbVsG16uBcOZ9ELM8JgE9OItsVn.jpg",
+                "aspectRatio": 1.7773892773892774,
+                "language": "en",
+                "width": 3050,
+                "height": 1716
+            },
+            {
+                "id": "qYLoVe0UKahrFdFlLQaO7Ql2Mmr.jpg",
+                "link": "https://imdb-api.com/posters/original/qYLoVe0UKahrFdFlLQaO7Ql2Mmr.jpg",
+                "aspectRatio": 1.7773892773892774,
+                "language": "en",
+                "width": 3050,
+                "height": 1716
+            },
+            {
+                "id": "8rXXbS8JfeJykGS8w1jRzYVGcLp.jpg",
+                "link": "https://imdb-api.com/posters/original/8rXXbS8JfeJykGS8w1jRzYVGcLp.jpg",
+                "aspectRatio": 1.7773892773892774,
+                "language": "en",
+                "width": 3050,
+                "height": 1716
+            },
+            {
+                "id": "g8kwYRczR000zWPyhIWh7sTwDDT.jpg",
+                "link": "https://imdb-api.com/posters/original/g8kwYRczR000zWPyhIWh7sTwDDT.jpg",
+                "aspectRatio": 1.7773892773892774,
+                "language": "en",
+                "width": 3050,
+                "height": 1716
+            },
+            {
+                "id": "ks2l3BGZ1m67ikbKOxyzcFFQ4rl.jpg",
+                "link": "https://imdb-api.com/posters/original/ks2l3BGZ1m67ikbKOxyzcFFQ4rl.jpg",
+                "aspectRatio": 1.7773892773892774,
+                "language": "en",
+                "width": 3050,
+                "height": 1716
+            },
+            {
+                "id": "utTw7hn5o7q1Rnd0k1o06ZluXOz.jpg",
+                "link": "https://imdb-api.com/posters/original/utTw7hn5o7q1Rnd0k1o06ZluXOz.jpg",
+                "aspectRatio": 1.7777777777777777,
+                "language": "en",
+                "width": 3840,
+                "height": 2160
+            },
+            {
+                "id": "uGfnXYsDvjh9tsfURi4rDM2g4Pe.jpg",
+                "link": "https://imdb-api.com/posters/original/uGfnXYsDvjh9tsfURi4rDM2g4Pe.jpg",
+                "aspectRatio": 1.7773892773892774,
+                "language": "en",
+                "width": 3050,
+                "height": 1716
+            },
+            {
+                "id": "7922EDFhTkNHQX6qFgeC2nMwLaK.jpg",
+                "link": "https://imdb-api.com/posters/original/7922EDFhTkNHQX6qFgeC2nMwLaK.jpg",
+                "aspectRatio": 1.7776523702031604,
+                "language": "en",
+                "width": 3150,
+                "height": 1772
+            },
+            {
+                "id": "fGeKHWjglxvxPERdmII6M8MQFUZ.jpg",
+                "link": "https://imdb-api.com/posters/original/fGeKHWjglxvxPERdmII6M8MQFUZ.jpg",
+                "aspectRatio": 1.7773892773892774,
+                "language": "en",
+                "width": 3050,
+                "height": 1716
+            },
+            {
+                "id": "eiq4QfnNUB7Qdjon4MmLRk4dv0N.jpg",
+                "link": "https://imdb-api.com/posters/original/eiq4QfnNUB7Qdjon4MmLRk4dv0N.jpg",
+                "aspectRatio": 1.7777777777777777,
+                "language": "en",
+                "width": 3840,
+                "height": 2160
+            },
+            {
+                "id": "dwKOaBBhFxj6KzHSb1FDFSjBuLG.jpg",
+                "link": "https://imdb-api.com/posters/original/dwKOaBBhFxj6KzHSb1FDFSjBuLG.jpg",
+                "aspectRatio": 1.7777777777777777,
+                "language": "en",
+                "width": 3840,
+                "height": 2160
+            },
+            {
+                "id": "qSWPOQvsjRIV98Colkquf38m5sA.jpg",
+                "link": "https://imdb-api.com/posters/original/qSWPOQvsjRIV98Colkquf38m5sA.jpg",
+                "aspectRatio": 1.7777777777777777,
+                "language": "en",
+                "width": 3840,
+                "height": 2160
+            },
+            {
+                "id": "exnFsbb9c3fDutTsgtJSWcDmZm0.jpg",
+                "link": "https://imdb-api.com/posters/original/exnFsbb9c3fDutTsgtJSWcDmZm0.jpg",
+                "aspectRatio": 1.7777777777777777,
+                "language": "en",
+                "width": 3840,
+                "height": 2160
+            },
+            {
+                "id": "wFxHNIfmBycOgkv4S74iTt8DjTJ.jpg",
+                "link": "https://imdb-api.com/posters/original/wFxHNIfmBycOgkv4S74iTt8DjTJ.jpg",
+                "aspectRatio": 1.7777777777777777,
+                "language": "en",
+                "width": 3840,
+                "height": 2160
+            },
+            {
+                "id": "jqMkVcUEQ1bbq3jJxqO4GyASSOe.jpg",
+                "link": "https://imdb-api.com/posters/original/jqMkVcUEQ1bbq3jJxqO4GyASSOe.jpg",
+                "aspectRatio": 1.7777777777777777,
+                "language": "en",
+                "width": 3840,
+                "height": 2160
+            },
+            {
+                "id": "k82Qg6MT3cRFfG9wcvLx2Dwr2TA.jpg",
+                "link": "https://imdb-api.com/posters/original/k82Qg6MT3cRFfG9wcvLx2Dwr2TA.jpg",
+                "aspectRatio": 1.7777777777777777,
+                "language": "en",
+                "width": 3840,
+                "height": 2160
+            },
+            {
+                "id": "9OTc1vt5FHoTRRNZ5BsHxHBk0lh.jpg",
+                "link": "https://imdb-api.com/posters/original/9OTc1vt5FHoTRRNZ5BsHxHBk0lh.jpg",
+                "aspectRatio": 1.7777777777777777,
+                "language": "en",
+                "width": 3840,
+                "height": 2160
+            }
+        ],
+        "errorMessage": ""
+    },
+    "images": {
+        "imDbId": "tt3581652",
+        "title": "West Side Story",
+        "fullTitle": "West Side Story (2021)",
+        "type": "Movie",
+        "year": "2021",
+        "items": [
+            {
+                "title": "Rachel Zegler and Ansel Elgort in West Side Story (2021)",
+                "image": "https://imdb-api.com/images/original/MV5BNzFkMjViN2EtZjcxZi00YTIwLTllNGItMTI4MGE0M2NiNjg3XkEyXkFqcGdeQXVyODIyOTEyMzY@._V1_Ratio2.3800_AL_.jpg"
+            },
+            {
+                "title": "Mike Faist and Ansel Elgort in West Side Story (2021)",
+                "image": "https://imdb-api.com/images/original/MV5BODIyYjg1OTktNDEwYy00N2Q4LTk0M2EtMWQ5NzRkZGIzNGMzXkEyXkFqcGdeQXVyODIyOTEyMzY@._V1_Ratio2.3800_AL_.jpg"
+            },
+            {
+                "title": "David Alvarez in West Side Story (2021)",
+                "image": "https://imdb-api.com/images/original/MV5BYjM2NmY2YTgtM2IzNy00MmYxLTk5OWQtYmZlNzFjMDdiN2Q4XkEyXkFqcGdeQXVyODIyOTEyMzY@._V1_Ratio2.3800_AL_.jpg"
+            },
+            {
+                "title": "West Side Story (2021)",
+                "image": "https://imdb-api.com/images/original/MV5BMjZlZDMyNjktN2Q4MC00YzYyLTgxZjEtZjk0NDZmODA5YThmXkEyXkFqcGdeQXVyODIyOTEyMzY@._V1_Ratio2.3800_AL_.jpg"
+            },
+            {
+                "title": "Rachel Zegler and Ansel Elgort in West Side Story (2021)",
+                "image": "https://imdb-api.com/images/original/MV5BN2MxOTVlYjQtZGM0YS00YTYzLWJjMTctMGFhYjFjNDVlNThiXkEyXkFqcGdeQXVyODIyOTEyMzY@._V1_Ratio2.3800_AL_.jpg"
+            },
+            {
+                "title": "Sean Harrison Jones, Patrick Higgins, Jess LeProtto, Kevin Csolak, Mike Faist, and Garett Hawe in West Side Story (2021)",
+                "image": "https://imdb-api.com/images/original/MV5BMWNkZWM1NzgtYTgwMy00MTc1LWIyYzQtZDk2MDA4MDE1ZWQ1XkEyXkFqcGdeQXVyODIyOTEyMzY@._V1_Ratio2.3800_AL_.jpg"
+            },
+            {
+                "title": "Rachel Zegler in West Side Story (2021)",
+                "image": "https://imdb-api.com/images/original/MV5BYTk5YmU0YjktNzRlZi00NDg2LTk1NmYtMTZmNTU3YjQyZjMwXkEyXkFqcGdeQXVyODIyOTEyMzY@._V1_Ratio2.3800_AL_.jpg"
+            },
+            {
+                "title": "Ansel Elgort in West Side Story (2021)",
+                "image": "https://imdb-api.com/images/original/MV5BYjE5ZjY5NjktZjI5NC00ZTQ4LTk0NGEtMTM3ZmVmMWQwNDBkXkEyXkFqcGdeQXVyODIyOTEyMzY@._V1_Ratio2.3800_AL_.jpg"
+            },
+            {
+                "title": "Ariana DeBose in West Side Story (2021)",
+                "image": "https://imdb-api.com/images/original/MV5BMDY3YWQzN2ItNDA0Yi00MzcwLTgyZjYtMWJjNTM3NDNlYjY3XkEyXkFqcGdeQXVyODIyOTEyMzY@._V1_Ratio2.3800_AL_.jpg"
+            },
+            {
+                "title": "Rachel Zegler in West Side Story (2021)",
+                "image": "https://imdb-api.com/images/original/MV5BZTIwMDQzNjktNjFhYy00YTI5LWJiYjgtYzYwNmNmNWFmNmY4XkEyXkFqcGdeQXVyODIyOTEyMzY@._V1_Ratio2.3800_AL_.jpg"
+            },
+            {
+                "title": "Ansel Elgort in West Side Story (2021)",
+                "image": "https://imdb-api.com/images/original/MV5BNzkwNjRhMWUtMTI5Zi00ZTA4LWE3NjQtYTViY2NkZWMyMzIwXkEyXkFqcGdeQXVyODIyOTEyMzY@._V1_Ratio1.5000_AL_.jpg"
+            },
+            {
+                "title": "David Alvarez in West Side Story (2021)",
+                "image": "https://imdb-api.com/images/original/MV5BMzBmNTA4YWYtOTg3ZC00OWEwLTgxMTAtYTU0MTVjMjc0NDU1XkEyXkFqcGdeQXVyODIyOTEyMzY@._V1_Ratio1.5000_AL_.jpg"
+            },
+            {
+                "title": "Ariana DeBose, Ana Isabelle, and Ilda Mason in West Side Story (2021)",
+                "image": "https://imdb-api.com/images/original/MV5BYjIzYjlhN2EtNGJmOC00NDlhLWIyMmItMDA1Yzk0YzhiY2Y4XkEyXkFqcGdeQXVyODIyOTEyMzY@._V1_Ratio1.7000_AL_.jpg"
+            },
+            {
+                "title": "Rachel Zegler in West Side Story (2021)",
+                "image": "https://imdb-api.com/images/original/MV5BMDljNjc2NTktZDhjNi00NzEwLWEzNzQtYjYyYmEzZGUyNTYxXkEyXkFqcGdeQXVyODIyOTEyMzY@._V1_Ratio1.5000_AL_.jpg"
+            },
+            {
+                "title": "Mike Faist in West Side Story (2021)",
+                "image": "https://imdb-api.com/images/original/MV5BNTAxNDk4YzQtYzJiMC00YmM0LTlkOWMtNGQwZjAxODJhZTZmXkEyXkFqcGdeQXVyODIyOTEyMzY@._V1_Ratio1.5000_AL_.jpg"
+            },
+            {
+                "title": "Rachel Zegler, Josh Andrés Rivera, Iris Menas, Ricardo Zayas, Carlos Sanchez Falu, Sean Harrison Jones, Patrick Higgins, David Alvarez, Julius Rubio, Ben Cook, Mike Faist, Ansel Elgort, and Sebastian Serra in West Side Story (2021)",
+                "image": "https://imdb-api.com/images/original/MV5BNjZmMDQwMGYtMDQwNC00NDI0LWFhMDctMTMwZGYxY2Q4M2IwXkEyXkFqcGdeQXVyODIyOTEyMzY@._V1_Ratio1.5000_AL_.jpg"
+            },
+            {
+                "title": "Rita Moreno in West Side Story (2021)",
+                "image": "https://imdb-api.com/images/original/MV5BMDBiM2I4YjQtZjllMi00ZWI3LWI4YzEtMDk5MGVhYmIzZjc0XkEyXkFqcGdeQXVyODIyOTEyMzY@._V1_Ratio1.0000_AL_.jpg"
+            },
+            {
+                "title": "Rita Moreno in West Side Story (2021)",
+                "image": "https://imdb-api.com/images/original/MV5BM2ZjMmVjOGUtMDEwYi00MjY3LWEzNzYtM2FiMmY3YjkyMjkyXkEyXkFqcGdeQXVyODIyOTEyMzY@._V1_Ratio1.5000_AL_.jpg"
+            },
+            {
+                "title": "Ariana DeBose in West Side Story (2021)",
+                "image": "https://imdb-api.com/images/original/MV5BZTNjZDFkNTAtMzY5Yy00ZTQ2LWJkMTQtOTE0ZjFmNjNlNmY5XkEyXkFqcGdeQXVyODIyOTEyMzY@._V1_Ratio1.5000_AL_.jpg"
+            },
+            {
+                "title": "Ariana DeBose in West Side Story (2021)",
+                "image": "https://imdb-api.com/images/original/MV5BMjc1NjhmZGMtNzQ4My00ZDk4LThiNDQtODM1ZDlkMWUyZWY5XkEyXkFqcGdeQXVyODIyOTEyMzY@._V1_Ratio1.7000_AL_.jpg"
+            },
+            {
+                "title": "Ansel Elgort in West Side Story (2021)",
+                "image": "https://imdb-api.com/images/original/MV5BYmU2MmQ2YzYtZTlkYy00NjAzLTg0ODUtMGQ2MzQwMDQ1NWQ1XkEyXkFqcGdeQXVyODIyOTEyMzY@._V1_Ratio1.6200_AL_.jpg"
+            },
+            {
+                "title": "Rachel Zegler in West Side Story (2021)",
+                "image": "https://imdb-api.com/images/original/MV5BYzM1MzdkZTgtZTA0MS00ZTE1LThjMTgtODEwNTRiZjlhNDFlXkEyXkFqcGdeQXVyODIyOTEyMzY@._V1_Ratio1.4600_AL_.jpg"
+            },
+            {
+                "title": "West Side Story (2021)",
+                "image": "https://imdb-api.com/images/original/MV5BZjA1N2I3MTItNTM0YS00ZWMwLWJmZTctNjdhYTM0MTQwZWI4XkEyXkFqcGdeQXVyODIyOTEyMzY@._V1_Ratio1.4600_AL_.jpg"
+            },
+            {
+                "title": "Rachel Zegler and Ansel Elgort in West Side Story (2021)",
+                "image": "https://imdb-api.com/images/original/MV5BNGY3ZTljODItMzM5MC00MzM0LTk0NDQtNmMzZGYyM2QzZjJjXkEyXkFqcGdeQXVyODIyOTEyMzY@._V1_Ratio1.5000_AL_.jpg"
+            },
+            {
+                "title": "Rachel Zegler in West Side Story (2021)",
+                "image": "https://imdb-api.com/images/original/MV5BNjFjNmZmMDQtZjI2NS00ZWU5LTgyOTktY2ZlMmRiZTIwMmMwXkEyXkFqcGdeQXVyMTEyMjM2NDc2._V1_Ratio1.7800_AL_.jpg"
+            },
+            {
+                "title": "Rachel Zegler in West Side Story (2021)",
+                "image": "https://imdb-api.com/images/original/MV5BZTBiNTgxODktZTcyZC00MzZhLTg2ZjQtOTk2Y2YwZDQ0ZWZmXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_Ratio2.3800_AL_.jpg"
+            },
+            {
+                "title": "Rachel Zegler, Josh Andrés Rivera, Sean Harrison Jones, Patrick Higgins, David Alvarez, Julius Rubio, Ben Cook, Mike Faist, Ansel Elgort, and Sebastian Serra in West Side Story (2021)",
+                "image": "https://imdb-api.com/images/original/MV5BNzdkNTQxZjMtNDdkNC00YjdiLTgwMGQtYjY4YmRlN2QwYjgwXkEyXkFqcGdeQXVyNjg2NjQwMDQ@._V1_Ratio1.5000_AL_.jpg"
+            },
+            {
+                "title": "West Side Story (2021)",
+                "image": "https://imdb-api.com/images/original/MV5BMmNiMjAxM2EtMDliZS00MTNlLWI0NzEtM2MwYWUxMDc1NDAxXkEyXkFqcGdeQXVyMTA3MzQ4MTc0._V1_Ratio1.0200_AL_.jpg"
+            },
+            {
+                "title": "West Side Story (2021)",
+                "image": "https://imdb-api.com/images/original/MV5BYTEwNTc3YzgtZjFjOC00YTI1LWI4M2QtMjVkYzA2ZTdiZTcxXkEyXkFqcGdeQXVyMTA3MzQ4MTc0._V1_Ratio1.5200_AL_.jpg"
+            },
+            {
+                "title": "West Side Story (2021)",
+                "image": "https://imdb-api.com/images/original/MV5BZmJkNzI4MjMtOTQ0MS00MDNlLTg5ZWMtZWU2YTc5OTM4ZWFjXkEyXkFqcGdeQXVyMTA3MzQ4MTc0._V1_Ratio1.0000_AL_.jpg"
+            },
+            {
+                "title": "West Side Story (2021)",
+                "image": "https://imdb-api.com/images/original/MV5BZjg2NjY2MzctOTQyMy00YWQ5LWEwNDItOGQ2ZjFkMWJjMTI3XkEyXkFqcGdeQXVyMTA3MzQ4MTc0._V1_Ratio1.0000_AL_.jpg"
+            },
+            {
+                "title": "West Side Story (2021)",
+                "image": "https://imdb-api.com/images/original/MV5BZjVmMzA1N2YtYWU5Yy00ZmIxLWI0NDgtYTQ1MTQ2YWQ0MTgzXkEyXkFqcGdeQXVyMTA3MzQ4MTc0._V1_Ratio1.0000_AL_.jpg"
+            },
+            {
+                "title": "Ariana DeBose in West Side Story (2021)",
+                "image": "https://imdb-api.com/images/original/MV5BOTI2MTIyZWYtYTMyNy00NzJkLWI3MzYtYzVjOWI5MTI5ZjliXkEyXkFqcGdeQXVyODk4OTc3MTY@._V1_Ratio1.5000_AL_.jpg"
+            },
+            {
+                "title": "Steven Spielberg and Rita Moreno in West Side Story (2021)",
+                "image": "https://imdb-api.com/images/original/MV5BODMyZDVkZDQtZDRjNS00YmIzLTg0ZjUtNDE5MTllNjljZTRkXkEyXkFqcGdeQXVyODIyOTEyMzY@._V1_Ratio1.4400_AL_.jpg"
+            },
+            {
+                "title": "Rachel Zegler and Ansel Elgort in West Side Story (2021)",
+                "image": "https://imdb-api.com/images/original/MV5BN2U3ZDBjZmUtN2RjNS00ZDJhLTk0OTQtNTU1MTE1ZGIyYTdlXkEyXkFqcGdeQXVyODc0OTEyNDU@._V1_Ratio1.0000_AL_.jpg"
+            },
+            {
+                "title": "Rachel Zegler and Ansel Elgort in West Side Story (2021)",
+                "image": "https://imdb-api.com/images/original/MV5BODdiMTg4YTAtYmU0Mi00NDAzLWFjNTMtYjYyODdiMzRmNmNiXkEyXkFqcGdeQXVyODc0OTEyNDU@._V1_Ratio1.0000_AL_.jpg"
+            },
+            {
+                "title": "Rachel Zegler and Ansel Elgort in West Side Story (2021)",
+                "image": "https://imdb-api.com/images/original/MV5BMjI4YTJlOGItYTNjNi00MmU4LWIxMDMtZjVmYTljNzRkNzY2XkEyXkFqcGdeQXVyODc0OTEyNDU@._V1_Ratio1.0000_AL_.jpg"
+            },
+            {
+                "title": "Rachel Zegler and Ansel Elgort in West Side Story (2021)",
+                "image": "https://imdb-api.com/images/original/MV5BNzQzOTk5Y2YtNTMzMC00MDY4LWE5YzktMzZhZjVjZjMzNWRjXkEyXkFqcGdeQXVyODc0OTEyNDU@._V1_Ratio1.0000_AL_.jpg"
+            },
+            {
+                "title": "West Side Story (2021)",
+                "image": "https://imdb-api.com/images/original/MV5BYTMzY2YzMzYtNzhkNy00MDliLThhOTYtN2M1YjhkZGFmNzU5XkEyXkFqcGdeQXVyODc0OTEyNDU@._V1_Ratio1.0000_AL_.jpg"
+            },
+            {
+                "title": "West Side Story (2021)",
+                "image": "https://imdb-api.com/images/original/MV5BNDUzMGVkMmQtMWU4My00ZWYzLTk0YzktNWNkZGZiNmZhYTQzXkEyXkFqcGdeQXVyODc0OTEyNDU@._V1_Ratio1.0000_AL_.jpg"
+            },
+            {
+                "title": "Rachel Zegler and Ansel Elgort in West Side Story (2021)",
+                "image": "https://imdb-api.com/images/original/MV5BYzY0MTU5ZDEtYjI4NS00NjIyLWFiMjItNjYzMmM2NWEwMGM1XkEyXkFqcGdeQXVyODc0OTEyNDU@._V1_Ratio1.0000_AL_.jpg"
+            },
+            {
+                "title": "Rachel Zegler and Ansel Elgort in West Side Story (2021)",
+                "image": "https://imdb-api.com/images/original/MV5BNzc5ODg3NzAtNDE3ZS00MjM4LWJiMzYtNjM0NTA0ODBhZWQ0XkEyXkFqcGdeQXVyODc0OTEyNDU@._V1_Ratio1.0000_AL_.jpg"
+            },
+            {
+                "title": "West Side Story (2021)",
+                "image": "https://imdb-api.com/images/original/MV5BZjgzNTY0N2ItMDE2MC00MGViLWFiMTQtZDNlNTE5ZWE3NGU4XkEyXkFqcGdeQXVyMTA3MDk2NDg2._V1_Ratio1.0000_AL_.jpg"
+            },
+            {
+                "title": "West Side Story (2021)",
+                "image": "https://imdb-api.com/images/original/MV5BY2JkYThiNzYtNDMyMi00MWVkLTlkM2EtZGY2ZDI0MTYyYTNiXkEyXkFqcGdeQXVyMTA3MDk2NDg2._V1_Ratio1.0000_AL_.jpg"
+            },
+            {
+                "title": "Rachel Zegler and Ansel Elgort in West Side Story (2021)",
+                "image": "https://imdb-api.com/images/original/MV5BMzQ5ZDZhZDItZTNmZi00MWQ0LWJlNDUtZTE4ZWJmODNlM2Y3XkEyXkFqcGdeQXVyMDA4NzMyOA@@._V1_Ratio1.0000_AL_.jpg"
+            },
+            {
+                "title": "Rachel Zegler and Ansel Elgort in West Side Story (2021)",
+                "image": "https://imdb-api.com/images/original/MV5BNTlhMDRkNTQtZjAzOS00NGZhLWExM2YtM2UwODUzMDhjOWZkXkEyXkFqcGdeQXVyMTEyMjM2NDc2._V1_Ratio1.0000_AL_.jpg"
+            },
+            {
+                "title": "Rachel Zegler and Ansel Elgort in West Side Story (2021)",
+                "image": "https://imdb-api.com/images/original/MV5BYmRlY2ZiY2MtOGYyMi00ZTAzLThjY2YtNzIwNzY1OTA0NWI1XkEyXkFqcGdeQXVyNTk5NTQzNDI@._V1_Ratio1.0000_AL_.jpg"
+            },
+            {
+                "title": "Rachel Zegler and Ansel Elgort in West Side Story (2021)",
+                "image": "https://imdb-api.com/images/original/MV5BMTBiNDQxN2ItZTVmZi00YzAzLThlMmQtYmQ5MmM3MzczYWFiXkEyXkFqcGdeQXVyODIyOTEyMzY@._V1_Ratio1.0000_AL_.jpg"
+            }
+        ],
+        "errorMessage": ""
+    },
+    "trailer": {
+        "imDbId": "tt3581652",
+        "title": "West Side Story",
+        "fullTitle": "West Side Story (2021)",
+        "type": "Movie",
+        "year": "2021",
+        "videoId": null,
+        "videoTitle": null,
+        "videoDescription": null,
+        "thumbnailUrl": null,
+        "uploadDate": null,
+        "link": null,
+        "linkEmbed": null,
+        "errorMessage": "404 Not Founded Error"
+    },
+    "boxOffice": {
+        "budget": "$100,000,000 (estimated)",
+        "openingWeekendUSA": "",
+        "grossUSA": "",
+        "cumulativeWorldwideGross": ""
+    },
+    "tagline": "",
+    "keywords": "remake,year 1961,new york city,gang,rival",
+    "keywordList": ["remake", "year 1961", "new york city", "gang", "rival"],
+    "similars": [
+        {
+            "id": "tt0055614",
+            "title": "West Side Story",
+            "fullTitle": "West Side Story (1961)",
+            "year": "1961",
+            "image": "https://imdb-api.com/images/original/MV5BMTM0NDAxOTI5MF5BMl5BanBnXkFtZTcwNjI4Mjg3NA@@._V1_Ratio0.6737_AL_.jpg",
+            "plot": "Two youngsters from rival New York City gangs fall in love, but tensions between their respective friends build toward tragedy.",
+            "directors": "Directors: Jerome Robbins, Robert Wise",
+            "stars": "Natalie Wood, George Chakiris, Richard Beymer",
+            "genres": "Crime, Drama, Musical",
+            "imDbRating": "7.5"
+        },
+        {
+            "id": "tt3675680",
+            "title": "The Kidnapping of Edgardo Mortara",
+            "fullTitle": "",
+            "year": "",
+            "image": "https://imdb-api.com/images/original/MV5BYTBiYjdjODAtZjY1OC00ZDgwLTg5NzItZmRmYTg0OTE2OWU5XkEyXkFqcGdeQXVyMzQ0NTgwMTQ@._V1_Ratio0.8000_AL_.jpg",
+            "plot": "The treatment of a young Jewish boy, forcibly raised as a Christian in 19th century Italy, creates a furor which pits the Papacy itself against forces of democracy and Italian unification.",
+            "directors": "Steven Spielberg",
+            "stars": "",
+            "genres": "Drama, History",
+            "imDbRating": ""
+        },
+        {
+            "id": "tt10095308",
+            "title": "Pink Skies Ahead",
+            "fullTitle": "Pink Skies Ahead (2020)",
+            "year": "2020",
+            "image": "https://imdb-api.com/images/original/MV5BNzUyM2MyN2UtOGI4My00YzI2LWI0YzItMGZhMDRhOTAwZGRlXkEyXkFqcGdeQXVyNDkzMjYyMg@@._V1_Ratio0.6737_AL_.jpg",
+            "plot": "A young woman struggles with an anxiety disorder after dropping out of school.",
+            "directors": "Kelly Oxford",
+            "stars": "Rosa Salazar, Jessica Barden, Odeya Rush",
+            "genres": "Comedy, Drama",
+            "imDbRating": "6.3"
+        },
+        {
+            "id": "tt9777666",
+            "title": "The Tomorrow War",
+            "fullTitle": "The Tomorrow War (2021)",
+            "year": "2021",
+            "image": "https://imdb-api.com/images/original/MV5BZTQ4NmI3ZmUtNjI4Ny00YmI4LTgwYWEtMTk0YmRjN2Y3NDg5XkEyXkFqcGdeQXVyMDM2NDM2MQ@@._V1_Ratio0.6842_AL_.jpg",
+            "plot": "A man is drafted to fight in a future war where the fate of humanity relies on his ability to confront his past.",
+            "directors": "Chris McKay",
+            "stars": "Chris Pratt, Yvonne Strahovski, J.K. Simmons",
+            "genres": "Action, Adventure, Sci-Fi",
+            "imDbRating": ""
+        },
+        {
+            "id": "tt8760932",
+            "title": "Nine Perfect Strangers",
+            "fullTitle": "Nine Perfect Strangers (TV Mini-Series 2021)",
+            "year": "TV Mini-Series 2021",
+            "image": "https://imdb-api.com/images/original/MV5BYWFiYmViOWUtY2QyNS00OWVkLTlhYTctYjdjNTQwYWMwYTJkXkEyXkFqcGdeQXVyMTEyMjM2NDc2._V1_Ratio0.6737_AL_.jpg",
+            "plot": "Adaptation of Liane Moriarty's novel.",
+            "directors": "",
+            "stars": "Tiffany Boone, Bobby Cannavale, Luke Evans",
+            "genres": "Drama, Mystery, Thriller",
+            "imDbRating": ""
+        },
+        {
+            "id": "tt1321510",
+            "title": "In the Heights",
+            "fullTitle": "In the Heights (2021)",
+            "year": "2021",
+            "image": "https://imdb-api.com/images/original/MV5BMzM1ZDY0YTktZTYzZi00MjZjLTllMDMtMmNlMmM5NmY4ZjllXkEyXkFqcGdeQXVyMTA1OTcyNDQ4._V1_Ratio0.6737_AL_.jpg",
+            "plot": "The scent of a cafecito caliente hangs in the air just outside of the 181st Street subway stop. The likeable, magnetic bodega owner Usnavi saves every penny from his daily grind as he hopes, imagines and sings about a better life.",
+            "directors": "Jon M. Chu",
+            "stars": "Anthony Ramos, Corey Hawkins, Leslie Grace",
+            "genres": "Drama, Music, Musical",
+            "imDbRating": ""
+        },
+        {
+            "id": "tt12809988",
+            "title": "Sweet Tooth",
+            "fullTitle": "Sweet Tooth (TV Series 2021)",
+            "year": "TV Series 2021",
+            "image": "https://imdb-api.com/images/original/MV5BOTk4ZDRhYzEtZWExNy00MjIyLTgyYmMtN2Y2MzA4YzZhZTZmXkEyXkFqcGdeQXVyODk4OTc3MTY@._V1_Ratio0.8000_AL_.jpg",
+            "plot": "A boy who is half human and half deer survives in a post-apocalyptic world with other hybrids.",
+            "directors": "",
+            "stars": "Nonso Anozie, Christian Convery, Stefania LaVie Owen",
+            "genres": "Action, Adventure, Drama",
+            "imDbRating": ""
+        },
+        {
+            "id": "tt13009186",
+            "title": "The Boy from Medellín",
+            "fullTitle": "The Boy from Medellín (2020)",
+            "year": "2020",
+            "image": "https://imdb-api.com/images/original/MV5BNWFlMTMyOGUtYzA4Mi00MGY4LWEyODctZTEyYmJlOWE4OWViXkEyXkFqcGdeQXVyMTEyMjM2NDc2._V1_Ratio0.6737_AL_.jpg",
+            "plot": "Colombian reggaeton singer J Balvin prepares for his 2019 homecoming concert amid intense political turmoil, in Matthew Heineman's latest documentary.",
+            "directors": "Matthew Heineman",
+            "stars": "J Balvin",
+            "genres": "Documentary, Biography, Music",
+            "imDbRating": "5.8"
+        },
+        {
+            "id": "tt4635276",
+            "title": "Master of None",
+            "fullTitle": "Master of None (TV Series 2015)",
+            "year": "TV Series 2015",
+            "image": "https://imdb-api.com/images/original/MV5BYTJlYWJiZTItZGM5NC00MTJjLWFlNTMtMTkxOGFiZTMwNDNlXkEyXkFqcGdeQXVyODk4OTc3MTY@._V1_Ratio0.6737_AL_.jpg",
+            "plot": "The personal and professional life of Dev, a 30-year-old actor in New York.",
+            "directors": "",
+            "stars": "Aziz Ansari, Eric Wareheim, Lena Waithe",
+            "genres": "Comedy, Drama",
+            "imDbRating": "8.3"
+        }
+    ],
+    "tvSeriesInfo": null,
+    "tvEpisodeInfo": null,
+    "errorMessage": ""
+}
