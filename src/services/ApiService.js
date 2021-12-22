@@ -72,7 +72,7 @@ class ApiService {
 
         if (cache_entry) {
             return cache_entry;
-        } else if (process.env.USE_API === 'true') {
+        } else if (process.env.USE_API === "true") {
             return this.callAPI(method, api, params, optional_params);
         } else {
             throw new Error(
