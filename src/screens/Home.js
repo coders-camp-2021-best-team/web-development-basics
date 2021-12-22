@@ -2,7 +2,6 @@ import { render } from '../shared/dom.js';
 import ApiProvider from '../providers/ApiProvider.js';
 import { Button, MovieCarousel } from '../components';
 import './Home.scss';
-import { redirect } from '../index.js';
 
 const template = async (top250Movies, mostPopularTVs, mostPopularMovies) => `
     <div id="homeScreen" class="homeScreen">

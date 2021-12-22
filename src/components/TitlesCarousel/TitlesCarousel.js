@@ -1,6 +1,7 @@
 import { obseverDom } from '../../shared/observer';
 import { MovieTile } from '../Tiles/MovieTile';
 import { Button } from '../Button/Button';
+import { redirect } from '../../index';
 
 export const MovieCarousel = async ({ movies, id, btnName, route }) => {
     if (!movies.length) {
@@ -50,9 +51,9 @@ export const MovieCarousel = async ({ movies, id, btnName, route }) => {
 
     return `
     ${Button({
-        onClick: () => redirect(`${route}`),
+        onClick: () => redirect(route),
         id: `${id}`,
-        text: `${btnName}`
+        text: btnName
     })}
 <div class="wrapper">
 
