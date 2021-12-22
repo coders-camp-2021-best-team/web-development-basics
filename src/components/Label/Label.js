@@ -1,6 +1,4 @@
 export const Label = ({ title }) => {
-    return `<div class="label">
-    
-    </div>`;
+    return `<div class="label">${title}</div>`;
 };
 
