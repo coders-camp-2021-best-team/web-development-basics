@@ -1,12 +1,19 @@
 @import '../../../styles/mixins';
 @import '../../../styles/variables';
 
-.movie-label {
+.label {
     display: flex;
     justify-content: center;
     align-items: center;
-    padding: 15px 128px;
+    text-align: center;
+    padding: 25px 80px;
     background-color: $btn-color;
     color: $font-primary-color;
-    margin: 20px 0;
+    box-shadow: $box-shadow-btn-cateogry;
+	border-radius: 10px;
+	font-size: 32px;
+	font-family: "Inter";
+	text-transform: uppercase;
+	text-shadow: $box-shadow-btn-cateogry;
+	font-weight: 500;
 }

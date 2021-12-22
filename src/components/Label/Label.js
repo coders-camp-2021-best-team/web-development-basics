@@ -1,4 +1,6 @@
-export const MovieLabel = ({ title }) => {
-    return ``;
+export const Label = ({ title }) => {
+    return `<div class="label">
+    
+    </div>`;
 };
 
