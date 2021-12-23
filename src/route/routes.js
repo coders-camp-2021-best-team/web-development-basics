@@ -21,6 +21,6 @@ export const routes = {
     },
     category: {
         routerPath: '/category',
-        getPathWithParams: (type = '') => `/category?type=${type}`
+        getPathWithParams: (type= '') => `/category?id=${type}`
     }
 };

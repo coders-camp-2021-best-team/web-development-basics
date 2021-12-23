@@ -1,6 +1,6 @@
 import { render } from '../shared/dom.js';
 import ApiProvider from '../providers/ApiProvider.js';
-import { Button, MovieCarousel } from '../components';
+import { MovieCarousel } from '../components';
 import './Home.scss';
 
 const template = async (top250Movies, mostPopularTVs, mostPopularMovies) => `
@@ -10,19 +10,19 @@ const template = async (top250Movies, mostPopularTVs, mostPopularMovies) => `
             movies: top250Movies,
             id: 'topMovies',
             btnName: 'Top 250 movies',
-            route: '/category'
+            route: 'topMovies'
         })}
         ${await MovieCarousel({
             movies: mostPopularTVs,
             id: 'series',
             btnName: 'Series',
-            route: '/category'
+            route: 'series'
         })}
         ${await MovieCarousel({
             movies: mostPopularMovies,
             id: 'movies',
             btnName: 'Movies',
-            route: '/category'
+            route: 'movies'
         })}
     </div>
 `;
