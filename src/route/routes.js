@@ -7,10 +7,10 @@ export const routes = {
         routerPath: '/search',
         getPathWithParams: (id = '') => `/search?id=${id}`
     },
-    // error404: {
-    //     routerPath: '*',
-    //     getPathWithParams: () => '/error404'
-    // }
+    error404: {
+        routerPath: '/error404',
+        getPathWithParams: () => '/error404'
+    },
     details: {
         routerPath: '/details',
         getPathWithParams: (id = '') => `/details?id=${id}`
