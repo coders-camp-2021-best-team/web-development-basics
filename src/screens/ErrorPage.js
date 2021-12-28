@@ -1,9 +1,7 @@
 import { Button } from "../components";
 import { render } from "../shared/dom";
-
-function onClickHandler() {
-    this.$routes.push('Home');
-}
+import { routes } from "../route";
+import { redirect } from "..";
 
 const template = `
 <div id="error-page">
@@ -17,8 +15,12 @@ const template = `
         doesn’t exist or an other error occurred.<br>	
         Go back, or head over to home page 
         to choose a new direction </p>
-        ${Button({onClick={onClickHandler}, id: 'error-btn', text: 'Back to homepage', className: 'btn'})}
-        <a href="#">Back to Homepage</a>
+        ${Button({onClick: () => {
+            redirect(routes.home.routerPath);
+        }, 
+        id: 'error-btn', 
+        text: 'Back to homepage', 
+        className: 'btn'})}
     </div>
 </div>
 `;
