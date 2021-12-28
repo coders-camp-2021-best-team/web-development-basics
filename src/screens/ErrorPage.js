@@ -4,11 +4,8 @@ import { routes } from "../route";
 import { redirect } from "..";
 
 const template = `
-<div id="error-page">
-    <div class="notfound">
-        <div class="notfound-404">
-            <h1>Oops!</h1>
-        </div>
+<div class="notfound">
+        <h1>Oops!</h1>
         <h2>Page not found</h2>
         <h3>404</h3>
         <p>the page you are looking for 
@@ -18,11 +15,8 @@ const template = `
         ${Button({onClick: () => {
             redirect(routes.home.routerPath);
         }, 
-        id: 'error-btn', 
-        text: 'Back to homepage', 
-        className: 'btn'})}
+        id: 'error-btn', text: 'Back to homepage', className: 'btn'})}
     </div>
-</div>
 `;
 
 export const Error404Screen = ({ renderOn }) => {
