@@ -3,34 +3,39 @@ import { TilesGrid } from '../components/Tiles/TilesGrid';
 import { render } from '../shared/dom';
 import ApiProvider from '../providers/ApiProvider';
 
-const template = (title, movies) => {
+const template = (title) => {
     return `
-  ${Label({ title: `${title}` })}
-  ${TilesGrid({ renderOn: '#tilesGrid', movies: movies })}
-  <div id="tilesGrid></div>
+    <div id="category-screen">
+        ${Label({ title: `${title}` })}
+        <template id="category-grid"></template>
+    </div>
 `;
 };
 
 export const Category = async ({ renderOn }) => {
     const params = new URLSearchParams(window.location.search);
     const searchType = params.get('id');
+    let title;
+    let assets;
     switch (searchType) {
         case 'topMovies':
-            const topMovies = await ApiProvider.getTop250Movies();
-            render({
-                on: renderOn,
-                html: template('Top 250 Movies', topMovies)
-            });
+            title = 'Top 250 Movies';
+            assets = await ApiProvider.getTop250Movies();
             break;
         case 'series':
-            const series = await ApiProvider.mostPopularTVs();
-            render({ on: renderOn, html: template('Series', series) });
+            title = 'Series';
+            assets = await ApiProvider.mostPopularTVs();
             break;
         case 'movies':
-            const movies = await ApiProvider.mostPopularMovies();
-            render({ on: renderOn, html: template('Movies', movies) });
+            title = 'Movies';
+            assets = await ApiProvider.mostPopularMovies();
             break;
         default:
             break;
     }
+    render({
+        on: renderOn,
+        html: template(title)
+    });
+    TilesGrid({renderOn:'#category-grid', movies: assets.items})
 };
