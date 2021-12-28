@@ -1,10 +1,11 @@
 import { AssetDetailsDescription } from '../components/AssetDetails/Description.js';
 import { render } from '../shared/dom.js';
 import ApiProvider from '../providers/ApiProvider';
+import { TrailerMovie } from '../components/Trailer/trailer.js';
 
 const template = `
 <div id="details-screen" class="details">
-    <template class="details__trailer"></template>
+    <template class="details__trailer">${TrailerMovie}</template>
     <template class="details__poster"></template>
     <template class="details__description"></template>
     <template class="details__gallery-button"></template>
