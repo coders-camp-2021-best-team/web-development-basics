@@ -30,6 +30,10 @@ export const Category = async ({ renderOn }) => {
             title = 'Movies';
             assets = await ApiProvider.mostPopularMovies();
             break;
+        case 'commingSoon':
+            title = 'Comming Soon';
+            assets = await ApiProvider.comingSoon();
+            break;
         default:
             break;
     }
@@ -37,5 +41,5 @@ export const Category = async ({ renderOn }) => {
         on: renderOn,
         html: template(title)
     });
-    TilesGrid({renderOn:'#category-grid', movies: assets.items})
+    TilesGrid({ renderOn: '#category-grid', movies: assets.items });
 };
