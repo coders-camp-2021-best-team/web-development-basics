@@ -1,6 +1,6 @@
 @import './variables';
 
-.notfound {
+.notFoundPage__container {
     position: relative;
     background: $background-color ;
     color: $font-primary-color;
@@ -34,7 +34,7 @@
         margin-bottom: 20px;
 
     }
-    #error-btn {
+    .error-btn {
         font-size: 14px;
         text-decoration: none;
         text-transform: uppercase;
@@ -45,12 +45,10 @@
         margin:0px;
     }
     
-}
 
-@include for-phone-only {
-    .notfound {
-        height: 142px;
-        h1 {
+    @include for-phone-only {
+    height: 142px;
+    h1 {
         font-size: 100px;
     }}
 }

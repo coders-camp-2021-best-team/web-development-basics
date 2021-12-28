@@ -8,8 +8,8 @@ export const routes = {
         getPathWithParams: (id = '') => `/search?id=${id}`
     },
     error404: {
-        routerPath: '',
-        getPathWithParams: () => '/error404'
+        routerPath: '*',
+        getPathWithParams: () => '*'
     },
     details: {
         routerPath: '/details',
