@@ -11,5 +11,10 @@ const template = `
 export const FavoriteScreen = ({ renderOn }) => {
     render({ html: template, on: renderOn });
     const favorites = StorageManager.getItem('favorites') || [];
-    TilesGrid({ renderOn: '#grid-template', movies: favorites });
+    if (favorites) {
+        const favoritesToObj = favorites.map((movie) => ({
+            id: movie
+        }));
+        TilesGrid({ renderOn: '#grid-template', movies: favoritesToObj });
+    }
 };
