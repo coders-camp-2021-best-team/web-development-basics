@@ -18,9 +18,9 @@ export const DetailsScreen = async ({ renderOn }) => {
     const searchID = params.get('id');
     const movie = await ApiProvider.getTitleDetails(searchID);
 
-    const trailer = '';
-    if (movie.Trailer && movie.Trailer.ThumbnailUrl) {
-        trailer = TrailerMovie(movie.Trailer.ThumbnailUrl);
+    let trailer = '';
+    if (movie.trailer && movie.trailer.link) {
+        trailer = TrailerMovie(movie.trailer.link);
     }
 
     render({ on: renderOn, html: template(trailer) });
