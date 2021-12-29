@@ -2,6 +2,7 @@ import { render } from '../shared/dom.js';
 import { TilesGrid } from '../components';
 import ApiProvider from '../providers/ApiProvider.js';
 import { SearchForm } from '../components/Search/Form.js';
+import { getQueryParams } from '../utils/GetQueryParams';
 
 const template = `
     <div id="search-screen">
@@ -13,8 +14,7 @@ const template = `
 export const SearchScreen = async ({ renderOn }) => {
     render({ on: renderOn, html: template });
 
-    const params = new URLSearchParams(window.location.search);
-    const searchQuery = params.get('q') || '';
+    const searchQuery = getQueryParams().q || '';
 
     SearchForm({ renderOn: '#search-form', searchInputValue: searchQuery });
     if (searchQuery) {
