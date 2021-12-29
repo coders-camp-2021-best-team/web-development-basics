@@ -2,6 +2,7 @@ import { render } from '../../shared/dom';
 import { redirect } from '../../';
 import { routes } from '../../route';
 import ConsoleLogger from '../../utils/ConsoleLogger';
+import { Button } from '..';
 
 const IDLE_TIMEOUT_LIMIT_MS = 800;
 const IDLE_TIMEOUT_CHECK_MS = 50;
@@ -12,18 +13,26 @@ export const SearchForm = ({ renderOn, searchInputValue }) => {
             <input
                 type="text"
                 id="search-keywords"
-                placeholder="WYSZUKAJ"
+                placeholder="SEARCH"
                 value="${searchInputValue}"
                 autocomplete="off"
             >
 
-            <button>
-                <svg width="77" height="50" viewBox="0 0 77 50" fill="none" xmlns="http://www.w3.org/2000/svg">
-                    <path d="M0.5 0H76.5V8.33333H0.5V0ZM0.5 20.8333H76.5V29.1667H0.5V20.8333ZM0.5 41.6667H76.5V50H0.5V41.6667Z" fill="white"/>
-                </svg>
+            ${Button({
+                className: 'search-form-filters',
+                text: `
+                    <svg width="77" height="50" viewBox="0 0 77 50" fill="none" xmlns="http://www.w3.org/2000/svg">
+                        <path d="M0.5 0H76.5V8.33333H0.5V0ZM0.5 20.8333H76.5V29.1667H0.5V20.8333ZM0.5 41.6667H76.5V50H0.5V41.6667Z" fill="white"/>
+                    </svg>
 
-                FILTRY
-            </button>
+                    FILTERS
+                `,
+                onClick: () => {
+                    ConsoleLogger.warn(
+                        '/* TODO: feature/search-form-filters */'
+                    );
+                }
+            })}
         </div>
     `;
 
@@ -41,7 +50,7 @@ export const SearchForm = ({ renderOn, searchInputValue }) => {
     // detect if user is idle and fetch the results if they are
     window.timer = setInterval(() => {
         if (timeout > IDLE_TIMEOUT_LIMIT_MS) {
-            if ((keywords.value.trim() || '') != searchInputValue) {
+            if ((keywords.value.trim() || '') !== searchInputValue) {
                 ConsoleLogger.debug('Exceeded the timeout! Input has changed!');
                 form.onsubmit();
             } else {
