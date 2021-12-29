@@ -22,9 +22,5 @@ export const DetailsScreen = async ({ renderOn }) => {
 
     AssetDetailsDescription({ renderOn: '.details__description', movie });
 
-    render({ on : '.details__gallery', html: Gallery ( movie )});
-
-    
-
-    
+    render({ on: '.details__gallery', html: Gallery(movie, 'GALLERY') });
 };

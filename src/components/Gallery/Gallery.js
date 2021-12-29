@@ -1,11 +1,12 @@
+import { Button } from '../Button/Button';
 import { ImageComponent } from '../ImageComponent/ImageComponent';
 
 //TODO Temporary image callback function
 const getImageOnClickCallback = (id) => {
     return () => {
         console.log(id);
-    }
-}
+    };
+};
 //END
 
 const GalleryCollection = (images) => {
@@ -16,18 +17,22 @@ const GalleryCollection = (images) => {
             images[i].image,
             'gallery-img',
             'gallery-img-' + i,
-            getImageOnClickCallback(i)
+            getImageOnClickCallback(i),
+            images[i].title
         )}</div>`;
     }
     return html;
 };
 
 export const Gallery = (movie, title) => {
-    // const movie = await ApiProvider.getTitleDetails(movieID);
-
     return `
-    <div class="img-gallery">
-        ${GalleryCollection(movie.images.items)}
+    <div class="gallery">
+        <div class="button">
+            ${Button({ text: title, type: 'button', className: 'btn-gallery' })}
+        </div>
+        <div class="img-gallery">
+            ${GalleryCollection(movie.images.items)}
+        </div>
     </div>
 `;
 };
