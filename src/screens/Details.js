@@ -14,8 +14,8 @@ const template = `
 `;
 
 export const DetailsScreen = async ({ renderOn }) => {
-    const { id: searchID } = getQueryParams();
-    const movie = await ApiProvider.getTitleDetails(searchID);
+    const { id: assetID } = getQueryParams();
+    const movie = await ApiProvider.getTitleDetails(assetID);
 
     render({ on: renderOn, html: template });
 

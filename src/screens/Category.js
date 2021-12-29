@@ -14,11 +14,11 @@ const template = (title) => {
 };
 
 export const Category = async ({ renderOn }) => {
-    const { id: searchType } = getQueryParams();
+    const { id: categoryID } = getQueryParams();
 
     let title;
     let assets;
-    switch (searchType) {
+    switch (categoryID) {
         case 'topMovies':
             title = 'Top 250 Movies';
             assets = await ApiProvider.getTop250Movies();
