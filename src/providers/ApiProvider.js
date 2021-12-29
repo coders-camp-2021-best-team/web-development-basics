@@ -5,14 +5,14 @@ class ApiProvider {
      * @param {string} name
      */
     search(name) {
-        return ApiService.request('GET', 'Search', name);
+        return ApiService.request('GET', 'Search', name.toLowerCase());
     }
 
     /**
      * @param {string} name
      */
     searchTitle(name) {
-        return ApiService.request('GET', 'SearchTitle', name);
+        return ApiService.request('GET', 'SearchTitle', name.toLowerCase());
     }
 
     comingSoon() {
