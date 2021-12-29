@@ -9,7 +9,7 @@ const template = `
 `;
 
 export const FavoriteScreen = ({ renderOn }) => {
-    const favorites = StorageManager.getItem('favorites') || [];
     render({ html: template, on: renderOn });
-    TilesGrid({ renderOn: '#grid-template', favorites });
+    const favorites = StorageManager.getItem('favorites') || [];
+    TilesGrid({ renderOn: '#grid-template', movies: favorites });
 };
