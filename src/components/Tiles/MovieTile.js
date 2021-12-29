@@ -9,8 +9,8 @@ export const MovieTile = async ({ movieID }) => {
     const movie = await ApiProvider.getTitleDetails(movieID);
 
     observerListener(`movie-tile-${movie.id}`, () => {
-        const TileOnclick = routes.details.getPathWithParams(movie.id);
-        redirect(TileOnclick);
+        const path = routes.details.getPathWithParams(movie.id);
+        redirect(path);
     });
 
     return `
