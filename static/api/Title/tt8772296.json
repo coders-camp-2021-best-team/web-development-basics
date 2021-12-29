@@ -1,0 +1,738 @@
+{
+    "id": "tt8772296",
+    "title": "Euphoria",
+    "originalTitle": "",
+    "fullTitle": "Euphoria (TV Series 2019– )",
+    "type": "TVSeries",
+    "year": "2019",
+    "image": "https://imdb-api.com/images/original/MV5BMDMzZDkyNzEtYTY5Ni00NzlhLWI4MzUtY2UzNjNmMjI1YzIzXkEyXkFqcGdeQXVyMDM2NDM2MQ@@._V1_Ratio0.6791_AL_.jpg",
+    "releaseDate": "2019-06-16",
+    "runtimeMins": "55",
+    "runtimeStr": "55mins",
+    "plot": "A look at life for a group of high school students as they grapple with issues of drugs, sex and violence. The series focuses on the relationship between two young girls trying to find their place in the world: recovering addict Rue and new-in-town Jules.",
+    "plotLocal": "",
+    "plotLocalIsRtl": false,
+    "awards": "Won 3 Primetime Emmys. Another 7 wins & 35 nominations.",
+    "directors": "",
+    "directorList": [],
+    "writers": "",
+    "writerList": [],
+    "stars": "Zendaya, Hunter Schafer, Jacob Elordi, Maude Apatow",
+    "starList": [
+        { "id": "nm3918035", "name": "Zendaya" },
+        { "id": "nm9476408", "name": "Hunter Schafer" },
+        { "id": "nm8624059", "name": "Jacob Elordi" },
+        { "id": "nm2654829", "name": "Maude Apatow" }
+    ],
+    "actorList": [
+        {
+            "id": "nm3918035",
+            "image": "https://imdb-api.com/images/original/MV5BMjAxZTk4NDAtYjI3Mi00OTk3LTg0NDEtNWFlNzE5NDM5MWM1XkEyXkFqcGdeQXVyOTI3MjYwOQ@@._V1_Ratio0.7273_AL_.jpg",
+            "name": "Zendaya",
+            "asCharacter": "Rue Bennett 13 episodes, 2019-2021"
+        },
+        {
+            "id": "nm9476408",
+            "image": "https://imdb-api.com/images/original/MV5BYjIzMjY5MTEtMGNiYS00OTlmLWFlYWQtYzFiZjk2NDFiODkwXkEyXkFqcGdeQXVyMTAwNjA0Njgy._V1_Ratio0.7727_AL_.jpg",
+            "name": "Hunter Schafer",
+            "asCharacter": "Jules Vaughn 13 episodes, 2019-2021"
+        },
+        {
+            "id": "nm8624059",
+            "image": "https://imdb-api.com/images/original/MV5BNDE5NGRhNzMtZTRlMC00YzY0LWEzYzMtMTU1ZjAyMTBiNDRiXkEyXkFqcGdeQXVyNzAwNTgwOTk@._V1_Ratio1.4545_AL_.jpg",
+            "name": "Jacob Elordi",
+            "asCharacter": "Nate Jacobs 12 episodes, 2019-2021"
+        },
+        {
+            "id": "nm2654829",
+            "image": "https://imdb-api.com/images/original/MV5BMjA5NTMzNTQ1Ml5BMl5BanBnXkFtZTgwMjc1NjAwNzM@._V1_Ratio0.7727_AL_.jpg",
+            "name": "Maude Apatow",
+            "asCharacter": "Lexi Howard 11 episodes, 2019"
+        },
+        {
+            "id": "nm7051533",
+            "image": "https://imdb-api.com/images/original/MV5BM2ExNWRiOTctODE0Ni00ZWYzLTg4YjMtZWRlYWY1NTg3NDUzXkEyXkFqcGdeQXVyNTg3NjAyMTY@._V1_Ratio0.7727_AL_.jpg",
+            "name": "Alexa Demie",
+            "asCharacter": "Maddy Perez 11 episodes, 2019"
+        },
+        {
+            "id": "nm9209960",
+            "image": "https://imdb-api.com/images/original/MV5BNzI2Y2E4ODQtYTNiMC00YzJhLWE2N2YtNDljY2M1MjQyMjMwXkEyXkFqcGdeQXVyNzAzNzE5OTM@._V1_Ratio0.7273_AL_.jpg",
+            "name": "Barbie Ferreira",
+            "asCharacter": "Kat Hernandez 11 episodes, 2019"
+        },
+        {
+            "id": "nm2858875",
+            "image": "https://imdb-api.com/images/original/MV5BNjFhNzlhYzctYWI4Yy00NDJhLWI2MWItZjRkMTQ5MWEzMzY0XkEyXkFqcGdeQXVyNzM1NTU0NA@@._V1_Ratio0.7727_AL_.jpg",
+            "name": "Sydney Sweeney",
+            "asCharacter": "Cassie Howard 11 episodes, 2019"
+        },
+        {
+            "id": "nm3783307",
+            "image": "https://imdb-api.com/images/original/MV5BZmM5ZmM3YmQtODZhNC00NjMyLWI5NjAtZGI2YjY4ZWFhYjVjXkEyXkFqcGdeQXVyNjk1MjYyNTA@._V1_Ratio0.7273_AL_.jpg",
+            "name": "Angus Cloud",
+            "asCharacter": "Fezco 8 episodes, 2019"
+        },
+        {
+            "id": "nm0199312",
+            "image": "https://imdb-api.com/images/original/MV5BMTk3NDE1ODczMV5BMl5BanBnXkFtZTcwMzE2MDU1Mw@@._V1_Ratio0.8182_AL_.jpg",
+            "name": "Eric Dane",
+            "asCharacter": "Cal Jacobs 8 episodes, 2019"
+        },
+        {
+            "id": "nm1519739",
+            "image": "https://imdb-api.com/images/original/MV5BMGY2NjU0ODEtMzg0Ni00NTIzLTlhNTItNTFmMmZiOTJjYjE2XkEyXkFqcGdeQXVyMjc3Njg5NTQ@._V1_Ratio1.7727_AL_.jpg",
+            "name": "Nika King",
+            "asCharacter": "Leslie Bennett 8 episodes, 2019"
+        },
+        {
+            "id": "nm4977564",
+            "image": "https://imdb-api.com/images/original/MV5BNTdjMjAyOGQtMTBiYi00NmIyLTlhYWQtZjY1M2RmMjI4ZTlkXkEyXkFqcGdeQXVyMjk5NzM4OTc@._V1_Ratio1.0000_AL_.jpg",
+            "name": "Storm Reid",
+            "asCharacter": "Gia Bennett 8 episodes, 2019"
+        },
+        {
+            "id": "nm4861346",
+            "image": "https://imdb-api.com/images/original/MV5BMjA3NDUxNTI5NV5BMl5BanBnXkFtZTgwNzc3MDcxNDM@._V1_Ratio0.7273_AL_.jpg",
+            "name": "Algee Smith",
+            "asCharacter": "Chris McKay 8 episodes, 2019"
+        },
+        {
+            "id": "nm0018099",
+            "image": "https://imdb-api.com/images/original/MV5BMzI1OGQxNGItM2RjNy00MDZjLWJkMTktYzI1ZGM2OTQzMzY1XkEyXkFqcGdeQXVyMjQwMDg0Ng@@._V1_Ratio0.7273_AL_.jpg",
+            "name": "John Ales",
+            "asCharacter": "David / ... 8 episodes, 2019-2021"
+        },
+        {
+            "id": "nm9937520",
+            "image": "https://imdb-api.com/images/original/MV5BMzU1YzE5OWUtNjRhYy00ZTNjLTk5ODEtZTgxYzE3N2MzYWYxXkEyXkFqcGdeQXVyOTA2OTM3MDI@._V1_Ratio0.7273_AL_.jpg",
+            "name": "Javon 'Wanna' Walton",
+            "asCharacter": "Ashtray 7 episodes, 2019"
+        },
+        {
+            "id": "nm0005513",
+            "image": "https://imdb-api.com/images/original/MV5BNDE5YmJhZTAtN2RiYi00ZmFiLThiMmQtZjgxNzdlNjg0MzZhXkEyXkFqcGdeQXVyMjQwMDg0Ng@@._V1_Ratio0.7273_AL_.jpg",
+            "name": "Alanna Ubach",
+            "asCharacter": "Suze 6 episodes, 2019"
+        },
+        {
+            "id": "nm3641002",
+            "image": "https://imdb-api.com/images/original/MV5BZDhiYWE4NjYtYjczNS00OTIyLWFmMGQtMjdkYzRjNDRhODhjXkEyXkFqcGdeQXVyMjIyNzU2OTE@._V1_Ratio0.7273_AL_.jpg",
+            "name": "Austin Abrams",
+            "asCharacter": "Ethan 6 episodes, 2019"
+        },
+        {
+            "id": "nm5277107",
+            "image": "https://imdb-api.com/images/original/MV5BMzdiMzdmZTMtMDAwMi00NzY4LTk3ZmYtYTlmYTliZGI5YzZmXkEyXkFqcGdeQXVyNDM5NjU4Njk@._V1_Ratio0.7273_AL_.jpg",
+            "name": "Keean Johnson",
+            "asCharacter": "Daniel 6 episodes, 2019"
+        },
+        {
+            "id": "nm10772652",
+            "image": "https://imdb-api.com/images/original/nopicture.jpg",
+            "name": "Sophia Rose Wilson",
+            "asCharacter": "BB 6 episodes, 2019"
+        }
+    ],
+    "fullCast": null,
+    "genres": "Drama",
+    "genreList": [{ "key": "Drama", "value": "Drama" }],
+    "companies": "A24, Home Box Office (HBO), Little Lamb",
+    "companyList": [
+        { "id": "co0390816", "name": "A24" },
+        { "id": "co0008693", "name": "Home Box Office (HBO)" },
+        { "id": "co0751584", "name": "Little Lamb" }
+    ],
+    "countries": "USA",
+    "countryList": [{ "key": "USA", "value": "USA" }],
+    "languages": "English",
+    "languageList": [{ "key": "English", "value": "English" }],
+    "contentRating": "TV-MA",
+    "imDbRating": "8.4",
+    "imDbRatingVotes": "69912",
+    "metacriticRating": "68",
+    "ratings": null,
+    "wikipedia": null,
+    "posters": {
+        "imDbId": "tt8772296",
+        "title": "Euphoria",
+        "fullTitle": "Euphoria (2019– )",
+        "type": "TVSeries",
+        "year": "2019",
+        "posters": [
+            {
+                "id": "5mi3aRl16yKmfpQJMzvqN5TXkdA.jpg",
+                "link": "https://imdb-api.com/posters/original/5mi3aRl16yKmfpQJMzvqN5TXkdA.jpg",
+                "aspectRatio": 0.6666666666666666,
+                "language": "en",
+                "width": 2000,
+                "height": 3000
+            },
+            {
+                "id": "9MmQrUGUbDDl2lHMwZvhjgNnkZt.jpg",
+                "link": "https://imdb-api.com/posters/original/9MmQrUGUbDDl2lHMwZvhjgNnkZt.jpg",
+                "aspectRatio": 0.6666666666666666,
+                "language": "en",
+                "width": 2000,
+                "height": 3000
+            },
+            {
+                "id": "99d6KB1KMbeIVaUfYGor1e5dlbn.jpg",
+                "link": "https://imdb-api.com/posters/original/99d6KB1KMbeIVaUfYGor1e5dlbn.jpg",
+                "aspectRatio": 0.6666666666666666,
+                "language": "en",
+                "width": 960,
+                "height": 1440
+            },
+            {
+                "id": "hDPKpdfXmnkgyCZw5Qj1RMIWDnv.jpg",
+                "link": "https://imdb-api.com/posters/original/hDPKpdfXmnkgyCZw5Qj1RMIWDnv.jpg",
+                "aspectRatio": 0.6666666666666666,
+                "language": "en",
+                "width": 2000,
+                "height": 3000
+            },
+            {
+                "id": "tZhVXxolTg6KVR0Jqy3kR6jZRS9.jpg",
+                "link": "https://imdb-api.com/posters/original/tZhVXxolTg6KVR0Jqy3kR6jZRS9.jpg",
+                "aspectRatio": 0.666,
+                "language": "en",
+                "width": 666,
+                "height": 1000
+            },
+            {
+                "id": "e7f25OTKC9uMA9GCotkC5XL9K6f.jpg",
+                "link": "https://imdb-api.com/posters/original/e7f25OTKC9uMA9GCotkC5XL9K6f.jpg",
+                "aspectRatio": 0.6666666666666666,
+                "language": "en",
+                "width": 2000,
+                "height": 3000
+            }
+        ],
+        "backdrops": [
+            {
+                "id": "9KnIzPCv9XpWA0MqmwiKBZvV1Sj.jpg",
+                "link": "https://imdb-api.com/posters/original/9KnIzPCv9XpWA0MqmwiKBZvV1Sj.jpg",
+                "aspectRatio": 1.7777777777777777,
+                "language": "en",
+                "width": 3840,
+                "height": 2160
+            },
+            {
+                "id": "gjzaD7OzICOsvCNGl16WDmclqPi.jpg",
+                "link": "https://imdb-api.com/posters/original/gjzaD7OzICOsvCNGl16WDmclqPi.jpg",
+                "aspectRatio": 1.7777777777777777,
+                "language": "en",
+                "width": 3840,
+                "height": 2160
+            },
+            {
+                "id": "lTbCXhFiP0bMWelvGxfeiSoF4gP.jpg",
+                "link": "https://imdb-api.com/posters/original/lTbCXhFiP0bMWelvGxfeiSoF4gP.jpg",
+                "aspectRatio": 1.7777777777777777,
+                "language": "en",
+                "width": 1920,
+                "height": 1080
+            },
+            {
+                "id": "oqMcvhfJO4jkSqrpNYNs9VmcPbF.jpg",
+                "link": "https://imdb-api.com/posters/original/oqMcvhfJO4jkSqrpNYNs9VmcPbF.jpg",
+                "aspectRatio": 1.7777777777777777,
+                "language": "en",
+                "width": 3840,
+                "height": 2160
+            },
+            {
+                "id": "v3EDPO2u8BS74sEh8XAKXxZqgTF.jpg",
+                "link": "https://imdb-api.com/posters/original/v3EDPO2u8BS74sEh8XAKXxZqgTF.jpg",
+                "aspectRatio": 1.7777777777777777,
+                "language": "en",
+                "width": 3840,
+                "height": 2160
+            },
+            {
+                "id": "bs7DjDcvwVH7Hs8rg01VmtAK6RU.jpg",
+                "link": "https://imdb-api.com/posters/original/bs7DjDcvwVH7Hs8rg01VmtAK6RU.jpg",
+                "aspectRatio": 1.7777777777777777,
+                "language": "en",
+                "width": 1920,
+                "height": 1080
+            },
+            {
+                "id": "vL60o7UmYFK2Eui6gghvHtV42gG.jpg",
+                "link": "https://imdb-api.com/posters/original/vL60o7UmYFK2Eui6gghvHtV42gG.jpg",
+                "aspectRatio": 1.7777777777777777,
+                "language": "en",
+                "width": 1920,
+                "height": 1080
+            },
+            {
+                "id": "d8IovCCAmLJWqANR2mpQLWR7Sxx.jpg",
+                "link": "https://imdb-api.com/posters/original/d8IovCCAmLJWqANR2mpQLWR7Sxx.jpg",
+                "aspectRatio": 1.7777777777777777,
+                "language": "en",
+                "width": 3840,
+                "height": 2160
+            },
+            {
+                "id": "uNUZwEE3cc5uqxaEOOOoe6CM6DW.jpg",
+                "link": "https://imdb-api.com/posters/original/uNUZwEE3cc5uqxaEOOOoe6CM6DW.jpg",
+                "aspectRatio": 1.7777777777777777,
+                "language": "en",
+                "width": 1920,
+                "height": 1080
+            },
+            {
+                "id": "bLqRjOpUxyAuwGkZUFk8a2tgE8s.jpg",
+                "link": "https://imdb-api.com/posters/original/bLqRjOpUxyAuwGkZUFk8a2tgE8s.jpg",
+                "aspectRatio": 1.7777777777777777,
+                "language": "en",
+                "width": 2400,
+                "height": 1350
+            },
+            {
+                "id": "qQ9ahv5g2nDWh8jVBQsQSnbvRAC.jpg",
+                "link": "https://imdb-api.com/posters/original/qQ9ahv5g2nDWh8jVBQsQSnbvRAC.jpg",
+                "aspectRatio": 1.7777777777777777,
+                "language": "en",
+                "width": 3840,
+                "height": 2160
+            },
+            {
+                "id": "s1mg99iu050QeSldjdYt2nFnBNa.jpg",
+                "link": "https://imdb-api.com/posters/original/s1mg99iu050QeSldjdYt2nFnBNa.jpg",
+                "aspectRatio": 1.7784697508896796,
+                "language": "en",
+                "width": 1999,
+                "height": 1124
+            },
+            {
+                "id": "90WJt9FEAPbCPLMHWzkmxdMBEC0.jpg",
+                "link": "https://imdb-api.com/posters/original/90WJt9FEAPbCPLMHWzkmxdMBEC0.jpg",
+                "aspectRatio": 1.7777777777777777,
+                "language": "en",
+                "width": 2000,
+                "height": 1125
+            },
+            {
+                "id": "bCEqTJW0bnP6eu6VQjCpeAdzLYK.jpg",
+                "link": "https://imdb-api.com/posters/original/bCEqTJW0bnP6eu6VQjCpeAdzLYK.jpg",
+                "aspectRatio": 1.7777777777777777,
+                "language": "en",
+                "width": 3840,
+                "height": 2160
+            },
+            {
+                "id": "8aRLfI2AfZZPHISaGqPkrrj0xwH.jpg",
+                "link": "https://imdb-api.com/posters/original/8aRLfI2AfZZPHISaGqPkrrj0xwH.jpg",
+                "aspectRatio": 1.7777777777777777,
+                "language": "en",
+                "width": 3840,
+                "height": 2160
+            },
+            {
+                "id": "lcJ8S992xGr20KfNCbY4Fg3Xz6s.jpg",
+                "link": "https://imdb-api.com/posters/original/lcJ8S992xGr20KfNCbY4Fg3Xz6s.jpg",
+                "aspectRatio": 1.7777777777777777,
+                "language": "en",
+                "width": 3840,
+                "height": 2160
+            },
+            {
+                "id": "zbZ9gAuGr1tZmc5gMbvfBcjNfs5.jpg",
+                "link": "https://imdb-api.com/posters/original/zbZ9gAuGr1tZmc5gMbvfBcjNfs5.jpg",
+                "aspectRatio": 1.7777777777777777,
+                "language": "en",
+                "width": 2000,
+                "height": 1125
+            }
+        ],
+        "errorMessage": ""
+    },
+    "images": {
+        "imDbId": "tt8772296",
+        "title": "Euphoria",
+        "fullTitle": "Euphoria (2019– )",
+        "type": "TVSeries",
+        "year": "2019",
+        "items": [
+            {
+                "title": "Hunter Schafer in Euphoria (2019)",
+                "image": "https://imdb-api.com/images/original/MV5BNThjNTMxMzktYjE1NS00NGYxLWIxNTItZGVjYWRlODE4NTRkXkEyXkFqcGdeQXVyMDM2NDM2MQ@@._V1_Ratio1.5000_AL_.jpg"
+            },
+            {
+                "title": "Hunter Schafer in Euphoria: Fuck Anyone Who's Not a Sea Blob (2021)",
+                "image": "https://imdb-api.com/images/original/MV5BNjI2NGJiNDQtZjZmOC00ZGFkLTkxM2MtNDk3ODA0ZTZkNzhmXkEyXkFqcGdeQXVyMTEyMjM2NDc2._V1_Ratio1.5000_AL_.jpg"
+            },
+            {
+                "title": "Hunter Schafer in Euphoria (2019)",
+                "image": "https://imdb-api.com/images/original/MV5BZDNjYjc1MDctMzVjZS00MDUyLWE2YWQtNjM5ZTVhODMzZmYxXkEyXkFqcGdeQXVyNTM3MDMyMDQ@._V1_Ratio1.3200_AL_.jpg"
+            },
+            {
+                "title": "Alexa Demie in Euphoria (2019)",
+                "image": "https://imdb-api.com/images/original/MV5BMjU4YTFjNmUtNTMxZi00MGMwLTkxMTgtOTE1NTE4NGExNWZiXkEyXkFqcGdeQXVyNTM3MDMyMDQ@._V1_Ratio1.3200_AL_.jpg"
+            },
+            {
+                "title": "Zendaya in Euphoria (2019)",
+                "image": "https://imdb-api.com/images/original/MV5BNmM1ZTNjZmQtMTM3Mi00MzUwLTgwODAtMDJmZDRhOWRiZTYwXkEyXkFqcGdeQXVyMDM2NDM2MQ@@._V1_Ratio1.5000_AL_.jpg"
+            },
+            {
+                "title": "Zendaya and Hunter Schafer in Euphoria (2019)",
+                "image": "https://imdb-api.com/images/original/MV5BMmYxN2FiNjItYWI3Ni00NGNiLWI1OTYtZDZiZTdlYjgwZWJjXkEyXkFqcGdeQXVyNDg4NjY5OTQ@._V1_Ratio1.7800_AL_.jpg"
+            },
+            {
+                "title": "Zendaya in Euphoria (2019)",
+                "image": "https://imdb-api.com/images/original/MV5BMmY4ZWIyNDMtMjNlOC00MmQ5LWFiNzgtNmYzMjM4NWY5ZGJjXkEyXkFqcGdeQXVyMDM2NDM2MQ@@._V1_Ratio1.7800_AL_.jpg"
+            },
+            {
+                "title": "Zendaya in Euphoria (2019)",
+                "image": "https://imdb-api.com/images/original/MV5BY2QwMjA1M2UtZTBhZC00NDY2LTgyMmUtMzY1NzFlNGY3NjQzXkEyXkFqcGdeQXVyMDM2NDM2MQ@@._V1_Ratio1.7800_AL_.jpg"
+            },
+            {
+                "title": "Lukas Gage at an event for Euphoria (2019)",
+                "image": "https://imdb-api.com/images/original/MV5BMGYxNjhhNjYtZDA0NC00MmRlLWFkYjItODRhNmIxNGJkNTMyXkEyXkFqcGdeQXVyMTEyMjM2NDc2._V1_Ratio1.5000_AL_.jpg"
+            },
+            {
+                "title": "Sam Levinson and Zendaya at an event for Euphoria (2019)",
+                "image": "https://imdb-api.com/images/original/MV5BZjhkZjAyNzctN2Y3Ny00ZTcwLWEzODctODNhNGMwYTc0NzhlXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_Ratio1.5000_AL_.jpg"
+            },
+            {
+                "title": "Zendaya and Hunter Schafer at an event for Euphoria (2019)",
+                "image": "https://imdb-api.com/images/original/MV5BNTJjMDY4ZjItMDM0MS00YzIyLWJhMDQtODY3NTc1ZmM0NTg3XkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_Ratio1.5000_AL_.jpg"
+            },
+            {
+                "title": "Euphoria (2019)",
+                "image": "https://imdb-api.com/images/original/MV5BZDI0ZWMzNzItOTBjMS00YTJkLWIxYjAtNzRkMmVkNjY0YWI2XkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_Ratio1.0000_AL_.jpg"
+            },
+            {
+                "title": "Euphoria (2019)",
+                "image": "https://imdb-api.com/images/original/MV5BMTkzOTI0YmQtNmE5Yi00NzM0LTlkZjgtNWVmOWQ0ZjYxZDg0XkEyXkFqcGdeQXVyODk4OTc3MTY@._V1_Ratio1.0000_AL_.jpg"
+            },
+            {
+                "title": "Zendaya in Euphoria (2019)",
+                "image": "https://imdb-api.com/images/original/MV5BYWMwNDY4M2QtODhlMy00ZjRlLWJkMDctZGQ3ZjYwZmQ0ODYzXkEyXkFqcGdeQXVyMTAyOTE2ODg0._V1_Ratio2.7000_AL_.jpg"
+            },
+            {
+                "title": "Zendaya in Euphoria (2019)",
+                "image": "https://imdb-api.com/images/original/MV5BYWJhZGE4NjItYzk0NS00YzNlLThkNDEtMDM2MmFkMDk1NWUxXkEyXkFqcGdeQXVyMTAyOTE2ODg0._V1_Ratio2.7000_AL_.jpg"
+            },
+            {
+                "title": "Zendaya in Euphoria (2019)",
+                "image": "https://imdb-api.com/images/original/MV5BMDMzZDkyNzEtYTY5Ni00NzlhLWI4MzUtY2UzNjNmMjI1YzIzXkEyXkFqcGdeQXVyMDM2NDM2MQ@@._V1_Ratio1.0000_AL_.jpg"
+            },
+            {
+                "title": "Euphoria (2019)",
+                "image": "https://imdb-api.com/images/original/MV5BMTRjMGM5MGQtNzhkNC00MjA1LWFlNzktYTg5ZTRlMmE1MGQxXkEyXkFqcGdeQXVyNjg3MDMxNzU@._V1_Ratio1.0000_AL_.jpg"
+            },
+            {
+                "title": "Zendaya and Hunter Schafer in Euphoria: Fuck Anyone Who's Not a Sea Blob (2021)",
+                "image": "https://imdb-api.com/images/original/MV5BODBmYzI3NDYtOGQwNi00OGMwLWJjNjQtNzQ2MGU5NjcwMTk0XkEyXkFqcGdeQXVyMTI2ODY0MzI4._V1_Ratio1.7800_AL_.jpg"
+            },
+            {
+                "title": "Hunter Schafer in Euphoria: Fuck Anyone Who's Not a Sea Blob (2021)",
+                "image": "https://imdb-api.com/images/original/MV5BZDljODJhMTEtM2ExMi00MjJlLWI5ZDMtYTQ0Njc2NzRlYmRiXkEyXkFqcGdeQXVyMTI2ODY0MzI4._V1_Ratio1.7800_AL_.jpg"
+            },
+            {
+                "title": "Hunter Schafer in Euphoria: Fuck Anyone Who's Not a Sea Blob (2021)",
+                "image": "https://imdb-api.com/images/original/MV5BYTY5NGRhNzktODUzNy00MGRjLTlhYjYtOTBjMmQwZjc5NGJmXkEyXkFqcGdeQXVyMTI2ODY0MzI4._V1_Ratio1.7800_AL_.jpg"
+            },
+            {
+                "title": "Zendaya and Hunter Schafer in Euphoria: Fuck Anyone Who's Not a Sea Blob (2021)",
+                "image": "https://imdb-api.com/images/original/MV5BM2IwNzlkM2MtMzI0My00NDE3LWI0NTEtZGZiNDVlODFlMWQ5XkEyXkFqcGdeQXVyMTI2ODY0MzI4._V1_Ratio1.7800_AL_.jpg"
+            },
+            {
+                "title": "Hunter Schafer in Euphoria: Fuck Anyone Who's Not a Sea Blob (2021)",
+                "image": "https://imdb-api.com/images/original/MV5BOWZiYWNiZjctMjQ1ZC00YWU3LWIwMzMtMzNmZWMyOWExNTRlXkEyXkFqcGdeQXVyMTI2ODY0MzI4._V1_Ratio1.7800_AL_.jpg"
+            },
+            {
+                "title": "Euphoria: Trouble Don't Last Always (2020)",
+                "image": "https://imdb-api.com/images/original/MV5BZDA2Y2UyODMtYzk3ZC00NjNkLTg4Y2UtOWUwM2NjMDNlMDZjXkEyXkFqcGdeQXVyODExNTExMTM@._V1_Ratio1.8200_AL_.jpg"
+            },
+            {
+                "title": "Colman Domingo in Euphoria: Trouble Don't Last Always (2020)",
+                "image": "https://imdb-api.com/images/original/MV5BZmYyOWMxMjgtZGE2NC00YzVmLThlZTYtNTE3MzhkMjhhYzNiXkEyXkFqcGdeQXVyODExNTExMTM@._V1_Ratio1.8200_AL_.jpg"
+            },
+            {
+                "title": "Zendaya in Euphoria: Trouble Don't Last Always (2020)",
+                "image": "https://imdb-api.com/images/original/MV5BZjcwZWU0OTYtNmFiMS00NTQ4LWJlMjgtZGU5MGI1MDAzNGYwXkEyXkFqcGdeQXVyODExNTExMTM@._V1_Ratio1.8200_AL_.jpg"
+            },
+            {
+                "title": "Colman Domingo in Euphoria: Trouble Don't Last Always (2020)",
+                "image": "https://imdb-api.com/images/original/MV5BY2QzODZiM2UtOTU5Ni00YWIzLWE4NjQtZjEyN2QxOGZjZTU0XkEyXkFqcGdeQXVyODExNTExMTM@._V1_Ratio1.8200_AL_.jpg"
+            },
+            {
+                "title": "Colman Domingo in Euphoria: Trouble Don't Last Always (2020)",
+                "image": "https://imdb-api.com/images/original/MV5BY2U2OTQxODUtZTUyMy00NzJhLWI5ZTktY2FiYjE5MmFiNWRlXkEyXkFqcGdeQXVyODExNTExMTM@._V1_Ratio1.8200_AL_.jpg"
+            },
+            {
+                "title": "Colman Domingo in Euphoria: Trouble Don't Last Always (2020)",
+                "image": "https://imdb-api.com/images/original/MV5BMTJlNTk1MDUtYTNjNy00Mjc5LWI1NTQtYTQ3ZGJhYzM4YTc1XkEyXkFqcGdeQXVyODExNTExMTM@._V1_Ratio1.8200_AL_.jpg"
+            },
+            {
+                "title": "Colman Domingo in Euphoria: Trouble Don't Last Always (2020)",
+                "image": "https://imdb-api.com/images/original/MV5BMzI1YzE4ZDEtNDUxNS00YTRkLWFiY2YtY2JmYmUxZDZmYmMyXkEyXkFqcGdeQXVyODExNTExMTM@._V1_Ratio1.8200_AL_.jpg"
+            },
+            {
+                "title": "Colman Domingo in Euphoria: Trouble Don't Last Always (2020)",
+                "image": "https://imdb-api.com/images/original/MV5BMmFkNTBhYzQtYzk2NS00ZjljLWFhMjktYTY3NWFmMDY3MjkxXkEyXkFqcGdeQXVyODExNTExMTM@._V1_Ratio1.8200_AL_.jpg"
+            },
+            {
+                "title": "Marsha Gambles in Euphoria: Trouble Don't Last Always (2020)",
+                "image": "https://imdb-api.com/images/original/MV5BODEwMWM4MDgtODdiMi00ZjM5LTk0N2QtYTJjMzY3NGRjYWM5XkEyXkFqcGdeQXVyODExNTExMTM@._V1_Ratio1.8200_AL_.jpg"
+            },
+            {
+                "title": "Colman Domingo and Zendaya in Euphoria: Trouble Don't Last Always (2020)",
+                "image": "https://imdb-api.com/images/original/MV5BNjBhZDdmYmItNTdjMC00MmFiLWEyZjMtODQ5M2ZmOTUyNTVkXkEyXkFqcGdeQXVyODExNTExMTM@._V1_Ratio1.8200_AL_.jpg"
+            },
+            {
+                "title": "Marsha Gambles in Euphoria: Trouble Don't Last Always (2020)",
+                "image": "https://imdb-api.com/images/original/MV5BZTU3MmYzN2MtZTY1MS00NGM1LTk2NjMtMWFjMWI1ZGI2MzAxXkEyXkFqcGdeQXVyODExNTExMTM@._V1_Ratio1.8200_AL_.jpg"
+            },
+            {
+                "title": "Colman Domingo in Euphoria: Trouble Don't Last Always (2020)",
+                "image": "https://imdb-api.com/images/original/MV5BNzEwOTVjODktNDY5MC00Zjk4LTgwMjUtMDBiNmE5MDBmY2ZjXkEyXkFqcGdeQXVyODExNTExMTM@._V1_Ratio1.8200_AL_.jpg"
+            },
+            {
+                "title": "Zendaya in Euphoria: Trouble Don't Last Always (2020)",
+                "image": "https://imdb-api.com/images/original/MV5BNzliNGQwZWUtOWUxOC00MTBhLTliMWMtMzQ3ZmY3NjRiNTc0XkEyXkFqcGdeQXVyODExNTExMTM@._V1_Ratio1.8200_AL_.jpg"
+            },
+            {
+                "title": "Colman Domingo in Euphoria: Trouble Don't Last Always (2020)",
+                "image": "https://imdb-api.com/images/original/MV5BMTE2MGZkMzItYjU3OS00ZGI3LWIxMTUtNzNjZTU0YmJlMjczXkEyXkFqcGdeQXVyODExNTExMTM@._V1_Ratio1.8200_AL_.jpg"
+            },
+            {
+                "title": "Colman Domingo in Euphoria: Trouble Don't Last Always (2020)",
+                "image": "https://imdb-api.com/images/original/MV5BYWYxNmE1MmQtNjM3Zi00MDlhLWI1MDAtY2Y0YTJiNzc2MmRjXkEyXkFqcGdeQXVyODExNTExMTM@._V1_Ratio1.8200_AL_.jpg"
+            },
+            {
+                "title": "Colman Domingo in Euphoria: Trouble Don't Last Always (2020)",
+                "image": "https://imdb-api.com/images/original/MV5BNzBmMzI5Y2YtOTAzMC00NDlkLThhMzgtNmE5NTc5NTU3NGIxXkEyXkFqcGdeQXVyODExNTExMTM@._V1_Ratio1.8200_AL_.jpg"
+            },
+            {
+                "title": "Colman Domingo in Euphoria: Trouble Don't Last Always (2020)",
+                "image": "https://imdb-api.com/images/original/MV5BODY2NjNkNmItY2MzYS00MDYyLTg4OGEtNTAzZjY3NTQ2MWJjXkEyXkFqcGdeQXVyODExNTExMTM@._V1_Ratio1.8200_AL_.jpg"
+            },
+            {
+                "title": "Colman Domingo in Euphoria: Trouble Don't Last Always (2020)",
+                "image": "https://imdb-api.com/images/original/MV5BODYyOTk4NjYtZDFlNy00ZDViLTllNDktNzNhNmUzNDQzZjIyXkEyXkFqcGdeQXVyODExNTExMTM@._V1_Ratio1.8200_AL_.jpg"
+            },
+            {
+                "title": "Euphoria: Trouble Don't Last Always (2020)",
+                "image": "https://imdb-api.com/images/original/MV5BNTM1OWY1NDQtNmIxMC00YmUzLWJmOGMtYTllZTViY2UyYTU4XkEyXkFqcGdeQXVyODExNTExMTM@._V1_Ratio1.8200_AL_.jpg"
+            },
+            {
+                "title": "Colman Domingo in Euphoria: Trouble Don't Last Always (2020)",
+                "image": "https://imdb-api.com/images/original/MV5BMjRlOWY1NWEtZDlkMS00ZjVjLThjNWMtOWRjNDAxZTJiMzlmXkEyXkFqcGdeQXVyODExNTExMTM@._V1_Ratio1.8200_AL_.jpg"
+            },
+            {
+                "title": "Colman Domingo in Euphoria: Trouble Don't Last Always (2020)",
+                "image": "https://imdb-api.com/images/original/MV5BYzQ5NTVjODMtNzQzZi00YzNkLTk0OGQtNmM3ZDVhMGY4YjA0XkEyXkFqcGdeQXVyODExNTExMTM@._V1_Ratio1.8200_AL_.jpg"
+            },
+            {
+                "title": "Zendaya in Euphoria: Trouble Don't Last Always (2020)",
+                "image": "https://imdb-api.com/images/original/MV5BYTU5YzYyMjItMjFjZS00ZTk2LTkyMTYtZDgwM2Y0OTUwZWJjXkEyXkFqcGdeQXVyODExNTExMTM@._V1_Ratio1.8200_AL_.jpg"
+            },
+            {
+                "title": "Zendaya in Euphoria: Trouble Don't Last Always (2020)",
+                "image": "https://imdb-api.com/images/original/MV5BMDk0OTZhOWEtZjA1Ny00Nzk1LThmODQtNmJlN2E3YmE3YzYyXkEyXkFqcGdeQXVyODExNTExMTM@._V1_Ratio1.8200_AL_.jpg"
+            },
+            {
+                "title": "Zendaya in Euphoria: Trouble Don't Last Always (2020)",
+                "image": "https://imdb-api.com/images/original/MV5BZDcwMGQyZjItM2FjZi00MjRjLWFmMDQtYzcwZDNlMjdiZjEwXkEyXkFqcGdeQXVyODExNTExMTM@._V1_Ratio1.8200_AL_.jpg"
+            },
+            {
+                "title": "Colman Domingo in Euphoria: Trouble Don't Last Always (2020)",
+                "image": "https://imdb-api.com/images/original/MV5BMzU3ZmVhNzQtZmM5Mi00YWJkLWJkNmQtZjU5YmNlNzZmYWYyXkEyXkFqcGdeQXVyODExNTExMTM@._V1_Ratio1.8200_AL_.jpg"
+            },
+            {
+                "title": "Zendaya in Euphoria: Trouble Don't Last Always (2020)",
+                "image": "https://imdb-api.com/images/original/MV5BOWQwMmE3NzgtYTJlYy00MTcyLTk1YjgtN2QwOTUzYjJlZmJmXkEyXkFqcGdeQXVyODExNTExMTM@._V1_Ratio1.8200_AL_.jpg"
+            }
+        ],
+        "errorMessage": ""
+    },
+    "trailer": {
+        "imDbId": "tt8772296",
+        "title": "Euphoria",
+        "fullTitle": "Euphoria (TV Series 2019– )",
+        "type": "TVSeries",
+        "year": "2019",
+        "videoId": "vi1870446873",
+        "videoTitle": "Special Episode Part 2 - Official Trailer",
+        "videoDescription": "part two: jules",
+        "thumbnailUrl": "https://m.media-amazon.com/images/M/MV5BNThiMTQwODItZDkxMy00Yzk2LWFiOWMtMGY1N2Y5ZjQ2NjBkXkEyXkFqcGdeQWRvb2xpbmhk._V1_.jpg",
+        "uploadDate": "01/19/2021 19:10:07",
+        "link": "https://www.imdb.com/video/vi1870446873",
+        "linkEmbed": "https://www.imdb.com/video/imdb/vi1870446873/imdb/embed",
+        "errorMessage": ""
+    },
+    "boxOffice": {
+        "budget": "",
+        "openingWeekendUSA": "",
+        "grossUSA": "",
+        "cumulativeWorldwideGross": ""
+    },
+    "tagline": "feel something.",
+    "keywords": "high school,drug addict,social media,drugs,transgender",
+    "keywordList": [
+        "high school",
+        "drug addict",
+        "social media",
+        "drugs",
+        "transgender"
+    ],
+    "similars": [
+        {
+            "id": "tt7767422",
+            "title": "Sex Education",
+            "fullTitle": "Sex Education (TV Series 2019)",
+            "year": "TV Series 2019",
+            "image": "https://imdb-api.com/images/original/MV5BZjgyMzFiMDgtNWNmMS00ZDEyLTkzYzgtMjMzZjk4YjhjZWUxXkEyXkFqcGdeQXVyNDg4MjkzNDk@._V1_Ratio0.8000_AL_.jpg",
+            "plot": "A teenage boy with a sex therapist mother teams up with a high school classmate to set up an underground sex therapy clinic at school.",
+            "directors": "",
+            "stars": "Asa Butterfield, Gillian Anderson, Ncuti Gatwa",
+            "genres": "Comedy, Drama",
+            "imDbRating": "8.3"
+        },
+        {
+            "id": "tt6257970",
+            "title": "The End of the F***ing World",
+            "fullTitle": "The End of the F***ing World (2017–2019)",
+            "year": "2017–2019",
+            "image": "https://imdb-api.com/images/original/MV5BN2ZhNmQ2MjQtMmQzMi00YjE5LTlkMWMtMjk5YzIxMjk2NDc2XkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_Ratio0.8000_AL_.jpg",
+            "plot": "James is 17 and is pretty sure he is a psychopath. Alyssa, also 17, is the cool and moody new girl at school. The pair make a connection and she persuades him to embark on a road trip in search of her real father.",
+            "directors": "",
+            "stars": "Jessica Barden, Alex Lawther, Steve Oram",
+            "genres": "Adventure, Comedy, Crime",
+            "imDbRating": "8.1"
+        },
+        {
+            "id": "tt7335184",
+            "title": "You",
+            "fullTitle": "You (TV Series 2018)",
+            "year": "TV Series 2018",
+            "image": "https://imdb-api.com/images/original/MV5BZDJjOTg4OWYtYWIyOS00MjQ3LTg5ZDktYzU2N2RkNmYzNjZlXkEyXkFqcGdeQXVyMzQ2MDI5NjU@._V1_Ratio0.6842_AL_.jpg",
+            "plot": "A dangerously charming, intensely obsessive young man goes to extreme measures to insert himself into the lives of those he is transfixed by.",
+            "directors": "",
+            "stars": "Penn Badgley, Victoria Pedretti, Ambyr Childers",
+            "genres": "Crime, Drama, Romance",
+            "imDbRating": "7.7"
+        },
+        {
+            "id": "tt3920596",
+            "title": "Big Little Lies",
+            "fullTitle": "Big Little Lies (2017–2019)",
+            "year": "2017–2019",
+            "image": "https://imdb-api.com/images/original/MV5BZmNjYzdjN2ItOTBlNy00Mjc0LWE4YmMtYTQ4ZjQzNTMyNDc4XkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_Ratio0.6737_AL_.jpg",
+            "plot": "The apparently perfect lives of upper-class mothers, at a prestigious elementary school, unravel to the point of murder when a single-mother moves to their quaint Californian beach town.",
+            "directors": "",
+            "stars": "Reese Witherspoon, Nicole Kidman, Shailene Woodley",
+            "genres": "Crime, Drama, Mystery",
+            "imDbRating": "8.5"
+        },
+        {
+            "id": "tt1837492",
+            "title": "13 Reasons Why",
+            "fullTitle": "13 Reasons Why (2017–2020)",
+            "year": "2017–2020",
+            "image": "https://imdb-api.com/images/original/MV5BMDYzZTRlNGEtZDc2Mi00ZGNjLTlmZDAtMmVjMDZkOThiODEwXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_Ratio0.6737_AL_.jpg",
+            "plot": "Follows teenager Clay Jensen, in his quest to uncover the story behind his classmate and crush, Hannah, and her decision to end her life.",
+            "directors": "",
+            "stars": "Dylan Minnette, Katherine Langford, Christian Navarro",
+            "genres": "Drama, Mystery, Thriller",
+            "imDbRating": "7.6"
+        },
+        {
+            "id": "tt2896496",
+            "title": "Euphoria",
+            "fullTitle": "Euphoria (2012–2013)",
+            "year": "2012–2013",
+            "image": "https://imdb-api.com/images/original/MV5BZmU4Mzc0YTItMzk4Yi00MDliLThiYWQtZDcwMmEwNTc3YjkzXkEyXkFqcGdeQXVyNDY2MDQzMDA@._V1_Ratio0.6737_AL_.jpg",
+            "plot": "Euphoria portrays a sexy, troubling, and bold profile of the teens of the nineties, within a raging drama going on behind teenagers' closed doors.",
+            "directors": "",
+            "stars": "Roni Dalumi, Dekel Adin, Amit Erez",
+            "genres": "Drama",
+            "imDbRating": "6.6"
+        },
+        {
+            "id": "tt7134908",
+            "title": "Elite",
+            "fullTitle": "Elite (TV Series 2018)",
+            "year": "TV Series 2018",
+            "image": "https://imdb-api.com/images/original/MV5BYWJhMWMyZmUtNTc3Mi00MTYzLTllMjMtNzFkM2ZhYTg2ZWFiXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_Ratio0.6737_AL_.jpg",
+            "plot": "When three working-class teenagers begin attending an exclusive private school in Spain, the clash between them and the wealthy students leads to murder.",
+            "directors": "",
+            "stars": "Itzan Escamilla, Omar Ayuso, Miguel Bernardeau",
+            "genres": "Crime, Drama, Thriller",
+            "imDbRating": "7.6"
+        },
+        {
+            "id": "tt6315640",
+            "title": "Atypical",
+            "fullTitle": "Atypical (2017–2021)",
+            "year": "2017–2021",
+            "image": "https://imdb-api.com/images/original/MV5BYjg1ZmQ0ZDktMjNhZS00MDJjLTllZTItMmIyYTBkYjM2MzQzXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_Ratio0.6737_AL_.jpg",
+            "plot": "Sam, an 18-year-old on the autism spectrum, decides it's time to find a girlfriend, a journey that sets Sam's mom on her own life-changing path as her son seeks more independence.",
+            "directors": "",
+            "stars": "Jennifer Jason Leigh, Keir Gilchrist, Brigette Lundy-Paine",
+            "genres": "Comedy, Drama",
+            "imDbRating": "8.3"
+        },
+        {
+            "id": "tt9059760",
+            "title": "Normal People",
+            "fullTitle": "Normal People (2020)",
+            "year": "2020",
+            "image": "https://imdb-api.com/images/original/MV5BNzMzYmRiNGEtMDg5OC00OGZmLWFmNDktYzRlZTFkZmZiMjAzXkEyXkFqcGdeQXVyMTE2OTE2MzE1._V1_Ratio0.6737_AL_.jpg",
+            "plot": "Follows Marianne and Connell, from different backgrounds but the same small town in Ireland, as they weave in and out of each other's romantic lives.",
+            "directors": "",
+            "stars": "Daisy Edgar-Jones, Paul Mescal, Desmond Eastwood",
+            "genres": "Drama, Romance",
+            "imDbRating": "8.5"
+        },
+        {
+            "id": "tt9446688",
+            "title": "I Am Not Okay with This",
+            "fullTitle": "I Am Not Okay with This (2020)",
+            "year": "2020",
+            "image": "https://imdb-api.com/images/original/MV5BMWM5YzhmNGMtZTI4Ny00MGM4LThkYjAtMDIyMTEwNTQyZmQ1XkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_Ratio0.6737_AL_.jpg",
+            "plot": "Sydney is a teenage girl navigating the trials and tribulations of high school while dealing with the complexities of her family, her budding sexuality, and mysterious superpowers just beginning to awaken deep within her.",
+            "directors": "",
+            "stars": "Sophia Lillis, Wyatt Oleff, Sofia Bryant",
+            "genres": "Comedy, Sci-Fi",
+            "imDbRating": "7.6"
+        },
+        {
+            "id": "tt7016936",
+            "title": "Killing Eve",
+            "fullTitle": "Killing Eve (2018–2022)",
+            "year": "2018–2022",
+            "image": "https://imdb-api.com/images/original/MV5BZDJmODFjMzEtNTE4MS00OGViLTk4OGYtZjg3OGFhM2VlOTliXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_Ratio0.6737_AL_.jpg",
+            "plot": "After a series of events, the lives of a security operative and an assassin become inextricably linked.",
+            "directors": "",
+            "stars": "Jodie Comer, Sandra Oh, Fiona Shaw",
+            "genres": "Action, Adventure, Drama",
+            "imDbRating": "8.2"
+        },
+        {
+            "id": "tt12676326",
+            "title": "Malcolm &amp; Marie",
+            "fullTitle": "Malcolm &amp; Marie (2021)",
+            "year": "2021",
+            "image": "https://imdb-api.com/images/original/MV5BYjVkMmU1NGItZjM4MC00ODM1LWEyOTEtY2Y1NTg0YjRhYjEwXkEyXkFqcGdeQXVyMDM2NDM2MQ@@._V1_Ratio0.6737_AL_.jpg",
+            "plot": "A director and his girlfriend's relationship is tested after they return home from his movie premiere and face each other's turmoil during one long night.",
+            "directors": "Sam Levinson",
+            "stars": "John David Washington, Zendaya",
+            "genres": "Drama, Romance",
+            "imDbRating": "6.7"
+        }
+    ],
+    "tvSeriesInfo": {
+        "yearEnd": "",
+        "creators": "Sam Levinson",
+        "creatorList": [{ "id": "nm0506094", "name": "Sam Levinson" }],
+        "seasons": ["2019", "2020", "2021"]
+    },
+    "tvEpisodeInfo": null,
+    "errorMessage": ""
+}
