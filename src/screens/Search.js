@@ -24,7 +24,7 @@ export const SearchScreen = async ({ renderOn }) => {
     } else {
         render({
             on: '#tiles-grid',
-            html: `<h2 class="warn">Search something...</h2>`
+            html: `<h2 class="warn">Search results will appear here...</h2>`
         });
     }
 };
