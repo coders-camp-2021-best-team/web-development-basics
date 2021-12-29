@@ -7,7 +7,7 @@
         "clean": "rimraf .cache && rimraf coverage && rimraf dist && rimraf node_modules",
         "prebuild": "rimraf dist",
         "build": "parcel build index.html netlify.toml --public-url ./",
-        "format": "prettier --write \"src/**/*.js\" \"src/**/*.scss\" \"styles/**/*.scss\" \"test/**/*.js\"",
+        "format": "prettier --write \"src/**/*.js\" \"src/**/*.scss\" \"styles/**/*.scss\" \"test/**/*.js\" \"static/**/*.json\"",
         "start:dev": "parcel -p 8765 watch index.html",
         "test": "jest",
         "test:watch": "jest --watch",
