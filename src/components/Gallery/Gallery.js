@@ -7,7 +7,6 @@ const getImageOnClickCallback = (id) => {
         console.log(id);
     };
 };
-//END
 
 const GalleryCollection = (images) => {
     let html = '';
