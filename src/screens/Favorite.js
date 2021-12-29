@@ -1,9 +1,11 @@
+import { Label } from '../components/Label/Label';
 import StorageManager from '../services/StorageManager';
 import { TilesGrid } from '../components/Tiles/TilesGrid';
 import { render } from '../shared/dom';
 
 const template = `
     <div>
+        ${Label({ title: 'favorite' })}
         <template id="grid-template"></template>
     </div>
 `;
