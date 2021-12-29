@@ -3,7 +3,7 @@ import ApiProvider from '../providers/ApiProvider.js';
 import { MovieCarousel } from '../components';
 import './Home.scss';
 
-const template = async (top250Movies, mostPopularTVs, mostPopularMovies) => `
+const template = async (top250Movies, mostPopularTVs, mostPopularMovies, commingSoon) => `
     <div id="homeScreen" class="homeScreen">
         <template id="home-movie-tiles"></template>
         ${await MovieCarousel({
@@ -24,6 +24,12 @@ const template = async (top250Movies, mostPopularTVs, mostPopularMovies) => `
             btnName: 'Movies',
             route: 'movies'
         })}
+        ${await MovieCarousel({
+            movies: commingSoon,
+            id: 'commingSoon',
+            btnName: 'Comming Soon',
+            route: 'commingSoon'
+        })}
     </div>
 `;
 
@@ -32,13 +38,15 @@ export const HomeScreen = async ({ renderOn, options }) => {
     const top250Movies = await ApiProvider.getTop250Movies();
     const mostPopularTVs = await ApiProvider.mostPopularTVs();
     const mostPopularMovies = await ApiProvider.mostPopularMovies();
+    const commingSoon = await ApiProvider.comingSoon();
 
     render({
         on: renderOn,
         html: await template(
             top250Movies.items.splice(0, 20),
             mostPopularTVs.items.splice(0, 20),
-            mostPopularMovies.items.splice(0, 20)
+            mostPopularMovies.items.splice(0, 20),
+            commingSoon.items.splice(0, 20)
         )
     });
 };
