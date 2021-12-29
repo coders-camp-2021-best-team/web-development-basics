@@ -1,7 +1,7 @@
 import { AssetDetailsDescription } from '../components/AssetDetails/Description.js';
 import { render } from '../shared/dom.js';
 import ApiProvider from '../providers/ApiProvider';
-import  { TrailerMovie }  from '../components/Trailer/trailer.js';
+import { TrailerMovie } from '../components/Trailer/Trailer.js';
 
 const template = (trailer) => `
 <div id="details-screen" class="details">
