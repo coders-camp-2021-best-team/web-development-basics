@@ -1,12 +1,12 @@
 @import './variables';
 
-
 .btn {
+    cursor: pointer;
     display: flex;
     flex-direction: row;
     justify-content: center;
     align-items: center;
-    padding: 25px 80px;
+    padding: 25px;
     background: $btn-color;
     box-shadow: $box-shadow-btn-cateogry;
     border-radius: 10px;
@@ -17,7 +17,7 @@
     top: 25px;
 
     //text style
-    font-family: $font-body, sans-serif ;
+    font-family: $font-body, sans-serif;
     font-style: normal;
     font-size: 1em;
     line-height: 39px;
@@ -31,6 +31,6 @@
         width: 120px;
         height: auto;
         padding: 0px 10px;
-        font-size: 0.6EM;
+        font-size: 0.6em;
     }
 }

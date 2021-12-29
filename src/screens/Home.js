@@ -1,33 +1,52 @@
 import { render } from '../shared/dom.js';
 import ApiProvider from '../providers/ApiProvider.js';
 import { MovieCarousel } from '../components';
-import ConsoleLogger from '../utils/ConsoleLogger.js';
+import './Home.scss';
 
-const template = async (movies) => `
-    <div>
-        <div id="home-screen">This is home screen</div>
+const template = async (top250Movies, mostPopularTVs, mostPopularMovies, commingSoon) => `
+    <div id="homeScreen" class="homeScreen">
         <template id="home-movie-tiles"></template>
-        ${await MovieCarousel({ movies: movies[0], id: 'Carousel0' })}
-        ${await MovieCarousel({ movies: movies[1], id: 'Carousel1' })}
-        ${await MovieCarousel({ movies: movies[2], id: 'Carousel2' })}
-        ${await MovieCarousel({ movies: movies[3], id: 'Carousel3' })}
+        ${await MovieCarousel({
+            movies: top250Movies,
+            id: 'topMovies',
+            btnName: 'Top 250 movies',
+            route: 'topMovies'
+        })}
+        ${await MovieCarousel({
+            movies: mostPopularTVs,
+            id: 'series',
+            btnName: 'Series',
+            route: 'series'
+        })}
+        ${await MovieCarousel({
+            movies: mostPopularMovies,
+            id: 'movies',
+            btnName: 'Movies',
+            route: 'movies'
+        })}
+        ${await MovieCarousel({
+            movies: commingSoon,
+            id: 'commingSoon',
+            btnName: 'Comming Soon',
+            route: 'commingSoon'
+        })}
     </div>
 `;
 
 export const HomeScreen = async ({ renderOn, options }) => {
     // TODO this is temporary to show example movie tile
-    const movies = await ApiProvider.search('Fast & Furious');
-    const comingSoon = await ApiProvider.comingSoon();
+    const top250Movies = await ApiProvider.getTop250Movies();
     const mostPopularTVs = await ApiProvider.mostPopularTVs();
     const mostPopularMovies = await ApiProvider.mostPopularMovies();
+    const commingSoon = await ApiProvider.comingSoon();
 
     render({
         on: renderOn,
-        html: await template([
-            movies.results.splice(0, 20),
-            comingSoon.items.splice(0, 20),
+        html: await template(
+            top250Movies.items.splice(0, 20),
             mostPopularTVs.items.splice(0, 20),
-            mostPopularMovies.items.splice(0, 20)
-        ])
+            mostPopularMovies.items.splice(0, 20),
+            commingSoon.items.splice(0, 20)
+        )
     });
 };
