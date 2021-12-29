@@ -5,7 +5,7 @@ import {
     HomeScreen,
     DetailsScreen,
     SearchScreen,
-    FavoriteScreen,
+    FavoriteScreen
 } from '../screens';
 import { Category } from './Category';
 

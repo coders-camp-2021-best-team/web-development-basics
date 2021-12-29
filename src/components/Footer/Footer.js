@@ -8,4 +8,4 @@ const template = `
 
 export const Footer = ({ renderOn }) => {
     render({ html: template, on: renderOn });
-}
+};
