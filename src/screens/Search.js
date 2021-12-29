@@ -4,10 +4,10 @@ import ApiProvider from '../providers/ApiProvider.js';
 import { SearchForm } from '../components/Search/Form.js';
 
 const template = `
-<div id="search-screen">
-    <template id="search-form"></template>
-    <template id="tiles-grid"></template>
-</div>
+    <div id="search-screen">
+        <template id="search-form"></template>
+        <template id="tiles-grid"></template>
+    </div>
 `;
 
 export const SearchScreen = async ({ renderOn }) => {
@@ -16,7 +16,7 @@ export const SearchScreen = async ({ renderOn }) => {
     const params = new URLSearchParams(window.location.search);
     const searchQuery = params.get('q') || '';
 
-    SearchForm({ renderOn: '#search-form', initSearch: searchQuery });
+    SearchForm({ renderOn: '#search-form', searchInputValue: searchQuery });
     if (searchQuery) {
         const movies = (await ApiProvider.search(searchQuery)).results;
 
