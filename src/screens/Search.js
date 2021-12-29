@@ -18,9 +18,16 @@ export const SearchScreen = async ({ renderOn }) => {
 
     SearchForm({ renderOn: '#search-form', searchInputValue: searchQuery });
     if (searchQuery) {
-        const movies = (await ApiProvider.search(searchQuery)).results;
+        try {
+            const movies = (await ApiProvider.search(searchQuery)).results;
 
-        TilesGrid({ renderOn: '#tiles-grid', movies });
+            TilesGrid({ renderOn: '#tiles-grid', movies });
+        } catch {
+            render({
+                on: '#tiles-grid',
+                html: `<h2 class="warn">Not found!</h2>`
+            });
+        }
     } else {
         render({
             on: '#tiles-grid',
