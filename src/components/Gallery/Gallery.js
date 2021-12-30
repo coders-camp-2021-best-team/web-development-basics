@@ -1,4 +1,4 @@
-import { Button } from '../Button/Button';
+import { Label } from '../Label/Label';
 import { ImageComponent } from '../ImageComponent/ImageComponent';
 
 //TODO Temporary image callback function
@@ -26,9 +26,7 @@ const GalleryCollection = (images) => {
 export const Gallery = (movie, title) => {
     return `
     <div class="gallery">
-        <div class="button">
-            ${Button({ text: title, type: 'button', className: 'btn-gallery' })}
-        </div>
+        ${Label({ title })}
         <div class="img-gallery">
             ${GalleryCollection(movie.images.items)}
         </div>
