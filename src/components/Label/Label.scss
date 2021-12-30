@@ -7,11 +7,21 @@
     align-items: center;
     text-align: center;
     padding: 25px 80px;
+    margin: 30px;
     background-color: $btn-color;
     color: $font-primary-color;
     box-shadow: $box-shadow-btn-cateogry;
-	border-radius: 10px;
-	font-size: 32px;
-	text-transform: uppercase;
-	text-shadow: $box-shadow-btn-cateogry;
+    border-radius: 10px;
+    font-size: 1.3em;
+    text-transform: uppercase;
+    text-shadow: $box-shadow-btn-cateogry;
+    width: fit-content;
+}
+
+@include for-phone-and-tablet {
+    .label {
+        padding: 10px 35px;
+        font-size: 0.7em;
+        margin: 20px;
+    }
 }
