@@ -1,6 +1,7 @@
 import { AssetDetailsDescription } from '../components/AssetDetails/Description.js';
 import { render } from '../shared/dom.js';
 import ApiProvider from '../providers/ApiProvider';
+import { Gallery } from '../components/Gallery/Gallery.js';
 import './Details.scss';
 
 const template = (trailer) => `
@@ -26,4 +27,6 @@ export const DetailsScreen = async ({ renderOn }) => {
     render({ on: renderOn, html: template(trailer) });
 
     AssetDetailsDescription({ renderOn: '.details__description', movie });
+
+    render({ on: '.details__gallery', html: Gallery(movie, 'GALLERY') });
 };
