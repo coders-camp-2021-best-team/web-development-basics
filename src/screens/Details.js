@@ -20,7 +20,7 @@ export const DetailsScreen = async ({ renderOn }) => {
 
     let trailer = '';
     if (movie.trailer && movie.trailer.linkEmbed) {
-        trailer = `<iframe class="iframe" src="${movie.trailer.linkEmbed}"></iframe>`;
+        trailer = `<iframe class="video" src="${movie.trailer.linkEmbed}"></iframe>`;
     }
 
     render({ on: renderOn, html: template(trailer) });
