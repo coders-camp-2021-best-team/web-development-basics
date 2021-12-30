@@ -11,11 +11,11 @@
     background-color: $transparent-black;
     position: fixed;
     .spinner {
-        border: 16px solid $spinner-grey;
-        border-top: 16px solid $footer;
+        border: 8px solid $spinner-grey;
+        border-top: 8px solid $footer;
         border-radius: 50%;
-        width: 120px;
-        height: 120px;
+        width: 60px;
+        height: 60px;
         animation: spin 1s linear infinite;
     }
     @keyframes spin {
@@ -24,6 +24,17 @@
         }
         100% {
             transform: rotate(360deg);
+        }
+    }
+}
+
+@include for-desktop-up {
+    .spinner-on {
+        .spinner {
+            width: 120px;
+            height: 120px;
+            border: 16px;
+            border-top: 16px;
         }
     }
 }
