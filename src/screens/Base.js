@@ -5,10 +5,10 @@ import {
     HomeScreen,
     DetailsScreen,
     SearchScreen,
-    FavoriteScreen,
+    FavoriteScreen
 } from '../screens';
 import { Category } from './Category';
-import { Spinner } from '../components/Spinner/Spinner'
+import { Spinner } from '../components/Spinner/Spinner';
 
 const template = `
     <div>
@@ -26,7 +26,7 @@ export const BaseScreen = ({ renderOn }) => {
 
     Header({ renderOn: '#app-header' });
     Footer({ renderOn: '#app-footer' });
-    Spinner({ renderOn: '#spinner-place', loading: true });
+    Spinner({ renderOn: '#spinner-place'});
 
     Router({
         // TODO: add your components

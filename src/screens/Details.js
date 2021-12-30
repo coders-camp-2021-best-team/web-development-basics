@@ -13,9 +13,15 @@ const template = `
 `;
 
 export const DetailsScreen = async ({ renderOn }) => {
+    state.set(true);
     const params = new URLSearchParams(window.location.search);
     const searchID = params.get('id');
-    const movie = await ApiProvider.getTitleDetails(searchID);
+    const movie = await ApiProvider.getTitleDetails(searchID).then(
+        (results) => {
+            state.set(false);
+            return results;
+        }
+    );
 
     render({ on: renderOn, html: template });
 

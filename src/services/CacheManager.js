@@ -66,9 +66,11 @@ class CacheManager {
                 const response = await fetch(url);
                 const json = await response.json();
                 Logger.debug('Successfully fetched data from cache!');
+
                 return json;
             } catch (err) {
                 Logger.error(err);
+
                 return null;
             }
         }
