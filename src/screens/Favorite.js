@@ -5,10 +5,9 @@ import { render } from '../shared/dom';
 import { NoFavorite } from '../components/NoFavorite/NoFavorite';
 
 const template = `
-    <div>
+    <div id="favorite-screen">
         ${Label({ title: 'favorite' })}
-        <template id="no-favorite"></template>
-        <template id="grid-template"></template>
+        <template id="favorite-display"></template>
     </div>
 `;
 
@@ -19,8 +18,8 @@ export const FavoriteScreen = ({ renderOn }) => {
         const favoritesToObj = favorites.map((movie) => ({
             id: movie
         }));
-        TilesGrid({ renderOn: '#grid-template', movies: favoritesToObj });
+        TilesGrid({ renderOn: '#favorite-display', movies: favoritesToObj });
     } else {
-        NoFavorite({ renderOn: '#no-favorite' });
+        NoFavorite({ renderOn: '#favorite-display' });
     }
 };
