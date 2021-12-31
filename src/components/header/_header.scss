@@ -60,6 +60,12 @@ header {
             li {
                 margin: 0;
                 cursor: pointer;
+                a:hover {
+                    color: $footer;
+                }
+                .active {
+                    border-bottom: 2px solid red;
+                }
             }
         }
     }

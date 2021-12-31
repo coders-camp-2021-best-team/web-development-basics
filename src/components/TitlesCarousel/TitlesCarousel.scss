@@ -1,3 +1,5 @@
+@import './variables';
+
 .wrapper {
     width: 100%;
     position: relative;
@@ -45,5 +47,9 @@
     &__next {
         right: -1%;
         transform: translate(-60%, -50%);
+    }
+    &__next:hover,
+    &__prev:hover {
+        background-color: $footer;
     }
 }
