@@ -9,7 +9,7 @@ export const routes = {
     },
     error404: {
         routerPath: '*',
-        getPathWithParams: () => '*'
+        getPathWithParams: () => '/error404'
     },
     details: {
         routerPath: '/details',

@@ -10,7 +10,7 @@ const template = `
     <h1>Oops!</h1>
     <h2>Page not found</h2>
     <h3>404</h3>
-    <p>the page you are looking for 
+    <p>The page you are looking for 
     doesn’t exist or an other error occurred.<br>	
     Go back, or head over to home page 
     to choose a new direction </p>
