@@ -6,6 +6,7 @@ import {
     DetailsScreen,
     SearchScreen,
     FavoriteScreen,
+    Error404Screen
 } from '../screens';
 import { Category } from './Category';
 
@@ -36,10 +37,10 @@ export const BaseScreen = ({ renderOn }) => {
                 component: SearchScreen,
                 route: routes.search
             },
-            // {
-            //     component: Error404Screen,
-            //     route: routes.error404
-            // }
+            {
+                component: Error404Screen,
+                route: routes.error404
+            },
             {
                 component: DetailsScreen,
                 route: routes.details
