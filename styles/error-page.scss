@@ -1,11 +1,15 @@
 @import './variables';
 
+
+
 .notFoundPage__container {
-    position: relative;
+    position: absolute;
+    top: 0;
+    z-index: 2;
     background: $background-color ;
     color: $font-primary-color;
     font: $font-body;
-    height: 100vh;
+    height: 100%;
     text-align: center;
     width: 100%;
     display: inline-block;

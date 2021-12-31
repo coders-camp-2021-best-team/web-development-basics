@@ -1,7 +1,9 @@
-import { Button } from "../components";
+import { Button} from "../components";
 import { render } from "../shared/dom";
 import { routes } from "../route";
 import { redirect } from "..";
+
+
 
 const template = `
 <div class="notFoundPage__container">
@@ -21,4 +23,4 @@ const template = `
 
 export const Error404Screen = ({ renderOn }) => {
     render({ html: template, on: renderOn });
-    };
+};
