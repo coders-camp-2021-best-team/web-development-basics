@@ -18,5 +18,9 @@ export const routes = {
     favorites: {
         routerPath: '/favorites',
         getPathWithParams: () => '/favorites'
+    },
+    category: {
+        routerPath: '/category',
+        getPathWithParams: (type= '') => `/category?id=${type}`
     }
 };

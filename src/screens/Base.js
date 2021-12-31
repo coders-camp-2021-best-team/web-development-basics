@@ -8,6 +8,7 @@ import {
     FavoriteScreen,
     Error404Screen
 } from '../screens';
+import { Category } from './Category';
 
 const template = `
     <div>
@@ -47,6 +48,10 @@ export const BaseScreen = ({ renderOn }) => {
             {
                 component: FavoriteScreen,
                 route: routes.favorites
+            },
+            {
+                component: Category,
+                route: routes.category
             }
         ],
         on: '#app-main'
