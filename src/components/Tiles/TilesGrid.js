@@ -3,7 +3,7 @@ import { MovieTile } from './MovieTile';
 import LoadingState from '../../utils/loadingState';
 import ErrorState from '../../utils/errorState';
 
-export const TilesGrid = async ({ renderOn, movies }) => {
+export const TilesGrid = async ({ renderOn, movies }, drawInstead = true) => {
     LoadingState.setNewState(true);
     ErrorState.setNewState(false);
     const template = `
@@ -26,5 +26,5 @@ export const TilesGrid = async ({ renderOn, movies }) => {
         </div>
     `;
 
-    render({ html: template, on: renderOn });
+    render({ html: template, on: renderOn }, drawInstead);
 };

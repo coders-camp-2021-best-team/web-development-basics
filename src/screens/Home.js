@@ -3,7 +3,12 @@ import ApiProvider from '../providers/ApiProvider.js';
 import { MovieCarousel } from '../components';
 import './Home.scss';
 
-const template = async (top250Movies, mostPopularTVs, mostPopularMovies, commingSoon) => `
+const template = async (
+    top250Movies,
+    mostPopularTVs,
+    mostPopularMovies,
+    commingSoon
+) => `
     <div id="homeScreen" class="homeScreen">
         <template id="home-movie-tiles"></template>
         ${await MovieCarousel({

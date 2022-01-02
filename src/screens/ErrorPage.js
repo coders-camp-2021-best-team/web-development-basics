@@ -1,9 +1,7 @@
-import { Button} from "../components";
-import { render } from "../shared/dom";
-import { routes } from "../route";
-import { redirect } from "..";
-
-
+import { Button } from '../components';
+import { render } from '../shared/dom';
+import { routes } from '../route';
+import { redirect } from '..';
 
 const template = `
 <div class="notFoundPage__container">
@@ -14,10 +12,14 @@ const template = `
     doesn’t exist or an other error occurred.<br>	
     Go back, or head over to home page 
     to choose a new direction </p>
-    ${Button({onClick: () => {
-        redirect(routes.home.routerPath);
-    }, 
-    id: 'error-btn', text: 'Back to homepage', className: 'error-btn'})}
+    ${Button({
+        onClick: () => {
+            redirect(routes.home.routerPath);
+        },
+        id: 'error-btn',
+        text: 'Back to homepage',
+        className: 'error-btn'
+    })}
 </div>
 `;
 
