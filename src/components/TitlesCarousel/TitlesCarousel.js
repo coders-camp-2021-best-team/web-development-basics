@@ -3,11 +3,13 @@ import { MovieTile } from '../Tiles/MovieTile';
 import { Button } from '../Button/Button';
 import { redirect } from '../../index';
 import { routes } from '../../route';
+import LoadingState from '../../utils/loadingState';
 
 export const MovieCarousel = async ({ movies, id, btnName, route }) => {
     if (!movies.length) {
         return '';
     }
+    LoadingState.setNewState(true);
     obseverDom((_, obs) => {
         const carousel = document.getElementById(`carousel-${id}`);
         const content = document.getElementById(`carousel_content-${id}`);
@@ -67,7 +69,10 @@ export const MovieCarousel = async ({ movies, id, btnName, route }) => {
                 movies.map(
                     async (movie) => await MovieTile({ movieID: movie.id })
                 )
-            )
+            ).then((results) => {
+                LoadingState.setNewState(false);
+                return results;
+            })
         ).join(' ')}
     </div>
 

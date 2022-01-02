@@ -1,0 +1,40 @@
+@import '../../../styles/mixins';
+@import '../../../styles/variables';
+
+.spinner-on {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    z-index: 10;
+    height: 100%;
+    width: 100%;
+    background-color: $transparent-black;
+    position: fixed;
+    .spinner {
+        border-radius: 50%;
+        width: 60px;
+        height: 60px;
+        border: 8px solid $spinner-grey;
+        border-top: 8px solid $footer;
+        animation: spin 1s linear infinite;
+    }
+    @keyframes spin {
+        0% {
+            transform: rotate(0deg);
+        }
+        100% {
+            transform: rotate(360deg);
+        }
+    }
+}
+
+@include for-desktop-up {
+    .spinner-on {
+        .spinner {
+            width: 120px;
+            height: 120px;
+            border: 16px solid $spinner-grey;
+            border-top: 16px solid $footer;
+        }
+    }
+}

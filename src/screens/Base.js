@@ -9,9 +9,11 @@ import {
     Error404Screen
 } from '../screens';
 import { Category } from './Category';
+import { Spinner } from '../components/Spinner/Spinner';
 
 const template = `
     <div>
+        <template id="spinner-place"></template>
         <template id="app-header"></template>
         <main>
             <template id="app-main"></template>
@@ -25,6 +27,7 @@ export const BaseScreen = ({ renderOn }) => {
 
     Header({ renderOn: '#app-header' });
     Footer({ renderOn: '#app-footer' });
+    Spinner({ renderOn: '#spinner-place'});
 
     Router({
         // TODO: add your components
