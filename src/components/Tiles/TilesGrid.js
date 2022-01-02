@@ -1,16 +1,16 @@
 import { render } from '../../shared/dom';
 import { MovieTile } from './MovieTile';
-import loadingState from '../../utils/loadingState';
+import LoadingState from '../../utils/loadingState';
 
 export const TilesGrid = async ({ renderOn, movies }) => {
-    loadingState.setNewState(true);
+    LoadingState.setNewState(true);
     const template = `
         <div class='grid-container'>
             ${(
                 await Promise.all(
                     movies.map((movie) => MovieTile({ movieID: movie.id }))
                 ).then((results) => {
-                    loadingState.setNewState(false);
+                    LoadingState.setNewState(false);
                     return results;
                 })
             ).join(' ')}
