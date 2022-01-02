@@ -5,15 +5,15 @@ export const routes = {
     },
     search: {
         routerPath: '/search',
-        getPathWithParams: (id = '') => `/search?id=${id}`
+        getPathWithParams: () => '/search'
     },
-    // error404: {
-    //     routerPath: '*',
-    //     getPathWithParams: () => '/error404'
-    // }
+    error404: {
+        routerPath: '*',
+        getPathWithParams: () => '/error404'
+    },
     details: {
         routerPath: '/details',
-        getPathWithParams: (id = '') => `/details?id=${id}`
+        getPathWithParams: (id = '') => `/details?id=${encodeURIComponent(id)}`
     },
     favorites: {
         routerPath: '/favorites',

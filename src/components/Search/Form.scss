@@ -1,0 +1,44 @@
+.search-form {
+    margin: 20px auto;
+
+    display: flex;
+    flex-direction: row;
+    column-gap: 20px;
+    width: 90%;
+    color: $font-primary-color;
+
+    input {
+        flex: 1;
+
+        background: $btn-color;
+        outline: none;
+        border: none;
+        border-radius: 15px;
+        color: $font-primary-color;
+        font-size: medium;
+        font-weight: 700;
+        padding-left: 20px;
+
+        box-shadow: $box-shadow-btn-cateogry;
+    }
+
+    input::placeholder {
+        color: $font-primary-color;
+    }
+
+    button {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+
+        outline: none;
+        border: none;
+        color: $font-primary-color;
+
+        svg {
+            width: 2.5em;
+            height: 2.5em;
+            margin-right: 10px;
+        }
+    }
+}
