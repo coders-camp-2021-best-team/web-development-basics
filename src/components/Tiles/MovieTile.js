@@ -14,9 +14,9 @@ export const MovieTile = async ({ movieID }) => {
     });
 
     return `
-    <div id="movie-tile-${movie.id}" class="movie-tile">
-        <div class="img-hover">
-            ${Star({ options: { id: `${movie.id}` } })}
+    <div class="movie-tile">
+        ${Star({ options: { id: `${movie.id}` } })}
+            <div  id="movie-tile-${movie.id}" class="img-hover">
             ${ImageComponent(`${movie.image}`, 'img-tile', `${movie.id}`)}
             <div class="movie-details">
                 <p><strong>Year:</strong> ${movie.year}</p>
