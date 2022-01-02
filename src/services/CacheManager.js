@@ -56,7 +56,6 @@ class CacheManager {
      */
     async getCache(method, api, params) {
         const url = this.getCacheFilename(api, params);
-        globalThis.state.set(true);
 
         Logger.debug(`Trying to fetch data from cache... ${url}`);
 
@@ -68,12 +67,10 @@ class CacheManager {
                 const json = await response.json();
                 Logger.debug('Successfully fetched data from cache!');
 
-                globalThis.state.set(false);
                 return json;
             } catch (err) {
                 Logger.error(err);
 
-                globalThis.state.set(false);
                 return null;
             }
         }
