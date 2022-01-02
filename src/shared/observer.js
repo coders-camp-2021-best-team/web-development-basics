@@ -28,4 +28,4 @@ export const obseverDom = (callback) => {
         childList: true,
         subtree: true
     });
-}
+};
