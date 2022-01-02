@@ -15,12 +15,12 @@ const template = (trailer) => `
 `;
 
 export const DetailsScreen = async ({ renderOn }) => {
-    globalThis.state.change(true);
+    window.state.change(true);
     const params = new URLSearchParams(window.location.search);
     const searchID = params.get('id');
     const movie = await ApiProvider.getTitleDetails(searchID).then(
         (results) => {
-            globalThis.state.change(false);
+            window.state.change(false);
             return results;
         }
     );
