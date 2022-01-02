@@ -4,6 +4,7 @@ import ApiProvider from '../providers/ApiProvider';
 import { Gallery } from '../components/Gallery/Gallery.js';
 import './Details.scss';
 import LoadingState from '../utils/loadingState.js';
+import ErrorState from '../utils/errorState.js';
 
 const template = (trailer) => `
 <div id="details-screen" class="details">
@@ -17,14 +18,19 @@ const template = (trailer) => `
 
 export const DetailsScreen = async ({ renderOn }) => {
     LoadingState.setNewState(true);
+    ErrorState.setNewState(false);
     const params = new URLSearchParams(window.location.search);
     const searchID = params.get('id');
-    const movie = await ApiProvider.getTitleDetails(searchID).then(
-        (results) => {
+    const movie = await ApiProvider.getTitleDetails(searchID)
+        .then((results) => {
             LoadingState.setNewState(false);
             return results;
-        }
-    );
+        })
+        .catch(() => {
+            LoadingState.setNewState(false);
+            ErrorState.setNewState(true);
+            return;
+        });
 
     let trailer = '';
     if (movie.trailer && movie.trailer.linkEmbed) {

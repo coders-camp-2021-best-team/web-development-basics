@@ -2,6 +2,7 @@ class LoadingState {
     loading = false;
     setNewState(val) {
         this.loading = val;
+        val = false;
         const observer = new MutationObserver((_, obs) => {
             const element = document.getElementById(`spinner-screen`);
             if (element) {

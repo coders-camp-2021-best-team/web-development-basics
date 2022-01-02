@@ -36,7 +36,7 @@ class ApiProvider {
     }
 
     getTop250Movies() {
-        return ApiService.request('GET', 'Top250Movies', ' ');
+        return ApiService.callAPI('GET', 'Top250Movies', ' ');
     }
 
     async getRandomAsset() {

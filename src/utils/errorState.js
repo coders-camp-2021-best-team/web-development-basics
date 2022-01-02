@@ -6,7 +6,6 @@ class ErrorState {
         this.error = val;
         const observer = new MutationObserver((_, obs) => {
             const element = document.getElementById(`error`);
-            val = true;
             if (element) {
                 setTimeout(() => element.className = 'error-off', 6000);
                 element.className = val ? 'error-on' : 'error-off';
