@@ -1,5 +1,6 @@
 import CacheManager from './CacheManager';
 import Logger from '../utils/ConsoleLogger';
+import loadingState from '../utils/loadingState';
 
 const API_SECRET_KEY = process.env.API_SECRET_KEY || '';
 const API_BASE_URL = process.env.API_BASE_URL || '';
@@ -30,7 +31,7 @@ class ApiService {
             `/${api}/${process.env.API_SECRET_KEY}/${params}/${optional_params}`
         );
 
-        window.state.change(true);
+        loadingState.setNewState(ture);
         Logger.debug(`Trying to fetch data from API... ${url}`);
 
         try {
@@ -45,10 +46,10 @@ class ApiService {
 
             CacheManager.reportNewCacheEntry(json, api, params);
 
-            window.state.change(false);
+            loadingState.setNewState(false);
             return json;
         } catch (e) {
-            window.state.change(false);
+            loadingState.setNewState(false);
             Logger.error(e);
             throw new Error('Error occurred while fetching the API!');
         }

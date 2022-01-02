@@ -3,6 +3,7 @@ import { render } from '../shared/dom.js';
 import ApiProvider from '../providers/ApiProvider';
 import { Gallery } from '../components/Gallery/Gallery.js';
 import './Details.scss';
+import loadingState from '../utils/loadingState.js';
 
 const template = (trailer) => `
 <div id="details-screen" class="details">
@@ -15,12 +16,12 @@ const template = (trailer) => `
 `;
 
 export const DetailsScreen = async ({ renderOn }) => {
-    window.state.change(true);
+    loadingState.setNewState(true);
     const params = new URLSearchParams(window.location.search);
     const searchID = params.get('id');
     const movie = await ApiProvider.getTitleDetails(searchID).then(
         (results) => {
-            window.state.change(false);
+            loadingState.setNewState(false);
             return results;
         }
     );
