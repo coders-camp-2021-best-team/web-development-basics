@@ -20,7 +20,7 @@
     <script>
         var state = {
                 loading: false,
-                set: function(val) {
+                change: function(val) {
                     this.loading = val;
                     const observer = new MutationObserver((_, obs) => {
                     const element = document.getElementById(`spinner-screen`);
