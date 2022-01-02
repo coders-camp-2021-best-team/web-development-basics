@@ -1,0 +1,55 @@
+@import './variables';
+
+.notFoundPage__container {
+    position: absolute;
+    top: 0;
+    z-index: 2;
+    background: $background-color;
+    color: $font-primary-color;
+    font: $font-body;
+    height: 100%;
+    text-align: center;
+    width: 100%;
+    display: inline-block;
+
+    h1 {
+        font-size: 240px;
+        margin: 0px;
+        font-weight: 700;
+    }
+
+    h2 {
+        font-size: 60px;
+        font-weight: 700;
+        margin: 0px 0px;
+    }
+
+    h3 {
+        font-size: 50px;
+        font-weight: 700;
+        margin-top: 0;
+    }
+
+    p {
+        font-size: 14px;
+        font-weight: 400;
+        margin-bottom: 20px;
+    }
+    .error-btn {
+        font-size: 14px;
+        text-decoration: none;
+        text-transform: uppercase;
+        display: inline-block;
+        padding: 0px 10px;
+        border-radius: 40px;
+        font-weight: 700;
+        margin: 0px;
+    }
+
+    @include for-phone-only {
+        height: 142px;
+        h1 {
+            font-size: 100px;
+        }
+    }
+}
