@@ -4,6 +4,7 @@ import { routes } from '../../route';
 import { Button } from '../Button/Button';
 import ApiProvider from '../../providers/ApiProvider';
 import { redirect } from '../..';
+import { Error } from '../Error/Error';
 
 const template = (randomMovie) => {
     return `
@@ -32,6 +33,7 @@ const template = (randomMovie) => {
             className: 'randomBtn'
         })}
       </div>
+      <template id="error-place"></template>
     </div>
   </header>
 `;
@@ -40,6 +42,7 @@ const template = (randomMovie) => {
 export const Header = async ({ renderOn }) => {
     const randomMovie = await ApiProvider.getRandomAsset();
     render({ on: renderOn, html: template(randomMovie) });
+    Error({ renderOn: '#error-place', errorMsg: 'dupa' });
 
     const open = () => {
         document.getElementById('menu').classList.add('menu-active');

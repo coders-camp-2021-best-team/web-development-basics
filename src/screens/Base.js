@@ -21,13 +21,13 @@ const template = `
         <template id="app-footer"></template>
     </div>
 `;
-
+const dupa = 'dupa';
 export const BaseScreen = ({ renderOn }) => {
     render({ html: template, on: renderOn });
 
     Header({ renderOn: '#app-header' });
     Footer({ renderOn: '#app-footer' });
-    Spinner({ renderOn: '#spinner-place'});
+    Spinner({ renderOn: '#spinner-place' });
 
     Router({
         // TODO: add your components

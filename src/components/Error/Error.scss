@@ -1,0 +1,30 @@
+@import '../../../styles/variables';
+@import '../../../styles/mixins';
+
+.error-on {
+    z-index: 5;
+    background-color: $red-alert;
+    position:fixed;
+}
+.error-off {
+    display: none;
+}
+
+@include for-desktop-up {
+    .error-on {
+      top: 30px;
+      right: -158.67px;
+      padding: 10px;
+      border-radius: 10px;
+      font-size: 13px;
+      animation: slide 6s ease-in forwards;
+    }
+  @keyframes slide{
+    16%{
+      transform: translateX(-125%);
+    }
+    80%{
+      transform: translateX(-125%);
+    }
+  }
+}

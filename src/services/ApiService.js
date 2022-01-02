@@ -29,7 +29,7 @@ class ApiService {
         const url = this.getURL(
             `/${api}/${process.env.API_SECRET_KEY}/${params}/${optional_params}`
         );
-
+        ErrorState.setNewState(false);
         Logger.debug(`Trying to fetch data from API... ${url}`);
 
         try {
@@ -47,6 +47,8 @@ class ApiService {
             return json;
         } catch (e) {
             Logger.error(e);
+
+            ErrorState.setNewState(true);
             throw new Error('Error occurred while fetching the API!');
         }
     }
