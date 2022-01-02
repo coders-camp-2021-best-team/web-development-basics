@@ -52,4 +52,10 @@
     &__prev:hover {
         background-color: $footer;
     }
+    @include for-phone-and-tablet {
+        svg {
+            width: 32px;
+            height: 32px;
+        }
+    }
 }
