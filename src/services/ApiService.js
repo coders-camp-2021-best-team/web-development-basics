@@ -30,6 +30,7 @@ class ApiService {
             `/${api}/${process.env.API_SECRET_KEY}/${params}/${optional_params}`
         );
 
+        globalThis.state.set(true);
         Logger.debug(`Trying to fetch data from API... ${url}`);
 
         try {
@@ -44,8 +45,10 @@ class ApiService {
 
             CacheManager.reportNewCacheEntry(json, api, params);
 
+            globalThis.state.set(false);
             return json;
         } catch (e) {
+            globalThis.state.set(false);
             Logger.error(e);
             throw new Error('Error occurred while fetching the API!');
         }

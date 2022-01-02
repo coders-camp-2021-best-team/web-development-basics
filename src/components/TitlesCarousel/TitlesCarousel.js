@@ -8,7 +8,7 @@ export const MovieCarousel = async ({ movies, id, btnName, route }) => {
     if (!movies.length) {
         return '';
     }
-    state.set(true);
+    globalThis.state.set(true);
     obseverDom((_, obs) => {
         const carousel = document.getElementById(`carousel-${id}`);
         const content = document.getElementById(`carousel_content-${id}`);
@@ -69,7 +69,7 @@ export const MovieCarousel = async ({ movies, id, btnName, route }) => {
                     async (movie) => await MovieTile({ movieID: movie.id })
                 )
             ).then((results) => {
-                state.set(false);
+                globalThis.state.set(false);
                 return results;
             })
         ).join(' ')}
