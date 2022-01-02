@@ -2,8 +2,8 @@ import { render } from '../shared/dom.js';
 import { TilesGrid } from '../components';
 import ApiProvider from '../providers/ApiProvider.js';
 import { SearchForm } from '../components/Search/Form.js';
-import { getQueryParams } from '../utils/GetQueryParams';
 import ConsoleLogger from '../utils/ConsoleLogger.js';
+import loadingState from '../utils/loadingState.js';
 
 const IDLE_TIMEOUT_LIMIT_MS = 800;
 const IDLE_TIMEOUT_CHECK_MS = 50;
@@ -38,6 +38,8 @@ const not_found = () => {
 export const SearchScreen = async ({ renderOn }) => {
     render({ on: renderOn, html: template });
     SearchForm({ renderOn: '#search-form' });
+
+    loadingState.setNewState(false);
 
     let searchQuery = '';
     let timeout = 0;
