@@ -1,8 +1,7 @@
 .gallery {
-    
     .label {
-        width:auto;
-        @include for-phone-and-tablet{
+        width: auto;
+        @include for-phone-and-tablet {
             padding: 10px 32px;
             font-size: 75%;
         }
