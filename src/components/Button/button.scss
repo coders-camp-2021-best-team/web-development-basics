@@ -26,6 +26,10 @@
     text-shadow: $text-shadow;
 }
 
+button:hover {
+    background-color: $footer;
+}
+
 @include for-phone-only {
     .btn {
         width: 120px;

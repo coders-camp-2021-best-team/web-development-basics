@@ -8,10 +8,10 @@ export const routes = {
         getPathWithParams: (query = '') =>
             `/search?q=${encodeURIComponent(query)}`
     },
-    // error404: {
-    //     routerPath: '*',
-    //     getPathWithParams: () => '/error404'
-    // }
+    error404: {
+        routerPath: '*',
+        getPathWithParams: () => '/error404'
+    },
     details: {
         routerPath: '/details',
         getPathWithParams: (id = '') => `/details?id=${encodeURIComponent(id)}`
