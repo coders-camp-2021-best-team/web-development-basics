@@ -22,6 +22,10 @@
         box-shadow: $box-shadow-btn-cateogry;
     }
 
+    input::placeholder {
+        color: $font-primary-color;
+    }
+
     button {
         display: flex;
         justify-content: center;

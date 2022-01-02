@@ -13,7 +13,7 @@ export const SearchForm = ({ renderOn, searchInputValue }) => {
             <input
                 type="text"
                 id="search-keywords"
-                placeholder="SEARCH"
+                placeholder="Search..."
                 value="${searchInputValue}"
                 autocomplete="off"
             >
