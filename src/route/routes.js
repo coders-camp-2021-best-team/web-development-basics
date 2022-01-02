@@ -5,8 +5,7 @@ export const routes = {
     },
     search: {
         routerPath: '/search',
-        getPathWithParams: (query = '') =>
-            `/search?q=${encodeURIComponent(query)}`
+        getPathWithParams: () => '/search'
     },
     error404: {
         routerPath: '*',
@@ -22,6 +21,6 @@ export const routes = {
     },
     category: {
         routerPath: '/category',
-        getPathWithParams: (type= '') => `/category?id=${type}`
+        getPathWithParams: (type = '') => `/category?id=${type}`
     }
 };
