@@ -16,15 +16,15 @@ class ApiProvider {
     }
 
     comingSoon() {
-        return ApiService.request('GET', 'ComingSoon', '');
+        return ApiService.request('GET', 'ComingSoon', ' ');
     }
 
     mostPopularTVs() {
-        return ApiService.request('GET', 'MostPopularTVs', '');
+        return ApiService.request('GET', 'MostPopularTVs', ' ');
     }
 
     mostPopularMovies() {
-        return ApiService.request('GET', 'MostPopularMovies', '');
+        return ApiService.request('GET', 'MostPopularMovies', ' ');
     }
 
     /**
@@ -36,7 +36,7 @@ class ApiProvider {
     }
 
     getTop250Movies() {
-        return ApiService.callAPI('GET', 'Top250Movies', '');
+        return ApiService.request('GET', 'Top250Movies', ' ');
     }
 
     async getRandomAsset() {
