@@ -1,7 +1,7 @@
 import { render } from '../../shared/dom';
 import { MovieTile } from './MovieTile';
 
-export const TilesGrid = async ({ renderOn, movies }) => {
+export const TilesGrid = async ({ renderOn, movies }, drawInstead = true) => {
     const template = `
         <div class='grid-container'>
             ${(
@@ -12,5 +12,5 @@ export const TilesGrid = async ({ renderOn, movies }) => {
         </div>
     `;
 
-    render({ html: template, on: renderOn });
+    render({ html: template, on: renderOn }, drawInstead);
 };
