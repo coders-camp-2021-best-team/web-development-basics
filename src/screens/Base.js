@@ -21,7 +21,7 @@ const template = `
         <template id="app-footer"></template>
     </div>
 `;
-const dupa = 'dupa';
+
 export const BaseScreen = ({ renderOn }) => {
     render({ html: template, on: renderOn });
 

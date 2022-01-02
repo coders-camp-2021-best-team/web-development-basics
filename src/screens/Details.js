@@ -23,13 +23,14 @@ export const DetailsScreen = async ({ renderOn }) => {
     const searchID = params.get('id');
     const movie = await ApiProvider.getTitleDetails(searchID)
         .then((results) => {
+            console.log('2');
             LoadingState.setNewState(false);
             return results;
         })
         .catch(() => {
+            console.log('2');
             LoadingState.setNewState(false);
             ErrorState.setNewState(true);
-            return;
         });
 
     let trailer = '';

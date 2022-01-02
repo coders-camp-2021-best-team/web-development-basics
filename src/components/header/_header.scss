@@ -13,11 +13,9 @@ header {
     .navBar {
         flex-shrink: 100;
         height: 80px;
-        padding-right: 10px;
         display: flex;
         justify-content: space-between;
         align-items: center;
-        margin-right: 42.85px;
         .icon {
             display: block;
             background-color: $transparent;

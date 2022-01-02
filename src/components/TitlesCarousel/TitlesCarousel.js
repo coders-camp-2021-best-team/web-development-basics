@@ -79,7 +79,6 @@ export const MovieCarousel = async ({ movies, id, btnName, route }) => {
                 .catch(() => {
                     LoadingState.setNewState(false);
                     ErrorState.setNewState(true);
-                    return;
                 })
         ).join(' ')}
     </div>

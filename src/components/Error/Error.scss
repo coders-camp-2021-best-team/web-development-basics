@@ -4,27 +4,33 @@
 .error-on {
     z-index: 5;
     background-color: $red-alert;
-    position:fixed;
+    color: $font-primary-color;
+    position: fixed;
+    font-size: 10px;
+    padding: 5px;
+    border-radius: 2.5px;
+    right: -116.13px;
+    animation: slide 5s ease-in forwards;
 }
 .error-off {
     display: none;
 }
+    @keyframes slide {
+        10% {
+            transform: translateX(-125%);
+        }
+        90% {
+            transform: translateX(-125%);
+        }
+    }
 
 @include for-desktop-up {
     .error-on {
-      top: 30px;
-      right: -158.67px;
-      padding: 10px;
-      border-radius: 10px;
-      font-size: 13px;
-      animation: slide 6s ease-in forwards;
+        top: 30px;
+        right: -233.34px;
+        padding: 10px;
+        border-radius: 5px;
+        font-size: 20px;
+        font-weight: 600;
     }
-  @keyframes slide{
-    16%{
-      transform: translateX(-125%);
-    }
-    80%{
-      transform: translateX(-125%);
-    }
-  }
 }
