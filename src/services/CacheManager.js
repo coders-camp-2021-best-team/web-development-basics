@@ -57,6 +57,7 @@ class CacheManager {
      * @returns {Promise<object>}
      */
     async getCache(method, api, params) {
+        LoadingState.setNewState(true);
         const url = this.getCacheFilename(api, params);
         Logger.debug(`Trying to fetch data from cache... ${url}`);
 

@@ -28,6 +28,7 @@ class ApiService {
      * @returns {Promise<object>}
      */
     async callAPI(method, api, params, optional_params = '') {
+        LoadingState.setNewState(true);
         const url = this.getURL(
             `/${api}/${process.env.API_SECRET_KEY}/${params}/${optional_params}`
         );
