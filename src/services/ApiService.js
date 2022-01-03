@@ -1,6 +1,5 @@
 import CacheManager from './CacheManager';
 import Logger from '../utils/ConsoleLogger';
-import LoadingState from '../utils/loadingState';
 import ErrorState from '../utils/errorState';
 
 const API_SECRET_KEY = process.env.API_SECRET_KEY || '';
@@ -28,14 +27,12 @@ class ApiService {
      * @returns {Promise<object>}
      */
     async callAPI(method, api, params, optional_params = '') {
-        LoadingState.setNewState(true);
         const url = this.getURL(
             `/${api}/${process.env.API_SECRET_KEY}/${params}/${optional_params}`
         );
         Logger.debug(`Trying to fetch data from API... ${url}`);
 
         try {
-            LoadingState.setNewState(false);
             const response = await fetch(url, {
                 method: method,
                 headers: {
@@ -50,7 +47,6 @@ class ApiService {
             return json;
         } catch (e) {
             Logger.error(e);
-            LoadingState.setNewState(false);
             ErrorState.setNewState(true);
 
             throw new Error('Error occurred while fetching the API!');

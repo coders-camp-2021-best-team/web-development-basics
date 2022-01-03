@@ -1,6 +1,5 @@
 import ApiService from './ApiService';
 import Logger from '../utils/ConsoleLogger';
-import LoadingState from '../utils/loadingState';
 import ErrorState from '../utils/errorState';
 
 class CacheManager {
@@ -57,7 +56,6 @@ class CacheManager {
      * @returns {Promise<object>}
      */
     async getCache(method, api, params) {
-        LoadingState.setNewState(true);
         const url = this.getCacheFilename(api, params);
         Logger.debug(`Trying to fetch data from cache... ${url}`);
 
@@ -65,7 +63,6 @@ class CacheManager {
             throw new Error('HTTP method other than GET is not supported.');
         } else {
             try {
-                LoadingState.setNewState(false);
                 const response = await fetch(url);
                 const json = await response.json();
                 Logger.debug('Successfully fetched data from cache!');
@@ -73,7 +70,6 @@ class CacheManager {
                 return json;
             } catch (err) {
                 Logger.error(err);
-                LoadingState.setNewState(false);
                 ErrorState.setNewState(true);
                 return null;
             }
