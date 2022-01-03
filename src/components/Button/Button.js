@@ -6,3 +6,5 @@ export const Button = ({ onClick, id, text, type, className }) => {
     <button id="${id}" class="btn ${className}" type="${type}">${text}</button>
     `;
 };
+
+module.exports = Button
