@@ -1,5 +1,5 @@
 class LoadingState {
-    loading = false;
+    loading = true;
     setNewState(val) {
         this.loading = val;
         const observer = new MutationObserver((_, obs) => {
