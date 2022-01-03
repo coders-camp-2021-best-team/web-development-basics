@@ -4,7 +4,7 @@
 .details {
     background: $background-color;
     color: $font-primary-color;
-    
+
     &__trailer {
         display: flex;
         margin: 0px 11px;
@@ -26,20 +26,20 @@
 
     &__gallery-button {
         display: flex;
-		justify-content: center;
+        justify-content: center;
         padding: 25px 80px;
     }
     &__gallery {
         display: grid;
-		grid-template-columns: 1fr 1fr 1fr 1fr;
-		gap: 0.5vw;
+        grid-template-columns: 1fr 1fr 1fr 1fr;
+        gap: 0.5vw;
         img {
             display: flex;
             width: 100%;
         }
     }
 }
-@include for-phone-only{
+@include for-phone-only {
     .details {
         font-size: 11px;
         &__trailer {
@@ -54,58 +54,53 @@
             grid-template-columns: 1fr 1fr;
         }
     }
-
 }
 
 @include for-phone-and-tablet {
     .details {
-		font-size: 12px;
-		&__poster {
-			img {
-				max-width: 160px;
-			}
-		}
-	}
-
-}
-
-@include for-tablet-portrait-up{
-    .details {
-		font-size: 18px;
-		&__poster {
-			img {
-				max-width: 300px;
-			}
-		}
-	}
-
-}
-
-@include for-tablet-landscape-up{
-    .details {
-		font-size: 20px;
+        font-size: 12px;
         &__poster {
-			img {
-				max-width: 400px;
-			}
-		}
-	}
-
+            img {
+                max-width: 160px;
+            }
+        }
+    }
 }
 
-@include for-desktop-up{
+@include for-tablet-portrait-up {
     .details {
-		font-size: 22px;
-		&__poster {
-			img {
-				max-width: 450px;
-			}
-		}
-	}
-
+        font-size: 18px;
+        &__poster {
+            img {
+                max-width: 300px;
+            }
+        }
+    }
 }
-@include for-big-desktop-up{
+
+@include for-tablet-landscape-up {
     .details {
-		font-size: 28px;
-	}
+        font-size: 20px;
+        &__poster {
+            img {
+                max-width: 400px;
+            }
+        }
+    }
+}
+
+@include for-desktop-up {
+    .details {
+        font-size: 22px;
+        &__poster {
+            img {
+                max-width: 450px;
+            }
+        }
+    }
+}
+@include for-big-desktop-up {
+    .details {
+        font-size: 28px;
+    }
 }

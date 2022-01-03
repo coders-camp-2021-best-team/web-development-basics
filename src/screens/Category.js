@@ -2,6 +2,7 @@ import { Label } from '../components/Label/Label';
 import { TilesGrid } from '../components/Tiles/TilesGrid';
 import { render } from '../shared/dom';
 import ApiProvider from '../providers/ApiProvider';
+import { getQueryParams } from '../utils/GetQueryParams';
 
 const template = (title) => {
     return `
@@ -13,11 +14,11 @@ const template = (title) => {
 };
 
 export const Category = async ({ renderOn }) => {
-    const params = new URLSearchParams(window.location.search);
-    const searchType = params.get('id');
+    const { id: categoryID } = getQueryParams();
+
     let title;
     let assets;
-    switch (searchType) {
+    switch (categoryID) {
         case 'topMovies':
             title = 'Top 250 Movies';
             assets = await ApiProvider.getTop250Movies();

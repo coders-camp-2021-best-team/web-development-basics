@@ -13,9 +13,18 @@ const template = (randomMovie) => {
     </a>
     <div class="navBar">
       <ul id="menu" class="menu">
-      ${NavLink({ href: routes.category.getPathWithParams('movies'), title: 'Movies' })}
-        ${NavLink({ href: routes.category.getPathWithParams('series'), title: 'Series' })}
-        ${NavLink({ href: routes.category.getPathWithParams('commingSoon'), title: 'Comming Soon' })}
+      ${NavLink({
+          href: routes.category.getPathWithParams('movies'),
+          title: 'Movies'
+      })}
+        ${NavLink({
+            href: routes.category.getPathWithParams('series'),
+            title: 'Series'
+        })}
+        ${NavLink({
+            href: routes.category.getPathWithParams('commingSoon'),
+            title: 'Comming Soon'
+        })}
         ${NavLink({ href: routes.search.routerPath, title: 'Search' })}
         ${NavLink({ href: routes.favorites.routerPath, title: 'Favorite' })}
         <button id="exit" class="exit"><li>&times;</li></button>

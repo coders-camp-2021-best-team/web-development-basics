@@ -27,7 +27,7 @@ export const BaseScreen = ({ renderOn }) => {
 
     Header({ renderOn: '#app-header' });
     Footer({ renderOn: '#app-footer' });
-    Spinner({ renderOn: '#spinner-place'});
+    Spinner({ renderOn: '#spinner-place' });
 
     Router({
         // TODO: add your components
