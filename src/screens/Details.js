@@ -5,6 +5,7 @@ import { getQueryParams } from '../utils/GetQueryParams.js';
 import { Gallery } from '../components/Gallery/Gallery.js';
 import './Details.scss';
 import LoadingState from '../utils/loadingState.js';
+import ErrorState from '../utils/errorState.js';
 
 const template = (trailer) => `
 <div id="details-screen" class="details">
@@ -19,10 +20,16 @@ const template = (trailer) => `
 export const DetailsScreen = async ({ renderOn }) => {
     const { id: assetID } = getQueryParams();
     LoadingState.setNewState(true);
-    const movie = await ApiProvider.getTitleDetails(assetID).then((results) => {
-        LoadingState.setNewState(false);
-        return results;
-    });
+    ErrorState.setNewState(false);
+    const movie = await ApiProvider.getTitleDetails(assetID)
+        .then((results) => {
+            LoadingState.setNewState(false);
+            return results;
+        })
+        .catch(() => {
+            LoadingState.setNewState(false);
+            ErrorState.setNewState(true);
+        });
 
     let trailer = '';
     if (movie.trailer && movie.trailer.linkEmbed) {

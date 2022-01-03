@@ -1,5 +1,6 @@
 import ApiService from './ApiService';
 import Logger from '../utils/ConsoleLogger';
+import ErrorState from '../utils/errorState';
 
 class CacheManager {
     /**
@@ -56,7 +57,6 @@ class CacheManager {
      */
     async getCache(method, api, params) {
         const url = this.getCacheFilename(api, params);
-
         Logger.debug(`Trying to fetch data from cache... ${url}`);
 
         if (method !== 'GET') {
@@ -70,7 +70,7 @@ class CacheManager {
                 return json;
             } catch (err) {
                 Logger.error(err);
-
+                ErrorState.setNewState(true);
                 return null;
             }
         }
