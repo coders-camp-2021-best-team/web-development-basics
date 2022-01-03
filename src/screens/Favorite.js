@@ -3,6 +3,7 @@ import StorageManager from '../services/StorageManager';
 import { TilesGrid } from '../components/Tiles/TilesGrid';
 import { render } from '../shared/dom';
 import { NoFavorite } from '../components/NoFavorite/NoFavorite';
+import LoadingState from '../utils/loadingState';
 
 const template = `
     <div id="favorite-screen">
@@ -20,6 +21,7 @@ export const FavoriteScreen = ({ renderOn }) => {
         }));
         TilesGrid({ renderOn: '#favorite-display', movies: favoritesToObj });
     } else {
+        LoadingState.setNewState(false);
         NoFavorite({ renderOn: '#favorite-display' });
     }
 };
