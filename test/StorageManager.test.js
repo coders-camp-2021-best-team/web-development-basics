@@ -1,4 +1,4 @@
-const StorageManager = require('../src/services/StorageManager');
+import StorageManager from '../src/services/StorageManager';
 
 describe('StorageManager test', () => {
     describe('Set value and key to add item to local storage', () => {
