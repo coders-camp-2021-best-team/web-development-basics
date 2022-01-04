@@ -1,4 +1,4 @@
-const Button = require('../src/components/Button/Button');
+import { Button } from '../src/components/Button/Button';
 
 test('the buttons onClick function render id, text, type and className', () => {
     expect(

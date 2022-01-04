@@ -13,5 +13,3 @@ class StorageManager {
 }
 
 export default new StorageManager();
-
-module.exports = new StorageManager();
