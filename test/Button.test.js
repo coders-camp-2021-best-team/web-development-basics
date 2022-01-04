@@ -1,6 +1,6 @@
 const Button = require('../src/components/Button/Button');
 
-test('the buttons onClick function is called', () => {
+test('the buttons onClick function render id, text, type and className', () => {
     expect(
         Button({
             onClick: () => {},
