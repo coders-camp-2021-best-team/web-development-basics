@@ -118,6 +118,13 @@ header {
                 }
             }
         }
+        .menu-active {
+            top:auto;
+            display: flex !important;
+            justify-content: space-between;
+            height: fit-content;
+            background-color: $transparent;
+        }
         .icon {
             display: none !important;
         }
