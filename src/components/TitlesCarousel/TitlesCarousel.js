@@ -43,9 +43,9 @@ export const MovieCarousel = async ({ movies, id, btnName, route }) => {
                     next.style.display = 'flex';
                 }
             });
-            if (movies.length <= 5) {
+            if(content.scrollWidth <= window.innerWidth){
                 next.style.display = 'none';
-            }
+            };
 
             let width = carousel.offsetWidth;
             window.addEventListener(
@@ -97,7 +97,7 @@ export const MovieCarousel = async ({ movies, id, btnName, route }) => {
       </svg>
     </div>
 
-    <div id="carousel_next-${id}" class="carousel__next">
+    <div id="carousel_next-${id}" class="carousel__next" >
       <svg
         xmlns="http://www.w3.org/2000/svg"
         width="42"
