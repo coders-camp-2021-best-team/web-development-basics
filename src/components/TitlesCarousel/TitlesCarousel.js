@@ -44,8 +44,7 @@ export const MovieCarousel = async ({ movies, id, btnName, route }) => {
                 }
             });
             if (movies.length <= 5) {
-                document.getElementById(`carousel_next-${id}`).style.display =
-                    'none';
+                next.style.display = 'none';
             }
 
             let width = carousel.offsetWidth;
