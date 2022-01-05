@@ -43,6 +43,10 @@ export const MovieCarousel = async ({ movies, id, btnName, route }) => {
                     next.style.display = 'flex';
                 }
             });
+            if (movies.length <= 5) {
+                document.getElementById(`carousel_next-${id}`).style.display =
+                    'none';
+            }
 
             let width = carousel.offsetWidth;
             window.addEventListener(
